@@ -43,6 +43,8 @@ python build_wiki_index.py --data_path $YOUR_WIKIPEDIA_TSV_PATH --index_name wik
 
 ## Rowen
 
+Install all required dependences from `rowen/pyproject.toml` and use `run.sh` to reproduce results. More details in [Rowen README.md](./rowen/README.md)
+
 ## SeaKR
 ### Running experiments
 All code with our evaluator is available in SeaKR folder. We copied the original SeaKR repository and made some in `vllm_uncertainty`. For running experiments use a code from README in `SeaKR` folder.
