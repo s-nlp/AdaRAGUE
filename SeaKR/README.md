@@ -96,9 +96,23 @@ python main_multihop.py \
     --max_docs 5
 ```
 
-### Evaluate
 
-We provide a jupyter notebook `eval_multihop.ipynb` to do evaluation. You just need to replace the output jsonline file name with your own output.
+### Evaluation
+For single and multi hop evaluation you can use code from `eval_multihop.ipynb` and `eval_singlehop.ipynb`
+For bootstrap evaluation on single task
+```bash
+python bootstrap_CI_upd.py --input_file "path_to_jsonl"\
+                            --pred_col "predict"\
+                            --gt_col "answer"\
+                            --n_rounds 1000
+```
+For bootstrap evaluation multihop task
+```bash
+python bootstrap_multihop.py --input_file "path_to_jsonl"\
+                            --pred_cols "Final Answer" "Final Step Answer" "Final Read Answer"\
+                            --gt_col "ground_truth"\
+                            --n_rounds 1000
+```
 
 
 ## Run SeaKR on Single QA

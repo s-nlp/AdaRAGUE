@@ -46,25 +46,8 @@ python build_wiki_index.py --data_path $YOUR_WIKIPEDIA_TSV_PATH --index_name wik
 Install all required dependences from `rowen/pyproject.toml` and use `run.sh` to reproduce results. More details in [Rowen README.md](./rowen/README.md)
 
 ## SeaKR
-### Running experiments
-All code with our evaluator is available in SeaKR folder. We copied the original SeaKR repository and made some in `vllm_uncertainty`. For running experiments use a code from [SeaKR README.md](./SeaKR/README.md)
 
-### Evaluation
-For single and multi hop evaluation you can use code from `eval_multihop.ipynb` and `eval_singlehop.ipynb`
-For bootstrap evaluation on single task
-```bash
-python bootstrap_CI_upd.py --input_file "path_to_jsonl"\
-                            --pred_col "predict"\
-                            --gt_col "answer"\
-                            --n_rounds 1000
-```
-For bootstrap evaluation multihop task
-```bash
-python bootstrap_multihop.py --input_file "path_to_jsonl"\
-                            --pred_cols "Final Answer" "Final Step Answer" "Final Read Answer"\
-                            --gt_col "ground_truth"\
-                            --n_rounds 1000
-```
+All code with our evaluator and dependencpy installation is available in `SeaKR` folder. We copied the original SeaKR repository and made some in `vllm_uncertainty`. For running experiments use a code from [SeaKR README.md](./SeaKR/README.md)
 
 ## Uncertainty Estimation Methods
 
