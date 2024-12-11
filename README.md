@@ -47,7 +47,7 @@ Install all required dependences from `rowen/pyproject.toml` and use `run.sh` to
 
 ## SeaKR
 ### Running experiments
-All code with our evaluator is available in SeaKR folder. We copied the original SeaKR repository and made some in `vllm_uncertainty`. For running experiments use a code from README in `SeaKR` folder.
+All code with our evaluator is available in SeaKR folder. We copied the original SeaKR repository and made some in `vllm_uncertainty`. For running experiments use a code from [SeaKR README.md](./SeaKR/README.md)
 
 ### Evaluation
 For single and multi hop evaluation you can use code from `eval_multihop.ipynb` and `eval_singlehop.ipynb`
