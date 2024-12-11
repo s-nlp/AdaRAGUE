@@ -1,0 +1,18 @@
+[project]
+name = "rowen"
+version = "0.1.0"
+description = "Rowen reimplementation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp>=3.11.10",
+    "click>=8.1.7",
+    "datasets>=3.2.0",
+    "elasticsearch>=8.16.0",
+    "httpx",
+    "httpx-socks",
+    "nltk>=3.9.1",
+    "openai",
+    "rouge>=1.0.1",
+    "tqdm>=4.67.1",
+]
