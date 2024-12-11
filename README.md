@@ -66,8 +66,6 @@ python bootstrap_multihop.py --input_file "path_to_jsonl"\
                             --n_rounds 1000
 ```
 
-# Uncertainty Estimation Methods
+## Uncertainty Estimation Methods
 
-
-
-
+Install all required dependences from `UC/requirements.txt` and use scripts from `bin/*.sh` to reproduce results. More details in [UC README.md](./UC/README.md)

@@ -1,0 +1,16 @@
+# ADARAG
+percentage retrieval calls 0.256
+count: 500
+has_answer: 0.534
+
+# No RAG
+conut: 500
+uncertain ratio: 0.256
+has answer: 0.418
+overconf: 0.4020
+conserv: 0.0760
+alignment: 0.5220
+
+# STATIC RAG
+count: 500
+has answer: 0.794
