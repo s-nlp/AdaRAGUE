@@ -37,9 +37,9 @@ python build_wiki_index.py --data_path $YOUR_WIKIPEDIA_TSV_PATH --index_name wik
 
 ## Adaptive RAG
 
-## FLARE
+## FLARE and DRAGIN
 
-## DRAGIN
+All code with our evaluator and dependencpy installation is available in `DRAGIN` folder. We copied the original DRAGIN repository. For running experiments with FLARE and DRAGIN use a code from DRAGIN [README.md](./dragin/README.md)
 
 ## Rowen
 
