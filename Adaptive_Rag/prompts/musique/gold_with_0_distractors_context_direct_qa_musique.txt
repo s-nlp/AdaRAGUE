@@ -1,0 +1,141 @@
+# METADATA: {"qid": "2hop__292995_8796"}
+Wikipedia Title: Southampton
+The University of Southampton, which was founded in 1862 and received its Royal Charter as a university in 1952, has over 22,000 students. The university is ranked in the top 100 research universities in the world in the Academic Ranking of World Universities 2010. In 2010, the THES - QS World University Rankings positioned the University of Southampton in the top 80 universities in the world. The university considers itself one of the top 5 research universities in the UK. The university has a global reputation for research into engineering sciences, oceanography, chemistry, cancer sciences, sound and vibration research, computer science and electronics, optoelectronics and textile conservation at the Textile Conservation Centre (which is due to close in October 2009.) It is also home to the National Oceanography Centre, Southampton (NOCS), the focus of Natural Environment Research Council-funded marine research.
+
+Wikipedia Title: Neville A. Stanton
+Neville A. Stanton is a British Professor of Human Factors and Ergonomics at the University of Southampton. Prof Stanton is a Chartered Engineer (C.Eng), Chartered Psychologist (C.Psychol) and Chartered Ergonomist (C.ErgHF). He has written and edited over a forty books and over three hundered peer-reviewed journal papers on applications of the subject. Stanton is a Fellow of the British Psychological Society, a Fellow of The Institute of Ergonomics and Human Factors and a member of the Institution of Engineering and Technology. He has been published in academic journals including "Nature". He has also helped organisations design new human-machine interfaces, such as the Adaptive Cruise Control system for Jaguar Cars.
+
+Q: When was Neville A. Stanton's employer founded?
+A: 1862
+
+
+# METADATA: {"qid": "2hop__154225_727337"}
+Wikipedia Title: ISO/TC 68
+ISO/TC 68 is a technical committee formed within the International Organization for Standardization (ISO), of Geneva, Switzerland, tasked with developing and maintaining international standards covering the areas of banking, securities, and other financial services. As the standards organization under ISO responsible for the development of all international financial services standards, ISO/TC 68 plays a key role in the development and adoption of new technologies in the banking, brokerage and insurance industries. Many of its current work projects involve developing ecommerce standards such as better online security for financial transactions, XML standards for financial transactions and standards to reduce the cost and delays of international financial transactions. The membership of ISO/TC 68, consists of more than 30 organizations assigned by participating national standards bodies plus additional international standards development organizations that work collaboratively toward global financial services standards development.
+
+Wikipedia Title: ISO 21500
+ISO 21500:2012, Guidance on Project Management, is an international standard developed by the International Organization for Standardization, or ISO starting in 2007 and released in 2012. It was intended to provide generic guidance, explain core principles and what constitutes good practice in project management. The ISO technical committee dealing with project management, ISO/PC 236 was held by the American National Standards Institute (ANSI) which had approved four standards that used PMI materials. one of which was ANSI/PMI 99-001-2008, A Guide to the Project Management Body of Knowledge - 4th Edition (PMI BoK® Guide - 4th Edition) (revision and re-designation of ANSI/PMI 99-001-2004): 11/20/2008.
+
+Q: What is the headquarters for the organization who sets the standards for ISO 21500?
+A: Geneva
+
+
+# METADATA: {"qid": "2hop__642271_608104"}
+Wikipedia Title: Guy Shepherdson
+Guy Shepherdson (born 17 February 1982 in Jakarta, Indonesia) is an Australian former rugby union professional footballer. He played as a tight-head prop for the Brumbies and Reds in the Super Rugby competition and played for the Australian national team, the Wallabies.
+
+Wikipedia Title: SMA Negeri 68 Jakarta
+SMA Negeri 68 Jakarta (SMANED) is a public high school located at Salemba Raya street in Central Jakarta, Indonesia. The school is in one complex with SMP Negeri 216 Jakarta, SD Negeri Kenari, and Menza functional building. It was established on August 29, 1981 after being inaugurated by President Soeharto. In 2006, it was appointed to become RSBI (Rintisan Sekolah Bertaraf Internasional). Today, there are 840 students and 103 teachers and staff.
+
+Q: What region of the state where Guy Shepherdson was born, contains SMA Negeri 68?
+A: Central Jakarta
+
+
+# METADATA: {"qid": "2hop__782642_52667"}
+Wikipedia Title: Kotri Junction railway station
+Kotri Junction station is among the oldest railway stations in Pakistan. It served as the northern terminus point of the Scinde Railway, which was established in March 1855. A railway line was to be constructed between Karachi and Kotri and work on the Karachi terminus commenced in April 1858. By 13 May 1861, the station opened to the public. This was the first railway line for public traffic between Karachi and Kotri, a distance of 108 miles (174 km).
+
+Wikipedia Title: Marie Adelaide Leprosy Centre
+Marie Adelaide Leprosy Centre (MALC) in Karachi, Pakistan was run by Dr. Ruth Pfau, who was also a Roman Catholic religious sister of the Society of Daughters of the Heart of Mary, originally of German descent. Its social work department was founded 1962 by Dr. I. K. Gill and work for the leprosy patients and their family members was started. A Leprosy Clinic was bought in April 1963 and patients from all over Pakistan and even from Afghanistan came for treatment.
+
+Q: When was the first railway line constructed between Kotri and the city where Marie Adelaide Leprosy Centre is located?
+A: April 1858
+
+
+# METADATA: {"qid": "2hop__439265_539716"}
+Wikipedia Title: Heritage Places Protection Act
+The Heritage Places Protection Act is a provincial statute which allows for the recognition and protection of cultural heritage and natural heritage properties in the province of Prince Edward Island, Canada.
+
+Wikipedia Title: Hebron, Prince Edward Island
+Hebron is a Canadian rural community in Prince County, Prince Edward Island. It is located in the township of Lot 8, Prince Edward Island, south of O'Leary.
+
+Q: What county is Hebron located in, in the same province the Heritage Places Protection Act applies to?
+A: Prince County
+
+
+# METADATA: {"qid": "2hop__323282_79175"}
+Wikipedia Title: CIMI-FM
+CIMI-FM was a French-language talk radio and modern rock radio station in Quebec City, Quebec, Canada. The station broadcast at 103.7 FM and broadcasts from the borough of Charlesbourg.
+
+Wikipedia Title: Quebec Winter Carnival
+The Quebec Winter Carnival (French: Carnaval de Québec), commonly known in both English and French as Carnaval, is a pre-Lenten festival held in Quebec City. After being held intermittently since 1894, the Carnaval de Québec has been celebrated annually since 1955. That year Bonhomme Carnaval, the mascot of the festival, made his first appearance. Up to one million people attended the Carnaval de Québec in 2006 making it the largest winter festival in the world.
+
+Q: When did the first large winter carnival take place in the city where CIMI-FM is licensed to broadcast?
+A: 1894
+
+
+# METADATA: {"qid": "2hop__427213_79175"}
+Wikipedia Title: Olivier Robitaille
+He was born in Quebec City in 1811, the son of carpenter Étienne Robitaille and his wife Marie Moisan. He studied at the Petit Séminaire de Québec and later trained in medicine with Joseph Morrin, working as an intern at the Marine and Emigrant Hospital. He received his doctorate degree in medicine (MD) from Harvard University in 1838, was qualified to practice in Lower Canada later that year and set up practice in Quebec City. He also served as visiting physician for the Marine and Emigrant Hospital, serving on its board, and was physician for the Quebec jail.
+
+Wikipedia Title: Quebec Winter Carnival
+The Quebec Winter Carnival (French: Carnaval de Québec), commonly known in both English and French as Carnaval, is a pre-Lenten festival held in Quebec City. After being held intermittently since 1894, the Carnaval de Québec has been celebrated annually since 1955. That year Bonhomme Carnaval, the mascot of the festival, made his first appearance. Up to one million people attended the Carnaval de Québec in 2006 making it the largest winter festival in the world.
+
+Q: When did the first large winter carnival happen in Olivier Robitaille's place of birth?
+A: 1894
+
+
+# METADATA: {"qid": "2hop__195347_20661"}
+Wikipedia Title: Wadyan
+Wadyan (Arabic: واديان) is a village in the island of Sitra, Bahrain. A branch of the National Bank of Bahrain and the Sitra police station are located in Wadyan.
+
+Wikipedia Title: British Empire
+While the Suez Crisis caused British power in the Middle East to weaken, it did not collapse. Britain again deployed its armed forces to the region, intervening in Oman (1957), Jordan (1958) and Kuwait (1961), though on these occasions with American approval, as the new Prime Minister Harold Macmillan's foreign policy was to remain firmly aligned with the United States. Britain maintained a military presence in the Middle East for another decade. In January 1968, a few weeks after the devaluation of the pound, Prime Minister Harold Wilson and his Defence Secretary Denis Healey announced that British troops would be withdrawn from major military bases East of Suez, which included the ones in the Middle East, and primarily from Malaysia and Singapore. The British withdrew from Aden in 1967, Bahrain in 1971, and Maldives in 1976.
+
+Q: When did Britain withdraw from the country where the village of Wadyan is found?
+A: 1971
+
+
+# METADATA: {"qid": "2hop__861128_15822"}
+Wikipedia Title: Nintendo Entertainment System
+In the longer run, however, with the NES near its end of its life many third-party publishers such as Electronic Arts supported upstart competing consoles with less strict licensing terms such as the Sega Genesis and then the PlayStation, which eroded and then took over Nintendo's dominance in the home console market, respectively. Consoles from Nintendo's rivals in the post-SNES era had always enjoyed much stronger third-party support than Nintendo, which relied more heavily on first-party games.
+
+Wikipedia Title: Banjo-Tooie
+Banjo-Tooie is a platform video game developed by Rare and originally released for the Nintendo 64 console in 2000. It is the second game in the "Banjo-Kazooie" series and the sequel to "Banjo-Kazooie". The game follows series protagonists Banjo and Kazooie as they attempt to stop the plans of the witch Gruntilda and her two sisters, who intend to vapourise the inhabitants of the game's world. The game features worlds that are significantly larger than those of its predecessor, requiring the player to complete challenges such as solving puzzles, jumping over obstacles, collecting items, and defeating bosses. It also includes a multiplayer mode where up to four players can compete in several minigames.
+
+Q: What did the publisher of Banjo-Tooie rely primarily on for its support?
+A: first-party games
+
+
+# METADATA: {"qid": "2hop__804754_52230"}
+Wikipedia Title: Senate of Kenya
+The Senate is the upper house of the Parliament of Kenya. The Senate was first established as part of Kenya's 1963 Constitution. After being abolished in 1966, the Senate was re-established by the 2010 Constitution.
+
+Wikipedia Title: Mau Mau Uprising
+On 20 October 1952, Governor Baring signed an order declaring a State of Emergency. Early the next morning, Operation Jock Scott was launched: the British carried out a mass - arrest of Jomo Kenyatta and 180 other alleged Mau Mau leaders within Nairobi. Jock Scott did not decapitate the movement's leadership as hoped, since news of the impending operation was leaked. Thus, while the moderates on the wanted list awaited capture, the real militants, such as Dedan Kimathi and Stanley Mathenge (both later principal leaders of Mau Mau's forest armies), fled to the forests.
+
+Q: When was the state of emergency declared in the country where the Senate is located?
+A: 20 October 1952
+
+
+# METADATA: {"qid": "2hop__102217_58400"}
+Wikipedia Title: Raphael Tuju
+Raphael Tuju, EGH (born 30 March 1959) is a Kenyan politician. In 2002—after a career as a journalist, TV producer, and real estate investor—Tuju was elected to parliament and has served the Government of Kenya in various capacities since that time.
+
+Wikipedia Title: Kakamega
+Kakamega Forest is the main tourist destination in the area. Another attraction is the Crying Stone of Ilesi located along the highway towards Kisumu. It is a 40 metres high rock dome resembling a human figure whose ``eyes ''drop water.
+
+Q: Where is the crying stone found in the country in which Raphael Tuju holds citizenship?
+A: along the highway towards Kisumu
+
+
+# METADATA: {"qid": "2hop__131516_53573"}
+Wikipedia Title: Lima Mountain
+Lima Mountain is a 2238 foot summit in Cook County, Minnesota. It is located in the Lima Mountain Unit, a 2540 acre inventoried roadless area adjacent to the Boundary Waters Canoe Area. There is a 1 mile trail to the summit, where a fire tower once stood. Lima Mountain has a 328 foot rise over the saddle connecting it with the Misquah Hills High Point and Peak 2266. A trail to the summit begins along the Lima Grade (Forest Route 315) just north of its junction with Lima Mountain Road (Forest Route 152)
+
+Wikipedia Title: Snake River (St. Croix River tributary)
+The Snake River with its tributaries drains a 1,009 square miles (2,610 km) area of Aitkin, Kanabec, Mille Lacs and Pine counties. After initially flowing southward from its headwaters in southern Aitkin County, the Snake flows through Kanabec County, turning eastward near Mora, Minnesota, following a minor fault line. It drains into the St. Croix River 13 miles (21 km) east of Pine City, Minnesota.
+
+Q: Where does the Snake River start, in the state where Lima Mountain is located?
+A: southern Aitkin County
+
+
+# METADATA: {"qid": "3hop1__753524_742157_573834"}
+Wikipedia Title: Flaws (album)
+Flaws is the second studio album by the British indie rock band Bombay Bicycle Club, released on 9 July 2010 by Island Records. Unlike the band's previous releases, the album is entirely acoustic music, consisting of versions of their own tracks as well as cover versions of other artists. The album was produced in part by the guitarist Jamie MacColl's father, Neil MacColl, with recording taking place in February 2009 at The Church in Crouch End, London. The band started work on the album after completing their first album, "I Had the Blues But I Shook Them Loose".
+
+Wikipedia Title: The Antidote (Ronny Jordan album)
+The Antidote is the debut album by English jazz guitarist Ronny Jordan, that was released by Island Records in 1992.
+
+Q: What genre is the record label of the performer of So Long, See You Tomorrow associated with?
+A: jazz

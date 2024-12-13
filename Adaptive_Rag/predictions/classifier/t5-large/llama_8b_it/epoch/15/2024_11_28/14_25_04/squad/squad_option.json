@@ -1,0 +1,2502 @@
+{
+    "single_squad_dev_1002": {
+        "option": "B",
+        "prediction": "accelerating eukaryotic evolution",
+        "stepNum": 1
+    },
+    "single_squad_dev_1007": {
+        "option": "B",
+        "prediction": "official misconduct",
+        "stepNum": 1
+    },
+    "single_squad_dev_1012": {
+        "option": "B",
+        "prediction": "goods",
+        "stepNum": 1
+    },
+    "single_squad_dev_1035": {
+        "option": "B",
+        "prediction": "Taoiseach",
+        "stepNum": 1
+    },
+    "single_squad_dev_1038": {
+        "option": "B",
+        "prediction": "Prime Minister",
+        "stepNum": 1
+    },
+    "single_squad_dev_1071": {
+        "option": "B",
+        "prediction": "Jews were forbidden to settle within Carniola",
+        "stepNum": 1
+    },
+    "single_squad_dev_1089": {
+        "option": "B",
+        "prediction": "Pope Leo III",
+        "stepNum": 1
+    },
+    "single_squad_dev_1103": {
+        "option": "B",
+        "prediction": "Interior design is the art and science of enhancing the interior of a building to achieve a healthier and more aesthetically pleasing environment for the people using the space. An interior designer is someone who plans, researches, coordinates, and manages such projects. Interior design is a multifaceted profession that includes conceptual development, space planning, site inspections, programming, research, communicating with the stakeholders of a project, construction management, and execution of the design. In the past, interiors were put together instinctively as a part of the process of building. The profession of interior design has been a consequence of",
+        "stepNum": 1
+    },
+    "single_squad_dev_1109": {
+        "option": "B",
+        "prediction": "LED",
+        "stepNum": 1
+    },
+    "single_squad_dev_111": {
+        "option": "C",
+        "prediction": "A Billion Hands: For a Better Tomorrow",
+        "stepNum": 9
+    },
+    "single_squad_dev_1132": {
+        "option": "B",
+        "prediction": "errors and defects",
+        "stepNum": 1
+    },
+    "single_squad_dev_1160": {
+        "option": "B",
+        "prediction": "London",
+        "stepNum": 1
+    },
+    "single_squad_dev_1188": {
+        "option": "B",
+        "prediction": "Union Street",
+        "stepNum": 1
+    },
+    "single_squad_dev_1202": {
+        "option": "B",
+        "prediction": "lowest",
+        "stepNum": 1
+    },
+    "single_squad_dev_1208": {
+        "option": "B",
+        "prediction": "5",
+        "stepNum": 1
+    },
+    "single_squad_dev_1229": {
+        "option": "B",
+        "prediction": "1968",
+        "stepNum": 1
+    },
+    "single_squad_dev_1238": {
+        "option": "B",
+        "prediction": "Voyager 1",
+        "stepNum": 1
+    },
+    "single_squad_dev_1247": {
+        "option": "B",
+        "prediction": "Not available",
+        "stepNum": 1
+    },
+    "single_squad_dev_1253": {
+        "option": "B",
+        "prediction": "Army Specialized Training Program",
+        "stepNum": 1
+    },
+    "single_squad_dev_1329": {
+        "option": "B",
+        "prediction": "mammoth",
+        "stepNum": 1
+    },
+    "single_squad_dev_135": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_1378": {
+        "option": "B",
+        "prediction": "1931",
+        "stepNum": 1
+    },
+    "single_squad_dev_1381": {
+        "option": "B",
+        "prediction": "1994",
+        "stepNum": 1
+    },
+    "single_squad_dev_139": {
+        "option": "B",
+        "prediction": "The Great Northern Railway in cooperation with the US Department of Agriculture, the Montana Experiment Station, and the Dryland Farming Congress",
+        "stepNum": 1
+    },
+    "single_squad_dev_1392": {
+        "option": "B",
+        "prediction": "There is no information in the provided text about what sort of things Alexander Graham Bell collected as a child",
+        "stepNum": 1
+    },
+    "single_squad_dev_1436": {
+        "option": "B",
+        "prediction": "manga",
+        "stepNum": 1
+    },
+    "single_squad_dev_144": {
+        "option": "B",
+        "prediction": "the overall size of the entire group",
+        "stepNum": 1
+    },
+    "single_squad_dev_1442": {
+        "option": "C",
+        "prediction": "digital technology",
+        "stepNum": 2
+    },
+    "single_squad_dev_1458": {
+        "option": "C",
+        "prediction": "governor-general",
+        "stepNum": 2
+    },
+    "single_squad_dev_1481": {
+        "option": "A",
+        "prediction": "Sanskrit and Hindi",
+        "stepNum": 0
+    },
+    "single_squad_dev_1500": {
+        "option": "B",
+        "prediction": "acids on metals, steam on metals, water on metals, natural gas on metals, coal on metals, and",
+        "stepNum": 1
+    },
+    "single_squad_dev_1518": {
+        "option": "B",
+        "prediction": "46,226",
+        "stepNum": 1
+    },
+    "single_squad_dev_1553": {
+        "option": "B",
+        "prediction": "5",
+        "stepNum": 1
+    },
+    "single_squad_dev_1557": {
+        "option": "C",
+        "prediction": "14 April 2007",
+        "stepNum": 2
+    },
+    "single_squad_dev_1567": {
+        "option": "B",
+        "prediction": "They did not separate in a century",
+        "stepNum": 1
+    },
+    "single_squad_dev_1575": {
+        "option": "B",
+        "prediction": "Communications Act 2003",
+        "stepNum": 1
+    },
+    "single_squad_dev_1579": {
+        "option": "B",
+        "prediction": "cable television",
+        "stepNum": 1
+    },
+    "single_squad_dev_159": {
+        "option": "B",
+        "prediction": "1928",
+        "stepNum": 1
+    },
+    "single_squad_dev_1612": {
+        "option": "B",
+        "prediction": "adding the suffix's'",
+        "stepNum": 1
+    },
+    "single_squad_dev_1618": {
+        "option": "B",
+        "prediction": "Kristjan Jaak Peterson",
+        "stepNum": 1
+    },
+    "single_squad_dev_1631": {
+        "option": "B",
+        "prediction": "kaolin",
+        "stepNum": 1
+    },
+    "single_squad_dev_1635": {
+        "option": "B",
+        "prediction": "There is no information in the text about Foster's patent",
+        "stepNum": 1
+    },
+    "single_squad_dev_1644": {
+        "option": "B",
+        "prediction": "There is no information in the provided text about the AFL's debt as of July 20, 2009",
+        "stepNum": 1
+    },
+    "single_squad_dev_1649": {
+        "option": "C",
+        "prediction": "11",
+        "stepNum": 3
+    },
+    "single_squad_dev_1655": {
+        "option": "B",
+        "prediction": "June 30, 2006",
+        "stepNum": 1
+    },
+    "single_squad_dev_167": {
+        "option": "B",
+        "prediction": "infection",
+        "stepNum": 1
+    },
+    "single_squad_dev_1677": {
+        "option": "B",
+        "prediction": "family and work",
+        "stepNum": 1
+    },
+    "single_squad_dev_1713": {
+        "option": "C",
+        "prediction": "June 6, 1645",
+        "stepNum": 3
+    },
+    "single_squad_dev_173": {
+        "option": "B",
+        "prediction": "Dorothy Crowfoot Hodgkin",
+        "stepNum": 1
+    },
+    "single_squad_dev_1735": {
+        "option": "B",
+        "prediction": "1.2 million",
+        "stepNum": 1
+    },
+    "single_squad_dev_1746": {
+        "option": "B",
+        "prediction": "16 to 28 August 2014",
+        "stepNum": 1
+    },
+    "single_squad_dev_1759": {
+        "option": "B",
+        "prediction": "Old City",
+        "stepNum": 1
+    },
+    "single_squad_dev_1780": {
+        "option": "C",
+        "prediction": "1987",
+        "stepNum": 2
+    },
+    "single_squad_dev_1818": {
+        "option": "B",
+        "prediction": "1929",
+        "stepNum": 1
+    },
+    "single_squad_dev_1866": {
+        "option": "C",
+        "prediction": "more things in heaven and earth than are dreamt of in your philosophy",
+        "stepNum": 3
+    },
+    "single_squad_dev_1880": {
+        "option": "B",
+        "prediction": "South Slavic",
+        "stepNum": 1
+    },
+    "single_squad_dev_1886": {
+        "option": "B",
+        "prediction": "the use of music notation and the performance of complex forms of solo instrumental works",
+        "stepNum": 1
+    },
+    "single_squad_dev_1893": {
+        "option": "B",
+        "prediction": "women",
+        "stepNum": 1
+    },
+    "single_squad_dev_19": {
+        "option": "B",
+        "prediction": "27\\u00bd units",
+        "stepNum": 1
+    },
+    "single_squad_dev_1919": {
+        "option": "C",
+        "prediction": "the valleys of rivers Degano, But and Tagliamento",
+        "stepNum": 3
+    },
+    "single_squad_dev_194": {
+        "option": "B",
+        "prediction": "a march",
+        "stepNum": 1
+    },
+    "single_squad_dev_1950": {
+        "option": "B",
+        "prediction": "depth",
+        "stepNum": 1
+    },
+    "single_squad_dev_197": {
+        "option": "B",
+        "prediction": "Emilia Chopin",
+        "stepNum": 1
+    },
+    "single_squad_dev_1992": {
+        "option": "A",
+        "prediction": "a treaty",
+        "stepNum": 0
+    },
+    "single_squad_dev_1996": {
+        "option": "B",
+        "prediction": "non-derogable",
+        "stepNum": 1
+    },
+    "single_squad_dev_2028": {
+        "option": "B",
+        "prediction": "Montenegro",
+        "stepNum": 1
+    },
+    "single_squad_dev_2038": {
+        "option": "B",
+        "prediction": "There is no information in the text about the island reached by Miguel Lopez de Legazpi on January 9th of 1530",
+        "stepNum": 1
+    },
+    "single_squad_dev_2043": {
+        "option": "B",
+        "prediction": "4th Fleet",
+        "stepNum": 1
+    },
+    "single_squad_dev_2051": {
+        "option": "B",
+        "prediction": "20",
+        "stepNum": 1
+    },
+    "single_squad_dev_2059": {
+        "option": "C",
+        "prediction": "the power to command an army",
+        "stepNum": 2
+    },
+    "single_squad_dev_2075": {
+        "option": "B",
+        "prediction": "pay indemnities",
+        "stepNum": 1
+    },
+    "single_squad_dev_2094": {
+        "option": "C",
+        "prediction": "October 19, 1905",
+        "stepNum": 5
+    },
+    "single_squad_dev_2114": {
+        "option": "B",
+        "prediction": "The French Revolution of 1789",
+        "stepNum": 1
+    },
+    "single_squad_dev_2116": {
+        "option": "B",
+        "prediction": "9th century",
+        "stepNum": 1
+    },
+    "single_squad_dev_2125": {
+        "option": "C",
+        "prediction": "winter",
+        "stepNum": 2
+    },
+    "single_squad_dev_2139": {
+        "option": "B",
+        "prediction": "complex, interlaced networks of overlapping sense and antisense transcripts",
+        "stepNum": 1
+    },
+    "single_squad_dev_2153": {
+        "option": "B",
+        "prediction": "15-20%",
+        "stepNum": 1
+    },
+    "single_squad_dev_2175": {
+        "option": "B",
+        "prediction": "Oumarou Ganda Prize",
+        "stepNum": 1
+    },
+    "single_squad_dev_219": {
+        "option": "C",
+        "prediction": "tenth",
+        "stepNum": 2
+    },
+    "single_squad_dev_2194": {
+        "option": "B",
+        "prediction": "Amsterdam Avenue",
+        "stepNum": 1
+    },
+    "single_squad_dev_2222": {
+        "option": "A",
+        "prediction": "psychology and neuroscience",
+        "stepNum": 0
+    },
+    "single_squad_dev_2225": {
+        "option": "B",
+        "prediction": "direct manipulation of an organism's genes using biotechnology",
+        "stepNum": 1
+    },
+    "single_squad_dev_2253": {
+        "option": "B",
+        "prediction": "the armed forces of the United Kingdom",
+        "stepNum": 1
+    },
+    "single_squad_dev_2272": {
+        "option": "B",
+        "prediction": "not specified",
+        "stepNum": 1
+    },
+    "single_squad_dev_229": {
+        "option": "C",
+        "prediction": "1895",
+        "stepNum": 4
+    },
+    "single_squad_dev_2301": {
+        "option": "B",
+        "prediction": "its density",
+        "stepNum": 1
+    },
+    "single_squad_dev_2306": {
+        "option": "B",
+        "prediction": "lumber",
+        "stepNum": 1
+    },
+    "single_squad_dev_2329": {
+        "option": "A",
+        "prediction": "Israel",
+        "stepNum": 0
+    },
+    "single_squad_dev_233": {
+        "option": "B",
+        "prediction": "Michel Fokine",
+        "stepNum": 1
+    },
+    "single_squad_dev_2362": {
+        "option": "B",
+        "prediction": "Denmark",
+        "stepNum": 1
+    },
+    "single_squad_dev_24": {
+        "option": "B",
+        "prediction": "CCHA",
+        "stepNum": 1
+    },
+    "single_squad_dev_2409": {
+        "option": "B",
+        "prediction": "CPUs",
+        "stepNum": 1
+    },
+    "single_squad_dev_2410": {
+        "option": "B",
+        "prediction": "nodes",
+        "stepNum": 1
+    },
+    "single_squad_dev_2442": {
+        "option": "B",
+        "prediction": "the use of exported equipment from the United States of America and to reduce the impact of the tackles",
+        "stepNum": 1
+    },
+    "single_squad_dev_2498": {
+        "option": "B",
+        "prediction": "Aristotle",
+        "stepNum": 1
+    },
+    "single_squad_dev_2513": {
+        "option": "B",
+        "prediction": "A complex phenomenon in regards to migration is the Ashman phenomenon. The Ashman phenomenon is a particular type of wide QRS complex, often seen isolated that is typically seen in atrial fibrillation. It is more often misinterpreted as a premature ventricular complex. It is named for Richard Ashman (of New Orleans) (1890 \\u20131969), after first being described by Gouaux and Ashman in 1947. Ashman beats are described as wide complex QRS complexes that",
+        "stepNum": 1
+    },
+    "single_squad_dev_2566": {
+        "option": "C",
+        "prediction": "2017",
+        "stepNum": 3
+    },
+    "single_squad_dev_2572": {
+        "option": "B",
+        "prediction": "1980s",
+        "stepNum": 1
+    },
+    "single_squad_dev_2575": {
+        "option": "C",
+        "prediction": "There is no information in the provided text about the year house music was first used as a genre. The text does mention that the genre \\\"grime\\\" was coined by journalists who initially termed the music's sub-bass heavy sound as \\\"grimy\\\", which subsequently became \\\"grime\\\". It has also been suggested by artists themselves that the term fits as the music frequently talks about \\\"grimy goings-on\\\" in deprived areas. Dizzee Rascal, Wiley, Kano and Leth",
+        "stepNum": 3
+    },
+    "single_squad_dev_2581": {
+        "option": "B",
+        "prediction": "Chicago, Illinois",
+        "stepNum": 1
+    },
+    "single_squad_dev_2583": {
+        "option": "B",
+        "prediction": "very well",
+        "stepNum": 1
+    },
+    "single_squad_dev_2598": {
+        "option": "B",
+        "prediction": "1994",
+        "stepNum": 1
+    },
+    "single_squad_dev_2609": {
+        "option": "B",
+        "prediction": "industrial sector",
+        "stepNum": 1
+    },
+    "single_squad_dev_2613": {
+        "option": "B",
+        "prediction": "6",
+        "stepNum": 1
+    },
+    "single_squad_dev_2616": {
+        "option": "B",
+        "prediction": "two or more",
+        "stepNum": 1
+    },
+    "single_squad_dev_2617": {
+        "option": "A",
+        "prediction": "C",
+        "stepNum": 0
+    },
+    "single_squad_dev_2619": {
+        "option": "A",
+        "prediction": "music",
+        "stepNum": 0
+    },
+    "single_squad_dev_2654": {
+        "option": "C",
+        "prediction": "not mentioned",
+        "stepNum": 3
+    },
+    "single_squad_dev_2658": {
+        "option": "B",
+        "prediction": "355",
+        "stepNum": 1
+    },
+    "single_squad_dev_2661": {
+        "option": "B",
+        "prediction": "0.6%",
+        "stepNum": 1
+    },
+    "single_squad_dev_2664": {
+        "option": "B",
+        "prediction": "tradition",
+        "stepNum": 1
+    },
+    "single_squad_dev_2665": {
+        "option": "B",
+        "prediction": "family structure",
+        "stepNum": 1
+    },
+    "single_squad_dev_2675": {
+        "option": "B",
+        "prediction": "a large block of memory",
+        "stepNum": 1
+    },
+    "single_squad_dev_2685": {
+        "option": "B",
+        "prediction": "the audience",
+        "stepNum": 1
+    },
+    "single_squad_dev_2698": {
+        "option": "B",
+        "prediction": "high assurance from application of security engineering techniques to a rigorous development environment",
+        "stepNum": 1
+    },
+    "single_squad_dev_2702": {
+        "option": "C",
+        "prediction": "Avid Life Media",
+        "stepNum": 3
+    },
+    "single_squad_dev_2704": {
+        "option": "B",
+        "prediction": "Richard Clarke",
+        "stepNum": 1
+    },
+    "single_squad_dev_2708": {
+        "option": "B",
+        "prediction": "October",
+        "stepNum": 1
+    },
+    "single_squad_dev_2771": {
+        "option": "B",
+        "prediction": "2nd",
+        "stepNum": 1
+    },
+    "single_squad_dev_2773": {
+        "option": "C",
+        "prediction": "Pando Department",
+        "stepNum": 3
+    },
+    "single_squad_dev_2799": {
+        "option": "B",
+        "prediction": "40",
+        "stepNum": 1
+    },
+    "single_squad_dev_2805": {
+        "option": "B",
+        "prediction": "Robert C. Solomon",
+        "stepNum": 1
+    },
+    "single_squad_dev_2820": {
+        "option": "B",
+        "prediction": "$4.07 billion",
+        "stepNum": 1
+    },
+    "single_squad_dev_2829": {
+        "option": "A",
+        "prediction": "Catalan War",
+        "stepNum": 0
+    },
+    "single_squad_dev_2839": {
+        "option": "C",
+        "prediction": "1878",
+        "stepNum": 2
+    },
+    "single_squad_dev_2849": {
+        "option": "B",
+        "prediction": "The Black Watch",
+        "stepNum": 1
+    },
+    "single_squad_dev_2854": {
+        "option": "B",
+        "prediction": "inflectional word-endings",
+        "stepNum": 1
+    },
+    "single_squad_dev_2856": {
+        "option": "B",
+        "prediction": "merchant ships",
+        "stepNum": 1
+    },
+    "single_squad_dev_2857": {
+        "option": "A",
+        "prediction": "short takeoff",
+        "stepNum": 0
+    },
+    "single_squad_dev_2888": {
+        "option": "B",
+        "prediction": "Red Rose",
+        "stepNum": 1
+    },
+    "single_squad_dev_2912": {
+        "option": "B",
+        "prediction": "Antonio Lilio",
+        "stepNum": 1
+    },
+    "single_squad_dev_2927": {
+        "option": "B",
+        "prediction": "scale back and discontinue",
+        "stepNum": 1
+    },
+    "single_squad_dev_2987": {
+        "option": "C",
+        "prediction": "when a crop fails in a monoculture",
+        "stepNum": 2
+    },
+    "single_squad_dev_304": {
+        "option": "B",
+        "prediction": "Walmart",
+        "stepNum": 1
+    },
+    "single_squad_dev_3058": {
+        "option": "B",
+        "prediction": "17.1",
+        "stepNum": 1
+    },
+    "single_squad_dev_3061": {
+        "option": "A",
+        "prediction": "United States and Russia",
+        "stepNum": 0
+    },
+    "single_squad_dev_3083": {
+        "option": "B",
+        "prediction": "60",
+        "stepNum": 1
+    },
+    "single_squad_dev_3086": {
+        "option": "B",
+        "prediction": "July 21, 1983",
+        "stepNum": 1
+    },
+    "single_squad_dev_3094": {
+        "option": "C",
+        "prediction": "human factors and ergonomics",
+        "stepNum": 3
+    },
+    "single_squad_dev_3122": {
+        "option": "B",
+        "prediction": "Melbourne",
+        "stepNum": 1
+    },
+    "single_squad_dev_3126": {
+        "option": "B",
+        "prediction": "Adelaide",
+        "stepNum": 1
+    },
+    "single_squad_dev_3151": {
+        "option": "B",
+        "prediction": "Jim Bradbury",
+        "stepNum": 1
+    },
+    "single_squad_dev_3201": {
+        "option": "B",
+        "prediction": "late 1920s and early 1930s",
+        "stepNum": 1
+    },
+    "single_squad_dev_3217": {
+        "option": "B",
+        "prediction": "Self-Propelled Anti-Aircraft Gun",
+        "stepNum": 1
+    },
+    "single_squad_dev_3219": {
+        "option": "B",
+        "prediction": "three",
+        "stepNum": 1
+    },
+    "single_squad_dev_3225": {
+        "option": "B",
+        "prediction": "32,000 to 161,000 feet",
+        "stepNum": 1
+    },
+    "single_squad_dev_3233": {
+        "option": "B",
+        "prediction": "the way letters are written",
+        "stepNum": 1
+    },
+    "single_squad_dev_3274": {
+        "option": "B",
+        "prediction": "Jeff Immelt",
+        "stepNum": 1
+    },
+    "single_squad_dev_3301": {
+        "option": "B",
+        "prediction": "General Franciszek Alter",
+        "stepNum": 1
+    },
+    "single_squad_dev_3305": {
+        "option": "B",
+        "prediction": "1973",
+        "stepNum": 1
+    },
+    "single_squad_dev_3328": {
+        "option": "C",
+        "prediction": "1822",
+        "stepNum": 2
+    },
+    "single_squad_dev_3336": {
+        "option": "B",
+        "prediction": "eastern Ethiopia and all of Eritrea",
+        "stepNum": 1
+    },
+    "single_squad_dev_3345": {
+        "option": "B",
+        "prediction": "Depleted uranium",
+        "stepNum": 1
+    },
+    "single_squad_dev_3353": {
+        "option": "B",
+        "prediction": "0.75%",
+        "stepNum": 1
+    },
+    "single_squad_dev_3379": {
+        "option": "B",
+        "prediction": "Jean-Jacques Rousseau",
+        "stepNum": 1
+    },
+    "single_squad_dev_3409": {
+        "option": "B",
+        "prediction": "time cues and light",
+        "stepNum": 1
+    },
+    "single_squad_dev_3432": {
+        "option": "B",
+        "prediction": "abdication",
+        "stepNum": 1
+    },
+    "single_squad_dev_3437": {
+        "option": "B",
+        "prediction": "Not in the text",
+        "stepNum": 1
+    },
+    "single_squad_dev_3477": {
+        "option": "C",
+        "prediction": "1990s",
+        "stepNum": 2
+    },
+    "single_squad_dev_3479": {
+        "option": "B",
+        "prediction": "declined",
+        "stepNum": 1
+    },
+    "single_squad_dev_3486": {
+        "option": "B",
+        "prediction": "1100",
+        "stepNum": 1
+    },
+    "single_squad_dev_3488": {
+        "option": "B",
+        "prediction": "13.9",
+        "stepNum": 1
+    },
+    "single_squad_dev_3492": {
+        "option": "B",
+        "prediction": "external environmental impact",
+        "stepNum": 1
+    },
+    "single_squad_dev_3500": {
+        "option": "B",
+        "prediction": "38",
+        "stepNum": 1
+    },
+    "single_squad_dev_3503": {
+        "option": "B",
+        "prediction": "None",
+        "stepNum": 1
+    },
+    "single_squad_dev_3505": {
+        "option": "B",
+        "prediction": "William O. Douglas",
+        "stepNum": 1
+    },
+    "single_squad_dev_3514": {
+        "option": "B",
+        "prediction": "None",
+        "stepNum": 1
+    },
+    "single_squad_dev_3525": {
+        "option": "B",
+        "prediction": "There is no information in the text about Nintendo sending out vouchers",
+        "stepNum": 1
+    },
+    "single_squad_dev_3568": {
+        "option": "B",
+        "prediction": "fled",
+        "stepNum": 1
+    },
+    "single_squad_dev_3571": {
+        "option": "B",
+        "prediction": "Arian",
+        "stepNum": 1
+    },
+    "single_squad_dev_3608": {
+        "option": "B",
+        "prediction": "Seattle Academy of Arts and Sciences, The Art Institute of Seattle, Cornish College of the Arts, Pratt Fine Arts Center, and the Seattle Art Museum",
+        "stepNum": 1
+    },
+    "single_squad_dev_3609": {
+        "option": "B",
+        "prediction": "phonological loop, visuospatial sketchpad, and spatial short-term memory",
+        "stepNum": 1
+    },
+    "single_squad_dev_3620": {
+        "option": "A",
+        "prediction": "Black",
+        "stepNum": 0
+    },
+    "single_squad_dev_3622": {
+        "option": "B",
+        "prediction": "1827",
+        "stepNum": 1
+    },
+    "single_squad_dev_3635": {
+        "option": "B",
+        "prediction": "slavery",
+        "stepNum": 1
+    },
+    "single_squad_dev_3669": {
+        "option": "C",
+        "prediction": "2007",
+        "stepNum": 3
+    },
+    "single_squad_dev_3672": {
+        "option": "B",
+        "prediction": "Advisory Committee on Prescription Medicines (ACPM)",
+        "stepNum": 1
+    },
+    "single_squad_dev_3686": {
+        "option": "B",
+        "prediction": "Kufa",
+        "stepNum": 1
+    },
+    "single_squad_dev_3709": {
+        "option": "C",
+        "prediction": "1917",
+        "stepNum": 2
+    },
+    "single_squad_dev_371": {
+        "option": "B",
+        "prediction": "two or three minutes",
+        "stepNum": 1
+    },
+    "single_squad_dev_3753": {
+        "option": "C",
+        "prediction": "1817",
+        "stepNum": 2
+    },
+    "single_squad_dev_3810": {
+        "option": "B",
+        "prediction": "Not provided in the text",
+        "stepNum": 1
+    },
+    "single_squad_dev_3811": {
+        "option": "B",
+        "prediction": "not provided",
+        "stepNum": 1
+    },
+    "single_squad_dev_3828": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_3850": {
+        "option": "C",
+        "prediction": "204 BC",
+        "stepNum": 2
+    },
+    "single_squad_dev_3871": {
+        "option": "B",
+        "prediction": "Rite of Strict Observance",
+        "stepNum": 1
+    },
+    "single_squad_dev_3875": {
+        "option": "B",
+        "prediction": "Iberian Peninsula",
+        "stepNum": 1
+    },
+    "single_squad_dev_3893": {
+        "option": "B",
+        "prediction": "Karl Freiherr Mack von Leiberich",
+        "stepNum": 1
+    },
+    "single_squad_dev_3894": {
+        "option": "B",
+        "prediction": "700",
+        "stepNum": 1
+    },
+    "single_squad_dev_3908": {
+        "option": "B",
+        "prediction": "Malet coup",
+        "stepNum": 1
+    },
+    "single_squad_dev_391": {
+        "option": "B",
+        "prediction": "the people of Dera Ismail Khan",
+        "stepNum": 1
+    },
+    "single_squad_dev_3918": {
+        "option": "B",
+        "prediction": "40,000",
+        "stepNum": 1
+    },
+    "single_squad_dev_3922": {
+        "option": "C",
+        "prediction": "Civil Procedure Code",
+        "stepNum": 2
+    },
+    "single_squad_dev_3943": {
+        "option": "B",
+        "prediction": "None",
+        "stepNum": 1
+    },
+    "single_squad_dev_3948": {
+        "option": "B",
+        "prediction": "there is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_3953": {
+        "option": "C",
+        "prediction": "Z\\u00fcrich",
+        "stepNum": 3
+    },
+    "single_squad_dev_396": {
+        "option": "B",
+        "prediction": "the dump",
+        "stepNum": 1
+    },
+    "single_squad_dev_3967": {
+        "option": "A",
+        "prediction": "Min Nan",
+        "stepNum": 0
+    },
+    "single_squad_dev_3971": {
+        "option": "B",
+        "prediction": "its meaning",
+        "stepNum": 1
+    },
+    "single_squad_dev_3985": {
+        "option": "B",
+        "prediction": "R\\u00edo de la Plata",
+        "stepNum": 1
+    },
+    "single_squad_dev_4000": {
+        "option": "C",
+        "prediction": "Our Lady of the Sacred Heart",
+        "stepNum": 3
+    },
+    "single_squad_dev_4025": {
+        "option": "B",
+        "prediction": "the 15 founding members of the club who met at the Royal Oak pub",
+        "stepNum": 1
+    },
+    "single_squad_dev_4072": {
+        "option": "B",
+        "prediction": "Kellogg Avenue freeway",
+        "stepNum": 1
+    },
+    "single_squad_dev_4076": {
+        "option": "C",
+        "prediction": "1962",
+        "stepNum": 2
+    },
+    "single_squad_dev_4085": {
+        "option": "B",
+        "prediction": "a special place away from the main dining place",
+        "stepNum": 1
+    },
+    "single_squad_dev_4089": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_4095": {
+        "option": "B",
+        "prediction": "Franjo Hanaman and Alexander Just",
+        "stepNum": 1
+    },
+    "single_squad_dev_4208": {
+        "option": "B",
+        "prediction": "April 1907",
+        "stepNum": 1
+    },
+    "single_squad_dev_4212": {
+        "option": "B",
+        "prediction": "$2\\u20133 billion",
+        "stepNum": 1
+    },
+    "single_squad_dev_4231": {
+        "option": "B",
+        "prediction": "cracking",
+        "stepNum": 1
+    },
+    "single_squad_dev_4269": {
+        "option": "B",
+        "prediction": "12",
+        "stepNum": 1
+    },
+    "single_squad_dev_4282": {
+        "option": "B",
+        "prediction": "liger",
+        "stepNum": 1
+    },
+    "single_squad_dev_4292": {
+        "option": "B",
+        "prediction": "The Costume of Great Britain",
+        "stepNum": 1
+    },
+    "single_squad_dev_4332": {
+        "option": "B",
+        "prediction": "15.8",
+        "stepNum": 1
+    },
+    "single_squad_dev_4386": {
+        "option": "B",
+        "prediction": "Beethoven",
+        "stepNum": 1
+    },
+    "single_squad_dev_4409": {
+        "option": "B",
+        "prediction": "the \\\"Hardware City\\\"",
+        "stepNum": 1
+    },
+    "single_squad_dev_4419": {
+        "option": "B",
+        "prediction": "Dutch Elm disease",
+        "stepNum": 1
+    },
+    "single_squad_dev_4425": {
+        "option": "C",
+        "prediction": "The neighborhoods in New York City are located within the five boroughs of the City of New York. Their names and borders are not officially defined, and they change from time to time. New York City is split up into five boroughs, which are the Bronx, Brooklyn, Manhattan, Queens, and Staten Island. Each borough has the same boundaries as a county of the state. The county governments were dissolved when the city consolidated in 1898, along with all city, town, and village governments",
+        "stepNum": 2
+    },
+    "single_squad_dev_4453": {
+        "option": "B",
+        "prediction": "I-95",
+        "stepNum": 1
+    },
+    "single_squad_dev_4465": {
+        "option": "B",
+        "prediction": "Mona Lisa Smile",
+        "stepNum": 1
+    },
+    "single_squad_dev_4479": {
+        "option": "B",
+        "prediction": "religious instruction",
+        "stepNum": 1
+    },
+    "single_squad_dev_448": {
+        "option": "B",
+        "prediction": "1913",
+        "stepNum": 1
+    },
+    "single_squad_dev_451": {
+        "option": "C",
+        "prediction": "2014",
+        "stepNum": 2
+    },
+    "single_squad_dev_4519": {
+        "option": "B",
+        "prediction": "Galeries Lafayette and Le Printemps",
+        "stepNum": 1
+    },
+    "single_squad_dev_4533": {
+        "option": "B",
+        "prediction": "common law",
+        "stepNum": 1
+    },
+    "single_squad_dev_4549": {
+        "option": "B",
+        "prediction": "Claude R. Kirk Jr",
+        "stepNum": 1
+    },
+    "single_squad_dev_4550": {
+        "option": "B",
+        "prediction": "The fastest growing area in Florida is The Villages. The Villages is a census-designated place (CDP) in Sumter County, Florida, United States. The Villages consistently ranks as a very high growth area. The U.S. Census ranked The Villages as the fastest-growing U.S. city for the second year in a row (during the 12 months ending in July 2014); As of August 2017, the total population of The Villages reached 115",
+        "stepNum": 1
+    },
+    "single_squad_dev_4553": {
+        "option": "B",
+        "prediction": "No",
+        "stepNum": 1
+    },
+    "single_squad_dev_4576": {
+        "option": "B",
+        "prediction": "2004",
+        "stepNum": 1
+    },
+    "single_squad_dev_4578": {
+        "option": "B",
+        "prediction": "2004",
+        "stepNum": 1
+    },
+    "single_squad_dev_4599": {
+        "option": "B",
+        "prediction": "Oromia",
+        "stepNum": 1
+    },
+    "single_squad_dev_462": {
+        "option": "B",
+        "prediction": "65%",
+        "stepNum": 1
+    },
+    "single_squad_dev_4624": {
+        "option": "B",
+        "prediction": "have a small population size, are found in isolated geographical locations, have a narrow endemic range, or have a fragmented habitat",
+        "stepNum": 1
+    },
+    "single_squad_dev_4637": {
+        "option": "B",
+        "prediction": "Archie Andrews",
+        "stepNum": 1
+    },
+    "single_squad_dev_4645": {
+        "option": "B",
+        "prediction": "The parent of Marvel is The Walt Disney Company. The TV network that shares a parent with Marvel is Disney Channel. However, the question asks for a TV network that shares a parent with Marvel. The parent of Marvel is The Walt Disney Company. The TV network that shares a parent with Marvel is Disney Channel. However, the question asks for a TV network that shares a parent with Marvel. The parent of Marvel is The Walt Disney Company. The TV network that shares a parent with Marvel is Disney Channel",
+        "stepNum": 1
+    },
+    "single_squad_dev_4665": {
+        "option": "B",
+        "prediction": "1853",
+        "stepNum": 1
+    },
+    "single_squad_dev_4668": {
+        "option": "B",
+        "prediction": "not mentioned",
+        "stepNum": 1
+    },
+    "single_squad_dev_4680": {
+        "option": "B",
+        "prediction": "synthesis of chemicals and raw materials for construction and energy production",
+        "stepNum": 1
+    },
+    "single_squad_dev_4697": {
+        "option": "B",
+        "prediction": "Queen of Pop",
+        "stepNum": 1
+    },
+    "single_squad_dev_4722": {
+        "option": "B",
+        "prediction": "there is no answer to this question",
+        "stepNum": 1
+    },
+    "single_squad_dev_4731": {
+        "option": "B",
+        "prediction": "Morton",
+        "stepNum": 1
+    },
+    "single_squad_dev_4736": {
+        "option": "B",
+        "prediction": "Not specified",
+        "stepNum": 1
+    },
+    "single_squad_dev_4748": {
+        "option": "B",
+        "prediction": "from the Palace of Westminster to the Tower of London",
+        "stepNum": 1
+    },
+    "single_squad_dev_4791": {
+        "option": "A",
+        "prediction": "Myanmar",
+        "stepNum": 0
+    },
+    "single_squad_dev_4793": {
+        "option": "B",
+        "prediction": "Imperial Diet Agreement",
+        "stepNum": 1
+    },
+    "single_squad_dev_4797": {
+        "option": "B",
+        "prediction": "those that refer to it as Burma",
+        "stepNum": 1
+    },
+    "single_squad_dev_4804": {
+        "option": "B",
+        "prediction": "rice",
+        "stepNum": 1
+    },
+    "single_squad_dev_4821": {
+        "option": "B",
+        "prediction": "Ashkenazim and Sephardim",
+        "stepNum": 1
+    },
+    "single_squad_dev_4824": {
+        "option": "B",
+        "prediction": "20th century",
+        "stepNum": 1
+    },
+    "single_squad_dev_4827": {
+        "option": "B",
+        "prediction": "Dhimmi",
+        "stepNum": 1
+    },
+    "single_squad_dev_4841": {
+        "option": "B",
+        "prediction": "reducing usage",
+        "stepNum": 1
+    },
+    "single_squad_dev_4872": {
+        "option": "B",
+        "prediction": "conspiring to commit misconduct in a public office",
+        "stepNum": 1
+    },
+    "single_squad_dev_491": {
+        "option": "B",
+        "prediction": "there is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_4910": {
+        "option": "B",
+        "prediction": "Northampton County Prison",
+        "stepNum": 1
+    },
+    "single_squad_dev_4950": {
+        "option": "B",
+        "prediction": "Hundred Years' War",
+        "stepNum": 1
+    },
+    "single_squad_dev_4963": {
+        "option": "B",
+        "prediction": "B\\u0103l\\u021bi City Airport",
+        "stepNum": 1
+    },
+    "single_squad_dev_4993": {
+        "option": "C",
+        "prediction": "1920",
+        "stepNum": 2
+    },
+    "single_squad_dev_5052": {
+        "option": "B",
+        "prediction": "the Glorious Revolution of 1688 and the landing of William III",
+        "stepNum": 1
+    },
+    "single_squad_dev_5053": {
+        "option": "B",
+        "prediction": "based on the text of James Mackintosh, not the other Mackintoshs.)",
+        "stepNum": 1
+    },
+    "single_squad_dev_5102": {
+        "option": "B",
+        "prediction": "Direct Current. (Note: The question is ambiguous, and the answer could be any of the above. However, the",
+        "stepNum": 1
+    },
+    "single_squad_dev_5113": {
+        "option": "A",
+        "prediction": "lower weight and higher efficiency",
+        "stepNum": 0
+    },
+    "single_squad_dev_5129": {
+        "option": "B",
+        "prediction": "In the United Kingdom, citizens can use a referendum to challenge any law passed by Parliament. In Switzerland, citizens can use a federal referendum to challenge any law passed by parliament, if they gather 50,000 signatures against the law within 100 days. In the Bahamas, citizens can use a constitutional referendum to challenge any law passed by Parliament. In Singapore, citizens can use a private member's bill to challenge any law passed by Parliament. In the European Union, citizens can use the European Citizens'",
+        "stepNum": 1
+    },
+    "single_squad_dev_5138": {
+        "option": "B",
+        "prediction": "3.2",
+        "stepNum": 1
+    },
+    "single_squad_dev_5140": {
+        "option": "B",
+        "prediction": "product market liberalisation",
+        "stepNum": 1
+    },
+    "single_squad_dev_5195": {
+        "option": "B",
+        "prediction": "Carter\\u2013Finley Stadium",
+        "stepNum": 1
+    },
+    "single_squad_dev_5216": {
+        "option": "B",
+        "prediction": "waste material",
+        "stepNum": 1
+    },
+    "single_squad_dev_5248": {
+        "option": "B",
+        "prediction": "1368",
+        "stepNum": 1
+    },
+    "single_squad_dev_5265": {
+        "option": "B",
+        "prediction": "peer review process and the use of technical language",
+        "stepNum": 1
+    },
+    "single_squad_dev_5266": {
+        "option": "B",
+        "prediction": "pronoia",
+        "stepNum": 1
+    },
+    "single_squad_dev_5267": {
+        "option": "B",
+        "prediction": "the literary creation itself",
+        "stepNum": 1
+    },
+    "single_squad_dev_5277": {
+        "option": "C",
+        "prediction": "Petit Bard",
+        "stepNum": 3
+    },
+    "single_squad_dev_5281": {
+        "option": "B",
+        "prediction": "prophets",
+        "stepNum": 1
+    },
+    "single_squad_dev_5291": {
+        "option": "C",
+        "prediction": "Hamadan, Iran",
+        "stepNum": 2
+    },
+    "single_squad_dev_530": {
+        "option": "B",
+        "prediction": "the object",
+        "stepNum": 1
+    },
+    "single_squad_dev_5307": {
+        "option": "B",
+        "prediction": "warriors and hunters",
+        "stepNum": 1
+    },
+    "single_squad_dev_5339": {
+        "option": "B",
+        "prediction": "Nigeria",
+        "stepNum": 1
+    },
+    "single_squad_dev_5371": {
+        "option": "B",
+        "prediction": "Festival Oude Muziek",
+        "stepNum": 1
+    },
+    "single_squad_dev_5389": {
+        "option": "B",
+        "prediction": "There is no information about von Neuman playing a role in the selection of targets",
+        "stepNum": 1
+    },
+    "single_squad_dev_539": {
+        "option": "B",
+        "prediction": "mechanical heating or cooling systems",
+        "stepNum": 1
+    },
+    "single_squad_dev_5399": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_5426": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_5441": {
+        "option": "B",
+        "prediction": "homotopy type theory",
+        "stepNum": 1
+    },
+    "single_squad_dev_5451": {
+        "option": "B",
+        "prediction": "The City of God is a 2002 Brazilian crime drama film directed by Fernando Meirelles. The film begins with a scene of chickens being prepared for a meal. A chicken escapes and an armed gang chases after it in a \\\"favela\\\" called the \\\"Cidade de Deus\\\" (\\\"City of God\\\"). The film begins with a scene of chickens being prepared for a meal. A chicken escapes and an armed gang chases after it in a \\\"favela\\\" called the",
+        "stepNum": 1
+    },
+    "single_squad_dev_5462": {
+        "option": "B",
+        "prediction": "by inserting a vowel between the consonants",
+        "stepNum": 1
+    },
+    "single_squad_dev_5472": {
+        "option": "B",
+        "prediction": "infinitive",
+        "stepNum": 1
+    },
+    "single_squad_dev_549": {
+        "option": "B",
+        "prediction": "Sun21",
+        "stepNum": 1
+    },
+    "single_squad_dev_5547": {
+        "option": "B",
+        "prediction": "mismatch effect",
+        "stepNum": 1
+    },
+    "single_squad_dev_555": {
+        "option": "B",
+        "prediction": "1,575\\u201349,837 EJ",
+        "stepNum": 1
+    },
+    "single_squad_dev_5560": {
+        "option": "B",
+        "prediction": "Venus",
+        "stepNum": 1
+    },
+    "single_squad_dev_5569": {
+        "option": "C",
+        "prediction": "1789",
+        "stepNum": 2
+    },
+    "single_squad_dev_5612": {
+        "option": "B",
+        "prediction": "80",
+        "stepNum": 1
+    },
+    "single_squad_dev_5624": {
+        "option": "C",
+        "prediction": "recreational activities",
+        "stepNum": 2
+    },
+    "single_squad_dev_5627": {
+        "option": "B",
+        "prediction": "smoking",
+        "stepNum": 1
+    },
+    "single_squad_dev_5631": {
+        "option": "B",
+        "prediction": "H\\u014dj\\u014d Tokimasa",
+        "stepNum": 1
+    },
+    "single_squad_dev_5634": {
+        "option": "A",
+        "prediction": "all beings",
+        "stepNum": 0
+    },
+    "single_squad_dev_5654": {
+        "option": "B",
+        "prediction": "small, inherited variations that increase the individual's ability to compete, survive, and reproduce",
+        "stepNum": 1
+    },
+    "single_squad_dev_5656": {
+        "option": "B",
+        "prediction": "because he thought it was \\\"so surrounded with prejudices\\\"",
+        "stepNum": 1
+    },
+    "single_squad_dev_5695": {
+        "option": "C",
+        "prediction": "around 70 AD",
+        "stepNum": 2
+    },
+    "single_squad_dev_5752": {
+        "option": "B",
+        "prediction": "Goldingay",
+        "stepNum": 1
+    },
+    "single_squad_dev_5766": {
+        "option": "C",
+        "prediction": "United States",
+        "stepNum": 4
+    },
+    "single_squad_dev_5768": {
+        "option": "B",
+        "prediction": "1949",
+        "stepNum": 1
+    },
+    "single_squad_dev_5788": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_5790": {
+        "option": "B",
+        "prediction": "film-based medium-format systems",
+        "stepNum": 1
+    },
+    "single_squad_dev_5816": {
+        "option": "B",
+        "prediction": "Russia, Turkey, Serbia, Slovakia, Montenegro, Singapore, South Africa, Japan, Bangladesh, Angola, and Zimbabwe",
+        "stepNum": 1
+    },
+    "single_squad_dev_5819": {
+        "option": "C",
+        "prediction": "There is no answer",
+        "stepNum": 2
+    },
+    "single_squad_dev_5827": {
+        "option": "C",
+        "prediction": "Barbershop Harmony Society",
+        "stepNum": 2
+    },
+    "single_squad_dev_5837": {
+        "option": "B",
+        "prediction": "Michelangelo",
+        "stepNum": 1
+    },
+    "single_squad_dev_5838": {
+        "option": "B",
+        "prediction": "Ireland",
+        "stepNum": 1
+    },
+    "single_squad_dev_5840": {
+        "option": "B",
+        "prediction": "learning and charity",
+        "stepNum": 1
+    },
+    "single_squad_dev_5858": {
+        "option": "B",
+        "prediction": "picking up a beagle by its ears",
+        "stepNum": 1
+    },
+    "single_squad_dev_5933": {
+        "option": "B",
+        "prediction": "overflow",
+        "stepNum": 1
+    },
+    "single_squad_dev_5935": {
+        "option": "B",
+        "prediction": "the first byte of the page being received by the client's browser",
+        "stepNum": 1
+    },
+    "single_squad_dev_5948": {
+        "option": "B",
+        "prediction": "uppercase letters, lowercase letters, modifier letters, titlecase letters, and others",
+        "stepNum": 1
+    },
+    "single_squad_dev_596": {
+        "option": "B",
+        "prediction": "communist sympathies",
+        "stepNum": 1
+    },
+    "single_squad_dev_5999": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_6002": {
+        "option": "A",
+        "prediction": "Diffusion of Innovations",
+        "stepNum": 0
+    },
+    "single_squad_dev_6032": {
+        "option": "B",
+        "prediction": "The laws in Thailand are based on the civil law, but have been influenced by common law. The Rattanakosin Kingdom and the four traditionally counted preceding kingdoms, collectively called Siam, had a largely uncodified constitution until 1932. In the King of Siam's preamble to the penal code promulgated on 1 April 1908, and came into effect on 21 September, the king said: \\\"In the ancient times the monarchs of the Siames",
+        "stepNum": 1
+    },
+    "single_squad_dev_6044": {
+        "option": "C",
+        "prediction": "Not mentioned",
+        "stepNum": 3
+    },
+    "single_squad_dev_6050": {
+        "option": "B",
+        "prediction": "1959",
+        "stepNum": 1
+    },
+    "single_squad_dev_6055": {
+        "option": "B",
+        "prediction": "Cactus League",
+        "stepNum": 1
+    },
+    "single_squad_dev_6080": {
+        "option": "B",
+        "prediction": "The Oklahoman is the largest daily newspaper in Oklahoma. The Oklahoman is the only regional daily that covers the Greater Oklahoma City area. The Alliance for Audited Media (formerly Audit Bureau Circulation) lists it as the 59th largest U.S. newspaper in circulation. The newspaper was founded in 1889 by Sam Small and taken over in 1903 by Edward K. Gaylord. The number of Oklahomans who speak only English at home, as of 200",
+        "stepNum": 1
+    },
+    "single_squad_dev_6090": {
+        "option": "B",
+        "prediction": "39",
+        "stepNum": 1
+    },
+    "single_squad_dev_6102": {
+        "option": "B",
+        "prediction": "Vedanta",
+        "stepNum": 1
+    },
+    "single_squad_dev_6140": {
+        "option": "B",
+        "prediction": "Democratic Party and the Republican Party",
+        "stepNum": 1
+    },
+    "single_squad_dev_6143": {
+        "option": "B",
+        "prediction": "Algerian people",
+        "stepNum": 1
+    },
+    "single_squad_dev_6148": {
+        "option": "B",
+        "prediction": "Anwar Sadat",
+        "stepNum": 1
+    },
+    "single_squad_dev_6155": {
+        "option": "B",
+        "prediction": "he suffered a nervous breakdown",
+        "stepNum": 1
+    },
+    "single_squad_dev_6188": {
+        "option": "B",
+        "prediction": "hourglass",
+        "stepNum": 1
+    },
+    "single_squad_dev_6189": {
+        "option": "B",
+        "prediction": "incense sticks and candles",
+        "stepNum": 1
+    },
+    "single_squad_dev_6193": {
+        "option": "B",
+        "prediction": "second law of thermodynamics",
+        "stepNum": 1
+    },
+    "single_squad_dev_6249": {
+        "option": "B",
+        "prediction": "90",
+        "stepNum": 1
+    },
+    "single_squad_dev_6251": {
+        "option": "B",
+        "prediction": "the procedure similar to the Belgian handling of King Baudouin's objection",
+        "stepNum": 1
+    },
+    "single_squad_dev_6268": {
+        "option": "C",
+        "prediction": "1875",
+        "stepNum": 2
+    },
+    "single_squad_dev_6285": {
+        "option": "C",
+        "prediction": "\\u00e9tale fundamental group",
+        "stepNum": 2
+    },
+    "single_squad_dev_629": {
+        "option": "B",
+        "prediction": "Ministry of Science, Technology and Higher Education (MCTES)",
+        "stepNum": 1
+    },
+    "single_squad_dev_630": {
+        "option": "B",
+        "prediction": "70",
+        "stepNum": 1
+    },
+    "single_squad_dev_6317": {
+        "option": "B",
+        "prediction": "protect people from the effects of second-hand smoke",
+        "stepNum": 1
+    },
+    "single_squad_dev_6323": {
+        "option": "A",
+        "prediction": "it is the first LaserDisc to be released in the United States",
+        "stepNum": 0
+    },
+    "single_squad_dev_6363": {
+        "option": "B",
+        "prediction": "Bah\\u00e1'\\u00ed Faith, Hinduism and Sikhism",
+        "stepNum": 1
+    },
+    "single_squad_dev_6365": {
+        "option": "B",
+        "prediction": "an infinitely old universe",
+        "stepNum": 1
+    },
+    "single_squad_dev_6383": {
+        "option": "B",
+        "prediction": "Jama'at-ud-Da'wah",
+        "stepNum": 1
+    },
+    "single_squad_dev_644": {
+        "option": "B",
+        "prediction": "Roc-A-Fella Records",
+        "stepNum": 1
+    },
+    "single_squad_dev_6476": {
+        "option": "B",
+        "prediction": "The Proffitts and Hicks",
+        "stepNum": 1
+    },
+    "single_squad_dev_6478": {
+        "option": "B",
+        "prediction": "eggs",
+        "stepNum": 1
+    },
+    "single_squad_dev_648": {
+        "option": "B",
+        "prediction": "Colin St. John",
+        "stepNum": 1
+    },
+    "single_squad_dev_6501": {
+        "option": "B",
+        "prediction": "humans",
+        "stepNum": 1
+    },
+    "single_squad_dev_6518": {
+        "option": "B",
+        "prediction": "Caucasians",
+        "stepNum": 1
+    },
+    "single_squad_dev_6546": {
+        "option": "C",
+        "prediction": "1950s and 2000s",
+        "stepNum": 2
+    },
+    "single_squad_dev_655": {
+        "option": "B",
+        "prediction": "2",
+        "stepNum": 1
+    },
+    "single_squad_dev_6566": {
+        "option": "B",
+        "prediction": "1909",
+        "stepNum": 1
+    },
+    "single_squad_dev_6569": {
+        "option": "B",
+        "prediction": "80",
+        "stepNum": 1
+    },
+    "single_squad_dev_658": {
+        "option": "B",
+        "prediction": "John Legend",
+        "stepNum": 1
+    },
+    "single_squad_dev_6580": {
+        "option": "B",
+        "prediction": "80,698",
+        "stepNum": 1
+    },
+    "single_squad_dev_6597": {
+        "option": "B",
+        "prediction": "because new branches of mathematics were developed",
+        "stepNum": 1
+    },
+    "single_squad_dev_6598": {
+        "option": "B",
+        "prediction": "many",
+        "stepNum": 1
+    },
+    "single_squad_dev_6603": {
+        "option": "B",
+        "prediction": "the tears of the gods and goddesses",
+        "stepNum": 1
+    },
+    "single_squad_dev_6616": {
+        "option": "B",
+        "prediction": "Bush's safety",
+        "stepNum": 1
+    },
+    "single_squad_dev_663": {
+        "option": "B",
+        "prediction": "one of the most disgusting moments",
+        "stepNum": 1
+    },
+    "single_squad_dev_6637": {
+        "option": "C",
+        "prediction": "1966",
+        "stepNum": 5
+    },
+    "single_squad_dev_6644": {
+        "option": "B",
+        "prediction": "the Mongol Empire",
+        "stepNum": 1
+    },
+    "single_squad_dev_6645": {
+        "option": "B",
+        "prediction": "a strong offensive policy",
+        "stepNum": 1
+    },
+    "single_squad_dev_6649": {
+        "option": "B",
+        "prediction": "all the world by force of arms or Rule the Empire by Force",
+        "stepNum": 1
+    },
+    "single_squad_dev_6669": {
+        "option": "B",
+        "prediction": "not pay attention to design",
+        "stepNum": 1
+    },
+    "single_squad_dev_6670": {
+        "option": "B",
+        "prediction": "the user",
+        "stepNum": 1
+    },
+    "single_squad_dev_67": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_6703": {
+        "option": "B",
+        "prediction": "Norman holdings in",
+        "stepNum": 1
+    },
+    "single_squad_dev_673": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_6757": {
+        "option": "B",
+        "prediction": "state. However, the question is asking for a property of objects which can be transferred to other",
+        "stepNum": 1
+    },
+    "single_squad_dev_6762": {
+        "option": "B",
+        "prediction": "an external source of energy",
+        "stepNum": 1
+    },
+    "single_squad_dev_6766": {
+        "option": "B",
+        "prediction": "electricity",
+        "stepNum": 1
+    },
+    "single_squad_dev_6804": {
+        "option": "B",
+        "prediction": "commercial centers and routes",
+        "stepNum": 1
+    },
+    "single_squad_dev_6824": {
+        "option": "B",
+        "prediction": "does not accelerate",
+        "stepNum": 1
+    },
+    "single_squad_dev_6910": {
+        "option": "C",
+        "prediction": "February 16, 1978",
+        "stepNum": 6
+    },
+    "single_squad_dev_6934": {
+        "option": "B",
+        "prediction": "35,787",
+        "stepNum": 1
+    },
+    "single_squad_dev_6937": {
+        "option": "B",
+        "prediction": "size and time of year",
+        "stepNum": 1
+    },
+    "single_squad_dev_6961": {
+        "option": "B",
+        "prediction": "Friedrich Nietzsche",
+        "stepNum": 1
+    },
+    "single_squad_dev_6971": {
+        "option": "C",
+        "prediction": "17th and 18th centuries",
+        "stepNum": 3
+    },
+    "single_squad_dev_6989": {
+        "option": "B",
+        "prediction": "1780",
+        "stepNum": 1
+    },
+    "single_squad_dev_699": {
+        "option": "B",
+        "prediction": "suffering",
+        "stepNum": 1
+    },
+    "single_squad_dev_7002": {
+        "option": "B",
+        "prediction": "Nashville and Chattanooga",
+        "stepNum": 1
+    },
+    "single_squad_dev_7023": {
+        "option": "B",
+        "prediction": "noise music",
+        "stepNum": 1
+    },
+    "single_squad_dev_7024": {
+        "option": "B",
+        "prediction": "barbershop music",
+        "stepNum": 1
+    },
+    "single_squad_dev_7027": {
+        "option": "B",
+        "prediction": "Burnside rules",
+        "stepNum": 1
+    },
+    "single_squad_dev_704": {
+        "option": "B",
+        "prediction": "the amount of something passing through a surface is",
+        "stepNum": 1
+    },
+    "single_squad_dev_7053": {
+        "option": "B",
+        "prediction": "economic growth and recovery of industry",
+        "stepNum": 1
+    },
+    "single_squad_dev_7054": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_7069": {
+        "option": "B",
+        "prediction": "None of the above",
+        "stepNum": 1
+    },
+    "single_squad_dev_7071": {
+        "option": "B",
+        "prediction": "French",
+        "stepNum": 1
+    },
+    "single_squad_dev_7105": {
+        "option": "B",
+        "prediction": "The RCC Institute of Technology was founded as the Radio College of Canada in 1928. The founder of the RCC Institute of Technology was J. C. Wilson. J. C. Wilson had previously amassed considerable radio experience in England and the United States. The founder of the RCC Institute of Technology was not an Arab nationalist thinker. However, the founder of the RCC Institute of Technology was influenced by Arab nationalism. The founder of the RCC Institute of Technology was influenced by Arab nationalism through Shakib Arsl",
+        "stepNum": 1
+    },
+    "single_squad_dev_7118": {
+        "option": "B",
+        "prediction": "Mauritania",
+        "stepNum": 1
+    },
+    "single_squad_dev_7145": {
+        "option": "C",
+        "prediction": "2",
+        "stepNum": 2
+    },
+    "single_squad_dev_7179": {
+        "option": "B",
+        "prediction": "1981",
+        "stepNum": 1
+    },
+    "single_squad_dev_7188": {
+        "option": "B",
+        "prediction": "October 16, 2015",
+        "stepNum": 1
+    },
+    "single_squad_dev_7217": {
+        "option": "B",
+        "prediction": "60th floor sky-lobby",
+        "stepNum": 1
+    },
+    "single_squad_dev_7223": {
+        "option": "B",
+        "prediction": "Uranus",
+        "stepNum": 1
+    },
+    "single_squad_dev_7250": {
+        "option": "C",
+        "prediction": "1985",
+        "stepNum": 2
+    },
+    "single_squad_dev_7254": {
+        "option": "B",
+        "prediction": "12 kV",
+        "stepNum": 1
+    },
+    "single_squad_dev_726": {
+        "option": "A",
+        "prediction": "the core of the teachings",
+        "stepNum": 0
+    },
+    "single_squad_dev_7312": {
+        "option": "B",
+        "prediction": "Christian cross",
+        "stepNum": 1
+    },
+    "single_squad_dev_7327": {
+        "option": "B",
+        "prediction": "English Channel",
+        "stepNum": 1
+    },
+    "single_squad_dev_7328": {
+        "option": "B",
+        "prediction": "Battle of Britain",
+        "stepNum": 1
+    },
+    "single_squad_dev_7338": {
+        "option": "B",
+        "prediction": "one million",
+        "stepNum": 1
+    },
+    "single_squad_dev_7349": {
+        "option": "B",
+        "prediction": "dive bombers",
+        "stepNum": 1
+    },
+    "single_squad_dev_7374": {
+        "option": "C",
+        "prediction": "1850",
+        "stepNum": 2
+    },
+    "single_squad_dev_7382": {
+        "option": "B",
+        "prediction": "flow rate and pressure head",
+        "stepNum": 1
+    },
+    "single_squad_dev_7404": {
+        "option": "B",
+        "prediction": "serving the local government",
+        "stepNum": 1
+    },
+    "single_squad_dev_7415": {
+        "option": "B",
+        "prediction": "aides-de-camp",
+        "stepNum": 1
+    },
+    "single_squad_dev_7419": {
+        "option": "B",
+        "prediction": "The Northern Army had 25,000 men. Of these, 14,000 were captured Red Army soldiers. The Northern Army was formed from volunteers and captured Red Army soldiers. The Northern Army was formed in 1918. In 1919, the Northern Army launched an offensive on the Northern Front. In 1920, the Northern Army had 1,492 officers, 39,822 combatant and 13,456 non-combatant lower ranks. The Northern Army was formed",
+        "stepNum": 1
+    },
+    "single_squad_dev_7436": {
+        "option": "C",
+        "prediction": "1976",
+        "stepNum": 10
+    },
+    "single_squad_dev_7450": {
+        "option": "C",
+        "prediction": "1013",
+        "stepNum": 2
+    },
+    "single_squad_dev_7453": {
+        "option": "B",
+        "prediction": "belief",
+        "stepNum": 1
+    },
+    "single_squad_dev_7468": {
+        "option": "A",
+        "prediction": "China",
+        "stepNum": 0
+    },
+    "single_squad_dev_7485": {
+        "option": "B",
+        "prediction": "Not mentioned",
+        "stepNum": 1
+    },
+    "single_squad_dev_7490": {
+        "option": "B",
+        "prediction": "microorganisms",
+        "stepNum": 1
+    },
+    "single_squad_dev_7530": {
+        "option": "B",
+        "prediction": "Ryder Cup",
+        "stepNum": 1
+    },
+    "single_squad_dev_7537": {
+        "option": "B",
+        "prediction": "Russo-American Treaty of 1824 and the Russo-British Treaty of 1825",
+        "stepNum": 1
+    },
+    "single_squad_dev_7551": {
+        "option": "B",
+        "prediction": "Germany and Italy",
+        "stepNum": 1
+    },
+    "single_squad_dev_7581": {
+        "option": "B",
+        "prediction": "impedance level of a system",
+        "stepNum": 1
+    },
+    "single_squad_dev_7582": {
+        "option": "C",
+        "prediction": "at the resonant frequency",
+        "stepNum": 2
+    },
+    "single_squad_dev_7669": {
+        "option": "B",
+        "prediction": "their own humiliating inadequacies",
+        "stepNum": 1
+    },
+    "single_squad_dev_7689": {
+        "option": "B",
+        "prediction": "high-speed storage accessed by key",
+        "stepNum": 1
+    },
+    "single_squad_dev_7725": {
+        "option": "B",
+        "prediction": "2013",
+        "stepNum": 1
+    },
+    "single_squad_dev_7726": {
+        "option": "B",
+        "prediction": "January or March",
+        "stepNum": 1
+    },
+    "single_squad_dev_7738": {
+        "option": "C",
+        "prediction": "1918",
+        "stepNum": 3
+    },
+    "single_squad_dev_7764": {
+        "option": "B",
+        "prediction": "a program in the country",
+        "stepNum": 1
+    },
+    "single_squad_dev_7777": {
+        "option": "B",
+        "prediction": "1, 2, and 3",
+        "stepNum": 1
+    },
+    "single_squad_dev_7779": {
+        "option": "B",
+        "prediction": "organic compounds",
+        "stepNum": 1
+    },
+    "single_squad_dev_7804": {
+        "option": "B",
+        "prediction": "type designation",
+        "stepNum": 1
+    },
+    "single_squad_dev_7819": {
+        "option": "B",
+        "prediction": "one",
+        "stepNum": 1
+    },
+    "single_squad_dev_7837": {
+        "option": "C",
+        "prediction": "Optus",
+        "stepNum": 2
+    },
+    "single_squad_dev_7841": {
+        "option": "B",
+        "prediction": "verifiable",
+        "stepNum": 1
+    },
+    "single_squad_dev_7846": {
+        "option": "A",
+        "prediction": "lapis lazuli",
+        "stepNum": 0
+    },
+    "single_squad_dev_7853": {
+        "option": "B",
+        "prediction": "Hasdrubal the Fair",
+        "stepNum": 1
+    },
+    "single_squad_dev_7863": {
+        "option": "B",
+        "prediction": "Augustus",
+        "stepNum": 1
+    },
+    "single_squad_dev_7902": {
+        "option": "B",
+        "prediction": "Thailand was the third-largest provider of ground forces to South Vietnam, allowed the United States Air Force in Thailand to use its air and naval bases, and sent troops to South Vietnam",
+        "stepNum": 1
+    },
+    "single_squad_dev_796": {
+        "option": "B",
+        "prediction": "None",
+        "stepNum": 1
+    },
+    "single_squad_dev_7966": {
+        "option": "B",
+        "prediction": "93",
+        "stepNum": 1
+    },
+    "single_squad_dev_8026": {
+        "option": "C",
+        "prediction": "during the reign of Shah Abbas I",
+        "stepNum": 3
+    },
+    "single_squad_dev_8032": {
+        "option": "B",
+        "prediction": "Constitution of the Islamic Republic of Iran",
+        "stepNum": 1
+    },
+    "single_squad_dev_8033": {
+        "option": "B",
+        "prediction": "$84 billion",
+        "stepNum": 1
+    },
+    "single_squad_dev_8084": {
+        "option": "B",
+        "prediction": "Accra",
+        "stepNum": 1
+    },
+    "single_squad_dev_8098": {
+        "option": "C",
+        "prediction": "1989",
+        "stepNum": 3
+    },
+    "single_squad_dev_8116": {
+        "option": "B",
+        "prediction": "1973",
+        "stepNum": 1
+    },
+    "single_squad_dev_8123": {
+        "option": "B",
+        "prediction": "Sibusiso Dlamini",
+        "stepNum": 1
+    },
+    "single_squad_dev_8196": {
+        "option": "B",
+        "prediction": "silt deposited by the Tigris and the Euphrates",
+        "stepNum": 1
+    },
+    "single_squad_dev_8222": {
+        "option": "A",
+        "prediction": "Tuvaluan",
+        "stepNum": 0
+    },
+    "single_squad_dev_829": {
+        "option": "B",
+        "prediction": "$900 million",
+        "stepNum": 1
+    },
+    "single_squad_dev_8294": {
+        "option": "B",
+        "prediction": "September 18, 1947",
+        "stepNum": 1
+    },
+    "single_squad_dev_8309": {
+        "option": "B",
+        "prediction": "It is primarily responsible for aerial warfare",
+        "stepNum": 1
+    },
+    "single_squad_dev_8322": {
+        "option": "B",
+        "prediction": "cadmium",
+        "stepNum": 1
+    },
+    "single_squad_dev_8333": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_8335": {
+        "option": "B",
+        "prediction": "blood",
+        "stepNum": 1
+    },
+    "single_squad_dev_8357": {
+        "option": "B",
+        "prediction": "Han Chinese who defected to the Qing up to 1644",
+        "stepNum": 1
+    },
+    "single_squad_dev_840": {
+        "option": "B",
+        "prediction": "Hundiz",
+        "stepNum": 1
+    },
+    "single_squad_dev_8404": {
+        "option": "B",
+        "prediction": "The Cascajal Block is a tablet-sized writing slab in Mexico, made of serpentinite, which has been dated to the early first millennium BCE, incised with hitherto unknown characters that may represent the earliest writing system in the New World. The Cascajal Block was discovered by road builders in the late 1990s in a pile of debris in the village of Lomas de Tacamichapan in the Veracruz lowlands in the ancient Olmec heartland of coastal",
+        "stepNum": 1
+    },
+    "single_squad_dev_8422": {
+        "option": "B",
+        "prediction": "The Ptolemaic Kingdom was a Hellenistic kingdom based in ancient Egypt. It was ruled by the Ptolemaic dynasty, which started with Ptolemy I Soter's accession after the death of Alexander the Great in 323 BC and which ended with the death of Cleopatra and the Roman conquest in 30 BC. The Ptolemaic Kingdom was founded in 305 BC by Ptolemy I Soter, a \\\"diadochus",
+        "stepNum": 1
+    },
+    "single_squad_dev_8426": {
+        "option": "B",
+        "prediction": "1958",
+        "stepNum": 1
+    },
+    "single_squad_dev_8427": {
+        "option": "B",
+        "prediction": "private investment",
+        "stepNum": 1
+    },
+    "single_squad_dev_8432": {
+        "option": "B",
+        "prediction": "35",
+        "stepNum": 1
+    },
+    "single_squad_dev_8451": {
+        "option": "B",
+        "prediction": "Christ enthroned between Saint Gervasius and Saint Protasius and angels before a golden background",
+        "stepNum": 1
+    },
+    "single_squad_dev_8471": {
+        "option": "B",
+        "prediction": "scant remains",
+        "stepNum": 1
+    },
+    "single_squad_dev_8542": {
+        "option": "B",
+        "prediction": "The Tetris Company",
+        "stepNum": 1
+    },
+    "single_squad_dev_8552": {
+        "option": "C",
+        "prediction": "Isaac Region",
+        "stepNum": 3
+    },
+    "single_squad_dev_8554": {
+        "option": "B",
+        "prediction": "Exam-Aid program",
+        "stepNum": 1
+    },
+    "single_squad_dev_8561": {
+        "option": "B",
+        "prediction": "reimbursement of parents for the costs of transportation to and from schools, including private schools",
+        "stepNum": 1
+    },
+    "single_squad_dev_8562": {
+        "option": "B",
+        "prediction": "binding precedent nor does it become a part of case law",
+        "stepNum": 1
+    },
+    "single_squad_dev_8568": {
+        "option": "B",
+        "prediction": "religion",
+        "stepNum": 1
+    },
+    "single_squad_dev_8581": {
+        "option": "B",
+        "prediction": "the clergy selling plenary indulgences",
+        "stepNum": 1
+    },
+    "single_squad_dev_8596": {
+        "option": "B",
+        "prediction": "279 million",
+        "stepNum": 1
+    },
+    "single_squad_dev_8604": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_863": {
+        "option": "B",
+        "prediction": "sigma bonds and pi bonds",
+        "stepNum": 1
+    },
+    "single_squad_dev_8631": {
+        "option": "B",
+        "prediction": "83.9",
+        "stepNum": 1
+    },
+    "single_squad_dev_8636": {
+        "option": "B",
+        "prediction": "a negative campaign tactic",
+        "stepNum": 1
+    },
+    "single_squad_dev_8669": {
+        "option": "B",
+        "prediction": "Acts 15:29",
+        "stepNum": 1
+    },
+    "single_squad_dev_8683": {
+        "option": "B",
+        "prediction": "the fragmented and antagonistic character of German state institutions",
+        "stepNum": 1
+    },
+    "single_squad_dev_8698": {
+        "option": "B",
+        "prediction": "General Badoglio",
+        "stepNum": 1
+    },
+    "single_squad_dev_8705": {
+        "option": "B",
+        "prediction": "Republican",
+        "stepNum": 1
+    },
+    "single_squad_dev_8707": {
+        "option": "B",
+        "prediction": "1969",
+        "stepNum": 1
+    },
+    "single_squad_dev_8709": {
+        "option": "B",
+        "prediction": "Gettysburg",
+        "stepNum": 1
+    },
+    "single_squad_dev_8727": {
+        "option": "B",
+        "prediction": "0.1%",
+        "stepNum": 1
+    },
+    "single_squad_dev_8728": {
+        "option": "B",
+        "prediction": "Not mentioned",
+        "stepNum": 1
+    },
+    "single_squad_dev_8756": {
+        "option": "B",
+        "prediction": "Byzantine text-type",
+        "stepNum": 1
+    },
+    "single_squad_dev_8769": {
+        "option": "B",
+        "prediction": "brachiopods",
+        "stepNum": 1
+    },
+    "single_squad_dev_8773": {
+        "option": "B",
+        "prediction": "Ouachita Mountains",
+        "stepNum": 1
+    },
+    "single_squad_dev_8791": {
+        "option": "B",
+        "prediction": "27.7 million",
+        "stepNum": 1
+    },
+    "single_squad_dev_8793": {
+        "option": "B",
+        "prediction": "25.8%",
+        "stepNum": 1
+    },
+    "single_squad_dev_8799": {
+        "option": "B",
+        "prediction": "90%",
+        "stepNum": 1
+    },
+    "single_squad_dev_88": {
+        "option": "B",
+        "prediction": "The Observer",
+        "stepNum": 1
+    },
+    "single_squad_dev_8800": {
+        "option": "B",
+        "prediction": "a fight between a migrant teen from Sichuan and a local schoolboy",
+        "stepNum": 1
+    },
+    "single_squad_dev_8803": {
+        "option": "C",
+        "prediction": "c. 1061 CE",
+        "stepNum": 3
+    },
+    "single_squad_dev_8810": {
+        "option": "B",
+        "prediction": "by infecting different cells of the body",
+        "stepNum": 1
+    },
+    "single_squad_dev_8816": {
+        "option": "B",
+        "prediction": "infections",
+        "stepNum": 1
+    },
+    "single_squad_dev_8858": {
+        "option": "B",
+        "prediction": "Lord Krishna",
+        "stepNum": 1
+    },
+    "single_squad_dev_8859": {
+        "option": "B",
+        "prediction": "Licchavi Period",
+        "stepNum": 1
+    },
+    "single_squad_dev_8877": {
+        "option": "C",
+        "prediction": "medieval",
+        "stepNum": 3
+    },
+    "single_squad_dev_8885": {
+        "option": "B",
+        "prediction": "Oregon",
+        "stepNum": 1
+    },
+    "single_squad_dev_897": {
+        "option": "B",
+        "prediction": "The head of the U.S. Olympic Committee is the President of the U.S. Olympic Committee. The President of the U.S. Olympic Committee is not mentioned in the text. However, the text does mention that the President of the Organizing Committee for the Olympic Games is the individual who is in charge of leading the Organizing Committee for each Olympic Games. The text also mentions that the President of the Organizing Committee for the Olympic Games has gone on to or has served in other high offices",
+        "stepNum": 1
+    },
+    "single_squad_dev_909": {
+        "option": "B",
+        "prediction": "There is no answer",
+        "stepNum": 1
+    },
+    "single_squad_dev_955": {
+        "option": "B",
+        "prediction": "July 11, 2008",
+        "stepNum": 1
+    },
+    "single_squad_dev_971": {
+        "option": "B",
+        "prediction": "TALF program",
+        "stepNum": 1
+    }
+}

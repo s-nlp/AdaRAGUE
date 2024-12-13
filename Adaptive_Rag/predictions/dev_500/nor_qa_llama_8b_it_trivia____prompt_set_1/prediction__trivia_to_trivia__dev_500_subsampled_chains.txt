@@ -1,0 +1,4000 @@
+
+single_trivia_dev_4684
+Muscat is the capital of which country?
+Q: Muscat is the capital of which country?
+A: "Muscat is the capital of Oman. So the answer is: Oman."
+A: Oman
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4774
+Smithsonite is a carbonate of zinc, by what name is it commonly known?
+Q: Smithsonite is a carbonate of zinc, by what name is it commonly known?
+A: "Smithsonite is a carbonate of zinc, and it is commonly known as zinc carbonate. So the answer is: zinc carbonate."
+A: zinc carbonate
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2465
+The (now largely obsolete) proofreading mark of a horizontal line above and below a passage of text gives instruction to correct?
+Q: The (now largely obsolete) proofreading mark of a horizontal line above and below a passage of text gives instruction to correct?
+A: "The proofreading mark of a horizontal line above and below a passage of text is called a \"rule\". The instruction to correct is to \"rule\" the passage. So the answer is: rule."
+A: rule
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4802
+Name Shirley MacLaine's actor brother.
+Q: Name Shirley MacLaine's actor brother.
+A: "Shirley MacLaine's actor brother is Warren Beatty. So the answer is: Warren Beatty."
+A: Warren Beatty
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_573
+How many flakes of snow have to fall in the 24 hours of the 25th December anywhere in the UK to be classified as a White christmas?
+Q: How many flakes of snow have to fall in the 24 hours of the 25th December anywhere in the UK to be classified as a White christmas?
+A: "The UK Met Office defines a White Christmas as a single flake of snow falling on the ground at 9 am on 25 December somewhere in the UK. So the answer is: one."
+A: one
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3605
+What measurement has been used for the intensity of earthquakes?
+Q: What measurement has been used for the intensity of earthquakes?
+A: "The measurement that has been used for the intensity of earthquakes is the Richter scale. So the answer is: Richter scale."
+A: Richter scale
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7773
+Which science is the study of the origin of the Universe?
+Q: Which science is the study of the origin of the Universe?
+A: "The science that is the study of the origin of the Universe is Cosmology. So the answer is: Cosmology."
+A: Cosmology
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7769
+Which former international full back was manager of Leeds United when they reached the European Cup Final in 1974-75, before working as a football summariser on BBC radio for over 30 years?
+Q: Which former international full back was manager of Leeds United when they reached the European Cup Final in 1974-75, before working as a football summariser on BBC radio for over 30 years?
+A: "The former international full back who was manager of Leeds United when they reached the European Cup Final in 1974-75 is Billy Bremner. Billy Bremner worked as a football summariser on BBC radio for over 30 years. So the answer is: Billy Bremner."
+A: Billy Bremner
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1826
+“It’s the way I tell ‘em!” was one of the catchphrases of which comedian?
+Q: “It’s the way I tell ‘em!” was one of the catchphrases of which comedian?
+A: "The comedian who had the catchphrase \"It's the way I tell 'em!\" is Red Skelton. So the answer is: Red Skelton."
+A: Red Skelton
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_234
+Which sea is so highly polluted that the Barcelona Convention was set up in 976 to try and clean it up?
+Q: Which sea is so highly polluted that the Barcelona Convention was set up in 976 to try and clean it up?
+A: "The sea that is so highly polluted that the Barcelona Convention was set up in 976 to try and clean it up is the Mediterranean Sea. So the answer is: Mediterranean Sea."
+A: Mediterranean Sea
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2210
+The spy who became known as Mata Hari was born in which European country in 1876 ?
+Q: The spy who became known as Mata Hari was born in which European country in 1876 ?
+A: "Mata Hari was born in the Netherlands in 1876. So the answer is: Netherlands."
+A: Netherlands
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6950
+Which American writer shot and killed his ex-wife during a drunken party game in Mexico City in 1951?
+Q: Which American writer shot and killed his ex-wife during a drunken party game in Mexico City in 1951?
+A: "The American writer who shot and killed his ex-wife during a drunken party game in Mexico City in 1951 is Ernest Hemingway. So the answer is: Ernest Hemingway."
+A: Ernest Hemingway
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_937
+The ‘Shuttlecock Club’ is an exclusive society for anyone who has crashed and survived on which racing track?
+Q: The ‘Shuttlecock Club’ is an exclusive society for anyone who has crashed and survived on which racing track?
+A: "The exclusive society for anyone who has crashed and survived on the racing track is the \u2018Shuttlecock Club\u2019 of the Silverstone Circuit. So the answer is: Silverstone Circuit."
+A: Silverstone Circuit
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3600
+Pedology is the study of what?
+Q: Pedology is the study of what?
+A: "Pedology is the study of soil. So the answer is: soil."
+A: soil
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7825
+What term is given to three consecutive strikes in ten pin bowling
+Q: What term is given to three consecutive strikes in ten pin bowling
+A: "The term given to three consecutive strikes in ten pin bowling is a turkey. So the answer is: turkey."
+A: turkey
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1260
+Which element has the highest melting point?
+Q: Which element has the highest melting point?
+A: "The element with the highest melting point is Tungsten. So the answer is: Tungsten."
+A: Tungsten
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5714
+"The ""Pascal"" is the SI Unit of what?"
+Q: "The ""Pascal"" is the SI Unit of what?"
+A: "The SI Unit of pressure is Pascal. So the answer is: pressure."
+A: pressure
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3743
+By what name is Edson Arantes do Nascimento better known to his fans?
+Q: By what name is Edson Arantes do Nascimento better known to his fans?
+A: "Edson Arantes do Nascimento is better known to his fans as Pel\u00e9. So the answer is: Pel\u00e9."
+A: Pel\u00e9
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3659
+"Sliced bread, advertised as ""the greatest forward step in the baking industry since bread was wrapped"", was first sold when?"
+Q: "Sliced bread, advertised as ""the greatest forward step in the baking industry since bread was wrapped"", was first sold when?"
+A: "Sliced bread was first sold in 1928. So the answer is: 1928."
+A: 1928
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4281
+What is the largest Spanish-speaking country by land area?
+Q: What is the largest Spanish-speaking country by land area?
+A: "The largest Spanish-speaking country by land area is Argentina. So the answer is: Argentina."
+A: Argentina
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1977
+Which of the works of Gilbert and Sullivan, when first presented at the Savoy Theatre in 1887, was billed as 'A New and Original Supernatural Opera in Two Acts'?
+Q: Which of the works of Gilbert and Sullivan, when first presented at the Savoy Theatre in 1887, was billed as 'A New and Original Supernatural Opera in Two Acts'?
+A: "The work of Gilbert and Sullivan that was billed as 'A New and Original Supernatural Opera in Two Acts' is The Mikado. So the answer is: The Mikado."
+A: The Mikado
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2965
+What word best describes a triangle where all sides are different lengths?
+Q: What word best describes a triangle where all sides are different lengths?
+A: "A triangle where all sides are different lengths is called a scalene triangle. So the answer is: scalene."
+A: scalene
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3520
+What letters of the modern basic Latin alphabet do not occur in the Turkish alphabet?
+Q: What letters of the modern basic Latin alphabet do not occur in the Turkish alphabet?
+A: "The Turkish alphabet does not include the letters Q, W, X. So the answer is: Q, W, X."
+A: Q, W, X
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6436
+Who played the title role in the 2015 film Macbeth?
+Q: Who played the title role in the 2015 film Macbeth?
+A: "The title role in the 2015 film Macbeth was played by Michael Fassbender. So the answer is: Michael Fassbender."
+A: Michael Fassbender
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_677
+An opah is what type of creature?
+Q: An opah is what type of creature?
+A: "An opah is a fish. So the answer is: fish."
+A: fish
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5662
+What type of creature is a lumpsucker?
+Q: What type of creature is a lumpsucker?
+A: "A lumpsucker is a type of fish. So the answer is: fish."
+A: fish
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2321
+By what name is Siddartha Guatama better known?
+Q: By what name is Siddartha Guatama better known?
+A: "Siddartha Guatama is better known as Buddha. So the answer is: Buddha."
+A: Buddha
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4267
+"Grammatically speaking, the phrase ""to boldly go"" is a split __________"
+Q: "Grammatically speaking, the phrase ""to boldly go"" is a split __________"
+A: "\"Grammatically speaking, the phrase \"\"to boldly go\"\" is a split infinitive\". So the answer is: infinitive."
+A: infinitive
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2935
+What word, orginally meaning female slave in Greek, refers to a woman who gives support and help to a pregnant woman before, during and after childbirth?
+Q: What word, orginally meaning female slave in Greek, refers to a woman who gives support and help to a pregnant woman before, during and after childbirth?
+A: "The word that refers to a woman who gives support and help to a pregnant woman before, during and after childbirth is doula. The word doula originally means female slave in Greek. So the answer is: doula."
+A: doula
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1286
+Marke Rutte became Prime Minister of which European country in 2010?
+Q: Marke Rutte became Prime Minister of which European country in 2010?
+A: "Marke Rutte became Prime Minister of the Netherlands in 2010. So the answer is: Netherlands."
+A: Netherlands
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2906
+What gruesome animal behaviour term, refers to the undesirable loss of product sales when customers switch to a similar product offered by the same supplier?
+Q: What gruesome animal behaviour term, refers to the undesirable loss of product sales when customers switch to a similar product offered by the same supplier?
+A: "The term that refers to the undesirable loss of product sales when customers switch to a similar product offered by the same supplier is cannibalization. However, cannibalization is not an animal behaviour term. The term that refers to the undesirable loss of product sales when customers switch to a similar product offered by the same supplier and is an animal behaviour term is siblicide. However, siblicide is not the term that refers to the undesirable loss of product sales when customers switch to a similar"
+A: The term that refers to the undesirable loss of product sales when customers switch to a similar product offered by the same supplier is cannibalization. However, cannibalization is not an animal behaviour term. The term that refers to the undesirable loss of product sales when customers switch to a similar product offered by the same supplier and is an animal behaviour term is siblicide. However, siblicide is not the term that refers to the undesirable loss of product sales when customers switch to a similar
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8340
+What is sake made from?
+Q: What is sake made from?
+A: "Sake is made from rice. So the answer is: rice."
+A: rice
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5361
+Who was the English archaeologist (1874-1939) noted as the primary discoverer of Tutankhamen's tomb?
+Q: Who was the English archaeologist (1874-1939) noted as the primary discoverer of Tutankhamen's tomb?
+A: "The English archaeologist (1874-1939) noted as the primary discoverer of Tutankhamen's tomb is Howard Carter. So the answer is: Howard Carter."
+A: Howard Carter
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6046
+Shark Tank is the US version of which reality TV series?
+Q: Shark Tank is the US version of which reality TV series?
+A: "Shark Tank is the US version of Dragons' Den. So the answer is: Dragons' Den."
+A: Dragons' Den
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3782
+"What is the simple past tense of the verb ""swim""?"
+Q: "What is the simple past tense of the verb ""swim""?"
+A: "The simple past tense of the verb \"swim\" is \"swam\". So the answer is: swam."
+A: swam
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5813
+Which 1969 Elvis Presley hit was also a hit for the group Fine Young Cannibals in 1985?
+Q: Which 1969 Elvis Presley hit was also a hit for the group Fine Young Cannibals in 1985?
+A: "The 1969 Elvis Presley hit that was also a hit for the group Fine Young Cannibals in 1985 is \"Suspicious Minds\". So the answer is: Suspicious Minds."
+A: Suspicious Minds
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2155
+Introduced in 2007 what six letter name is given to the device described as being an e – book reader or a software and hardware platform designed by Amazon for the rendering of e – books and other digital media., they are often able to download over 1,000 books ?
+Q: Introduced in 2007 what six letter name is given to the device described as being an e – book reader or a software and hardware platform designed by Amazon for the rendering of e – books and other digital media., they are often able to download over 1,000 books ?
+A: "The device described as being an e \u2013 book reader or a software and hardware platform designed by Amazon for the rendering of e \u2013 books and other digital media is the Kindle. Thus, the six letter name is Kindle. So the answer is: Kindle."
+A: Kindle
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8210
+Name only boxer to win a world title who never had a manager?
+Q: Name only boxer to win a world title who never had a manager?
+A: "The boxer who won a world title and never had a manager is Mike Tyson. So the answer is: Mike Tyson."
+A: Mike Tyson
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6880
+Which European country's national flag is a horizontal tricolour: Blue, Black and White?
+Q: Which European country's national flag is a horizontal tricolour: Blue, Black and White?
+A: "The national flag of Germany is a horizontal tricolour: Black, Red and Gold. The national flag of Poland is a horizontal tricolour: White, Red and Blue. The national flag of the Netherlands is a horizontal tricolour: Red, White and Blue. The national flag of the United Kingdom is a horizontal tricolour: Blue, White and Red. The national flag of the Czech Republic is a horizontal tricolour: Blue, White and Red. The national flag of the"
+A: The national flag of Germany is a horizontal tricolour: Black, Red and Gold. The national flag of Poland is a horizontal tricolour: White, Red and Blue. The national flag of the Netherlands is a horizontal tricolour: Red, White and Blue. The national flag of the United Kingdom is a horizontal tricolour: Blue, White and Red. The national flag of the Czech Republic is a horizontal tricolour: Blue, White and Red. The national flag of the
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1839
+Which electrical goods brand advertised with the tagline ‘The Appliance of Science’?
+Q: Which electrical goods brand advertised with the tagline ‘The Appliance of Science’?
+A: "The electrical goods brand that advertised with the tagline \u2018The Appliance of Science\u2019 is Hoover. So the answer is: Hoover."
+A: Hoover
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6290
+Which 17th century would-be assassin is reputed to have said to one of his victims “a desperate disease requires a desperate remedy”?
+Q: Which 17th century would-be assassin is reputed to have said to one of his victims “a desperate disease requires a desperate remedy”?
+A: "The 17th century would-be assassin who said to one of his victims \u201ca desperate disease requires a desperate remedy\u201d is Robert Catesby. So the answer is: Robert Catesby."
+A: Robert Catesby
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6441
+David Beckham retired in 2013 after playing 10 games for which French club?
+Q: David Beckham retired in 2013 after playing 10 games for which French club?
+A: "David Beckham retired in 2013 after playing 10 games for Paris Saint-Germain. So the answer is: Paris Saint-Germain."
+A: Paris Saint-Germain
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5299
+If you were celebrating your pearl wedding anniversary for how many years have you been married?
+Q: If you were celebrating your pearl wedding anniversary for how many years have you been married?
+A: "A pearl wedding anniversary is celebrated after 30 years of marriage. So the answer is: 30."
+A: 30
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5107
+What is the former name of Cape of Good Hope?
+Q: What is the former name of Cape of Good Hope?
+A: "The former name of Cape of Good Hope is Cape of Storms. So the answer is: Cape of Storms."
+A: Cape of Storms
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6985
+Who is fifth in line to the throne?
+Q: Who is fifth in line to the throne?
+A: "The line of succession to the British throne is as follows: Charles, Prince of Wales, Prince William, Duke of Cambridge, Prince George of Cambridge, Princess Charlotte of Cambridge, Prince Louis of Cambridge, Prince Harry, Duke of Sussex, Archie Mountbatten-Windsor, and Lilibet Mountbatten-Windsor. Thus, Archie Mountbatten-Windsor is fifth in line to the throne. So the answer is: Archie Mountbatten-Windsor."
+A: Archie Mountbatten-Windsor
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6830
+Whose distillery produces 'Glenlivet' Malt Whisky?
+Q: Whose distillery produces 'Glenlivet' Malt Whisky?
+A: "Glenlivet Malt Whisky is produced by the Glenlivet distillery. The Glenlivet distillery is owned by Pernod Ricard. So the answer is: Pernod Ricard."
+A: Pernod Ricard
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8479
+Name the movie and character/actor that features the quote: “Mama always said “Life is like a box of chocolates: You never know what you’re gonna get”.”
+Q: Name the movie and character/actor that features the quote: “Mama always said “Life is like a box of chocolates: You never know what you’re gonna get”.”
+A: "The quote \"Mama always said \u201cLife is like a box of chocolates: You never know what you\u2019re gonna get\u201d\" is from the movie Forrest Gump. The character that said this quote is Forrest Gump, played by Tom Hanks. So the answer is: Forrest Gump."
+A: Forrest Gump
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3357
+"""The Unsinkable Seven"" is a nickname given to the only competitors to finish what rally, in both 1963 and 1968?"
+Q: """The Unsinkable Seven"" is a nickname given to the only competitors to finish what rally, in both 1963 and 1968?"
+A: "The rally in which the competitors were nicknamed \"The Unsinkable Seven\" is the London to Sydney Rally. So the answer is: London to Sydney Rally."
+A: London to Sydney Rally
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1388
+In which county of Northern Ireland is the Giant’s Causeway?
+Q: In which county of Northern Ireland is the Giant’s Causeway?
+A: "The Giant\u2019s Causeway is located in County Antrim. So the answer is: County Antrim."
+A: County Antrim
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3431
+Ernest Lawrence of the University of California, Berkeley, is credited with the development in 1929 of what type of particle accelerator that accelerates charged particles using a high-frequency, alternating voltage in a perpendicular magnetic field, causing them to spiral and encounter the accelerating voltage many times?
+Q: Ernest Lawrence of the University of California, Berkeley, is credited with the development in 1929 of what type of particle accelerator that accelerates charged particles using a high-frequency, alternating voltage in a perpendicular magnetic field, causing them to spiral and encounter the accelerating voltage many times?
+A: "Ernest Lawrence of the University of California, Berkeley, is credited with the development in 1929 of the cyclotron. The cyclotron accelerates charged particles using a high-frequency, alternating voltage in a perpendicular magnetic field, causing them to spiral and encounter the accelerating voltage many times. So the answer is: cyclotron."
+A: cyclotron
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5725
+What is the name of the Wiltshire house of the Marquis of Bath?
+Q: What is the name of the Wiltshire house of the Marquis of Bath?
+A: "The Wiltshire house of the Marquis of Bath is Longleat. So the answer is: Longleat."
+A: Longleat
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1438
+What was the birth name of the woman who married Laurence Olivier in 1961?
+Q: What was the birth name of the woman who married Laurence Olivier in 1961?
+A: "The woman who married Laurence Olivier in 1961 is Joan Plowright. The birth name of Joan Plowright is Joan Newell. So the answer is: Joan Newell."
+A: Joan Newell
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8233
+Ascot racecourse September 1996, How did Frankie Dettori seal his place in racings history?
+Q: Ascot racecourse September 1996, How did Frankie Dettori seal his place in racings history?
+A: "Frankie Dettori sealed his place in racings history by winning all seven races at Ascot racecourse in September 1996. So the answer is: by winning all seven races at Ascot racecourse in September 1996."
+A: by winning all seven races at Ascot racecourse in September 1996
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6068
+In World War II what was the British Operation 'Chastise' which took place in May 1943?
+Q: In World War II what was the British Operation 'Chastise' which took place in May 1943?
+A: "Operation Chastise was a British operation in World War II. It took place in May 1943. Operation Chastise was a bombing raid on the German dams. So the answer is: a bombing raid on the German dams."
+A: a bombing raid on the German dams
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5829
+At is the symbol for which chemical element?
+Q: At is the symbol for which chemical element?
+A: "The symbol for the chemical element Tin is Sn. The symbol for the chemical element Antimony is Sb. The symbol for the chemical element At is At. So the answer is: At."
+A: At
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6223
+Terry Gene Bollea is the real name of which actor and professional wrestler?
+Q: Terry Gene Bollea is the real name of which actor and professional wrestler?
+A: "Terry Gene Bollea is the real name of Hulk Hogan. So the answer is: Hulk Hogan."
+A: Hulk Hogan
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3862
+In which city's opera house does The Phantom lurk?
+Q: In which city's opera house does The Phantom lurk?
+A: "The Phantom of the Opera is set in the Paris Opera House. So the answer is: Paris."
+A: Paris
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7265
+Which Venetian artist painted 'Venus and Adonis' and 'The Assumption of the Virgin'?
+Q: Which Venetian artist painted 'Venus and Adonis' and 'The Assumption of the Virgin'?
+A: "The Venetian artist who painted 'Venus and Adonis' and 'The Assumption of the Virgin' is Titian. So the answer is: Titian."
+A: Titian
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1694
+Mariano Rajoy became Prime Minister of which EU country in 2011?
+Q: Mariano Rajoy became Prime Minister of which EU country in 2011?
+A: "Mariano Rajoy became Prime Minister of Spain in 2011. So the answer is: Spain."
+A: Spain
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7892
+Who was the first English cricketer to play in 100 test matches
+Q: Who was the first English cricketer to play in 100 test matches
+A: "The first English cricketer to play in 100 test matches is Alec Stewart. So the answer is: Alec Stewart."
+A: Alec Stewart
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1266
+In the children’s fairy tale, what was Cinderella’s carriage before it was changed by the Fairy Godmother?
+Q: In the children’s fairy tale, what was Cinderella’s carriage before it was changed by the Fairy Godmother?
+A: "In the children\u2019s fairy tale, Cinderella\u2019s carriage before it was changed by the Fairy Godmother was a pumpkin. So the answer is: a pumpkin."
+A: a pumpkin
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4138
+If I have four score and seven nickels, how many cents do I have?
+Q: If I have four score and seven nickels, how many cents do I have?
+A: "Four score is 80. Seven nickels is 7 * 5 = 35. So the answer is: 115."
+A: 115
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1688
+In which county of England would you find the royal residence of Sandringham?
+Q: In which county of England would you find the royal residence of Sandringham?
+A: "The royal residence of Sandringham is located in Norfolk. So the answer is: Norfolk."
+A: Norfolk
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7268
+What was the name of the Royal Navy aircraft carrier that was sunk by an Italian torpedo in 1941?
+Q: What was the name of the Royal Navy aircraft carrier that was sunk by an Italian torpedo in 1941?
+A: "The Royal Navy aircraft carrier that was sunk by an Italian torpedo in 1941 was HMS Eagle. So the answer is: HMS Eagle."
+A: HMS Eagle
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5564
+Responsible for such films as 'Pulp Fiction' and 'The Crying Game', which film Production Company was founded by Bob and Harvey Weinstein in 1979?
+Q: Responsible for such films as 'Pulp Fiction' and 'The Crying Game', which film Production Company was founded by Bob and Harvey Weinstein in 1979?
+A: "The film Production Company founded by Bob and Harvey Weinstein in 1979 is Miramax. Miramax is responsible for such films as 'Pulp Fiction' and 'The Crying Game'. So the answer is: Miramax."
+A: Miramax
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2219
+In heraldry, what shape is a lozenge ?
+Q: In heraldry, what shape is a lozenge ?
+A: "A lozenge is a diamond shape. So the answer is: diamond."
+A: diamond
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1964
+Famous for its military marches, in which English county is the town of Wooton Bassett?
+Q: Famous for its military marches, in which English county is the town of Wooton Bassett?
+A: "The town of Wooton Bassett is located in the English county of Wiltshire. So the answer is: Wiltshire."
+A: Wiltshire
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2208
+Which noises did Spanish censors remove from the film Blazing Saddles ?
+Q: Which noises did Spanish censors remove from the film Blazing Saddles ?
+A: "Spanish censors removed the words \"damn\" and \"hell\" from the film Blazing Saddles. So the answer is: damn and hell."
+A: damn and hell
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2706
+Cryptically, what garden hut bulb means 'reveal a mystery', or 'provide an explanation'?
+Q: Cryptically, what garden hut bulb means 'reveal a mystery', or 'provide an explanation'?
+A: "The garden hut bulb that means'reveal a mystery', or 'provide an explanation' is the onion. So the answer is: onion."
+A: onion
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2122
+"""He's a poor lad"", was a famous saying of which sports commentator who died in 1986?"
+Q: """He's a poor lad"", was a famous saying of which sports commentator who died in 1986?"
+A: "The sports commentator who died in 1986 and was famous for saying \"He's a poor lad\" is Kenneth Wolstenholme. So the answer is: Kenneth Wolstenholme."
+A: Kenneth Wolstenholme
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8093
+What does the musical term forte mean
+Q: What does the musical term forte mean
+A: "The musical term forte means loud. So the answer is: loud."
+A: loud
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_247
+Which planet id named after the sky-god who was father of the Titans?
+Q: Which planet id named after the sky-god who was father of the Titans?
+A: "The planet named after the sky-god who was father of the Titans is Uranus. In Greek mythology, the sky-god who was father of the Titans is Uranus. So the answer is: Uranus."
+A: Uranus
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6325
+Which country split into two in the velvet divorce of 1993?
+Q: Which country split into two in the velvet divorce of 1993?
+A: "The country that split into two in the velvet divorce of 1993 is Czechoslovakia. So the answer is: Czechoslovakia."
+A: Czechoslovakia
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3781
+What is the name of the engraved stone, discovered in 1799, that provided a key to deciphering the languages of ancient Egypt?
+Q: What is the name of the engraved stone, discovered in 1799, that provided a key to deciphering the languages of ancient Egypt?
+A: "The engraved stone, discovered in 1799, that provided a key to deciphering the languages of ancient Egypt is the Rosetta Stone. So the answer is: Rosetta Stone."
+A: Rosetta Stone
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4826
+Who did Jenny Von Westphalen marry in 1843?
+Q: Who did Jenny Von Westphalen marry in 1843?
+A: "Jenny Von Westphalen married Karl Marx in 1843. So the answer is: Karl Marx."
+A: Karl Marx
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7321
+In which county were politician Dennis Skinner and artist Joseph Wright born?
+Q: In which county were politician Dennis Skinner and artist Joseph Wright born?
+A: "Dennis Skinner was born in Chesterfield, Derbyshire. Joseph Wright was born in Derby, Derbyshire. Both of them were born in Derbyshire. So the answer is: Derbyshire."
+A: Derbyshire
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_761
+Who is the Greek God of wine?
+Q: Who is the Greek God of wine?
+A: "The Greek God of wine is Dionysus. So the answer is: Dionysus."
+A: Dionysus
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2692
+Brazil began to nationalise its (What?) in 2015?
+Q: Brazil began to nationalise its (What?) in 2015?
+A: "Brazil began to nationalise its oil in 2015. So the answer is: oil."
+A: oil
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4220
+What is Ralph Lauren's most famous brand?
+Q: What is Ralph Lauren's most famous brand?
+A: "Ralph Lauren's most famous brand is Polo. So the answer is: Polo."
+A: Polo
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2188
+Who was British Prime Minister on the day the Great Train Robbery took place ?
+Q: Who was British Prime Minister on the day the Great Train Robbery took place ?
+A: "The Great Train Robbery took place on 8 August 1963. The British Prime Minister on the day the Great Train Robbery took place was Harold Macmillan. So the answer is: Harold Macmillan."
+A: Harold Macmillan
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6891
+'Jayne Eyre' is the best-known of Charlotte Bronte's four completed works. Name one of the other three?
+Q: 'Jayne Eyre' is the best-known of Charlotte Bronte's four completed works. Name one of the other three?
+A: "Charlotte Bronte's four completed works are Jane Eyre, Shirley, Villette and The Professor. So the answer is: Shirley."
+A: Shirley
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6488
+What word internationally recognized as a distress signal and always given three times in a row derives from the French for 'come help me'?
+Q: What word internationally recognized as a distress signal and always given three times in a row derives from the French for 'come help me'?
+A: "The word internationally recognized as a distress signal and always given three times in a row is Mayday. Mayday derives from the French for 'come help me' which is \"m'aidez\". So the answer is: m'aidez."
+A: m'aidez
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3673
+What species of spiny lobster is probably the longest decapod crustacean in the world, growing to lengths of up to 60 centimetres (24 in)?
+Q: What species of spiny lobster is probably the longest decapod crustacean in the world, growing to lengths of up to 60 centimetres (24 in)?
+A: "The species of spiny lobster that is probably the longest decapod crustacean in the world, growing to lengths of up to 60 centimetres (24 in) is the Australian spiny lobster. So the answer is: Australian spiny lobster."
+A: Australian spiny lobster
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6564
+The novel as well as the movie Girl with a Pearl Earring based on painter Vermeer's work was set in which Dutch city also known for its pottery?
+Q: The novel as well as the movie Girl with a Pearl Earring based on painter Vermeer's work was set in which Dutch city also known for its pottery?
+A: "The novel as well as the movie Girl with a Pearl Earring based on painter Vermeer's work was set in the city of Delft. Delft is also known for its pottery. So the answer is: Delft."
+A: Delft
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3844
+"Who, known primarily for dreamy, other-worldly scenes, painted his first album cover in 1968 for ""Gun"", in 1971 began a partnership with the progressive rock band ""Yes"" and created covers for ""Budgie"", ""Uriah Heep"" & ""Gentle Giant""?"
+Q: "Who, known primarily for dreamy, other-worldly scenes, painted his first album cover in 1968 for ""Gun"", in 1971 began a partnership with the progressive rock band ""Yes"" and created covers for ""Budgie"", ""Uriah Heep"" & ""Gentle Giant""?"
+A: "The artist who painted his first album cover in 1968 for \"Gun\", in 1971 began a partnership with the progressive rock band \"Yes\" and created covers for \"Budgie\", \"Uriah Heep\" & \"Gentle Giant\" is Roger Dean. So the answer is: Roger Dean."
+A: Roger Dean
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5149
+According to the Bible who was the mother of Esau and Jacob?
+Q: According to the Bible who was the mother of Esau and Jacob?
+A: "The mother of Esau and Jacob is Rebekah. So the answer is: Rebekah."
+A: Rebekah
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8583
+Convection, conduction, and radiation are three of the ways what type of energy can be transferred?
+Q: Convection, conduction, and radiation are three of the ways what type of energy can be transferred?
+A: "Convection, conduction, and radiation are three of the ways heat energy can be transferred. So the answer is: heat energy."
+A: heat energy
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2546
+Baroque (a dramatic heavily detailed style of art form) began in?
+Q: Baroque (a dramatic heavily detailed style of art form) began in?
+A: "Baroque (a dramatic heavily detailed style of art form) began in Italy in the early 17th century. So the answer is: Italy."
+A: Italy
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7806
+In what year was Lord Mountbatten murdered
+Q: In what year was Lord Mountbatten murdered
+A: "Lord Mountbatten was murdered in 1979. So the answer is: 1979."
+A: 1979
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6620
+Which author admitted that large passages of his best seller were copied from the book The African by Harold Courlander?
+Q: Which author admitted that large passages of his best seller were copied from the book The African by Harold Courlander?
+A: "The author who admitted that large passages of his best seller were copied from the book The African by Harold Courlander is Alex Haley. So the answer is: Alex Haley."
+A: Alex Haley
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_413
+What is the longest river in South Africa?
+Q: What is the longest river in South Africa?
+A: "The longest river in South Africa is the Orange River. So the answer is: Orange River."
+A: Orange River
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7899
+In which TV series do Edna and Saffron appear
+Q: In which TV series do Edna and Saffron appear
+A: "Edna and Saffron appear in the TV series \"The IT Crowd\". So the answer is: The IT Crowd."
+A: The IT Crowd
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5038
+Of what is gymnophobia a fear?
+Q: Of what is gymnophobia a fear?
+A: "Gymnophobia is a fear of nudity. So the answer is: nudity."
+A: nudity
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3793
+"The German bandwurm word ""rindfleischetikettierungsuberwachungsaufgabenubertragungsgesetz"" became famous in early June 2013 for what reason?"
+Q: "The German bandwurm word ""rindfleischetikettierungsuberwachungsaufgabenubertragungsgesetz"" became famous in early June 2013 for what reason?"
+A: "The German bandwurm word \"rindfleischetikettierungsuberwachungsaufgabenubertragungsgesetz\" became famous in early June 2013 for being the longest word in the German language. So the answer is: longest word in the German language."
+A: longest word in the German language
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4018
+What nationality is the tennis player Marcos Baghdatis?
+Q: What nationality is the tennis player Marcos Baghdatis?
+A: "The tennis player Marcos Baghdatis is Cypriot. So the answer is: Cypriot."
+A: Cypriot
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2146
+Which stand-up comedian has played football at semi-professional level and once worked full-time as a pharmaceuticals sales director?
+Q: Which stand-up comedian has played football at semi-professional level and once worked full-time as a pharmaceuticals sales director?
+A: "The stand-up comedian who has played football at semi-professional level and once worked full-time as a pharmaceuticals sales director is John Bishop. So the answer is: John Bishop."
+A: John Bishop
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2787
+What was the original use of the building which now houses the Tate Modern art museum in London?
+Q: What was the original use of the building which now houses the Tate Modern art museum in London?
+A: "The building which now houses the Tate Modern art museum in London was originally a power station. So the answer is: power station."
+A: power station
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7239
+Which French author wrote the novels 'The Counterfeiters' and 'The Immoralist'?
+Q: Which French author wrote the novels 'The Counterfeiters' and 'The Immoralist'?
+A: "The French author who wrote the novels 'The Counterfeiters' and 'The Immoralist' is Andr\u00e9 Gide. So the answer is: Andr\u00e9 Gide."
+A: Andr\u00e9 Gide
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4103
+What Houston energy company went bankrupt due to massive accounting fraud?
+Q: What Houston energy company went bankrupt due to massive accounting fraud?
+A: "The Houston energy company that went bankrupt due to massive accounting fraud is Enron. So the answer is: Enron."
+A: Enron
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6877
+Give either of the anglicised forenames of the artists the Chapman Brothers.
+Q: Give either of the anglicised forenames of the artists the Chapman Brothers.
+A: "The Chapman Brothers are artists who are known by the forenames Jake and Dinos. So the answer is: Jake and Dinos."
+A: Jake and Dinos
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2084
+Which famous beauty of the court of Charles II served as the model for the figure of Britannia on a commemorative medal ?
+Q: Which famous beauty of the court of Charles II served as the model for the figure of Britannia on a commemorative medal ?
+A: "The famous beauty of the court of Charles II who served as the model for the figure of Britannia on a commemorative medal is Nell Gwyn. So the answer is: Nell Gwyn."
+A: Nell Gwyn
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_142
+If you have an active Internet connection, you are said to be on what?
+Q: If you have an active Internet connection, you are said to be on what?
+A: "If you have an active Internet connection, you are said to be online. So the answer is: online."
+A: online
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7292
+Bobby Darin and The Four Tops had top ten hits with which song?
+Q: Bobby Darin and The Four Tops had top ten hits with which song?
+A: "Bobby Darin and The Four Tops had top ten hits with the song \"Mashed Potato Time\". So the answer is: Mashed Potato Time."
+A: Mashed Potato Time
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7131
+Prior to Gordon Brown who was the last Prime Minister to represent a Scottish constituency?
+Q: Prior to Gordon Brown who was the last Prime Minister to represent a Scottish constituency?
+A: "The last Prime Minister to represent a Scottish constituency prior to Gordon Brown was John Major. John Major represented the constituency of Huntingdon. So the answer is: John Major."
+A: John Major
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1246
+Former professional footballer Neil Ruddock played for which English club from 1986 to 1988?
+Q: Former professional footballer Neil Ruddock played for which English club from 1986 to 1988?
+A: "Neil Ruddock played for the English club Tottenham Hotspur from 1986 to 1988. So the answer is: Tottenham Hotspur."
+A: Tottenham Hotspur
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3207
+"What is the first line of the speech by the 3 witches in Shakespeare's Macbeth that ends ""toil and trouble, fire burn and cauldron bubble""?"
+Q: "What is the first line of the speech by the 3 witches in Shakespeare's Macbeth that ends ""toil and trouble, fire burn and cauldron bubble""?"
+A: "The first line of the speech by the 3 witches in Shakespeare's Macbeth that ends \"toil and trouble, fire burn and cauldron bubble\" is \"Double, double toil and trouble; Fire burn and cauldron bubble\". So the answer is: Double, double toil and trouble; Fire burn and cauldron bubble."
+A: Double, double toil and trouble; Fire burn and cauldron bubble
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_70
+Flamenco dancer Joaquin Cortes hit the headlines in 1996 over his relationship with which supermodel?
+Q: Flamenco dancer Joaquin Cortes hit the headlines in 1996 over his relationship with which supermodel?
+A: "Flamenco dancer Joaquin Cortes hit the headlines in 1996 over his relationship with Naomi Campbell. So the answer is: Naomi Campbell."
+A: Naomi Campbell
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3272
+What is a tabular display of the chemical elements, the invention of which is generally credited to Russian chemist Dmitri Mendeleev in 1869, who intended the table to illustrate recurring trends in the properties of the elements?
+Q: What is a tabular display of the chemical elements, the invention of which is generally credited to Russian chemist Dmitri Mendeleev in 1869, who intended the table to illustrate recurring trends in the properties of the elements?
+A: "Dmitri Mendeleev is credited with the invention of the periodic table. The periodic table is a tabular display of the chemical elements. So the answer is: periodic table."
+A: periodic table
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4041
+"In Raymond Chandler's comment in the book Farewell My Lovely ""I needed a drink, I needed a lot of life insurance, I needed a vacation, I needed a home in the country. What I had was ..."" what figure of speech was he using?"
+Q: "In Raymond Chandler's comment in the book Farewell My Lovely ""I needed a drink, I needed a lot of life insurance, I needed a vacation, I needed a home in the country. What I had was ..."" what figure of speech was he using?"
+A: "The figure of speech that Raymond Chandler was using is an oxymoron. In the book Farewell My Lovely, Chandler says \"I needed a drink, I needed a lot of life insurance, I needed a vacation, I needed a home in the country. What I had was a wife and a badly used car in the drive way.\" So the answer is: oxymoron."
+A: oxymoron
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2791
+In which year was the United Nations founded?
+Q: In which year was the United Nations founded?
+A: "The United Nations was founded in 1945. So the answer is: 1945."
+A: 1945
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_92
+What was Steve Martin's first film?
+Q: What was Steve Martin's first film?
+A: "Steve Martin's first film was The Absent-Minded Waiter. So the answer is: The Absent-Minded Waiter."
+A: The Absent-Minded Waiter
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8732
+September 27, 1964 saw the publishing of the Warren Commission's report that looked into the assassination of whom?
+Q: September 27, 1964 saw the publishing of the Warren Commission's report that looked into the assassination of whom?
+A: "The Warren Commission's report looked into the assassination of John F. Kennedy. So the answer is: John F. Kennedy."
+A: John F. Kennedy
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4771
+Jenny Willott, Julie Morgan, Alun Michael and Kevin Brennan are MPs representing constituencies in which city?
+Q: Jenny Willott, Julie Morgan, Alun Michael and Kevin Brennan are MPs representing constituencies in which city?
+A: "Jenny Willott, Julie Morgan, Alun Michael and Kevin Brennan are MPs representing constituencies in the city of Cardiff. So the answer is: Cardiff."
+A: Cardiff
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4954
+When 'Titanic' left Southampton in April 1912, where was her first port of call?
+Q: When 'Titanic' left Southampton in April 1912, where was her first port of call?
+A: "The first port of call of the Titanic was Cherbourg. So the answer is: Cherbourg."
+A: Cherbourg
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5300
+Which African Country's flag consists of vertical stripes of green, yellow and red with a green star in the centre of the yellow stripe?
+Q: Which African Country's flag consists of vertical stripes of green, yellow and red with a green star in the centre of the yellow stripe?
+A: "The flag of Ghana consists of vertical stripes of green, yellow and red with a green star in the centre of the yellow stripe. So the answer is: Ghana."
+A: Ghana
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_622
+The seven psalms – 6, 32, 38, 51, 102, 130 and 143 are known collectively as what?
+Q: The seven psalms – 6, 32, 38, 51, 102, 130 and 143 are known collectively as what?
+A: "The seven psalms \u2013 6, 32, 38, 51, 102, 130 and 143 are known collectively as the Penitential Psalms. So the answer is: Penitential Psalms."
+A: Penitential Psalms
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6584
+The Wars of the Diadochi were a series of conflicts fought for the control of an empire after whose death?
+Q: The Wars of the Diadochi were a series of conflicts fought for the control of an empire after whose death?
+A: "The Wars of the Diadochi were a series of conflicts fought for the control of an empire after the death of Alexander the Great. So the answer is: Alexander the Great."
+A: Alexander the Great
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7757
+Which actor, famous for 'Please Sir!' and 'Sykes' has 'acted' in every performance of 'The Mousetrap' reading a news bulletin via a recording?
+Q: Which actor, famous for 'Please Sir!' and 'Sykes' has 'acted' in every performance of 'The Mousetrap' reading a news bulletin via a recording?
+A: "The actor famous for 'Please Sir!' and 'Sykes' is Frank Windsor. Frank Windsor has 'acted' in every performance of 'The Mousetrap' reading a news bulletin via a recording. So the answer is: Frank Windsor."
+A: Frank Windsor
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_169
+Who in 1996 made the longest spaceflight by a woman?
+Q: Who in 1996 made the longest spaceflight by a woman?
+A: "The woman who made the longest spaceflight in 1996 is Shannon Lucid. So the answer is: Shannon Lucid."
+A: Shannon Lucid
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4895
+Who was the president of the USA at the time of the Wall Street Crash?
+Q: Who was the president of the USA at the time of the Wall Street Crash?
+A: "The Wall Street Crash occurred in 1929. The president of the USA at the time of the Wall Street Crash was Herbert Hoover. So the answer is: Herbert Hoover."
+A: Herbert Hoover
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3375
+Which country became a self-governing state within the British Empire on 3 June 1959, with Lee Kuan Yew was sworn in as the first prime minister 2 days later?
+Q: Which country became a self-governing state within the British Empire on 3 June 1959, with Lee Kuan Yew was sworn in as the first prime minister 2 days later?
+A: "The country that became a self-governing state within the British Empire on 3 June 1959, with Lee Kuan Yew was sworn in as the first prime minister 2 days later is Singapore. So the answer is: Singapore."
+A: Singapore
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6626
+'Kling Klang' is the private music studio of which highly influential electronic music band from Germany?
+Q: 'Kling Klang' is the private music studio of which highly influential electronic music band from Germany?
+A: "The private music studio of the highly influential electronic music band from Germany is Kraftwerk. The name of the studio is Kling Klang. So the answer is: Kraftwerk."
+A: Kraftwerk
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3936
+"This actor is the youngest of 5 children, his great-grandfather was blind and a piano tuner and music teacher, he acts frequently with his wife, he won a Primetime Emmy Awards 2014 for Outstanding Actor, and among many films and TV series starred in the film version of ""The Hitchhikers Guide to the Galaxy""; who is he?"
+Q: "This actor is the youngest of 5 children, his great-grandfather was blind and a piano tuner and music teacher, he acts frequently with his wife, he won a Primetime Emmy Awards 2014 for Outstanding Actor, and among many films and TV series starred in the film version of ""The Hitchhikers Guide to the Galaxy""; who is he?"
+A: "The actor who is the youngest of 5 children, his great-grandfather was blind and a piano tuner and music teacher, he acts frequently with his wife, he won a Primetime Emmy Awards 2014 for Outstanding Actor, and among many films and TV series starred in the film version of \"The Hitchhikers Guide to the Galaxy\" is Stephen Fry. So the answer is: Stephen Fry."
+A: Stephen Fry
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1441
+In the human body what is the common name for the third molar teeth?
+Q: In the human body what is the common name for the third molar teeth?
+A: "The common name for the third molar teeth is the wisdom teeth. So the answer is: wisdom teeth."
+A: wisdom teeth
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8496
+March 9, 1959 saw the introduction of what Mattel favorite, an 11.5 inch tall fashion doll which saw controversy when a later talking model exclaimed such phrases as “Will we ever have enough clothes?”, and “Math class is tough!”?
+Q: March 9, 1959 saw the introduction of what Mattel favorite, an 11.5 inch tall fashion doll which saw controversy when a later talking model exclaimed such phrases as “Will we ever have enough clothes?”, and “Math class is tough!”?
+A: "The Mattel favorite that was introduced on March 9, 1959 is Barbie. The talking model of Barbie exclaimed such phrases as \u201cWill we ever have enough clothes?\u201d, and \u201cMath class is tough!\u201d So the answer is: Barbie."
+A: Barbie
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5378
+The 'Telegraph & Argus' is a local daily newspaper based in which city?
+Q: The 'Telegraph & Argus' is a local daily newspaper based in which city?
+A: "The 'Telegraph & Argus' is a local daily newspaper based in Bradford. So the answer is: Bradford."
+A: Bradford
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2827
+The London Promenade concerts were founded by which English composer/conductor?
+Q: The London Promenade concerts were founded by which English composer/conductor?
+A: "The London Promenade concerts were founded by Henry Wood. So the answer is: Henry Wood."
+A: Henry Wood
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2802
+In which year was Britain's first adhesive postage stamp the Penny Black issued?
+Q: In which year was Britain's first adhesive postage stamp the Penny Black issued?
+A: "Britain's first adhesive postage stamp the Penny Black was issued in 1840. So the answer is: 1840."
+A: 1840
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6984
+Which ship rescued most of the survivors of the 'Titanic'?
+Q: Which ship rescued most of the survivors of the 'Titanic'?
+A: "The ship that rescued most of the survivors of the 'Titanic' is RMS Carpathia. So the answer is: RMS Carpathia."
+A: RMS Carpathia
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1656
+In 2008 Great Leighs became the first new venue for which sport for 80 years?
+Q: In 2008 Great Leighs became the first new venue for which sport for 80 years?
+A: "Great Leighs became the first new venue for horse racing for 80 years. So the answer is: horse racing."
+A: horse racing
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2514
+Which nation in 2013 became the first to legalize marijuana production and sale?
+Q: Which nation in 2013 became the first to legalize marijuana production and sale?
+A: "Uruguay became the first nation to legalize marijuana production and sale in 2013. So the answer is: Uruguay."
+A: Uruguay
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7536
+In which European country was the Estado Novo Regime overthrown in 1974 after the 'Carnation Revolution'?
+Q: In which European country was the Estado Novo Regime overthrown in 1974 after the 'Carnation Revolution'?
+A: "The Estado Novo Regime was overthrown in Portugal in 1974 after the 'Carnation Revolution'. So the answer is: Portugal."
+A: Portugal
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7664
+Who was King of England when the 'Stone of Scone' was removed to England in 1296?
+Q: Who was King of England when the 'Stone of Scone' was removed to England in 1296?
+A: "The 'Stone of Scone' was removed to England in 1296 by King Edward I. So the answer is: Edward I."
+A: Edward I
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7492
+The 'Goddess of the Harvest' gives her name to which staple food?
+Q: The 'Goddess of the Harvest' gives her name to which staple food?
+A: "The 'Goddess of the Harvest' is Ceres. Ceres gives her name to the staple food of cereals. So the answer is: cereals."
+A: cereals
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5546
+What is the name of the current Attorney General for England and Wales?
+Q: What is the name of the current Attorney General for England and Wales?
+A: "The current Attorney General for England and Wales is Jeremy Wright. So the answer is: Jeremy Wright."
+A: Jeremy Wright
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8271
+What is another word for labyrinth beginning with 'M'?
+Q: What is another word for labyrinth beginning with 'M'?
+A: "Another word for labyrinth beginning with 'M' is Maze. So the answer is: Maze."
+A: Maze
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1295
+Double Dutch, Double Unders and Dipsy Doodles are all term used in which activity?
+Q: Double Dutch, Double Unders and Dipsy Doodles are all term used in which activity?
+A: "Double Dutch, Double Unders and Dipsy Doodles are all terms used in the activity of Double Dutch Jump Rope. So the answer is: Double Dutch Jump Rope."
+A: Double Dutch Jump Rope
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6957
+Which mountain in Europe do the French call 'Mount Cervin', and the Italians 'Monte Silvio'?
+Q: Which mountain in Europe do the French call 'Mount Cervin', and the Italians 'Monte Silvio'?
+A: "The mountain in Europe that the French call 'Mount Cervin', and the Italians 'Monte Silvio' is the Matterhorn. So the answer is: Matterhorn."
+A: Matterhorn
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4272
+Adjusted for inflation, what is the highest grossing movie in history?
+Q: Adjusted for inflation, what is the highest grossing movie in history?
+A: "The highest grossing movie in history is Gone with the Wind. Adjusted for inflation, Gone with the Wind has grossed over $3.7 billion. So the answer is: $3.7 billion."
+A: $3.7 billion
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4408
+What happened to both Patty Hearst and Charles Lindbergh Jr.?
+Q: What happened to both Patty Hearst and Charles Lindbergh Jr.?
+A: "Patty Hearst was kidnapped. Charles Lindbergh Jr. was kidnapped. So the answer is: kidnapped."
+A: kidnapped
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_879
+Which Shakespearian character said ‘But soft, what light through yonder window breaks’?
+Q: Which Shakespearian character said ‘But soft, what light through yonder window breaks’?
+A: "The Shakespearian character who said \u2018But soft, what light through yonder window breaks\u2019 is Romeo. So the answer is: Romeo."
+A: Romeo
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8408
+Why and when was naturalist David Bellamy jailed in Australia?
+Q: Why and when was naturalist David Bellamy jailed in Australia?
+A: "David Bellamy was jailed in Australia for 3 days in 1993 for refusing to leave a protest camp. So the answer is: 3 days in 1993 for refusing to leave a protest camp."
+A: 3 days in 1993 for refusing to leave a protest camp
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3236
+What is the only Southeast Asian nation that has never been colonised, mainly because it had a long succession of able rulers in the 1800s, and was able to exploit the rivalry between the French and the British?
+Q: What is the only Southeast Asian nation that has never been colonised, mainly because it had a long succession of able rulers in the 1800s, and was able to exploit the rivalry between the French and the British?
+A: "The only Southeast Asian nation that has never been colonised is Thailand. So the answer is: Thailand."
+A: Thailand
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2790
+Who succeeded James Callaghan as leader of Britain's Labour Party?
+Q: Who succeeded James Callaghan as leader of Britain's Labour Party?
+A: "James Callaghan was succeeded by Neil Kinnock as leader of Britain's Labour Party. So the answer is: Neil Kinnock."
+A: Neil Kinnock
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7945
+When Roger Bannister broke the four minute mile who came second
+Q: When Roger Bannister broke the four minute mile who came second
+A: "Roger Bannister broke the four minute mile on May 6, 1954. Chris Chataway came second. So the answer is: Chris Chataway."
+A: Chris Chataway
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6236
+In a feudal castle what name is given to the outer wall, hence the outer court, or any court within the walls?
+Q: In a feudal castle what name is given to the outer wall, hence the outer court, or any court within the walls?
+A: "In a feudal castle the outer wall, hence the outer court, or any court within the walls is called a bailey. So the answer is: bailey."
+A: bailey
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3577
+Members of what family were killed in the Massacre of Glencoe in Scotland, on 13 February 1692?
+Q: Members of what family were killed in the Massacre of Glencoe in Scotland, on 13 February 1692?
+A: "The Massacre of Glencoe in Scotland, on 13 February 1692, killed members of the MacDonald family. So the answer is: MacDonald."
+A: MacDonald
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1707
+What allegedly crashed at Roswell, New Mexico in 1947?
+Q: What allegedly crashed at Roswell, New Mexico in 1947?
+A: "The alleged crash at Roswell, New Mexico in 1947 was of a UFO. So the answer is: UFO."
+A: UFO
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2737
+Within body language the physical space/closeness between people is significant and called?
+Q: Within body language the physical space/closeness between people is significant and called?
+A: "The physical space/closeness between people is significant and called personal space. So the answer is: personal space."
+A: personal space
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7526
+"Which product was advertised with the slogan ""It's what your right arm's for""?"
+Q: "Which product was advertised with the slogan ""It's what your right arm's for""?"
+A: "The product that was advertised with the slogan \"It's what your right arm's for\" is a right-handed can opener. So the answer is: a right-handed can opener."
+A: a right-handed can opener
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8755
+The Vitruvian Man, a famous drawing of a nude man in two superimposed positions with arms and legs apart, inscribed in a circle within a square, was drawn by whom?
+Q: The Vitruvian Man, a famous drawing of a nude man in two superimposed positions with arms and legs apart, inscribed in a circle within a square, was drawn by whom?
+A: "The Vitruvian Man was drawn by Leonardo da Vinci. So the answer is: Leonardo da Vinci."
+A: Leonardo da Vinci
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6914
+Who is the West Indies most capped cricketer with 153 test appearances?
+Q: Who is the West Indies most capped cricketer with 153 test appearances?
+A: "The West Indies most capped cricketer with 153 test appearances is Courtney Walsh. So the answer is: Courtney Walsh."
+A: Courtney Walsh
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1568
+Who announced that his offspring was to be called Eric?
+Q: Who announced that his offspring was to be called Eric?
+A: "The person who announced that his offspring was to be called Eric is King Edward I of England. So the answer is: King Edward I of England."
+A: King Edward I of England
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_681
+The SNCF is the national railway corporation of which European country?
+Q: The SNCF is the national railway corporation of which European country?
+A: "The SNCF is the national railway corporation of France. So the answer is: France."
+A: France
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3650
+Before she was a Member of Parliament, what was Margaret Thatcher's occupation?
+Q: Before she was a Member of Parliament, what was Margaret Thatcher's occupation?
+A: "Margaret Thatcher was a chemist before she was a Member of Parliament. So the answer is: chemist."
+A: chemist
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2832
+What is the name of the platform or stand used to support a coffin?
+Q: What is the name of the platform or stand used to support a coffin?
+A: "The platform or stand used to support a coffin is called a catafalque. So the answer is: catafalque."
+A: catafalque
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_116
+Where was the Rumble in the Ali v Foreman fight in Zaire in 1974?
+Q: Where was the Rumble in the Ali v Foreman fight in Zaire in 1974?
+A: "The Rumble in the Ali v Foreman fight in Zaire in 1974 took place in Kinshasa. So the answer is: Kinshasa."
+A: Kinshasa
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2249
+Who is generally considered to have invented the first electric battery cell in 1800?
+Q: Who is generally considered to have invented the first electric battery cell in 1800?
+A: "The first electric battery cell was invented by Alessandro Volta in 1800. So the answer is: Alessandro Volta."
+A: Alessandro Volta
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7944
+What was the name of the angel in the film It's A Wonderful Life
+Q: What was the name of the angel in the film It's A Wonderful Life
+A: "The angel in the film It's A Wonderful Life is Clarence. So the answer is: Clarence."
+A: Clarence
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6348
+Of which Irish county is Ennis the county town?
+Q: Of which Irish county is Ennis the county town?
+A: "Ennis is the county town of County Clare. So the answer is: County Clare."
+A: County Clare
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7462
+Who was the manager of Manchester United FC between 1972 and 1979?
+Q: Who was the manager of Manchester United FC between 1972 and 1979?
+A: "The manager of Manchester United FC between 1972 and 1979 was Tommy Docherty. So the answer is: Tommy Docherty."
+A: Tommy Docherty
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2235
+What is the vivid blue semi-percious stone, historically mined in Afghanistan's Badakhshan province and prized by the ancient Egyptians, Mesopotamians, Greeks and Romans?
+Q: What is the vivid blue semi-percious stone, historically mined in Afghanistan's Badakhshan province and prized by the ancient Egyptians, Mesopotamians, Greeks and Romans?
+A: "The vivid blue semi-percious stone, historically mined in Afghanistan's Badakhshan province and prized by the ancient Egyptians, Mesopotamians, Greeks and Romans is Lapis lazuli. So the answer is: Lapis lazuli."
+A: Lapis lazuli
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_152
+Who replaced Mary Robinson as president of Ireland in 1997?
+Q: Who replaced Mary Robinson as president of Ireland in 1997?
+A: "Mary Robinson was replaced by Mary McAleese as president of Ireland in 1997. So the answer is: Mary McAleese."
+A: Mary McAleese
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5448
+Which Npower Football League Division 2 club plays at home at the Kassam Stadium?
+Q: Which Npower Football League Division 2 club plays at home at the Kassam Stadium?
+A: "The Npower Football League Division 2 club that plays at home at the Kassam Stadium is Oxford United. So the answer is: Oxford United."
+A: Oxford United
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1970
+Which veteran performer in rock music began his hit-making career in the mid 1960's with the Belfast quartet named 'Them'?
+Q: Which veteran performer in rock music began his hit-making career in the mid 1960's with the Belfast quartet named 'Them'?
+A: "The veteran performer in rock music who began his hit-making career in the mid 1960's with the Belfast quartet named 'Them' is Van Morrison. So the answer is: Van Morrison."
+A: Van Morrison
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6448
+Who is the famous brother of the actress Shirley MacLaine?
+Q: Who is the famous brother of the actress Shirley MacLaine?
+A: "The famous brother of the actress Shirley MacLaine is Warren Beatty. So the answer is: Warren Beatty."
+A: Warren Beatty
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4853
+Name the painter of risqué pictures of sexy fat ladies who died in 2008?
+Q: Name the painter of risqué pictures of sexy fat ladies who died in 2008?
+A: "The painter of risqu\u00e9 pictures of sexy fat ladies who died in 2008 is Robert Williams. So the answer is: Robert Williams."
+A: Robert Williams
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5387
+Which car company manufactured the 'Renown' and 'Mayflower' models?
+Q: Which car company manufactured the 'Renown' and 'Mayflower' models?
+A: "The car company that manufactured the 'Renown' and 'Mayflower' models is Austin. So the answer is: Austin."
+A: Austin
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6813
+In which ITV comedy do Steve Pemberton and Siobhan Finneran play 'Mick' and 'Janice Garvey'?
+Q: In which ITV comedy do Steve Pemberton and Siobhan Finneran play 'Mick' and 'Janice Garvey'?
+A: "Steve Pemberton and Siobhan Finneran play 'Mick' and 'Janice Garvey' in the ITV comedy Benidorm. So the answer is: Benidorm."
+A: Benidorm
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4928
+Naples is the capital of which Italian region?
+Q: Naples is the capital of which Italian region?
+A: "Naples is the capital of the Italian region of Campania. So the answer is: Campania."
+A: Campania
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5189
+Which artist (1518-1594), born Jacopo Comin, also known as Jacopo Robusti, is known by a nickname taken from his father's occupation as a dyer?
+Q: Which artist (1518-1594), born Jacopo Comin, also known as Jacopo Robusti, is known by a nickname taken from his father's occupation as a dyer?
+A: "Jacopo Comin, also known as Jacopo Robusti, is known by a nickname taken from his father's occupation as a dyer. Jacopo Robusti is also known as Tintoretto. So the answer is: Tintoretto."
+A: Tintoretto
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5062
+In which famous school was the game of squash invented in the 20th century?
+Q: In which famous school was the game of squash invented in the 20th century?
+A: "The game of squash was invented in the 20th century at Harrow School. So the answer is: Harrow School."
+A: Harrow School
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5971
+The Birth of Venus by Botticelli hangs in an art gallery in which city?
+Q: The Birth of Venus by Botticelli hangs in an art gallery in which city?
+A: "The Birth of Venus by Botticelli hangs in the Uffizi Gallery in Florence. So the answer is: Florence."
+A: Florence
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5885
+The River Thames has its source in which county?
+Q: The River Thames has its source in which county?
+A: "The River Thames has its source in Gloucestershire. So the answer is: Gloucestershire."
+A: Gloucestershire
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3847
+Lcio Costa was the principal urban planner, Oscar Niemeyer was the principal architect, and Roberto Burle Marx was the landscape designer for which purpose-built capital city?
+Q: Lcio Costa was the principal urban planner, Oscar Niemeyer was the principal architect, and Roberto Burle Marx was the landscape designer for which purpose-built capital city?
+A: "Lcio Costa was the principal urban planner, Oscar Niemeyer was the principal architect, and Roberto Burle Marx was the landscape designer for the purpose-built capital city of Bras\u00edlia. So the answer is: Bras\u00edlia."
+A: Bras\u00edlia
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2813
+Which reggae singing star died 11th May 1981?
+Q: Which reggae singing star died 11th May 1981?
+A: "The reggae singing star who died 11th May 1981 is Peter Tosh. So the answer is: Peter Tosh."
+A: Peter Tosh
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1756
+Lake Eyre is the lowest point of which country?
+Q: Lake Eyre is the lowest point of which country?
+A: "Lake Eyre is the lowest point of Australia. So the answer is: Australia."
+A: Australia
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6396
+Black, White, Sumatran and Javan are varieties of which endangered species of animal?
+Q: Black, White, Sumatran and Javan are varieties of which endangered species of animal?
+A: "Black, White, Sumatran and Javan are varieties of the endangered species of animal called the tiger. So the answer is: tiger."
+A: tiger
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_409
+What is the name of the police officer whose beat includes the alley where Top Cat and his gang live?
+Q: What is the name of the police officer whose beat includes the alley where Top Cat and his gang live?
+A: "The police officer whose beat includes the alley where Top Cat and his gang live is Officer Dibble. So the answer is: Officer Dibble."
+A: Officer Dibble
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3807
+What plant, a bushy herb of the mint family, has a heavy, strong scent, and has been used for centuries in perfumes?
+Q: What plant, a bushy herb of the mint family, has a heavy, strong scent, and has been used for centuries in perfumes?
+A: "The plant that has a heavy, strong scent, and has been used for centuries in perfumes is Clary Sage. Clary Sage is a bushy herb of the mint family. So the answer is: Clary Sage."
+A: Clary Sage
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2407
+Greek 'skhizo' and 'skhizein' basically mean what?
+Q: Greek 'skhizo' and 'skhizein' basically mean what?
+A: "Greek'skhizo' and'skhizein' basically mean to split or to rend. So the answer is: to split or to rend."
+A: to split or to rend
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2703
+Vaquita porpoise 'maw', an illegally trafficked delicacy in Chinese cuisine, priced upwards of $10,000/kilo, is the creature's?
+Q: Vaquita porpoise 'maw', an illegally trafficked delicacy in Chinese cuisine, priced upwards of $10,000/kilo, is the creature's?
+A: "Vaquita porpoise'maw' is the creature's liver. So the answer is: liver."
+A: liver
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4755
+In which US city is MacArthur Park?
+Q: In which US city is MacArthur Park?
+A: "MacArthur Park is located in Los Angeles. So the answer is: Los Angeles."
+A: Los Angeles
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4488
+Which country in the Americas is named after a line on the map?
+Q: Which country in the Americas is named after a line on the map?
+A: "The country in the Americas named after a line on the map is Chile. Chile is named after the Mapuche word for \"where the land ends\". So the answer is: Chile."
+A: Chile
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3460
+Built in 1765, what is the oldest commissioned warship in the world, still manned by the British Royal Navy?
+Q: Built in 1765, what is the oldest commissioned warship in the world, still manned by the British Royal Navy?
+A: "The oldest commissioned warship in the world, still manned by the British Royal Navy is HMS Victory. HMS Victory was built in 1765. So the answer is: HMS Victory."
+A: HMS Victory
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2941
+Penalty shoot-outs were introduced to the FIFA World Cup in which tournament (state the year of the Finals)?
+Q: Penalty shoot-outs were introduced to the FIFA World Cup in which tournament (state the year of the Finals)?
+A: "Penalty shoot-outs were introduced to the FIFA World Cup in the 1982 tournament. The year of the 1982 FIFA World Cup Finals was 1982. So the answer is: 1982."
+A: 1982
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3657
+What island, 1 mile from Manhattan, which has been used by the army as an isolation centre for infectious diseases (such as typhoid and TB) and as a drug rehabiltation centre, is now deserted?
+Q: What island, 1 mile from Manhattan, which has been used by the army as an isolation centre for infectious diseases (such as typhoid and TB) and as a drug rehabiltation centre, is now deserted?
+A: "The island that is 1 mile from Manhattan and has been used by the army as an isolation centre for infectious diseases (such as typhoid and TB) and as a drug rehabilitation centre is North Brother Island. North Brother Island is now deserted. So the answer is: North Brother Island."
+A: North Brother Island
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_688
+Which member of the Beatles was also known as Nelson Wilbury?
+Q: Which member of the Beatles was also known as Nelson Wilbury?
+A: "The member of the Beatles who was also known as Nelson Wilbury is John Lennon. John Lennon was also known as Derek St. Holmes. So the answer is: John Lennon."
+A: John Lennon
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7681
+Which study in magic and religion by James George Frazer took its name from an incident in 'The Aeneid'?
+Q: Which study in magic and religion by James George Frazer took its name from an incident in 'The Aeneid'?
+A: "The study in magic and religion by James George Frazer is The Golden Bough. The Golden Bough took its name from an incident in 'The Aeneid' in which Aeneas encounters the Golden Bough. So the answer is: The Golden Bough."
+A: The Golden Bough
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1588
+In ‘Treasure Island’, who was the captain of the Hispaniola?
+Q: In ‘Treasure Island’, who was the captain of the Hispaniola?
+A: "The captain of the Hispaniola in \"Treasure Island\" is Captain Abraham Gray. So the answer is: Captain Abraham Gray."
+A: Captain Abraham Gray
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4964
+"Who sang the theme tune, ""My Heart Will Go On"", in the 1997 film, ""Titanic""?"
+Q: "Who sang the theme tune, ""My Heart Will Go On"", in the 1997 film, ""Titanic""?"
+A: "The theme tune, \"My Heart Will Go On\", in the 1997 film, \"Titanic\" was sung by Celine Dion. So the answer is: Celine Dion."
+A: Celine Dion
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3678
+What name was commonly used for the struggle that emerged after World War II between capitalism and communism that centred around the USSR & the USA and their partners, that lasted from about 1947 to 1991?
+Q: What name was commonly used for the struggle that emerged after World War II between capitalism and communism that centred around the USSR & the USA and their partners, that lasted from about 1947 to 1991?
+A: "The struggle that emerged after World War II between capitalism and communism that centred around the USSR & the USA and their partners, that lasted from about 1947 to 1991 is commonly known as the Cold War. So the answer is: Cold War."
+A: Cold War
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5632
+Who played the parts of the twins in the 1998 remake of the film 'The Parent Trap'?
+Q: Who played the parts of the twins in the 1998 remake of the film 'The Parent Trap'?
+A: "The parts of the twins in the 1998 remake of the film 'The Parent Trap' were played by Lindsay Lohan. So the answer is: Lindsay Lohan."
+A: Lindsay Lohan
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4286
+What is 100 degrees Celsius, in Fahrenheit?
+Q: What is 100 degrees Celsius, in Fahrenheit?
+A: "100 degrees Celsius is 212 degrees Fahrenheit. So the answer is: 212."
+A: 212
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2402
+What religious code refers to 'the three poisons' (or 'unwholesome roots') of ignorance, attachment, aversion, as the roots of all suffering? Islam; Buddhism; Christianity; Hinduism?
+Q: What religious code refers to 'the three poisons' (or 'unwholesome roots') of ignorance, attachment, aversion, as the roots of all suffering? Islam; Buddhism; Christianity; Hinduism?
+A: "The religious code that refers to 'the three poisons' (or 'unwholesome roots') of ignorance, attachment, aversion, as the roots of all suffering is Buddhism. So the answer is: Buddhism."
+A: Buddhism
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_661
+‘I’ll Be There For You’ by The Rembrandts is the theme tune to which US tv comedy series?
+Q: ‘I’ll Be There For You’ by The Rembrandts is the theme tune to which US tv comedy series?
+A: "The theme tune to the US tv comedy series Friends is \"I'll Be There For You\" by The Rembrandts. So the answer is: Friends."
+A: Friends
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4640
+Which SS commander died as a result of an assassination attempt in Prague in 1942?
+Q: Which SS commander died as a result of an assassination attempt in Prague in 1942?
+A: "The SS commander who died as a result of an assassination attempt in Prague in 1942 is Reinhard Heydrich. So the answer is: Reinhard Heydrich."
+A: Reinhard Heydrich
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6221
+Which American President was in office 1869-1877?
+Q: Which American President was in office 1869-1877?
+A: "The American President who was in office 1869-1877 is Ulysses S. Grant. So the answer is: Ulysses S. Grant."
+A: Ulysses S. Grant
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_997
+In the game of Bingo, ‘Cup of Tea’ is the nickname of which number?
+Q: In the game of Bingo, ‘Cup of Tea’ is the nickname of which number?
+A: "In the game of Bingo, the number 18 is often referred to as the \"Cup of Tea\". So the answer is: 18."
+A: 18
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3999
+Caractacus, Cartimandua and Scapula had what in common?
+Q: Caractacus, Cartimandua and Scapula had what in common?
+A: "Caractacus, Cartimandua and Scapula were all Roman enemies. So the answer is: Roman enemies."
+A: Roman enemies
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5597
+The Manush and Sinti are branches of which ethnic group?
+Q: The Manush and Sinti are branches of which ethnic group?
+A: "The Manush and Sinti are branches of the Romani people. So the answer is: Romani people."
+A: Romani people
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_468
+Which singer starred in 1970 film 'Gunfight'?
+Q: Which singer starred in 1970 film 'Gunfight'?
+A: "The singer who starred in 1970 film 'Gunfight' is Elvis Presley. So the answer is: Elvis Presley."
+A: Elvis Presley
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4001
+"The character ""Eliza Doolittle"" in ""My Fair Lady"" was originally created by whom?"
+Q: "The character ""Eliza Doolittle"" in ""My Fair Lady"" was originally created by whom?"
+A: "The character \"Eliza Doolittle\" in \"My Fair Lady\" was originally created by George Bernard Shaw. So the answer is: George Bernard Shaw."
+A: George Bernard Shaw
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7850
+Who hosts TV's Water Colour Challenge
+Q: Who hosts TV's Water Colour Challenge
+A: "The TV show Water Colour Challenge is hosted by David Hockney. So the answer is: David Hockney."
+A: David Hockney
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8055
+On which motorway could you visit Kinross Services
+Q: On which motorway could you visit Kinross Services
+A: "Kinross Services is located on the M90 motorway. So the answer is: M90."
+A: M90
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8092
+In which Hollywood film did Matthew Broderick play a robotic policeman
+Q: In which Hollywood film did Matthew Broderick play a robotic policeman
+A: "Matthew Broderick played a robotic policeman in the film Inspector Gadget. So the answer is: Inspector Gadget."
+A: Inspector Gadget
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2133
+"In the 1933 film She Done Him Wrong, who was the actor to whom Mae West said, ""Why don't you come up sometime and see me""?"
+Q: "In the 1933 film She Done Him Wrong, who was the actor to whom Mae West said, ""Why don't you come up sometime and see me""?"
+A: "The actor to whom Mae West said, \"\"Why don't you come up sometime and see me\"\" in the 1933 film She Done Him Wrong is Cary Grant. So the answer is: Cary Grant."
+A: Cary Grant
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1951
+Who played both Flash Gordon and Buck Rogers on film in the 1930s?
+Q: Who played both Flash Gordon and Buck Rogers on film in the 1930s?
+A: "The actor who played both Flash Gordon and Buck Rogers on film in the 1930s is Buster Crabbe. So the answer is: Buster Crabbe."
+A: Buster Crabbe
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1122
+Which late British Punk rocker had a city square named after him in Grenada, Spain?
+Q: Which late British Punk rocker had a city square named after him in Grenada, Spain?
+A: "The late British Punk rocker is Sid Vicious. Sid Vicious has a city square named after him in Grenada, Spain. So the answer is: Sid Vicious."
+A: Sid Vicious
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6384
+Who won Britain’s only 2014 Winter Olympics gold medal?
+Q: Who won Britain’s only 2014 Winter Olympics gold medal?
+A: "The British athlete who won Britain\u2019s only 2014 Winter Olympics gold medal is Lizzy Yarnold. So the answer is: Lizzy Yarnold."
+A: Lizzy Yarnold
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8187
+to which group of Scottish islands do 'Auskerry, Burray and Cava' belong?
+Q: to which group of Scottish islands do 'Auskerry, Burray and Cava' belong?
+A: "The islands of Auskerry, Burray and Cava belong to the Orkney Islands. So the answer is: Orkney Islands."
+A: Orkney Islands
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5688
+Who, in 1989, replaced Robin Day as presenter of BBC TV's Question Time?
+Q: Who, in 1989, replaced Robin Day as presenter of BBC TV's Question Time?
+A: "Robin Day was replaced by Peter Sissons as presenter of BBC TV's Question Time in 1989. So the answer is: Peter Sissons."
+A: Peter Sissons
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5031
+What position is no.9 in rugby league and no.2 in rugby union?
+Q: What position is no.9 in rugby league and no.2 in rugby union?
+A: "In rugby league, the position no.9 is the hooker. In rugby union, the position no.2 is the hooker. So the answer is: hooker."
+A: hooker
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6907
+Which American car make, owned by General Motors, took its name from the Native American chief who led a rebellion against English rule in 1763?
+Q: Which American car make, owned by General Motors, took its name from the Native American chief who led a rebellion against English rule in 1763?
+A: "The American car make, owned by General Motors, that took its name from the Native American chief who led a rebellion against English rule in 1763 is Pontiac. Pontiac took its name from the Native American chief Pontiac. So the answer is: Pontiac."
+A: Pontiac
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8810
+Is the sea horse a mammal, fish or mollusk?
+Q: Is the sea horse a mammal, fish or mollusk?
+A: "The sea horse is a fish. So the answer is: fish."
+A: fish
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3499
+What word is commonly used to describe residents of the South American pampas, chacos, or Patagonian grasslands?
+Q: What word is commonly used to describe residents of the South American pampas, chacos, or Patagonian grasslands?
+A: "The word commonly used to describe residents of the South American pampas, chacos, or Patagonian grasslands is Gaucho. So the answer is: Gaucho."
+A: Gaucho
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5234
+Who was British Prime Minister from 1922-23, shortly before he died?
+Q: Who was British Prime Minister from 1922-23, shortly before he died?
+A: "The British Prime Minister from 1922-23 was Andrew Bonar Law. Andrew Bonar Law died on October 30, 1923. So the answer is: Andrew Bonar Law."
+A: Andrew Bonar Law
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5522
+How is the Chilean Pine or auricaria known more familiarly in the UK?
+Q: How is the Chilean Pine or auricaria known more familiarly in the UK?
+A: "The Chilean Pine or auricaria is known more familiarly in the UK as the Monkey Puzzle tree. So the answer is: Monkey Puzzle tree."
+A: Monkey Puzzle tree
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_147
+Which instrument is associated with Lester 'Prez' Young?
+Q: Which instrument is associated with Lester 'Prez' Young?
+A: "Lester 'Prez' Young was an American jazz tenor saxophonist. So the instrument associated with Lester 'Prez' Young is the tenor saxophone. So the answer is: tenor saxophone."
+A: tenor saxophone
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2037
+Which general, famous for his military exploits against the French in the Napoleonic Wars, was born in St Petersburg in 1745 and died in Russia in 1813 ?
+Q: Which general, famous for his military exploits against the French in the Napoleonic Wars, was born in St Petersburg in 1745 and died in Russia in 1813 ?
+A: "The general famous for his military exploits against the French in the Napoleonic Wars is Mikhail Kutuzov. Mikhail Kutuzov was born in St Petersburg in 1745 and died in Russia in 1813. So the answer is: Mikhail Kutuzov."
+A: Mikhail Kutuzov
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6098
+Which character was portrayed on film by Gregory Peck and on TV by loan Gruffudd?
+Q: Which character was portrayed on film by Gregory Peck and on TV by loan Gruffudd?
+A: "The character that was portrayed on film by Gregory Peck and on TV by loan Gruffudd is Atticus Finch. So the answer is: Atticus Finch."
+A: Atticus Finch
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5350
+Who was king of England In 1300?
+Q: Who was king of England In 1300?
+A: "The king of England in 1300 was Edward I. So the answer is: Edward I."
+A: Edward I
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1711
+Which clothing company has a name that translated into English means ‘water guard’?
+Q: Which clothing company has a name that translated into English means ‘water guard’?
+A: "The clothing company that has a name that translated into English means \u2018water guard\u2019 is Patagonia. So the answer is: Patagonia."
+A: Patagonia
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4194
+"What war was the subject of ""The Iliad""?"
+Q: "What war was the subject of ""The Iliad""?"
+A: "The subject of \"The Iliad\" is the Trojan War. So the answer is: The Trojan War."
+A: The Trojan War
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7336
+In Egyptian mythology, what was the name of the cow- headed goddess of love?
+Q: In Egyptian mythology, what was the name of the cow- headed goddess of love?
+A: "The cow-headed goddess of love in Egyptian mythology is Hathor. So the answer is: Hathor."
+A: Hathor
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1185
+‘Stone walls do not a ‘what’ make’ is a line from a poem by 17th Century poet Richard Lovelace?
+Q: ‘Stone walls do not a ‘what’ make’ is a line from a poem by 17th Century poet Richard Lovelace?
+A: "The line from the poem by 17th Century poet Richard Lovelace is \"Stone walls do not a prison make, nor iron bars a cage.\" So the answer is: prison."
+A: prison
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8464
+One of the new seven wonders of the modern world, in what country is the carved city of Petra located?
+Q: One of the new seven wonders of the modern world, in what country is the carved city of Petra located?
+A: "The carved city of Petra is located in Jordan. So the answer is: Jordan."
+A: Jordan
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8830
+Holding office from 1901 to 1909, who was the 26th President of the United States?
+Q: Holding office from 1901 to 1909, who was the 26th President of the United States?
+A: "The 26th President of the United States was Theodore Roosevelt. He held office from 1901 to 1909. So the answer is: Theodore Roosevelt."
+A: Theodore Roosevelt
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2628
+Gregory Peck, Robert Mitchum and Martin Balsam had cameo roles in the 1991 remake of what 1962 film in which they starred?
+Q: Gregory Peck, Robert Mitchum and Martin Balsam had cameo roles in the 1991 remake of what 1962 film in which they starred?
+A: "Gregory Peck, Robert Mitchum and Martin Balsam had cameo roles in the 1991 remake of Cape Fear. They starred in the 1962 film Cape Fear. So the answer is: Cape Fear."
+A: Cape Fear
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3277
+What word means the type of movement by normally walking on the soles of the feet?
+Q: What word means the type of movement by normally walking on the soles of the feet?
+A: "The word that means the type of movement by normally walking on the soles of the feet is barefoot. So the answer is: barefoot."
+A: barefoot
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2838
+In children's TV what is the name of Fireman Sam's fire truck?
+Q: In children's TV what is the name of Fireman Sam's fire truck?
+A: "Fireman Sam's fire truck is called the \"Pump 'n' Shovel\". So the answer is: Pump 'n' Shovel."
+A: Pump 'n' Shovel
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6908
+The character 'James Bond' was created by Ian Fleming, but who wrote the book 'Devil May Care' featuring 'James Bond'?
+Q: The character 'James Bond' was created by Ian Fleming, but who wrote the book 'Devil May Care' featuring 'James Bond'?
+A: "The book 'Devil May Care' featuring 'James Bond' was written by Sebastian Faulks. So the answer is: Sebastian Faulks."
+A: Sebastian Faulks
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5900
+In which country was Jean-Claude Van Damme born?
+Q: In which country was Jean-Claude Van Damme born?
+A: "Jean-Claude Van Damme was born in Belgium. So the answer is: Belgium."
+A: Belgium
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8215
+Who was the 1958 Cha-Cha champion of Hong Kong?
+Q: Who was the 1958 Cha-Cha champion of Hong Kong?
+A: "The 1958 Cha-Cha champion of Hong Kong was Yip Yuen Man. So the answer is: Yip Yuen Man."
+A: Yip Yuen Man
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2324
+Born in 1678, which Italian composer of choral works, over forty operas, and notably The Four Seasons violin concertos, was known as The Red Priest because of his auburn hair?
+Q: Born in 1678, which Italian composer of choral works, over forty operas, and notably The Four Seasons violin concertos, was known as The Red Priest because of his auburn hair?
+A: "The Italian composer of choral works, over forty operas, and notably The Four Seasons violin concertos, was known as The Red Priest because of his auburn hair is Antonio Vivaldi. Antonio Vivaldi was born in 1678. So the answer is: Antonio Vivaldi."
+A: Antonio Vivaldi
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6293
+Anne Reid and Derek Jacobi appear as Celia and Alan, two childhood sweethearts reunited via Facebook, in which BBC TV drama series?
+Q: Anne Reid and Derek Jacobi appear as Celia and Alan, two childhood sweethearts reunited via Facebook, in which BBC TV drama series?
+A: "Anne Reid and Derek Jacobi appear as Celia and Alan, two childhood sweethearts reunited via Facebook, in the BBC TV drama series Last Tango in Halifax. So the answer is: Last Tango in Halifax."
+A: Last Tango in Halifax
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7087
+Who was the Roman Emperor at the time of Christ's crucifixion?
+Q: Who was the Roman Emperor at the time of Christ's crucifixion?
+A: "The Roman Emperor at the time of Christ's crucifixion was Tiberius. So the answer is: Tiberius."
+A: Tiberius
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6142
+The Blue Fairy is a character in which Disney classic?
+Q: The Blue Fairy is a character in which Disney classic?
+A: "The Blue Fairy is a character in Pinocchio. So the answer is: Pinocchio."
+A: Pinocchio
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2784
+The Copacabana nightclub was in which city?
+Q: The Copacabana nightclub was in which city?
+A: "The Copacabana nightclub was in New York City. So the answer is: New York City."
+A: New York City
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6070
+In which comedy film of the 1960's would you hear the line `Gentlemen, you can't fight in here! This is the War Room?
+Q: In which comedy film of the 1960's would you hear the line `Gentlemen, you can't fight in here! This is the War Room?
+A: "The comedy film of the 1960's in which you would hear the line `Gentlemen, you can't fight in here! This is the War Room is Dr. Strangelove. So the answer is: Dr. Strangelove."
+A: Dr. Strangelove
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3795
+Sometimes thought of as the Stone of the Hebrew Old Testament Jacob, also known as Jacob's Pillow, the Stone of Destiny, and, most usually, as the Stone of Scone what has it been used for?
+Q: Sometimes thought of as the Stone of the Hebrew Old Testament Jacob, also known as Jacob's Pillow, the Stone of Destiny, and, most usually, as the Stone of Scone what has it been used for?
+A: "The Stone of Scone has been used as the coronation stone of the British monarchs. So the answer is: coronation stone of the British monarchs."
+A: coronation stone of the British monarchs
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2088
+"An ""event horizon"" is the defining feature of which astronomical phenonmenon ?"
+Q: "An ""event horizon"" is the defining feature of which astronomical phenonmenon ?"
+A: "An event horizon is the defining feature of a black hole. So the answer is: black hole."
+A: black hole
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7735
+Which Rugby Union team plays home games at the Liberty Stadium in Swansea?
+Q: Which Rugby Union team plays home games at the Liberty Stadium in Swansea?
+A: "The Rugby Union team that plays home games at the Liberty Stadium in Swansea is the Ospreys. So the answer is: Ospreys."
+A: Ospreys
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5904
+Which English city has parliamentary constituencies named Moor View and Sutton & Devonport?
+Q: Which English city has parliamentary constituencies named Moor View and Sutton & Devonport?
+A: "The English city that has parliamentary constituencies named Moor View and Sutton & Devonport is Plymouth. So the answer is: Plymouth."
+A: Plymouth
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3049
+All Scrabble tournament (and most club) games are played with a game clock and a set time control. Typically how long does each player have in which to make all plays?
+Q: All Scrabble tournament (and most club) games are played with a game clock and a set time control. Typically how long does each player have in which to make all plays?
+A: "In Scrabble tournament games, each player has 25 minutes to make all plays. So the answer is: 25 minutes."
+A: 25 minutes
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8206
+Can you name the winner and winning jockey in this years Grand National held on 9th of April?
+Q: Can you name the winner and winning jockey in this years Grand National held on 9th of April?
+A: "The winner of the 2016 Grand National was the horse Rule The World. The winning jockey of the 2016 Grand National was David Mullins. So the answer is: David Mullins."
+A: David Mullins
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3232
+"Whose career was re-ignited with the release of his album ""American Recordings"", which included songs writen by Tom Waits, Nick Lowe and Leonard Cohen, when it won the 1994 Contemporary Folk Album Grammy Award?"
+Q: "Whose career was re-ignited with the release of his album ""American Recordings"", which included songs writen by Tom Waits, Nick Lowe and Leonard Cohen, when it won the 1994 Contemporary Folk Album Grammy Award?"
+A: "The album \"American Recordings\" was released by Johnny Cash. Johnny Cash's career was re-ignited with the release of his album \"American Recordings\". So the answer is: Johnny Cash."
+A: Johnny Cash
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7391
+Which country principally administers the Andaman Islands?
+Q: Which country principally administers the Andaman Islands?
+A: "The Andaman Islands are administered by India. So the answer is: India."
+A: India
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3740
+What name is given to a brightly coloured and very wide tie?
+Q: What name is given to a brightly coloured and very wide tie?
+A: "A brightly coloured and very wide tie is called a cravat. So the answer is: cravat."
+A: cravat
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7152
+Which soccer team finished bottom of the Coca Cola Division Two this year, and was relegated to the Vauxhall Conference?
+Q: Which soccer team finished bottom of the Coca Cola Division Two this year, and was relegated to the Vauxhall Conference?
+A: "The soccer team that finished bottom of the Coca Cola Division Two this year, and was relegated to the Vauxhall Conference is Mansfield Town. Mansfield Town finished bottom of the Coca Cola Division Two in 1997-98. So the answer is: 1997-98."
+A: 1997-98
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4117
+"What disease is also known as ""consumption""?"
+Q: "What disease is also known as ""consumption""?"
+A: "Tuberculosis is also known as \"consumption\". So the answer is: Tuberculosis."
+A: Tuberculosis
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4671
+Which artist used a terrace at St Thomas' Hospital as a vantage point for his series of paintings of the Houses of Parliament?
+Q: Which artist used a terrace at St Thomas' Hospital as a vantage point for his series of paintings of the Houses of Parliament?
+A: "The artist who used a terrace at St Thomas' Hospital as a vantage point for his series of paintings of the Houses of Parliament is J.M.W. Turner. So the answer is: J.M.W. Turner."
+A: J.M.W. Turner
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_564
+According to the poet Dante, for whom were the tortures of the sixth Circle of Hell reserved?
+Q: According to the poet Dante, for whom were the tortures of the sixth Circle of Hell reserved?
+A: "According to the poet Dante, the tortures of the sixth Circle of Hell were reserved for the heretics. So the answer is: heretics."
+A: heretics
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_949
+Which English football club is nicknamed ‘The Tykes’?
+Q: Which English football club is nicknamed ‘The Tykes’?
+A: "The English football club nicknamed \u2018The Tykes\u2019 is Barnsley. So the answer is: Barnsley."
+A: Barnsley
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8719
+Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Q: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+A: "The High King Peter is succeeded by King Lirien in the Chronicles of Narnia series by C.S. Lewis. So the answer is: King Lirien."
+A: King Lirien
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7363
+In the first television series 'Men Behaving Badly', who played the part of 'Dermot'?
+Q: In the first television series 'Men Behaving Badly', who played the part of 'Dermot'?
+A: "The part of 'Dermot' in the first television series 'Men Behaving Badly' was played by Neil Morrissey. So the answer is: Neil Morrissey."
+A: Neil Morrissey
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2005
+What was the surname of the East London gangsters, whose christian names were Charles and Eddie, who in the 1960's ran their own scrapyard business and were seen as the main rivals to the Kray twins?
+Q: What was the surname of the East London gangsters, whose christian names were Charles and Eddie, who in the 1960's ran their own scrapyard business and were seen as the main rivals to the Kray twins?
+A: "The East London gangsters, whose christian names were Charles and Eddie, who in the 1960's ran their own scrapyard business and were seen as the main rivals to the Kray twins were the Richardson brothers. So the answer is: Richardson."
+A: Richardson
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2686
+'Dismaland' was the temporary theme park/exhibition of which famous 'anonymous' artist?
+Q: 'Dismaland' was the temporary theme park/exhibition of which famous 'anonymous' artist?
+A: "The famous 'anonymous' artist is Banksy. Banksy created the temporary theme park/exhibition called Dismaland. So the answer is: Banksy."
+A: Banksy
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4540
+In the Bible, who wiped the blood from the face of Jesus on his way to Calvary?
+Q: In the Bible, who wiped the blood from the face of Jesus on his way to Calvary?
+A: "In the Bible, it was Veronica who wiped the blood from the face of Jesus on his way to Calvary. So the answer is: Veronica."
+A: Veronica
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4434
+The temple of which of their gods was destroyed by Samson, as his last act of war against the Philistines?
+Q: The temple of which of their gods was destroyed by Samson, as his last act of war against the Philistines?
+A: "The temple of Dagon was destroyed by Samson, as his last act of war against the Philistines. So the answer is: Dagon."
+A: Dagon
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_482
+If you box in a left handed stance is described as southpaw.  How is the stance of a right handed boxer usually described?
+Q: If you box in a left handed stance is described as southpaw.  How is the stance of a right handed boxer usually described?
+A: "A right handed boxer is usually described as orthodox. So the answer is: orthodox."
+A: orthodox
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7701
+Which Book of the Bible follows Job alphabetically?
+Q: Which Book of the Bible follows Job alphabetically?
+A: "The Book of Job follows the Book of Psalms alphabetically. So the answer is: Psalms."
+A: Psalms
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6692
+In which town or city was Frederick Delius born?
+Q: In which town or city was Frederick Delius born?
+A: "Frederick Delius was born in Bradford, England. So the answer is: Bradford."
+A: Bradford
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4113
+"What weapon is used in Tchaikovsky's ""1812 Overture""?"
+Q: "What weapon is used in Tchaikovsky's ""1812 Overture""?"
+A: "The weapon used in Tchaikovsky's \"1812 Overture\" is the cannon. So the answer is: cannon."
+A: cannon
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5027
+Who played `Wolfie' Smith in the TV comedy series Citizen Smith?
+Q: Who played `Wolfie' Smith in the TV comedy series Citizen Smith?
+A: "The TV comedy series Citizen Smith was played by Robert Lindsay. Robert Lindsay played the character of `Wolfie' Smith. So the answer is: Robert Lindsay."
+A: Robert Lindsay
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8407
+In which country did Bing Crosby die?
+Q: In which country did Bing Crosby die?
+A: "Bing Crosby died in Spain. So the answer is: Spain."
+A: Spain
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1726
+Whose law states that “Work expands so as to fill the time available for its completion”?
+Q: Whose law states that “Work expands so as to fill the time available for its completion”?
+A: "The law that states that \u201cWork expands so as to fill the time available for its completion\u201d is Parkinson's Law. Parkinson's Law was formulated by Cyril Northcote Parkinson. So the answer is: Cyril Northcote Parkinson."
+A: Cyril Northcote Parkinson
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_184
+In which war was cowboy star Tom MIx shot in the mouth?
+Q: In which war was cowboy star Tom MIx shot in the mouth?
+A: "The cowboy star Tom Mix was shot in the mouth during the Mexican Revolution. So the answer is: Mexican Revolution."
+A: Mexican Revolution
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4633
+In which religion is the Torah a sacred text?
+Q: In which religion is the Torah a sacred text?
+A: "The Torah is a sacred text in Judaism. So the answer is: Judaism."
+A: Judaism
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6120
+Bob Hoskins played crime boss Harold Shand in which film?
+Q: Bob Hoskins played crime boss Harold Shand in which film?
+A: "Bob Hoskins played crime boss Harold Shand in the film \"The Long Good Friday\". So the answer is: The Long Good Friday."
+A: The Long Good Friday
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5471
+In which USA city was Jimi Hendrix born?
+Q: In which USA city was Jimi Hendrix born?
+A: "Jimi Hendrix was born in Seattle, Washington. So the answer is: Seattle."
+A: Seattle
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5532
+What is the two piece costume worn in judo called?
+Q: What is the two piece costume worn in judo called?
+A: "The two piece costume worn in judo is called a Judogi. So the answer is: Judogi."
+A: Judogi
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_662
+Which English football team play their home games at Old Trafford?
+Q: Which English football team play their home games at Old Trafford?
+A: "The English football team that play their home games at Old Trafford is Manchester United. So the answer is: Manchester United."
+A: Manchester United
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5536
+In the film 'The Wizard of Oz', what is Dorothy's surname?
+Q: In the film 'The Wizard of Oz', what is Dorothy's surname?
+A: "Dorothy's surname in the film 'The Wizard of Oz' is Gale. So the answer is: Gale."
+A: Gale
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6790
+What is another namefor Oedema?
+Q: What is another namefor Oedema?
+A: "Oedema is also known as Edema. So the answer is: Edema."
+A: Edema
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1794
+The environmental phobia ‘ombrophobia’ is an unnatural fear of what?
+Q: The environmental phobia ‘ombrophobia’ is an unnatural fear of what?
+A: "Ombrophobia is an unnatural fear of rain. So the answer is: rain."
+A: rain
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1162
+The Incas referred to which metal as ‘Tears of the Sun’?
+Q: The Incas referred to which metal as ‘Tears of the Sun’?
+A: "The Incas referred to gold as \u2018Tears of the Sun\u2019. So the answer is: gold."
+A: gold
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_319
+Who became the first Irish woman to set a world record in a track event when she recorded a record time in the 5,000 metres in 1991?
+Q: Who became the first Irish woman to set a world record in a track event when she recorded a record time in the 5,000 metres in 1991?
+A: "The first Irish woman to set a world record in a track event was Sonia O'Sullivan. Sonia O'Sullivan recorded a record time in the 5,000 metres in 1991. So the answer is: Sonia O'Sullivan."
+A: Sonia O'Sullivan
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1216
+In 2008, Sarah Stevenson became Britain’s first Olympic medallist in which martial art?
+Q: In 2008, Sarah Stevenson became Britain’s first Olympic medallist in which martial art?
+A: "Sarah Stevenson became Britain\u2019s first Olympic medallist in Taekwondo. So the answer is: Taekwondo."
+A: Taekwondo
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1629
+Who played 'The Fugitive' on TV?
+Q: Who played 'The Fugitive' on TV?
+A: "The character of Dr. Richard Kimble in the TV series \"The Fugitive\" was played by David Janssen. So the answer is: David Janssen."
+A: David Janssen
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_708
+The annual Latitude Music Festival takes place in which English county?
+Q: The annual Latitude Music Festival takes place in which English county?
+A: "The Latitude Music Festival takes place in Suffolk. So the answer is: Suffolk."
+A: Suffolk
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4166
+In what country were 276 schoolgirls kidnapped by Boko Haram?
+Q: In what country were 276 schoolgirls kidnapped by Boko Haram?
+A: "The 276 schoolgirls were kidnapped by Boko Haram in Nigeria. So the answer is: Nigeria."
+A: Nigeria
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6788
+Similarly, in which country does the 'Diablo' blow?
+Q: Similarly, in which country does the 'Diablo' blow?
+A: "The 'Diablo' is a wind that blows in Chile. So the answer is: Chile."
+A: Chile
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_512
+I am just going outside and may be some time.
+Q: I am just going outside and may be some time.
+A: "This is a famous quote from the movie Zulu. The quote is spoken by the character of Lt. Gonville Bromhead. So the answer is: Lt. Gonville Bromhead."
+A: Lt. Gonville Bromhead
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5929
+Who is the author of a series of 21 historical novels featuring Jack Aubrey and Stephen Maturin?
+Q: Who is the author of a series of 21 historical novels featuring Jack Aubrey and Stephen Maturin?
+A: "The author of a series of 21 historical novels featuring Jack Aubrey and Stephen Maturin is Patrick O'Brian. So the answer is: Patrick O'Brian."
+A: Patrick O'Brian
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1523
+Which country was formerly called Northern Rhodesia?
+Q: Which country was formerly called Northern Rhodesia?
+A: "Northern Rhodesia was formerly called Northern Rhodesia. It is now called Zambia. So the answer is: Zambia."
+A: Zambia
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2432
+Dom Mintoff was prime minister of which country from 1955-8 and 71-84?
+Q: Dom Mintoff was prime minister of which country from 1955-8 and 71-84?
+A: "Dom Mintoff was prime minister of Malta from 1955-8 and 71-84. So the answer is: Malta."
+A: Malta
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4969
+In which town or city is the University of Abertay?
+Q: In which town or city is the University of Abertay?
+A: "The University of Abertay is located in Dundee. So the answer is: Dundee."
+A: Dundee
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_20
+In which decade of the 20th century was Lily Tomlin born?
+Q: In which decade of the 20th century was Lily Tomlin born?
+A: "Lily Tomlin was born on September 1, 1939. Thus, she was born in the 1930s. So the answer is: 1930s."
+A: 1930s
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4866
+What is the name of the country as it appears on Swedish stamps?
+Q: What is the name of the country as it appears on Swedish stamps?
+A: "The country of Sweden appears on Swedish stamps as Sverige. So the answer is: Sverige."
+A: Sverige
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7844
+What was the name that Sir Malcolm Campbell gave to his record breaking boats and cars
+Q: What was the name that Sir Malcolm Campbell gave to his record breaking boats and cars
+A: "Sir Malcolm Campbell gave the name Bluebird to his record breaking boats and cars. So the answer is: Bluebird."
+A: Bluebird
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5651
+Who was elected President of Ireland in November 2011?
+Q: Who was elected President of Ireland in November 2011?
+A: "Michael D. Higgins was elected President of Ireland in November 2011. So the answer is: Michael D. Higgins."
+A: Michael D. Higgins
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4770
+Kerry McCarthy, Doug Naysmith, Dawn Primarolo and Stephen Williams are MPs representing constituencies in which city?
+Q: Kerry McCarthy, Doug Naysmith, Dawn Primarolo and Stephen Williams are MPs representing constituencies in which city?
+A: "The constituencies represented by Kerry McCarthy, Doug Naysmith, Dawn Primarolo and Stephen Williams are in Bristol. So the answer is: Bristol."
+A: Bristol
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4981
+Goitre, or enlarged thyroid gland, is caused by a deficiency of which trace element in the human body?
+Q: Goitre, or enlarged thyroid gland, is caused by a deficiency of which trace element in the human body?
+A: "Goitre, or enlarged thyroid gland, is caused by a deficiency of iodine in the human body. So the answer is: iodine."
+A: iodine
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1049
+Kelvinhall, Cowcaddens and Kinning Park are all underground stations in which European city?
+Q: Kelvinhall, Cowcaddens and Kinning Park are all underground stations in which European city?
+A: "Kelvinhall, Cowcaddens and Kinning Park are all underground stations in Glasgow. So the answer is: Glasgow."
+A: Glasgow
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2695
+The long-standing currency of Kenya, Uganda, and Tanzania (at early 2000s) is the?
+Q: The long-standing currency of Kenya, Uganda, and Tanzania (at early 2000s) is the?
+A: "The long-standing currency of Kenya, Uganda, and Tanzania (at early 2000s) is the East African shilling. So the answer is: East African shilling."
+A: East African shilling
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5059
+Which German City was once head of the Hanseatic League, and is known for its marzipan?
+Q: Which German City was once head of the Hanseatic League, and is known for its marzipan?
+A: "The German city that was once head of the Hanseatic League, and is known for its marzipan is L\u00fcbeck. So the answer is: L\u00fcbeck."
+A: L\u00fcbeck
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4600
+"What was the name of the store in ""Are You Being Served?""?"
+Q: "What was the name of the store in ""Are You Being Served?""?"
+A: "The name of the store in \"Are You Being Served?\" is Grace Brothers. So the answer is: Grace Brothers."
+A: Grace Brothers
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7725
+Which British driver has 31 Formula One victories, the most by a Briton?
+Q: Which British driver has 31 Formula One victories, the most by a Briton?
+A: "The British driver who has 31 Formula One victories, the most by a Briton is Lewis Hamilton. So the answer is: Lewis Hamilton."
+A: Lewis Hamilton
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7091
+"Which word completes the title of a Tony Hawks book: ""Round Ireland With A ....""?"
+Q: "Which word completes the title of a Tony Hawks book: ""Round Ireland With A ....""?"
+A: "The title of the book is \"Round Ireland With A Fridge\". So the answer is: Fridge."
+A: Fridge
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1641
+In his eponymous TV show, which comedian and actor played obstetrician Cliff Huxtable?
+Q: In his eponymous TV show, which comedian and actor played obstetrician Cliff Huxtable?
+A: "The comedian and actor who played obstetrician Cliff Huxtable in his eponymous TV show is Bill Cosby. So the answer is: Bill Cosby."
+A: Bill Cosby
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3547
+The French horse race called the Prix de l'Arc de Triomphe is run at which race course?
+Q: The French horse race called the Prix de l'Arc de Triomphe is run at which race course?
+A: "The Prix de l'Arc de Triomphe is run at the Longchamp Racecourse. So the answer is: Longchamp Racecourse."
+A: Longchamp Racecourse
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1304
+The rock musical ‘Rent’ is based on which opera by Giacomo Puccini?
+Q: The rock musical ‘Rent’ is based on which opera by Giacomo Puccini?
+A: "The rock musical \u2018Rent\u2019 is based on the opera La Boh\u00e8me by Giacomo Puccini. So the answer is: La Boh\u00e8me."
+A: La Boh\u00e8me
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7567
+Which artist’s works include 32 Campbell’s soup cans?
+Q: Which artist’s works include 32 Campbell’s soup cans?
+A: "The artist whose works include 32 Campbell\u2019s soup cans is Andy Warhol. So the answer is: Andy Warhol."
+A: Andy Warhol
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1083
+What is the name of a butterfly and a punctuation mark?
+Q: What is the name of a butterfly and a punctuation mark?
+A: "A butterfly and a punctuation mark is called a comma. So the answer is: comma."
+A: comma
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1815
+Which aristocratic title derives its name from the Anglo-Saxon term for ‘warrior’?
+Q: Which aristocratic title derives its name from the Anglo-Saxon term for ‘warrior’?
+A: "The aristocratic title that derives its name from the Anglo-Saxon term for \u2018warrior\u2019 is Earl. So the answer is: Earl."
+A: Earl
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_696
+In humans, the deficiency of which vitamin causes pellagra?
+Q: In humans, the deficiency of which vitamin causes pellagra?
+A: "The deficiency of vitamin B3 causes pellagra. So the answer is: vitamin B3."
+A: vitamin B3
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5841
+Which Premiership football club's kit was designed by Bruce Oldfield in 1997?
+Q: Which Premiership football club's kit was designed by Bruce Oldfield in 1997?
+A: "The Premiership football club whose kit was designed by Bruce Oldfield in 1997 is Chelsea. So the answer is: Chelsea."
+A: Chelsea
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5897
+Who was voted Time Magazine person of the century in 1999?
+Q: Who was voted Time Magazine person of the century in 1999?
+A: "The person of the century in 1999 was Albert Einstein. So the answer is: Albert Einstein."
+A: Albert Einstein
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8147
+Which company makes the Crunchie chocolate bar
+Q: Which company makes the Crunchie chocolate bar
+A: "The company that makes the Crunchie chocolate bar is Cadbury. So the answer is: Cadbury."
+A: Cadbury
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2353
+Better to light a candle than curse the darkness.
+Q: Better to light a candle than curse the darkness.
+A: "This is a quote from Thomas Jefferson. So the answer is: Thomas Jefferson."
+A: Thomas Jefferson
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8035
+Who was the father of the apostles James and John who were sometimes known as the sons of thunder
+Q: Who was the father of the apostles James and John who were sometimes known as the sons of thunder
+A: "The father of the apostles James and John who were sometimes known as the sons of thunder is Zebedee. So the answer is: Zebedee."
+A: Zebedee
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6433
+Which Greek heroine refused to many a man unless he could beat her in a footrace?
+Q: Which Greek heroine refused to many a man unless he could beat her in a footrace?
+A: "The Greek heroine who refused to many a man unless he could beat her in a footrace is Atalanta. So the answer is: Atalanta."
+A: Atalanta
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7020
+South Stack is a lighthouse found on the coast of which island?
+Q: South Stack is a lighthouse found on the coast of which island?
+A: "South Stack is a lighthouse found on the coast of Anglesey. So the answer is: Anglesey."
+A: Anglesey
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5025
+Who asked of a Cayman Islander, in 1994, `Aren't most of you descended from pirates??
+Q: Who asked of a Cayman Islander, in 1994, `Aren't most of you descended from pirates??
+A: "The person who asked of a Cayman Islander, in 1994, `Aren't most of you descended from pirates?? is Bill Clinton. So the answer is: Bill Clinton."
+A: Bill Clinton
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6963
+Which group, prominent in the 1990’s, featured Chris Novoselic on bass and Dave Grohl on drums/
+Q: Which group, prominent in the 1990’s, featured Chris Novoselic on bass and Dave Grohl on drums/
+A: "The group that featured Chris Novoselic on bass and Dave Grohl on drums is Scream. So the answer is: Scream."
+A: Scream
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3648
+"The modern British period of history called ""The Winter of Discontent"" began when?"
+Q: "The modern British period of history called ""The Winter of Discontent"" began when?"
+A: "The modern British period of history called \"The Winter of Discontent\" began in 1978. So the answer is: 1978."
+A: 1978
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8133
+Which British aircraft manufacturer built the World War Two bomber the Wellington
+Q: Which British aircraft manufacturer built the World War Two bomber the Wellington
+A: "The British aircraft manufacturer that built the World War Two bomber the Wellington is Vickers-Armstrongs. So the answer is: Vickers-Armstrongs."
+A: Vickers-Armstrongs
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5907
+What name is given to a person who tests metals for quality?
+Q: What name is given to a person who tests metals for quality?
+A: "A person who tests metals for quality is called a metallurgist. So the answer is: metallurgist."
+A: metallurgist
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5076
+Whose portrait was painted by the fictional artist Basil Hallward?
+Q: Whose portrait was painted by the fictional artist Basil Hallward?
+A: "The portrait of Dorian Gray was painted by the fictional artist Basil Hallward. So the answer is: Dorian Gray."
+A: Dorian Gray
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5520
+Upon which river does Leicester stand?
+Q: Upon which river does Leicester stand?
+A: "Leicester is a city in the East Midlands of England. Leicester stands on the River Soar. So the answer is: River Soar."
+A: River Soar
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7359
+What name is given to the traditional dessert served in American Thanksgiving Day?
+Q: What name is given to the traditional dessert served in American Thanksgiving Day?
+A: "The traditional dessert served in American Thanksgiving Day is pumpkin pie. So the answer is: pumpkin pie."
+A: pumpkin pie
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4179
+What band performed a song about a deaf, dumb, and blind kid who played a mean pin ball?
+Q: What band performed a song about a deaf, dumb, and blind kid who played a mean pin ball?
+A: "The band that performed a song about a deaf, dumb, and blind kid who played a mean pin ball is Three Dog Night. The song is Pinball Wizard. So the answer is: Three Dog Night."
+A: Three Dog Night
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2741
+Which English cathedral has 'The Clock with no Face'?
+Q: Which English cathedral has 'The Clock with no Face'?
+A: "The cathedral with 'The Clock with no Face' is Wells Cathedral. So the answer is: Wells Cathedral."
+A: Wells Cathedral
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5056
+Who had a no. 1 hit in 2005 with the song 'You 're Beautiful'?
+Q: Who had a no. 1 hit in 2005 with the song 'You 're Beautiful'?
+A: "The song 'You're Beautiful' was a no. 1 hit in 2005 for James Blunt. So the answer is: James Blunt."
+A: James Blunt
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3303
+The Equitable Life Assurance Building in New York City, built in 1870, and 130 feet (40 m) high, was the first office building to be equipped with what?
+Q: The Equitable Life Assurance Building in New York City, built in 1870, and 130 feet (40 m) high, was the first office building to be equipped with what?
+A: "The Equitable Life Assurance Building in New York City, built in 1870, and 130 feet (40 m) high, was the first office building to be equipped with an elevator. So the answer is: elevator."
+A: elevator
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8503
+What radio station do you find at 97.3 on your local FM dial?
+Q: What radio station do you find at 97.3 on your local FM dial?
+A: "The radio station that you find at 97.3 on your local FM dial is KISS FM. So the answer is: KISS FM."
+A: KISS FM
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5704
+What type of exhibits can be seen in the museum at Crich in Derbyshire?
+Q: What type of exhibits can be seen in the museum at Crich in Derbyshire?
+A: "The museum at Crich in Derbyshire is the National Tramway Museum. The National Tramway Museum has exhibits of trams. So the answer is: trams."
+A: trams
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5203
+Prior to Howard Webb in 2010, who was the last Englishman to referee a World Cup Final?
+Q: Prior to Howard Webb in 2010, who was the last Englishman to referee a World Cup Final?
+A: "The last Englishman to referee a World Cup Final prior to Howard Webb in 2010 was Pierluigi Collina. However, Pierluigi Collina is not English. The last Englishman to referee a World Cup Final prior to Howard Webb in 2010 was actually Pierluigi Collina's predecessor, Pierluigi Collina's predecessor was not Pierluigi Collina, but the last Englishman to referee a World Cup Final prior to Howard Webb in 2010 was actually"
+A: The last Englishman to referee a World Cup Final prior to Howard Webb in 2010 was Pierluigi Collina. However, Pierluigi Collina is not English. The last Englishman to referee a World Cup Final prior to Howard Webb in 2010 was actually Pierluigi Collina's predecessor, Pierluigi Collina's predecessor was not Pierluigi Collina, but the last Englishman to referee a World Cup Final prior to Howard Webb in 2010 was actually
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1059
+Balmoral Castle is in which European country?
+Q: Balmoral Castle is in which European country?
+A: "Balmoral Castle is located in Scotland. Scotland is a part of the United Kingdom. So the answer is: United Kingdom."
+A: United Kingdom
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7602
+Asmara is the capital city of which country?
+Q: Asmara is the capital city of which country?
+A: "Asmara is the capital city of Eritrea. So the answer is: Eritrea."
+A: Eritrea
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1086
+Gephyrophobia is the irrational fear of crossing what?
+Q: Gephyrophobia is the irrational fear of crossing what?
+A: "Gephyrophobia is the irrational fear of crossing bridges. So the answer is: bridges."
+A: bridges
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6672
+Which type of race originated in the British Isles where runners raced from one town's ___ to the next where the ___'s were used as markers due to their visibility over long distances? Along the way runners inevitably had to jump creeks and low stone walls separating estates.
+Q: Which type of race originated in the British Isles where runners raced from one town's ___ to the next where the ___'s were used as markers due to their visibility over long distances? Along the way runners inevitably had to jump creeks and low stone walls separating estates.
+A: "The type of race that originated in the British Isles is the road race. Road races in the British Isles were run from one town's milestone to the next where the milestones were used as markers due to their visibility over long distances. Along the way runners inevitably had to jump creeks and low stone walls separating estates. So the answer is: milestone, milestones."
+A: milestone, milestones
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5927
+Which variety of hummingbird is the world's smallest bird?
+Q: Which variety of hummingbird is the world's smallest bird?
+A: "The smallest bird in the world is the bee hummingbird. So the answer is: bee hummingbird."
+A: bee hummingbird
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_833
+Which country won the FIFA Award for Most Entertaining Team at the 2006 World Cup?
+Q: Which country won the FIFA Award for Most Entertaining Team at the 2006 World Cup?
+A: "The FIFA Award for Most Entertaining Team at the 2006 World Cup was won by Portugal. So the answer is: Portugal."
+A: Portugal
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1499
+Who had a UK Top 10 chart hit in 1976 with 'Devil Woman'?
+Q: Who had a UK Top 10 chart hit in 1976 with 'Devil Woman'?
+A: "Clive Dunn had a UK Top 10 chart hit in 1976 with 'Devil Woman'. So the answer is: Clive Dunn."
+A: Clive Dunn
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7573
+What did British mathematician Andrew Wiles prove in 1993?
+Q: What did British mathematician Andrew Wiles prove in 1993?
+A: "Andrew Wiles proved Fermat's Last Theorem in 1993. So the answer is: Fermat's Last Theorem."
+A: Fermat's Last Theorem
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3490
+"In Botticelli's painting ""The Birth of Venus"", what is she standing on?"
+Q: "In Botticelli's painting ""The Birth of Venus"", what is she standing on?"
+A: "In Botticelli's painting \"The Birth of Venus\", Venus is standing on a shell. So the answer is: a shell."
+A: a shell
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8400
+What is the name of the 1978 movie starring Clint Eastwood and an orang-utan called Clyde?
+Q: What is the name of the 1978 movie starring Clint Eastwood and an orang-utan called Clyde?
+A: "The 1978 movie starring Clint Eastwood and an orang-utan called Clyde is Every Which Way But Loose. So the answer is: Every Which Way But Loose."
+A: Every Which Way But Loose
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2985
+What is a navigation instrument used until the 18th century to measure the angles between heavenly bodies, or between them and the horizon?
+Q: What is a navigation instrument used until the 18th century to measure the angles between heavenly bodies, or between them and the horizon?
+A: "A navigation instrument used until the 18th century to measure the angles between heavenly bodies, or between them and the horizon is an astrolabe. So the answer is: astrolabe."
+A: astrolabe
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2991
+How long was the Hundred Years War, fought between England and France in the 14th and 15th centuries?
+Q: How long was the Hundred Years War, fought between England and France in the 14th and 15th centuries?
+A: "The Hundred Years War was fought between England and France in the 14th and 15th centuries. It lasted for 116 years. So the answer is: 116 years."
+A: 116 years
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3676
+Something formed to resemble glass is known as what?
+Q: Something formed to resemble glass is known as what?
+A: "Something formed to resemble glass is known as glaze. So the answer is: glaze."
+A: glaze
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4413
+"Who replaced Charlie Sheen on ""Two And A Half Men""?"
+Q: "Who replaced Charlie Sheen on ""Two And A Half Men""?"
+A: "Charlie Sheen was replaced by Ashton Kutcher on \"Two And A Half Men\". So the answer is: Ashton Kutcher."
+A: Ashton Kutcher
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7408
+"Which sibling asked""Am I my brothers keeper?""?"
+Q: "Which sibling asked""Am I my brothers keeper?""?"
+A: "The sibling who asked \"Am I my brother's keeper?\" is Cain. So the answer is: Cain."
+A: Cain
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8172
+The Trotters is the nickname for which football club?
+Q: The Trotters is the nickname for which football club?
+A: "The nickname for the football club is the Trotters. The football club is Bolton Wanderers. So the answer is: Bolton Wanderers."
+A: Bolton Wanderers
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4498
+Which fictional family live at 742 Evergreen Terrace, Springfield?
+Q: Which fictional family live at 742 Evergreen Terrace, Springfield?
+A: "The fictional family that live at 742 Evergreen Terrace, Springfield is the Simpson family. So the answer is: Simpson family."
+A: Simpson family
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2515
+The Rod of Asclepius, a serpent and rod symbol from Greek mythology, is a widely used logo icon in?
+Q: The Rod of Asclepius, a serpent and rod symbol from Greek mythology, is a widely used logo icon in?
+A: "The Rod of Asclepius, a serpent and rod symbol from Greek mythology, is a widely used logo icon in medicine. So the answer is: medicine."
+A: medicine
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6343
+In which constellation is Aldebaran the brightest star?
+Q: In which constellation is Aldebaran the brightest star?
+A: "Aldebaran is the brightest star in the constellation of Taurus. So the answer is: Taurus."
+A: Taurus
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1651
+‘Tough’ was the real name of which twosome?
+Q: ‘Tough’ was the real name of which twosome?
+A: "The twosome whose real name was \"Tough\" is the duo of \"Tough\" and \"Tough\" is not correct. The duo of \"Tough\" is actually the duo of \"Tough\" and \"Tough\" is not correct. The duo of \"Tough\" is actually the duo of \"Tough\" and \"Tough\" is not correct. The duo of \"Tough\" is actually the duo of \"Tough\" and \"Tough\" is"
+A: The twosome whose real name was \"Tough\" is the duo of \"Tough\" and \"Tough\" is not correct. The duo of \"Tough\" is actually the duo of \"Tough\" and \"Tough\" is not correct. The duo of \"Tough\" is actually the duo of \"Tough\" and \"Tough\" is not correct. The duo of \"Tough\" is actually the duo of \"Tough\" and \"Tough\" is
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_903
+Which body of water connects England and France?
+Q: Which body of water connects England and France?
+A: "The body of water that connects England and France is the English Channel. So the answer is: English Channel."
+A: English Channel
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2722
+In 1902 the Treaty of Vereeniging brought which war to an end?
+Q: In 1902 the Treaty of Vereeniging brought which war to an end?
+A: "The Treaty of Vereeniging brought the Second Boer War to an end. So the answer is: Second Boer War."
+A: Second Boer War
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4087
+In what sport did Gene Tunney defeat Jack Dempsey?
+Q: In what sport did Gene Tunney defeat Jack Dempsey?
+A: "Gene Tunney defeated Jack Dempsey in the sport of boxing. So the answer is: boxing."
+A: boxing
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7447
+Who played the Resident Magistrate in Channel Four TV's 'The Irish R.M.'?
+Q: Who played the Resident Magistrate in Channel Four TV's 'The Irish R.M.'?
+A: "The Resident Magistrate in Channel Four TV's 'The Irish R.M.' was played by Peter Vaughan. So the answer is: Peter Vaughan."
+A: Peter Vaughan
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8611
+On what type of surface is the Wimbledon tournament held?
+Q: On what type of surface is the Wimbledon tournament held?
+A: "The Wimbledon tournament is held on grass. So the answer is: grass."
+A: grass
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_26
+"What was the name of the ""girl with kaleidoscope eyes"" in a Beatles song?"
+Q: "What was the name of the ""girl with kaleidoscope eyes"" in a Beatles song?"
+A: "The Beatles song is Lucy in the Sky with Diamonds. The girl with kaleidoscope eyes in the song is Lucy. So the answer is: Lucy."
+A: Lucy
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4143
+What common celebratory gesture was invented by American athletes in the late 1970's?
+Q: What common celebratory gesture was invented by American athletes in the late 1970's?
+A: "The common celebratory gesture that was invented by American athletes in the late 1970's is the \"Touchdown Dance\". So the answer is: the \"Touchdown Dance\"."
+A: the \"Touchdown Dance\"
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8703
+Have raised over $1.46 billion to date, Jerry Lewis' annual Labor Day telethon raises money for what group?
+Q: Have raised over $1.46 billion to date, Jerry Lewis' annual Labor Day telethon raises money for what group?
+A: "Jerry Lewis' annual Labor Day telethon raises money for the Muscular Dystrophy Association. So the answer is: Muscular Dystrophy Association."
+A: Muscular Dystrophy Association
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6674
+By what name is the 16th century painter Domenikos Theotokopoulos better known?
+Q: By what name is the 16th century painter Domenikos Theotokopoulos better known?
+A: "Domenikos Theotokopoulos is better known as El Greco. So the answer is: El Greco."
+A: El Greco
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5504
+Of what orchestral instrument is Anne-Sophie Mutter a virtuoso?
+Q: Of what orchestral instrument is Anne-Sophie Mutter a virtuoso?
+A: "Anne-Sophie Mutter is a violinist. So the answer is: violin."
+A: violin
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1310
+A douroucouli is what type of animal?
+Q: A douroucouli is what type of animal?
+A: "A douroucouli is a type of lemur. So the answer is: lemur."
+A: lemur
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6373
+In which of the United States is Cape Cod?
+Q: In which of the United States is Cape Cod?
+A: "Cape Cod is located in the state of Massachusetts. So the answer is: Massachusetts."
+A: Massachusetts
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4062
+What was a significance of the 1969 Battle of Hamburger Hill, or Ap Bia Mountain, in Vietnam?
+Q: What was a significance of the 1969 Battle of Hamburger Hill, or Ap Bia Mountain, in Vietnam?
+A: "The 1969 Battle of Hamburger Hill, or Ap Bia Mountain, in Vietnam was a significant battle because it was the first time that the U.S. Army had taken a strategic hill from the North Vietnamese Army. So the answer is: first time that the U.S. Army had taken a strategic hill from the North Vietnamese Army."
+A: first time that the U.S. Army had taken a strategic hill from the North Vietnamese Army
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6121
+What was the first single released by Frankie Goes To Hollywood not to reach number 1 in the UK, although the album of the same name did?
+Q: What was the first single released by Frankie Goes To Hollywood not to reach number 1 in the UK, although the album of the same name did?
+A: "The first single released by Frankie Goes To Hollywood not to reach number 1 in the UK, although the album of the same name did is \"Welcome to the Pleasuredome\". So the answer is: \"Welcome to the Pleasuredome\"."
+A: "Welcome to the Pleasuredome"
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_554
+Who played the title character in the film Hook
+Q: Who played the title character in the film Hook
+A: "The title character in the film Hook was played by Robin Williams. So the answer is: Robin Williams."
+A: Robin Williams
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1141
+Lunes is Spanish for which day of the week?
+Q: Lunes is Spanish for which day of the week?
+A: "Lunes is Spanish for Monday. So the answer is: Monday."
+A: Monday
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3244
+"The ""pre-Raphaelite movement"" was about what?"
+Q: "The ""pre-Raphaelite movement"" was about what?"
+A: "The pre-Raphaelite movement was about the art of the Pre-Raphaelite Brotherhood. The Pre-Raphaelite Brotherhood was a group of English artists who were associated with the Pre-Raphaelite movement. The Pre-Raphaelite movement was about the art of the Pre-Raphaelite Brotherhood. So the answer is: the art of the Pre-Raphaelite Brotherhood."
+A: the art of the Pre-Raphaelite Brotherhood
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8687
+What cookies are shaped like flattened peanuts?
+Q: What cookies are shaped like flattened peanuts?
+A: "The cookies that are shaped like flattened peanuts are peanut butter cookies. So the answer is: peanut butter cookies."
+A: peanut butter cookies
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3663
+Which BBC TV programme of 4 series featured Rowan Atkinson, Pamela Stephenson, Mel Smith and Griff Rhys Jones, with Chris Langham in the first series?
+Q: Which BBC TV programme of 4 series featured Rowan Atkinson, Pamela Stephenson, Mel Smith and Griff Rhys Jones, with Chris Langham in the first series?
+A: "The BBC TV programme of 4 series that featured Rowan Atkinson, Pamela Stephenson, Mel Smith and Griff Rhys Jones, with Chris Langham in the first series is Not the Nine O'Clock News. So the answer is: Not the Nine O'Clock News."
+A: Not the Nine O'Clock News
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2993
+In 2003, which team broke Australia's winning streak of the World Netball Tournaments since 1971?
+Q: In 2003, which team broke Australia's winning streak of the World Netball Tournaments since 1971?
+A: "The team that broke Australia's winning streak of the World Netball Tournaments since 1971 is New Zealand. So the answer is: New Zealand."
+A: New Zealand
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4898
+In the Shakespeare play, who is Othello's trusted advisor, husband of Emilia?
+Q: In the Shakespeare play, who is Othello's trusted advisor, husband of Emilia?
+A: "In the Shakespeare play, Othello's trusted advisor, husband of Emilia is Iago. So the answer is: Iago."
+A: Iago
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4088
+What economic downturn lasted through most of the decade?
+Q: What economic downturn lasted through most of the decade?
+A: "The economic downturn that lasted through most of the decade is the Great Depression. The Great Depression lasted from 1929 to 1939. So the answer is: the Great Depression."
+A: the Great Depression
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4623
+How many players make up a baseball team?
+Q: How many players make up a baseball team?
+A: "A baseball team is made up of 9 players. So the answer is: 9."
+A: 9
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3066
+At which racecourse would you find Beecher's Brook and Canal Turn?
+Q: At which racecourse would you find Beecher's Brook and Canal Turn?
+A: "Beecher's Brook and Canal Turn are located at the Cheltenham Racecourse. So the answer is: Cheltenham Racecourse."
+A: Cheltenham Racecourse
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2740
+What Latin phrase means operational method, or the way a job is done?
+Q: What Latin phrase means operational method, or the way a job is done?
+A: "The Latin phrase that means operational method, or the way a job is done is modus operandi. So the answer is: modus operandi."
+A: modus operandi
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2908
+Tolo TV is which country's leading independent TV company (as at 2010)?
+Q: Tolo TV is which country's leading independent TV company (as at 2010)?
+A: "Tolo TV is an Afghan television channel. Therefore, it is the leading independent TV company of Afghanistan. So the answer is: Afghanistan."
+A: Afghanistan
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4148
+According to citypopulation.de, what is the biggest urban area that is NOT in Asia?
+Q: According to citypopulation.de, what is the biggest urban area that is NOT in Asia?
+A: "The biggest urban area that is NOT in Asia is New York City. According to citypopulation.de, the population of New York City is 20,200,000. So the answer is: 20,200,000."
+A: 20,200,000
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_868
+What is sodium bicarbonate known as in the kitchen?
+Q: What is sodium bicarbonate known as in the kitchen?
+A: "Sodium bicarbonate is known as baking soda in the kitchen. So the answer is: baking soda."
+A: baking soda
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6123
+Which French shoe designer once said; “red is more than a colour”?
+Q: Which French shoe designer once said; “red is more than a colour”?
+A: "The French shoe designer who once said; \u201cred is more than a colour\u201d is Christian Louboutin. So the answer is: Christian Louboutin."
+A: Christian Louboutin
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3887
+What country, including land from subtropical plains to sub-alpine peaks of over 7,000m (23,000 ft), and currently a monarchy, was rated in 2006 as the eighth happiest country in the world?
+Q: What country, including land from subtropical plains to sub-alpine peaks of over 7,000m (23,000 ft), and currently a monarchy, was rated in 2006 as the eighth happiest country in the world?
+A: "The country that was rated in 2006 as the eighth happiest country in the world is Bhutan. Bhutan is a monarchy. So the answer is: Bhutan."
+A: Bhutan
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1902
+What name is given to the branch of Christianity followed by Jews in Israel and the U.S.A.?
+Q: What name is given to the branch of Christianity followed by Jews in Israel and the U.S.A.?
+A: "The branch of Christianity followed by Jews in Israel and the U.S.A. is Messianic Judaism. So the answer is: Messianic Judaism."
+A: Messianic Judaism
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4293
+What type of droid was C-3PO?
+Q: What type of droid was C-3PO?
+A: "C-3PO is a protocol droid. So the answer is: protocol droid."
+A: protocol droid
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1625
+What is the given name of the wife of Conservative leader David Cameron?
+Q: What is the given name of the wife of Conservative leader David Cameron?
+A: "The wife of Conservative leader David Cameron is Samantha Gwendoline Cameron. So the answer is: Samantha Gwendoline Cameron."
+A: Samantha Gwendoline Cameron
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_579
+Which area of London is believed to derive its name from a former hunting cry?
+Q: Which area of London is believed to derive its name from a former hunting cry?
+A: "The area of London that is believed to derive its name from a former hunting cry is Hampstead. So the answer is: Hampstead."
+A: Hampstead
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3382
+On 21 May 2004, Pemba Dorjie set a new record for climbing to the top of Mt Everest from Basecamp in the fastest time. What was the new record?
+Q: On 21 May 2004, Pemba Dorjie set a new record for climbing to the top of Mt Everest from Basecamp in the fastest time. What was the new record?
+A: "Pemba Dorjie set a new record for climbing to the top of Mt Everest from Basecamp in the fastest time of 8 hours and 10 minutes. So the answer is: 8 hours and 10 minutes."
+A: 8 hours and 10 minutes
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7792
+How many square metres are there in a hectare?
+Q: How many square metres are there in a hectare?
+A: "There are 10,000 square meters in a hectare. So the answer is: 10,000."
+A: 10,000
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2137
+In 2012 , which town became the first in Essex to be granted city status ?
+Q: In 2012 , which town became the first in Essex to be granted city status ?
+A: "In 2012, Chelmsford became the first in Essex to be granted city status. So the answer is: Chelmsford."
+A: Chelmsford
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5735
+Who won Great Britain's only athletics gold medal in the 1972 Munich Olympic Games?
+Q: Who won Great Britain's only athletics gold medal in the 1972 Munich Olympic Games?
+A: "The athlete who won Great Britain's only athletics gold medal in the 1972 Munich Olympic Games is David Hemery. So the answer is: David Hemery."
+A: David Hemery
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_471
+The name of which European capital city is derived from the names of two towns on either bank of its main river?
+Q: The name of which European capital city is derived from the names of two towns on either bank of its main river?
+A: "The name of the European capital city that is derived from the names of two towns on either bank of its main river is Vienna. Vienna is derived from the names of the towns of Vindobona and Albing. So the answer is: Vienna."
+A: Vienna
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1054
+Who wrote the 1894 novel ‘The Jungle Book’?
+Q: Who wrote the 1894 novel ‘The Jungle Book’?
+A: "The 1894 novel \u2018The Jungle Book\u2019 was written by Rudyard Kipling. So the answer is: Rudyard Kipling."
+A: Rudyard Kipling
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6028
+A 'shiver' is a collective noun for a group of which sea creatures?
+Q: A 'shiver' is a collective noun for a group of which sea creatures?
+A: "A'shiver' is a collective noun for a group of eels. So the answer is: eels."
+A: eels
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8106
+Which language spoken by 55 million people is not known to be related to any other
+Q: Which language spoken by 55 million people is not known to be related to any other
+A: "The language spoken by 55 million people that is not known to be related to any other is Swahili. So the answer is: Swahili."
+A: Swahili
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6483
+If Georgia O'Keeffe is to Taos, New Mexico, which German artist known for his surrealist paintings is to Sedona, Arizona?
+Q: If Georgia O'Keeffe is to Taos, New Mexico, which German artist known for his surrealist paintings is to Sedona, Arizona?
+A: "Georgia O'Keeffe is to Taos, New Mexico. The German artist known for his surrealist paintings is Max Ernst. Max Ernst is to Sedona, Arizona. So the answer is: Max Ernst."
+A: Max Ernst
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7082
+What is the name of the small sponge cake soaked in Rum and syrup said to have been invented by King Stanislaus of Poland?
+Q: What is the name of the small sponge cake soaked in Rum and syrup said to have been invented by King Stanislaus of Poland?
+A: "The small sponge cake soaked in Rum and syrup said to have been invented by King Stanislaus of Poland is called Babka. So the answer is: Babka."
+A: Babka
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2373
+In general a horse is distinguished from a pony at/over approximately what height, in hands, to the withers?
+Q: In general a horse is distinguished from a pony at/over approximately what height, in hands, to the withers?
+A: "A horse is distinguished from a pony at/over approximately 14.2 hands, to the withers. So the answer is: 14.2."
+A: 14.2
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7302
+Which porcelain manufacturer has two crossed swords as its mark?
+Q: Which porcelain manufacturer has two crossed swords as its mark?
+A: "The porcelain manufacturer that has two crossed swords as its mark is Meissen. So the answer is: Meissen."
+A: Meissen
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_691
+Ligustrum Ovalifolium is the Latin name for which shrub?
+Q: Ligustrum Ovalifolium is the Latin name for which shrub?
+A: "Ligustrum Ovalifolium is the Latin name for the shrub Privet. So the answer is: Privet."
+A: Privet
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6110
+What is the main grape used in the production of Chianti wine?
+Q: What is the main grape used in the production of Chianti wine?
+A: "The main grape used in the production of Chianti wine is Sangiovese. So the answer is: Sangiovese."
+A: Sangiovese
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3688
+Jews descended from the medieval Jewish communities along the Rhine in Germany from Alsace in the south to the Rhineland in the north are known as what?
+Q: Jews descended from the medieval Jewish communities along the Rhine in Germany from Alsace in the south to the Rhineland in the north are known as what?
+A: "Jews descended from the medieval Jewish communities along the Rhine in Germany from Alsace in the south to the Rhineland in the north are known as Ashkenazi. So the answer is: Ashkenazi."
+A: Ashkenazi
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2608
+Febrile refers to what human condition?
+Q: Febrile refers to what human condition?
+A: "Febrile refers to a condition of having a fever. So the answer is: fever."
+A: fever
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7809
+"On which everyday object would you see the inscription ""Standing on the shoulders of giants"""
+Q: "On which everyday object would you see the inscription ""Standing on the shoulders of giants"""
+A: "The inscription \"Standing on the shoulders of giants\" is often seen on the back of a penny. So the answer is: penny."
+A: penny
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6927
+Who was the Archbishop of Canterbury at the time of Edward VIII's abdication?
+Q: Who was the Archbishop of Canterbury at the time of Edward VIII's abdication?
+A: "The Archbishop of Canterbury at the time of Edward VIII's abdication was Cosmo Gordon Lang. So the answer is: Cosmo Gordon Lang."
+A: Cosmo Gordon Lang
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6858
+On which river, a tributary of the Avon, does the town of Leamington Spa stand?
+Q: On which river, a tributary of the Avon, does the town of Leamington Spa stand?
+A: "The town of Leamington Spa stands on the River Leam. So the answer is: River Leam."
+A: River Leam
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4699
+What is the name for the study of hormones?
+Q: What is the name for the study of hormones?
+A: "The study of hormones is called endocrinology. So the answer is: endocrinology."
+A: endocrinology
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6101
+Which comic strip was created by Mary Tourtel?
+Q: Which comic strip was created by Mary Tourtel?
+A: "Mary Tourtel created the comic strip Rupert the Bear. So the answer is: Rupert the Bear."
+A: Rupert the Bear
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6484
+The planet Dagobah is the site of exile of which wise master voiced by Frank Oz throughout a seminal series?
+Q: The planet Dagobah is the site of exile of which wise master voiced by Frank Oz throughout a seminal series?
+A: "The wise master voiced by Frank Oz throughout a seminal series is Yoda. The planet Dagobah is the site of exile of Yoda. So the answer is: Yoda."
+A: Yoda
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_210
+Which human-rights organization campaigns for the release of political prisoners worldwide?|
+Q: Which human-rights organization campaigns for the release of political prisoners worldwide?|
+A: "The human-rights organization that campaigns for the release of political prisoners worldwide is Amnesty International. So the answer is: Amnesty International."
+A: Amnesty International
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1732
+Alphabetically which is the last element in the periodic table?
+Q: Alphabetically which is the last element in the periodic table?
+A: "The last element in the periodic table is Tennessine. Alphabetically, Tennessine is the last element. So the answer is: Tennessine."
+A: Tennessine
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8222
+Nell Gwynn was mistress to which King?
+Q: Nell Gwynn was mistress to which King?
+A: "Nell Gwynn was mistress to King Charles II. So the answer is: King Charles II."
+A: King Charles II
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5390
+Where, in literature can you find Willy Nilly, Organ Morgan and Bessie Bighead?
+Q: Where, in literature can you find Willy Nilly, Organ Morgan and Bessie Bighead?
+A: "Willy Nilly, Organ Morgan and Bessie Bighead are characters in the novel \"The Wind in the Willows\" by Kenneth Grahame. So the answer is: The Wind in the Willows."
+A: The Wind in the Willows
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3025
+"In music, what does the term ""Allegro"" mean?"
+Q: "In music, what does the term ""Allegro"" mean?"
+A: "The term \"Allegro\" in music means fast. So the answer is: fast."
+A: fast
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7360
+If a woman wore a size 38 shoe on the Continent, what size would she ask for in the UK?
+Q: If a woman wore a size 38 shoe on the Continent, what size would she ask for in the UK?
+A: "In the UK, shoe sizes are measured in Brannock sizes. In the UK, a size 38 Continental shoe is equivalent to a size 6.5 Brannock size. So the answer is: 6.5."
+A: 6.5
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1155
+An Insulinoma is a tumour of which organ of the body?
+Q: An Insulinoma is a tumour of which organ of the body?
+A: "An Insulinoma is a tumour of the pancreas. So the answer is: pancreas."
+A: pancreas
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_244
+What is the term for a fold of the Earth's crust in which the layers of rock dip inwards?
+Q: What is the term for a fold of the Earth's crust in which the layers of rock dip inwards?
+A: "The term for a fold of the Earth's crust in which the layers of rock dip inwards is syncline. So the answer is: syncline."
+A: syncline
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1016
+What is the title of the 1959 film in which Hayley Mills plays a young girl who befriends a murderous Polish sailor?
+Q: What is the title of the 1959 film in which Hayley Mills plays a young girl who befriends a murderous Polish sailor?
+A: "The 1959 film in which Hayley Mills plays a young girl who befriends a murderous Polish sailor is Tiger Bay. So the answer is: Tiger Bay."
+A: Tiger Bay
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7606
+Which Belfast born comedian, resident in Blackpool for many years, had a catchphrase ‘It’s the way I tell ‘em’?
+Q: Which Belfast born comedian, resident in Blackpool for many years, had a catchphrase ‘It’s the way I tell ‘em’?
+A: "The Belfast born comedian, resident in Blackpool for many years, who had a catchphrase \u2018It\u2019s the way I tell \u2018em\u2019 is Frank Randle. So the answer is: Frank Randle."
+A: Frank Randle
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2975
+Which Greek mathematician, from the 1st century BC, is best known for the theorem which bears his name and for leading a group who discovered square numbers and proposed that the earth was round, planets have an axis, and they travel around the sun?
+Q: Which Greek mathematician, from the 1st century BC, is best known for the theorem which bears his name and for leading a group who discovered square numbers and proposed that the earth was round, planets have an axis, and they travel around the sun?
+A: "The Greek mathematician who is best known for the theorem which bears his name and for leading a group who discovered square numbers and proposed that the earth was round, planets have an axis, and they travel around the sun is Eratosthenes. So the answer is: Eratosthenes."
+A: Eratosthenes
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3464
+Which dictator's face was printed on labels of soft drink bottles that went on sale in February 2010?
+Q: Which dictator's face was printed on labels of soft drink bottles that went on sale in February 2010?
+A: "The dictator whose face was printed on labels of soft drink bottles that went on sale in February 2010 is Kim Jong-il. So the answer is: Kim Jong-il."
+A: Kim Jong-il
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4474
+"Who sculpted Oscar Wilde's tomb, and the figures ""Day and Night"" on the Headquarters of London Transport?"
+Q: "Who sculpted Oscar Wilde's tomb, and the figures ""Day and Night"" on the Headquarters of London Transport?"
+A: "The sculptor who sculpted Oscar Wilde's tomb, and the figures \"Day and Night\" on the Headquarters of London Transport is Jacob Epstein. So the answer is: Jacob Epstein."
+A: Jacob Epstein
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3390
+What is the name of the main tournament course at St Andrews Golf Club?
+Q: What is the name of the main tournament course at St Andrews Golf Club?
+A: "The main tournament course at St Andrews Golf Club is the Old Course. So the answer is: Old Course."
+A: Old Course
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7392
+Who played 'Juliet' opposite Leonardo Di Caprio in the 1996 film 'Romeo And Juliet'?
+Q: Who played 'Juliet' opposite Leonardo Di Caprio in the 1996 film 'Romeo And Juliet'?
+A: "The film \"Romeo and Juliet\" was released in 1996. In this film, Claire Danes played the role of Juliet. So the answer is: Claire Danes."
+A: Claire Danes
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2834
+Which city is the setting of 1950s musical Kismet?
+Q: Which city is the setting of 1950s musical Kismet?
+A: "The city of Baghdad is the setting of 1950s musical Kismet. So the answer is: Baghdad."
+A: Baghdad
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8145
+By what name do we know funny man Michael Pennington
+Q: By what name do we know funny man Michael Pennington
+A: "Michael Pennington is also known as Michael Pennington (actor). He is also known as Michael Pennington (actor) and as Michael Pennington (actor). So the answer is: Michael Pennington (actor)."
+A: Michael Pennington (actor)
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4162
+"In what country was ""The Book of the Dead"" written?"
+Q: "In what country was ""The Book of the Dead"" written?"
+A: "The Book of the Dead was written in Egypt. So the answer is: Egypt."
+A: Egypt
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2743
+In which body of water are the Balearic Islands?
+Q: In which body of water are the Balearic Islands?
+A: "The Balearic Islands are located in the Mediterranean Sea. So the answer is: Mediterranean Sea."
+A: Mediterranean Sea
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3511
+"Which sculptor is famous for his work ""The Thinker""?"
+Q: "Which sculptor is famous for his work ""The Thinker""?"
+A: "The sculptor famous for his work \"The Thinker\" is Auguste Rodin. So the answer is: Auguste Rodin."
+A: Auguste Rodin
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8734
+Monday marked the anniversary internet giant Google, started in 1998, while its founders were attending what PAC-10 school?
+Q: Monday marked the anniversary internet giant Google, started in 1998, while its founders were attending what PAC-10 school?
+A: "Google was started in 1998, while its founders were attending Stanford University. Stanford University is a PAC-10 school. So the answer is: Stanford University."
+A: Stanford University
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6043
+At the Academy Awards, what was the first British film ever to win the Oscar for Best Film?
+Q: At the Academy Awards, what was the first British film ever to win the Oscar for Best Film?
+A: "The first British film ever to win the Oscar for Best Film was Chariots of Fire. So the answer is: Chariots of Fire."
+A: Chariots of Fire
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3131
+What is the generic name for all of the greater festivals of the Christian Church?
+Q: What is the generic name for all of the greater festivals of the Christian Church?
+A: "The generic name for all of the greater festivals of the Christian Church is the \"Principal Feasts\". So the answer is: Principal Feasts."
+A: Principal Feasts
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_178
+The First Time Ever I Saw Your Face was featured in which Clint Eastwood film?
+Q: The First Time Ever I Saw Your Face was featured in which Clint Eastwood film?
+A: "The song \"The First Time Ever I Saw Your Face\" was featured in the Clint Eastwood film \"Play Misty for Me\". So the answer is: Play Misty for Me."
+A: Play Misty for Me
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2994
+An axolotl is the larva or early form of what?
+Q: An axolotl is the larva or early form of what?
+A: "An axolotl is the larva or early form of the Mexican salamander. So the answer is: Mexican salamander."
+A: Mexican salamander
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1506
+Who was the treacherous knight of the Round Table?
+Q: Who was the treacherous knight of the Round Table?
+A: "The treacherous knight of the Round Table is Sir Agravain. So the answer is: Sir Agravain."
+A: Sir Agravain
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2292
+In the UK, who was elected president of the National Union of Mineworkers in 1981?
+Q: In the UK, who was elected president of the National Union of Mineworkers in 1981?
+A: "The president of the National Union of Mineworkers in 1981 was Arthur Scargill. So the answer is: Arthur Scargill."
+A: Arthur Scargill
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4800
+What position did Will Sommers hold at the court of Henry VIII?
+Q: What position did Will Sommers hold at the court of Henry VIII?
+A: "Will Sommers held the position of a jester at the court of Henry VIII. So the answer is: jester."
+A: jester
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4066
+What country separates the city of Dandong and Dochon-ri village?
+Q: What country separates the city of Dandong and Dochon-ri village?
+A: "The city of Dandong is in China. Dochon-ri village is in North Korea. Thus, the country that separates Dandong and Dochon-ri village is China. So the answer is: China."
+A: China
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1546
+Which 17th century scientist, also Irish-born, was the 14th son of the 1st Earl of Cork?
+Q: Which 17th century scientist, also Irish-born, was the 14th son of the 1st Earl of Cork?
+A: "The 17th century scientist who was the 14th son of the 1st Earl of Cork is Robert Boyle. Robert Boyle was Irish-born. So the answer is: Robert Boyle."
+A: Robert Boyle
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3204
+With what activity is Russian Marc Chagall associated?
+Q: With what activity is Russian Marc Chagall associated?
+A: "Marc Chagall is associated with painting. So the answer is: painting."
+A: painting
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1860
+Angus Jones apologised for urging viewers not to watch which TV show in which he stars?
+Q: Angus Jones apologised for urging viewers not to watch which TV show in which he stars?
+A: "Angus Jones is an actor who stars in the TV show \"Two and a Half Men\". Angus Jones urged viewers not to watch \"Two and a Half Men\". So the answer is: Two and a Half Men."
+A: Two and a Half Men
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2733
+Englishman Lancelot 'Capability' Brown, (1716-83) is a globally famous?
+Q: Englishman Lancelot 'Capability' Brown, (1716-83) is a globally famous?
+A: "Lancelot 'Capability' Brown is a globally famous landscape architect. So the answer is: landscape architect."
+A: landscape architect
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4911
+Which Russian composer was also a naval officer?
+Q: Which Russian composer was also a naval officer?
+A: "The Russian composer who was also a naval officer is Nikolai Rimsky-Korsakov. So the answer is: Nikolai Rimsky-Korsakov."
+A: Nikolai Rimsky-Korsakov
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8835
+March 9, 1959 saw the introduction of what Mattel favorite, an 11.5 inch tall fashion doll which saw controversy when a later talking model exclaimed such phrases as Will we ever have enough clothes?, and Math class is tough!?
+Q: March 9, 1959 saw the introduction of what Mattel favorite, an 11.5 inch tall fashion doll which saw controversy when a later talking model exclaimed such phrases as Will we ever have enough clothes?, and Math class is tough!?
+A: "The Mattel favorite that was introduced on March 9, 1959 is Barbie. The talking model of Barbie exclaimed such phrases as Will we ever have enough clothes?, and Math class is tough!. So the answer is: Barbie."
+A: Barbie
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6544
+The German word ahnentafel is a term for a numbering system used in what particular field? (hint: using it eliminates the need to draw a tree)
+Q: The German word ahnentafel is a term for a numbering system used in what particular field? (hint: using it eliminates the need to draw a tree)
+A: "The German word ahnentafel is a term for a numbering system used in genealogy. So the answer is: genealogy."
+A: genealogy
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7914
+Frankie Fredericks represented which country at athletics
+Q: Frankie Fredericks represented which country at athletics
+A: "Frankie Fredericks represented Namibia at athletics. So the answer is: Namibia."
+A: Namibia
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2780
+American DJ Robert Weston Smith was better known by what stage name?
+Q: American DJ Robert Weston Smith was better known by what stage name?
+A: "Robert Weston Smith was better known by the stage name of Wolfman Jack. So the answer is: Wolfman Jack."
+A: Wolfman Jack
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4741
+From which country does the wine Tokay come?
+Q: From which country does the wine Tokay come?
+A: "Tokay is a type of wine that comes from Hungary. So the answer is: Hungary."
+A: Hungary
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_735
+Which chemical element does ‘Li’ represent in the Periodic Table?
+Q: Which chemical element does ‘Li’ represent in the Periodic Table?
+A: "\u2018Li\u2019 represents Lithium in the Periodic Table. So the answer is: Lithium."
+A: Lithium
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2273
+A traditional weapon of the Sicilian mafia, what is a lupara?
+Q: A traditional weapon of the Sicilian mafia, what is a lupara?
+A: "A lupara is a traditional weapon of the Sicilian mafia. It is a type of shotgun. So the answer is: shotgun."
+A: shotgun
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1721
+What was the middle name of Mark Chapman, John Lennon’s killer?
+Q: What was the middle name of Mark Chapman, John Lennon’s killer?
+A: "Mark Chapman's full name is Mark David Chapman. So the answer is: David."
+A: David
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_740
+What was the name of the airship that burst into flames at Lakenhurst Naval Station, New Jersey in 1937?
+Q: What was the name of the airship that burst into flames at Lakenhurst Naval Station, New Jersey in 1937?
+A: "The airship that burst into flames at Lakenhurst Naval Station, New Jersey in 1937 was the USS Akron. So the answer is: USS Akron."
+A: USS Akron
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4875
+Who painted 'The Laughing Cavalier' in 1624?
+Q: Who painted 'The Laughing Cavalier' in 1624?
+A: "The Laughing Cavalier was painted by Frans Hals in 1624. So the answer is: Frans Hals."
+A: Frans Hals
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1453
+The title First Level Nurse replaced Registered General Nurse, which replaced what?
+Q: The title First Level Nurse replaced Registered General Nurse, which replaced what?
+A: "The title First Level Nurse replaced Registered General Nurse, which replaced State Registered Nurse. So the answer is: State Registered Nurse."
+A: State Registered Nurse
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7680
+Ayatollah Khomeini pronounced a death sentence in 1989 on Salman Rushdie as a result of what book, published the previous year?
+Q: Ayatollah Khomeini pronounced a death sentence in 1989 on Salman Rushdie as a result of what book, published the previous year?
+A: "Ayatollah Khomeini pronounced a death sentence in 1989 on Salman Rushdie as a result of the book \"The Satanic Verses\". The book \"The Satanic Verses\" was published the previous year, in 1988. So the answer is: The Satanic Verses."
+A: The Satanic Verses
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2956
+What Pope took office on 21 June 1963?
+Q: What Pope took office on 21 June 1963?
+A: "The Pope who took office on 21 June 1963 is Paul VI. So the answer is: Paul VI."
+A: Paul VI
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6337
+"The ""Ampere"" is the SI Unit of what?"
+Q: "The ""Ampere"" is the SI Unit of what?"
+A: "The SI Unit of electric current is the Ampere. So the answer is: electric current."
+A: electric current
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6958
+Which Swiss cheese was named after a valley near the city of Berne?
+Q: Which Swiss cheese was named after a valley near the city of Berne?
+A: "Emmental cheese was named after a valley near the city of Berne. So the answer is: Emmental."
+A: Emmental
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_207
+What name is shared by the chairs of the UK House of Commons and the US House of Representatives?
+Q: What name is shared by the chairs of the UK House of Commons and the US House of Representatives?
+A: "The chairs of the UK House of Commons and the US House of Representatives are both called the Speaker. So the answer is: Speaker."
+A: Speaker
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6547
+While recovering from wounds received in World War I, Dewitt Wallace had the idea to gather a sampling of articles from various publications; this resulted in the birth of what popular magazine?
+Q: While recovering from wounds received in World War I, Dewitt Wallace had the idea to gather a sampling of articles from various publications; this resulted in the birth of what popular magazine?
+A: "Dewitt Wallace had the idea to gather a sampling of articles from various publications; this resulted in the birth of Reader's Digest. So the answer is: Reader's Digest."
+A: Reader's Digest
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7410
+What product do the company Farrow and Ball make?
+Q: What product do the company Farrow and Ball make?
+A: "Farrow and Ball is a paint company. They make paint. So the answer is: paint."
+A: paint
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3699
+"What is the setting for the 1993 film ""Alive"", which stars Ethan Hawke, Vincent Spano and Josh Hamiltonset and is narrated by John Malkovich?"
+Q: "What is the setting for the 1993 film ""Alive"", which stars Ethan Hawke, Vincent Spano and Josh Hamiltonset and is narrated by John Malkovich?"
+A: "The setting for the 1993 film \"Alive\" is the Andes Mountains. So the answer is: Andes Mountains."
+A: Andes Mountains
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7689
+Who was awarded the 100m Olympic Gold Medal at the Seoul Olympics in 1988 after the disqualification of Ben Johnson?
+Q: Who was awarded the 100m Olympic Gold Medal at the Seoul Olympics in 1988 after the disqualification of Ben Johnson?
+A: "The 100m Olympic Gold Medal at the Seoul Olympics in 1988 was awarded to Carl Lewis after the disqualification of Ben Johnson. So the answer is: Carl Lewis."
+A: Carl Lewis
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5521
+Which composer is best known for his works Requiem in D minor and Pavane in F sharp minor?
+Q: Which composer is best known for his works Requiem in D minor and Pavane in F sharp minor?
+A: "The composer best known for his works Requiem in D minor and Pavane in F sharp minor is Maurice Ravel. So the answer is: Maurice Ravel."
+A: Maurice Ravel
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3373
+"What was the sequel to the John Travolta film ""Get Shorty""?"
+Q: "What was the sequel to the John Travolta film ""Get Shorty""?"
+A: "The sequel to the John Travolta film \"Get Shorty\" is \"Be Cool\". So the answer is: Be Cool."
+A: Be Cool
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2170
+What was the title of the only U.K. No.1 hit for the group The Dave Clark Five ?
+Q: What was the title of the only U.K. No.1 hit for the group The Dave Clark Five ?
+A: "The Dave Clark Five had a U.K. No.1 hit with the song \"Glad All Over\". So the answer is: Glad All Over."
+A: Glad All Over
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8834
+What holiday, created by a future Cal State Long Beach professor in 1966, is celebrated the day after Christmas for 7 days?
+Q: What holiday, created by a future Cal State Long Beach professor in 1966, is celebrated the day after Christmas for 7 days?
+A: "The holiday created by a future Cal State Long Beach professor in 1966 is Kwanzaa. Kwanzaa is celebrated for 7 days. It is celebrated the day after Christmas. So the answer is: Kwanzaa."
+A: Kwanzaa
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_387
+Traditionally, which player in a rugby league team wore the number nine shirt?
+Q: Traditionally, which player in a rugby league team wore the number nine shirt?
+A: "Traditionally, the player in a rugby league team who wore the number nine shirt is the scrum-half. So the answer is: scrum-half."
+A: scrum-half
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_631
+The Ebro River is in which country?
+Q: The Ebro River is in which country?
+A: "The Ebro River is in Spain. So the answer is: Spain."
+A: Spain
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7375
+"Who said ""To err is human, to forgive, divine""?"
+Q: "Who said ""To err is human, to forgive, divine""?"
+A: "Alexander Pope said \"To err is human, to forgive, divine\". So the answer is: Alexander Pope."
+A: Alexander Pope
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3008
+What is the Scottish name for All Saints Day, a Christian ceremony grafted onto an ancient pagan ceremony?
+Q: What is the Scottish name for All Saints Day, a Christian ceremony grafted onto an ancient pagan ceremony?
+A: "The Scottish name for All Saints Day is All Hallows. All Hallows is a Christian ceremony grafted onto an ancient pagan ceremony. So the answer is: All Hallows."
+A: All Hallows
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4033
+How many rounds did it take for Lennox Lewis to beat Mike Tyson in 2002?
+Q: How many rounds did it take for Lennox Lewis to beat Mike Tyson in 2002?
+A: "Lennox Lewis beat Mike Tyson in 2002 in the 8th round. So the answer is: 8."
+A: 8
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5023
+Which European capital city was a city-state known as Ledra in ancient times?
+Q: Which European capital city was a city-state known as Ledra in ancient times?
+A: "The European capital city that was a city-state known as Ledra in ancient times is Nicosia. So the answer is: Nicosia."
+A: Nicosia
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8499
+What part of the body is afflicted by gingivitis?
+Q: What part of the body is afflicted by gingivitis?
+A: "Gingivitis is an inflammation of the gums. So the answer is: gums."
+A: gums
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_10
+What is the correct name of laughing gas?
+Q: What is the correct name of laughing gas?
+A: "The correct name of laughing gas is Nitrous oxide. So the answer is: Nitrous oxide."
+A: Nitrous oxide
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_486
+What alcoholic drink is made from molasses?
+Q: What alcoholic drink is made from molasses?
+A: "Rum is made from molasses. So the answer is: Rum."
+A: Rum
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_709
+What is the tune hummed by David Brent during his infamous dance routine in the UK tv series ‘The Office’?
+Q: What is the tune hummed by David Brent during his infamous dance routine in the UK tv series ‘The Office’?
+A: "The tune hummed by David Brent during his infamous dance routine in the UK tv series \u2018The Office\u2019 is \"Come On Eileen\". So the answer is: \"Come On Eileen\"."
+A: "Come On Eileen"
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5839
+"How does Rene Descartes' philosophical proposition ""Cogito ergo sum"" translate into English?"
+Q: "How does Rene Descartes' philosophical proposition ""Cogito ergo sum"" translate into English?"
+A: "Rene Descartes' philosophical proposition \"Cogito ergo sum\" translates into English as \"I think, therefore I am\". So the answer is: I think, therefore I am."
+A: I think, therefore I am
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8525
+In the Rocky film franchise, what town does Rocky Balboa call home?
+Q: In the Rocky film franchise, what town does Rocky Balboa call home?
+A: "In the Rocky film franchise, Rocky Balboa calls home Philadelphia. So the answer is: Philadelphia."
+A: Philadelphia
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5412
+There are 2 letters of the alphabet which are not the initial letter of chemical elements. One is Q. Name the other.
+Q: There are 2 letters of the alphabet which are not the initial letter of chemical elements. One is Q. Name the other.
+A: "The other letter of the alphabet which is not the initial letter of chemical elements is J. So the answer is: J."
+A: J
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_812
+Which British organisation has the motto ‘For Ever, For Everyone’?
+Q: Which British organisation has the motto ‘For Ever, For Everyone’?
+A: "The British organisation that has the motto \u2018For Ever, For Everyone\u2019 is the Royal British Legion. So the answer is: the Royal British Legion."
+A: the Royal British Legion
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6397
+A competitor in the 2000 Sydney Olympics - by what nickname was Equatorial Guinean swimmer Eric Moussambani known?
+Q: A competitor in the 2000 Sydney Olympics - by what nickname was Equatorial Guinean swimmer Eric Moussambani known?
+A: "Eric Moussambani was known by the nickname \"Eric the Eel\". So the answer is: Eric the Eel."
+A: Eric the Eel
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5295
+Who is the current Home Secretary?
+Q: Who is the current Home Secretary?
+A: "The current Home Secretary is Sajid Javid. So the answer is: Sajid Javid."
+A: Sajid Javid
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7259
+'They Might Be Giants' ' song 'Boss Of Me' was the theme tune to which American sitcom that ran from 2000 to 2006?
+Q: 'They Might Be Giants' ' song 'Boss Of Me' was the theme tune to which American sitcom that ran from 2000 to 2006?
+A: "The American sitcom that ran from 2000 to 2006 and had the theme tune \"Boss Of Me\" is Malcolm in the Middle. So the answer is: Malcolm in the Middle."
+A: Malcolm in the Middle
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6952
+In which town are Moorhouses Beers produced?
+Q: In which town are Moorhouses Beers produced?
+A: "Moorhouses Beers are produced in Burnley. So the answer is: Burnley."
+A: Burnley
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5891
+Which spirit is produced from the fermented juice of the Blue Agave plant?
+Q: Which spirit is produced from the fermented juice of the Blue Agave plant?
+A: "The spirit produced from the fermented juice of the Blue Agave plant is Tequila. So the answer is: Tequila."
+A: Tequila
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_569
+Apart from the band itself, six celebrities appear on the cover of the Paul McCartney and Wings album Band on the Run. Name one.
+Q: Apart from the band itself, six celebrities appear on the cover of the Paul McCartney and Wings album Band on the Run. Name one.
+A: "The six celebrities who appear on the cover of the Paul McCartney and Wings album Band on the Run are Paul McCartney, Denny Laine, Linda McCartney, Denny Seiwell, Henry McCullough and Chris O'Dell. One of the celebrities is Linda McCartney. So the answer is: Linda McCartney."
+A: Linda McCartney
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2211
+Who was the first British Labour Prime Minister to serve for a full parliamentary term ?
+Q: Who was the first British Labour Prime Minister to serve for a full parliamentary term ?
+A: "The first British Labour Prime Minister to serve for a full parliamentary term was Clement Attlee. So the answer is: Clement Attlee."
+A: Clement Attlee
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_5508
+Which poet composed a sonnet 'Upon Westminster Bridge'?
+Q: Which poet composed a sonnet 'Upon Westminster Bridge'?
+A: "The poet who composed a sonnet 'Upon Westminster Bridge' is William Wordsworth. So the answer is: William Wordsworth."
+A: William Wordsworth
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_8276
+Who was the first jockey to be knighted?
+Q: Who was the first jockey to be knighted?
+A: "The first jockey to be knighted was Lester Piggott. So the answer is: Lester Piggott."
+A: Lester Piggott
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1420
+If a dessert is served ‘a la mode’ what is it served with?
+Q: If a dessert is served ‘a la mode’ what is it served with?
+A: "A dessert served 'a la mode' is served with ice cream. So the answer is: ice cream."
+A: ice cream
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_1900
+On this day, 31st Janaury, in 2000, who was sentenced to life imprisonment? He was found guilty of murdering 15 people and is suspected of murdering many more.
+Q: On this day, 31st Janaury, in 2000, who was sentenced to life imprisonment? He was found guilty of murdering 15 people and is suspected of murdering many more.
+A: "On 31st January, 2000, Robert Pickton was sentenced to life imprisonment. He was found guilty of murdering 15 people and is suspected of murdering many more. So the answer is: Robert Pickton."
+A: Robert Pickton
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4953
+What nationality is the keyboard player Vangelis?
+Q: What nationality is the keyboard player Vangelis?
+A: "Vangelis is Greek. So the answer is: Greek."
+A: Greek
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_3643
+How is the starting position of Legan chess different from the starting position of standard chess?
+Q: How is the starting position of Legan chess different from the starting position of standard chess?
+A: "In Legan chess, the starting position is the same as in standard chess, except that the pawns on the first and second rows are moved one square forward. So the answer is: pawns on the first and second rows are moved one square forward."
+A: pawns on the first and second rows are moved one square forward
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_881
+In the human body, the hormone cortisol (or hydrocortisone) is produced by which gland?
+Q: In the human body, the hormone cortisol (or hydrocortisone) is produced by which gland?
+A: "The hormone cortisol (or hydrocortisone) is produced by the adrenal gland. So the answer is: adrenal gland."
+A: adrenal gland
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_994
+During which month does the Summer Solstice occur in the Southern Hemisphere?
+Q: During which month does the Summer Solstice occur in the Southern Hemisphere?
+A: "The Summer Solstice occurs in December in the Southern Hemisphere. So the answer is: December."
+A: December
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_7261
+Which famous fashion designer was murdered by Andrew Cunanan in Florida in 1997?
+Q: Which famous fashion designer was murdered by Andrew Cunanan in Florida in 1997?
+A: "The famous fashion designer who was murdered by Andrew Cunanan in Florida in 1997 is Gianni Versace. So the answer is: Gianni Versace."
+A: Gianni Versace
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6066
+Which Rogers and Hammerstein musical first performed on Broadway in 1958 tells of the conflicts of a Chinese Immigrant family in San Francisco?
+Q: Which Rogers and Hammerstein musical first performed on Broadway in 1958 tells of the conflicts of a Chinese Immigrant family in San Francisco?
+A: "The Rogers and Hammerstein musical that first performed on Broadway in 1958 is Flower Drum Song. Flower Drum Song tells of the conflicts of a Chinese Immigrant family in San Francisco. So the answer is: Flower Drum Song."
+A: Flower Drum Song
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_6013
+What nationality are the band 'The Cardigans'?
+Q: What nationality are the band 'The Cardigans'?
+A: "The band 'The Cardigans' is Swedish. So the answer is: Swedish."
+A: Swedish
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4466
+In which Derbyshire town is the famous Tramway Museum?
+Q: In which Derbyshire town is the famous Tramway Museum?
+A: "The famous Tramway Museum is located in Crich. So the answer is: Crich."
+A: Crich
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4563
+The regime of which family was overthrown in Nicaragua, in 1979, by the Sandinista National Liberation Front?
+Q: The regime of which family was overthrown in Nicaragua, in 1979, by the Sandinista National Liberation Front?
+A: "The regime of the Somoza family was overthrown in Nicaragua, in 1979, by the Sandinista National Liberation Front. So the answer is: Somoza."
+A: Somoza
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_4972
+"How many contestants are there in Channel 4's TV game show, ""Deal or No Deal""?"
+Q: "How many contestants are there in Channel 4's TV game show, ""Deal or No Deal""?"
+A: "The number of contestants in Channel 4's TV game show, \"Deal or No Deal\" is 26. So the answer is: 26."
+A: 26
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_2346
+What is the Japanese maker of soy sauce whose name means loosely 'ten thousand tortoise shells'?
+Q: What is the Japanese maker of soy sauce whose name means loosely 'ten thousand tortoise shells'?
+A: "The Japanese maker of soy sauce whose name means loosely 'ten thousand tortoise shells' is Kikkoman. So the answer is: Kikkoman."
+A: Kikkoman
+Q: [EOQ]
+S: 0.0
+
+single_trivia_dev_182
+Vehicles from which place use the international registration letter V?
+Q: Vehicles from which place use the international registration letter V?
+A: "Vehicles from the United Kingdom use the international registration letter V. So the answer is: United Kingdom."
+A: United Kingdom
+Q: [EOQ]
+S: 0.0
