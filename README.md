@@ -1,6 +1,19 @@
 # This is repository for AdaRAG experiments
 
-To use methods and reproduce the results you need:
+It contains all code to reproduce [article](link) and use needed method for your purposes. Repo has a following structure
+```plain
+standard_retriver/
+├── README.md # all info about running retriever
+├── build_wiki_index.py # python script to build and run elastic search
+└── run.sh # bash script to run retriever
+
+Method/
+├── requirements.txt or pyproject.toml # with all needed requirements for method
+├── README.md # with all info about how to run current method
+└── requirements.txt or pyproject.toml/
+```
+
+To use any method and reproduce the results you need:
 * Run the retriever
 * Use one of the methods below
 
