@@ -2,34 +2,7 @@
 
 # Retriever
 Followed by [dragin](https://github.com/oneal2000/DRAGIN) and [SeaKR](https://github.com/THU-KEG/SeaKR). Use the Wikipedia dump and elastic search to build the retriever
-
-#### Download Wikipedia dump
-
-```bash
-mkdir -p data/dpr
-wget -O data/dpr/psgs_w100.tsv.gz https://dl.fbaipublicfiles.com/dpr/wikipedia_split/psgs_w100.tsv.gz
-pushd data/dpr
-gzip -d psgs_w100.tsv.gz
-popd
-```
-
-#### Run Elasticsearch service
-
-```bash
-cd data
-wget -O elasticsearch-7.17.9.tar.gz https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.17.9-linux-x86_64.tar.gz  # download Elasticsearch
-tar zxvf elasticsearch-7.17.9.tar.gz
-rm elasticsearch-7.17.9.tar.gz 
-cd elasticsearch-7.17.9
-nohup bin/elasticsearch &  # run Elasticsearch in background
-```
-
-#### build the index
-
-```bash
-python build_wiki_index.py --data_path $YOUR_WIKIPEDIA_TSV_PATH --index_name wiki --port $YOUR_ELASTIC_SERVICE_PORT
-```
-
+All info about how to run a retriever is available in ['README.md'](./standard_retriever/README.md).
 
 # Experiments
 

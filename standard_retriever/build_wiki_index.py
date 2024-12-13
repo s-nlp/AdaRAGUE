@@ -66,6 +66,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_path', type=str, default=None, help='input file')
     parser.add_argument("--index_name", type=str, default=None, help="index name")
-    parser.add_argument("--port", type=str, default=None, help="index name")
+    parser.add_argument("--port", type=str, default=None, help="port of elastic search")
     args = parser.parse_args()
     build_elasticsearch(args.data_path, index_name=args.index_name, port=args.port)

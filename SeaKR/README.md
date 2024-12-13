@@ -1,8 +1,7 @@
 # SeaKR
 
-## Getting Started
 
-### Install Environment
+## Install Environment
 
 ```bash
 conda create -n seakr python=3.10
@@ -11,42 +10,10 @@ pip install beir==1.0.1 spacy==3.7.2 aiofiles tenacity
 python -m spacy download en_core_web_sm
 ```
 
-We modify the vllm to get the uncertainty measures.
-
+SeaKR modified the vllm to get the uncertainty measures.
 ```bash
 cd vllm_uncertainty
 pip install -e .
-```
-
-### Prepare Retriever
-
-Followed by [dragin](https://github.com/oneal2000/DRAGIN). Use the Wikipedia dump and elastic search to build the retriever
-
-#### Download Wikipedia dump
-
-```bash
-mkdir -p data/dpr
-wget -O data/dpr/psgs_w100.tsv.gz https://dl.fbaipublicfiles.com/dpr/wikipedia_split/psgs_w100.tsv.gz
-pushd data/dpr
-gzip -d psgs_w100.tsv.gz
-popd
-```
-
-#### Run Elasticsearch service
-
-```bash
-cd data
-wget -O elasticsearch-7.17.9.tar.gz https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.17.9-linux-x86_64.tar.gz  # download Elasticsearch
-tar zxvf elasticsearch-7.17.9.tar.gz
-rm elasticsearch-7.17.9.tar.gz 
-cd elasticsearch-7.17.9
-nohup bin/elasticsearch &  # run Elasticsearch in background
-```
-
-#### build the index
-
-```bash
-python build_wiki_index.py --data_path $YOUR_WIKIPEDIA_TSV_PATH --index_name wiki --port $YOUR_ELASTIC_SERVICE_PORT
 ```
 
 ## Run SeaKR on Multihop QA
@@ -67,6 +34,7 @@ python main_multihop.py \
     --max_reasoning_steps 7 \
     --max_docs 5
 ```
+If you want to use it on your own data -> you have to bring your dataset to the form of such dataset
 
 ### HotpotQA
 ```bash
@@ -81,6 +49,7 @@ python main_multihop.py \
     --max_reasoning_steps 7 \
     --max_docs 5
 ```
+If you want to use it on your own data -> you have to bring your dataset to the form of such dataset
 
 ### IIRC
 ```bash
@@ -95,6 +64,7 @@ python main_multihop.py \
     --max_reasoning_steps 7 \
     --max_docs 5
 ```
+If you want to use it on your own data -> you have to bring your dataset to the form of such dataset
 
 
 ### Evaluation
@@ -118,6 +88,8 @@ python bootstrap_multihop.py --input_file "path_to_jsonl"\
 ## Run SeaKR on Single QA
 
 The original files are from [DPR](https://github.com/facebookresearch/DPR). We provide a packed version containing top 10 retrieved documents [singlehop_data.zip](https://drive.google.com/file/d/1hn4Om_KkIGJpgG2wJjUu1mpPv9oq8M6G/view?usp=sharing). You can download and unzip it into the `data` folder. 
+
+If you want to use it on your own data on single hop -> you have to bring your dataset to the form of such dataset
 
 ```bash
 python main_simpleqa.py \
