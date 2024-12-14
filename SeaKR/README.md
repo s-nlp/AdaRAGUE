@@ -98,3 +98,5 @@ python main_simpleqa.py \
     --selected_intermediate_layer 15 \
     --output_dir $OUTPUT_DIR
 ```
+
+All results on our dataset is availabel in `results` folder.

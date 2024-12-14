@@ -23,10 +23,28 @@ All info about how to run a retriever is available in [README.md](./standard_ret
 
 You can use your own retriever.
 
+# Dataset
+
+We used general datasets for evaluation with 500 sample from every dataset. It's available in huggingface by this [link](https://huggingface.co/collections/VityaVitalich/adaptive-rag-673339ce276512085b5899e7)
+
+You can load it directly with code:
+
+```python
+from datasets import load_dataset
+ds_nq = load_dataset("VityaVitalich/adaptive_rag_natural_questions")
+ds_sq = load_dataset("VityaVitalich/adaptive_rag_squad")
+ds_tq = load_dataset("VityaVitalich/adaptive_rag_trivia_qa")
+ds_hp = load_dataset("VityaVitalich/adaptive_rag_hotpotqa")
+ds_wiki = load_dataset("VityaVitalich/adaptive_rag_2wikimultihopqa")
+ds_musique = load_dataset("VityaVitalich/adaptive_rag_musique")
+```
+
+
 # Methods
-## IRCoT
 
 ## Adaptive RAG
+
+Installatuin guide and all code guideline is available in [README.md](./Adaptive_Rag/README.md)
 
 ## FLARE and DRAGIN
 
@@ -43,11 +61,3 @@ All code with our evaluator and dependencpy installation is available in `SeaKR`
 ## Uncertainty Estimation Methods
 
 Install all required dependences from `UC/requirements.txt` and use scripts from `bin/*.sh` to reproduce results. More details in [UC README.md](./UC/README.md)
-
-
-# What to choose & Results
-First, take a look to our radar
-<br>![Radar](./supplementaries/radar.png)
-
-Secondly, take a look on over/underconfidence of methods and choose the appropriate one depends on a task
-<br>![Over/Under confidence](./supplementaries/over_under_confidence.png)

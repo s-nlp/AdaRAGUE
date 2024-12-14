@@ -1,0 +1,12 @@
+dataset_name: 2wiki
+retriever_port: 9200
+n_shot: 10
+model_name_or_path: VityaVitalich/Llama3.1-8b-instruct
+served_model_name: llama3-7b-Instruct
+selected_intermediate_layer: 15
+eigen_alpha: 0.001
+eigen_threshold: -6.0
+prob_threshold: 0.1
+max_reasoning_steps: 7
+max_docs: 5
+save_dir: outputs_new/2wiki_3_1
