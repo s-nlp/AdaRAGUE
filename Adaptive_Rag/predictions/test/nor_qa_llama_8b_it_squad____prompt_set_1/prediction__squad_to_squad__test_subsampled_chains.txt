@@ -1,0 +1,4000 @@
+
+single_squad_dev_4465
+What was the name of popular movie film in New Haven featuring Julia Roberts?
+Q: What was the name of popular movie film in New Haven featuring Julia Roberts?
+A: "The popular movie film in New Haven featuring Julia Roberts is Eat Pray Love. So the answer is: Eat Pray Love."
+A: Eat Pray Love
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4553
+Are there any more changes coming to the map 
+Q: Are there any more changes coming to the map
+A: "The answer is: yes."
+A: yes
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2362
+Along with Sweden and Norway, what country saw missionary activity in the 9th and 10th centuries?
+Q: Along with Sweden and Norway, what country saw missionary activity in the 9th and 10th centuries?
+A: "The country that saw missionary activity in the 9th and 10th centuries along with Sweden and Norway is Denmark. So the answer is: Denmark."
+A: Denmark
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4578
+In what year was Queen inducted in the UK Hall of Fame?
+Q: In what year was Queen inducted in the UK Hall of Fame?
+A: "Queen was inducted in the UK Hall of Fame in 2004. So the answer is: 2004."
+A: 2004
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_549
+What was the name of the first solar powered boat that crossed the Atlantic ocean?
+Q: What was the name of the first solar powered boat that crossed the Atlantic ocean?
+A: "The first solar powered boat that crossed the Atlantic ocean was called the Sun21. So the answer is: Sun21."
+A: Sun21
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3437
+What did Trudeau say Elizabeth favored?
+Q: What did Trudeau say Elizabeth favored?
+A: "Pierre Trudeau said that Elizabeth favored the \"Quiet Revolution\". So the answer is: Quiet Revolution."
+A: Quiet Revolution
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7419
+How many regiments were in the Northern Army?
+Q: How many regiments were in the Northern Army?
+A: "The Northern Army had 4 regiments. So the answer is: 4."
+A: 4
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7415
+Who provided  the emperor with sustenance and medical aid?
+Q: Who provided  the emperor with sustenance and medical aid?
+A: "The emperor is Emperor Taizong of Tang. The people who provided Emperor Taizong of Tang with sustenance and medical aid are the eunuchs. So the answer is: eunuchs."
+A: eunuchs
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1746
+When was the 2014 Youth Olympic Games?
+Q: When was the 2014 Youth Olympic Games?
+A: "The 2014 Youth Olympic Games were held in Nanjing, China from August 16 to August 28, 2014. So the answer is: August 16 to August 28, 2014."
+A: August 16 to August 28, 2014
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_219
+What anniversary was the July Revolution that Sand and Chopin were present at a dress rehearsal for?
+Q: What anniversary was the July Revolution that Sand and Chopin were present at a dress rehearsal for?
+A: "The July Revolution was a 3-day revolution that took place in 1830. It was a 3-day anniversary of the 3 July 1830. So the answer is: 3 July 1830."
+A: 3 July 1830
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2116
+When was the Great St. Bernard Hospice built?
+Q: When was the Great St. Bernard Hospice built?
+A: "The Great St. Bernard Hospice was built in 1050. So the answer is: 1050."
+A: 1050
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6637
+When did Menzies resign from Parliament?
+Q: When did Menzies resign from Parliament?
+A: "Menzies resigned from Parliament in 1971. So the answer is: 1971."
+A: 1971
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_897
+Who was the head of the U.S. Olympic Committee?
+Q: Who was the head of the U.S. Olympic Committee?
+A: "The head of the U.S. Olympic Committee is Scott Blackmun. Scott Blackmun was the head of the U.S. Olympic Committee from 2010 to 2018. So the answer is: Scott Blackmun."
+A: Scott Blackmun
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3432
+What event caused Elizabeth's father to become King?
+Q: What event caused Elizabeth's father to become King?
+A: "Elizabeth's father became King after the death of her grandfather. Her grandfather was King Henry VIII. So the answer is: death of her grandfather."
+A: death of her grandfather
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7468
+Which country is debated as intermittent and/or least of great powers?
+Q: Which country is debated as intermittent and/or least of great powers?
+A: "The country that is debated as intermittent and/or least of great powers is China. So the answer is: China."
+A: China
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1202
+Where did Plymouth's life expectancy rank out of the regions of South West England?
+Q: Where did Plymouth's life expectancy rank out of the regions of South West England?
+A: "Plymouth's life expectancy ranked 4th out of the regions of South West England. So the answer is: 4th."
+A: 4th
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8803
+When did Gardezi die?
+Q: When did Gardezi die?
+A: "Gardezi died in 1217. So the answer is: 1217."
+A: 1217
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5451
+What did The City of God change?
+Q: What did The City of God change?
+A: "The City of God is a 2002 Brazilian crime drama film directed by Fernando Meirelles. The City of God changed the way that the Brazilian government and the people of Brazil viewed the favelas. So the answer is: the way that the Brazilian government and the people of Brazil viewed the favelas."
+A: the way that the Brazilian government and the people of Brazil viewed the favelas
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3571
+What Christian beliefs did Emperor Valens adhere to?
+Q: What Christian beliefs did Emperor Valens adhere to?
+A: "Emperor Valens was a Christian. Emperor Valens adhered to Arianism. So the answer is: Arianism."
+A: Arianism
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3488
+What was Dell's market share at the end of 2006?
+Q: What was Dell's market share at the end of 2006?
+A: "Dell's market share at the end of 2006 was 18.1%. So the answer is: 18.1%."
+A: 18.1%
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4085
+Where do state banquets take place?
+Q: Where do state banquets take place?
+A: "State banquets take place in the Palace of Westminster. So the answer is: Palace of Westminster."
+A: Palace of Westminster
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1893
+The National Symphony Orchestra is led by what gender of violinist?
+Q: The National Symphony Orchestra is led by what gender of violinist?
+A: "The National Symphony Orchestra is led by a female violinist. The female violinist is Nathalie Parayre. So the answer is: female."
+A: female
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2829
+What event is more relevant to Espanyol supporters than to Barcelona fans?
+Q: What event is more relevant to Espanyol supporters than to Barcelona fans?
+A: "The event that is more relevant to Espanyol supporters than to Barcelona fans is the Catalan War. So the answer is: Catalan War."
+A: Catalan War
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3353
+What percentage of high-density penetrators is not made up of depleted uranium?
+Q: What percentage of high-density penetrators is not made up of depleted uranium?
+A: "High-density penetrators are made up of depleted uranium. The percentage of high-density penetrators that is not made up of depleted uranium is 0%. So the answer is: 0%."
+A: 0%
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6143
+France was angered by Nasser's support of the independence of what people?
+Q: France was angered by Nasser's support of the independence of what people?
+A: "France was angered by Nasser's support of the independence of the Algerians. So the answer is: Algerians."
+A: Algerians
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_644
+What label did Kanye begin to work for in 2000?
+Q: What label did Kanye begin to work for in 2000?
+A: "Kanye West began to work for Roc-A-Fella Records in 2000. So the answer is: Roc-A-Fella Records."
+A: Roc-A-Fella Records
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5399
+What was the trade route between german and the soviet union?
+Q: What was the trade route between german and the soviet union?
+A: "The trade route between Germany and the Soviet Union was the Silk Road. However, the Silk Road was not a trade route between Germany and the Soviet Union. The trade route between Germany and the Soviet Union was the Volga trade route. So the answer is: Volga trade route."
+A: Volga trade route
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2222
+Cognitive science seeks to join what two branches of science with other fields?
+Q: Cognitive science seeks to join what two branches of science with other fields?
+A: "Cognitive science seeks to join psychology, computer science, philosophy, neuroscience, anthropology, sociology, linguistics, and education with other fields. Of these, the two branches of science are psychology and neuroscience. So the answer is: psychology and neuroscience."
+A: psychology and neuroscience
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4072
+The East Front contains what famous feature?
+Q: The East Front contains what famous feature?
+A: "The East Front contains the famous feature of the Battle of Stalingrad. So the answer is: Battle of Stalingrad."
+A: Battle of Stalingrad
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2799
+How many theaters approximately are located in Hanover?
+Q: How many theaters approximately are located in Hanover?
+A: "The number of theaters in Hanover is approximately 10. So the answer is: 10."
+A: 10
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1229
+In which year was the Warsaw Pact activated in a joint action?
+Q: In which year was the Warsaw Pact activated in a joint action?
+A: "The Warsaw Pact was activated in 1955. So the answer is: 1955."
+A: 1955
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2771
+How highly was Imperial ranked in "research power" in 2014?
+Q: How highly was Imperial ranked in "research power" in 2014?
+A: "Imperial was ranked 9th in \"research power\" in 2014. So the answer is: 9th."
+A: 9th
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7966
+In 1985, how many people were murdered in Richmond?
+Q: In 1985, how many people were murdered in Richmond?
+A: "In 1985, 23 people were murdered in Richmond. So the answer is: 23."
+A: 23
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5113
+What advantage does a coreless rotor have over traditional variants?
+Q: What advantage does a coreless rotor have over traditional variants?
+A: "A coreless rotor has a lower weight and higher efficiency than traditional variants. So the answer is: lower weight and higher efficiency."
+A: lower weight and higher efficiency
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5768
+When did RCA release their 45 rpm format?
+Q: When did RCA release their 45 rpm format?
+A: "RCA released their 45 rpm format in 1949. So the answer is: 1949."
+A: 1949
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8561
+What was the topic of the Everson v. Board of Education?
+Q: What was the topic of the Everson v. Board of Education?
+A: "The Everson v. Board of Education was a case in which the U.S. Supreme Court ruled that the state of New Jersey could provide reimbursement for bus fares to parochial school students. So the answer is: reimbursement for bus fares to parochial school students."
+A: reimbursement for bus fares to parochial school students
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3609
+What are some examples of units that short-term memory can be categorized in to?
+Q: What are some examples of units that short-term memory can be categorized in to?
+A: "Short-term memory can be categorized into units of seconds, minutes, hours, days, weeks, months, years, decades, and centuries. So the answer is: seconds, minutes, hours, days, weeks, months, years, decades, and centuries."
+A: seconds, minutes, hours, days, weeks, months, years, decades, and centuries
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5547
+What was a negative effect of affirmative action according to Richard Sander?
+Q: What was a negative effect of affirmative action according to Richard Sander?
+A: "Richard Sander argued that affirmative action has a negative effect on the academic performance of minority students. So the answer is: academic performance of minority students."
+A: academic performance of minority students
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2059
+The polish anem and cry ritualized what?
+Q: The polish anem and cry ritualized what?
+A: "The polish anem and cry ritualized the death of a loved one. So the answer is: death of a loved one."
+A: death of a loved one
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7841
+What was another requirement of foreign players?
+Q: What was another requirement of foreign players?
+A: "The other requirement of foreign players is that they must have a minimum of 3 years of experience in the league. So the answer is: 3 years of experience in the league."
+A: 3 years of experience in the league
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8877
+The Moti Azima Gallery contains objects that might be found in a Nepalese house of what time period?
+Q: The Moti Azima Gallery contains objects that might be found in a Nepalese house of what time period?
+A: "The Moti Azima Gallery contains objects that might be found in a Nepalese house of the 19th century. So the answer is: 19th century."
+A: 19th century
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6569
+What percentage of french publishing houses were in Paris in the 1970s?
+Q: What percentage of french publishing houses were in Paris in the 1970s?
+A: "In the 1970s, 80% of french publishing houses were in Paris. So the answer is: 80%."
+A: 80%
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1759
+What does UNESCO recognised Bern's city center to be?
+Q: What does UNESCO recognised Bern's city center to be?
+A: "UNESCO recognised Bern's city center to be a World Heritage Site. So the answer is: World Heritage Site."
+A: World Heritage Site
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5999
+How much will Vanguard spend to retire debt for DMC?
+Q: How much will Vanguard spend to retire debt for DMC?
+A: "Vanguard will spend $1.5 billion to retire debt for DMC. So the answer is: $1.5 billion."
+A: $1.5 billion
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8793
+How large is Punjab compared to the other three provinces?
+Q: How large is Punjab compared to the other three provinces?
+A: "Punjab is the largest province in Pakistan. So the answer is: largest."
+A: largest
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8799
+How much of Pakistan's paper products does Punjab manufacture?
+Q: How much of Pakistan's paper products does Punjab manufacture?
+A: "Punjab manufactures 70% of Pakistan's paper products. So the answer is: 70%."
+A: 70%
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6148
+Who wanted the Egyptian armored units to fight the Israelis?
+Q: Who wanted the Egyptian armored units to fight the Israelis?
+A: "The Egyptian armored units were commanded by Anwar El-Sadat. Anwar El-Sadat wanted the Egyptian armored units to fight the Israelis. So the answer is: Anwar El-Sadat."
+A: Anwar El-Sadat
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5052
+What was the Revolution Society commemorating?
+Q: What was the Revolution Society commemorating?
+A: "The Revolution Society was commemorating the Glorious Revolution. So the answer is: Glorious Revolution."
+A: Glorious Revolution
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4872
+What were Sun staff accused of in a 2014 trial?
+Q: What were Sun staff accused of in a 2014 trial?
+A: "In 2014, Sun staff were accused of paying police officers for information. So the answer is: paying police officers for information."
+A: paying police officers for information
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6670
+What determines how deep a tester will go during regression?
+Q: What determines how deep a tester will go during regression?
+A: "The depth of a tester during regression is determined by the number of test cases. So the answer is: number of test cases."
+A: number of test cases
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8707
+In what year did Eisenhower die?
+Q: In what year did Eisenhower die?
+A: "Dwight D. Eisenhower died on March 28, 1969. So the answer is: 1969."
+A: 1969
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6518
+What would the diverse group of East Indians, North Africans and Europeans be grouped as prior to DNA analysis?
+Q: What would the diverse group of East Indians, North Africans and Europeans be grouped as prior to DNA analysis?
+A: "The diverse group of East Indians, North Africans and Europeans would be grouped as Caucasoid prior to DNA analysis. So the answer is: Caucasoid."
+A: Caucasoid
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8098
+When was the Release Preview revealed to consumers?
+Q: When was the Release Preview revealed to consumers?
+A: "The Release Preview was revealed to consumers in 2008. So the answer is: 2008."
+A: 2008
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3201
+When were improvements developed for these guns?
+Q: When were improvements developed for these guns?
+A: "The guns are the Lee\u2013Enfield series of rifles. Improvements were developed for the Lee\u2013Enfield series of rifles in 1907. So the answer is: 1907."
+A: 1907
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1329
+What type of food animal went extict by the end of the Pleistocene era?
+Q: What type of food animal went extict by the end of the Pleistocene era?
+A: "The type of food animal that went extinct by the end of the Pleistocene era is the Woolly Mammoth. So the answer is: Woolly Mammoth."
+A: Woolly Mammoth
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3274
+Who was the CEO of GE when it announced its Ecoimagination program?
+Q: Who was the CEO of GE when it announced its Ecoimagination program?
+A: "The CEO of GE when it announced its Ecoimagination program was Jeffrey Immelt. So the answer is: Jeffrey Immelt."
+A: Jeffrey Immelt
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5462
+How did old Czech allow some complex consonant clusters to be pronounced?
+Q: How did old Czech allow some complex consonant clusters to be pronounced?
+A: "Old Czech allowed some complex consonant clusters to be pronounced by using a process called palatalization. So the answer is: palatalization."
+A: palatalization
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1378
+In what year did Universal make a film version of Dracula?
+Q: In what year did Universal make a film version of Dracula?
+A: "Universal made a film version of Dracula in 1931. So the answer is: 1931."
+A: 1931
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7863
+Who has been designated as the first Emperor of Rome?
+Q: Who has been designated as the first Emperor of Rome?
+A: "The first Emperor of Rome is Augustus. So the answer is: Augustus."
+A: Augustus
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5788
+How are gramophones best stored?
+Q: How are gramophones best stored?
+A: "Gramophones are best stored in a dry place. So the answer is: dry place."
+A: dry place
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5560
+What was the top most used venue?
+Q: What was the top most used venue?
+A: "The top most used venue is the Wembley Stadium. So the answer is: Wembley Stadium."
+A: Wembley Stadium
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5935
+The first byte is what?
+Q: The first byte is what?
+A: "The first byte is 0x00. So the answer is: 0x00."
+A: 0x00
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3686
+Where was Al-Mukhtar based? 
+Q: Where was Al-Mukhtar based?
+A: "Al-Mukhtar was based in Kufa. So the answer is: Kufa."
+A: Kufa
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6934
+How deep is the Mariana Trench located near Guam?
+Q: How deep is the Mariana Trench located near Guam?
+A: "The Mariana Trench is located near Guam. The depth of the Mariana Trench is approximately 36,000 feet. So the answer is: 36,000."
+A: 36,000
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1618
+Which Estonian poet's works were printed from 1810 to 1820?
+Q: Which Estonian poet's works were printed from 1810 to 1820?
+A: "The Estonian poet whose works were printed from 1810 to 1820 is Kristjan Jaak Peterson. So the answer is: Kristjan Jaak Peterson."
+A: Kristjan Jaak Peterson
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7530
+What was Europe competing for? 
+Q: What was Europe competing for?
+A: "Europe was competing for the 2012 European Football Championship. So the answer is: 2012 European Football Championship."
+A: 2012 European Football Championship
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1208
+How many churches are present in Plymouth?
+Q: How many churches are present in Plymouth?
+A: "There are 14 churches in Plymouth. So the answer is: 14."
+A: 14
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3943
+In 1978, what famous attacks occured at Northwestern?
+Q: In 1978, what famous attacks occured at Northwestern?
+A: "In 1978, the Northwestern University shootings occurred at Northwestern. So the answer is: Northwestern University shootings."
+A: Northwestern University shootings
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1612
+What is the usual way to make a plural?
+Q: What is the usual way to make a plural?
+A: "The usual way to make a plural is by adding -s or -es. So the answer is: by adding -s or -es."
+A: by adding -s or -es
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8432
+What was life expectancy in 1960s?
+Q: What was life expectancy in 1960s?
+A: "In the 1960s, the life expectancy was 69.7 years. So the answer is: 69.7 years."
+A: 69.7 years
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6937
+What determines the speed in which mail reaches Guam from the United States?
+Q: What determines the speed in which mail reaches Guam from the United States?
+A: "The speed in which mail reaches Guam from the United States is determined by the postal service. The postal service is the United States Postal Service. So the answer is: United States Postal Service."
+A: United States Postal Service
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5307
+What were once in widespread use?
+Q: What were once in widespread use?
+A: "The answer is: typewriters. Typewriters were once in widespread use. So the answer is: typewriters."
+A: typewriters
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2125
+When are many passes in the Alps closed? 
+Q: When are many passes in the Alps closed?
+A: "Many passes in the Alps are closed in winter. So the answer is: winter."
+A: winter
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1880
+What dialect continuum does Macedonian belong to?
+Q: What dialect continuum does Macedonian belong to?
+A: "Macedonian belongs to the Balkan dialect continuum. So the answer is: Balkan."
+A: Balkan
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2114
+What wars took place during the late 18th century and early 19th century?
+Q: What wars took place during the late 18th century and early 19th century?
+A: "The wars that took place during the late 18th century and early 19th century are the American Revolutionary War, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the"
+A: The wars that took place during the late 18th century and early 19th century are the American Revolutionary War, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the French Revolutionary Wars, the
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2583
+how well did madonna's single "vogue" do in the us? 
+Q: how well did madonna's single "vogue" do in the us?
+A: "Madonna's single \"Vogue\" reached number one on the US Billboard Hot 100 chart. So the answer is: number one."
+A: number one
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2028
+Where was the Galeb docked after Tito's death?
+Q: Where was the Galeb docked after Tito's death?
+A: "The Galeb was docked in Split, Croatia. So the answer is: Split, Croatia."
+A: Split, Croatia
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7726
+In what month did Tucson get the most snow?
+Q: In what month did Tucson get the most snow?
+A: "Tucson got the most snow in January. So the answer is: January."
+A: January
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_233
+Who choreographed Chopiniana?
+Q: Who choreographed Chopiniana?
+A: "The choreographer of Chopiniana is Michel Fokine. So the answer is: Michel Fokine."
+A: Michel Fokine
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6032
+According to what principles are most laws in Thailand decided?
+Q: According to what principles are most laws in Thailand decided?
+A: "Most laws in Thailand are decided according to the principles of the Buddhist law. So the answer is: Buddhist law."
+A: Buddhist law
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8683
+What event made war planning difficult in this period?
+Q: What event made war planning difficult in this period?
+A: "The event that made war planning difficult in this period is the assassination of Archduke Franz Ferdinand. So the answer is: the assassination of Archduke Franz Ferdinand."
+A: the assassination of Archduke Franz Ferdinand
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3608
+Where can a student find to study art in Seattle?
+Q: Where can a student find to study art in Seattle?
+A: "The student can study art in Seattle at the Cornish College of the Arts. So the answer is: Cornish College of the Arts."
+A: Cornish College of the Arts
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4599
+Which state was the largest in the region?
+Q: Which state was the largest in the region?
+A: "The region is the region of the United States. The largest state in the United States is Alaska. So the answer is: Alaska."
+A: Alaska
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6989
+In which year did the British first settle in what would become Tennessee?
+Q: In which year did the British first settle in what would become Tennessee?
+A: "The British first settled in what would become Tennessee in 1769. So the answer is: 1769."
+A: 1769
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_726
+What is in dispute regarding the research into the core of the teachings?
+Q: What is in dispute regarding the research into the core of the teachings?
+A: "The core of the teachings of the Bah\u00e1'\u00ed Faith is in dispute regarding the research into the core of the teachings. So the answer is: the core of the teachings."
+A: the core of the teachings
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2572
+What decade did House music first develop?
+Q: What decade did House music first develop?
+A: "House music first developed in the 1980s. So the answer is: 1980s."
+A: 1980s
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4025
+What do the 15 oak leaves on the anniversary crest indicate?
+Q: What do the 15 oak leaves on the anniversary crest indicate?
+A: "The 15 oak leaves on the anniversary crest indicate the 15 years of marriage. So the answer is: 15 years of marriage."
+A: 15 years of marriage
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2094
+What date did Virgil die?
+Q: What date did Virgil die?
+A: "Virgil died on 21 September 19 BC. So the answer is: 21 September 19 BC."
+A: 21 September 19 BC
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6580
+How many seats are in the State de France?
+Q: How many seats are in the State de France?
+A: "The State de France has 80 seats. So the answer is: 80."
+A: 80
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6193
+Which law states that entropy must increase over time?
+Q: Which law states that entropy must increase over time?
+A: "The law that states that entropy must increase over time is the second law of thermodynamics. So the answer is: second law of thermodynamics."
+A: second law of thermodynamics
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3500
+How many people were killed in the largest mass execution in US history?
+Q: How many people were killed in the largest mass execution in US history?
+A: "The largest mass execution in US history was the execution of 38 Dakota Sioux in Mankato, Minnesota. 38 people were killed in this execution. So the answer is: 38."
+A: 38
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6268
+In what year did the New Zealand governor-general last personally grant the royal assent in parliament?
+Q: In what year did the New Zealand governor-general last personally grant the royal assent in parliament?
+A: "The New Zealand governor-general last personally granted the royal assent in parliament in 1983. So the answer is: 1983."
+A: 1983
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3669
+When did the article come out about the importance of interactions?
+Q: When did the article come out about the importance of interactions?
+A: "The article about the importance of interactions was written by Robert Sapolsky. The article was published in the journal Science. The date of the publication is not specified in the question. However, the article was published in 2005. So the answer is: 2005."
+A: 2005
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4910
+What prison does somerset county contain 
+Q: What prison does somerset county contain
+A: "Somerset County contains the New Jersey State Prison. So the answer is: New Jersey State Prison."
+A: New Jersey State Prison
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8196
+Why were the lands in the region the Sumerian people settled fertile?
+Q: Why were the lands in the region the Sumerian people settled fertile?
+A: "The Sumerian people settled in the region of Mesopotamia. The lands in Mesopotamia were fertile because of the Tigris and Euphrates rivers. So the answer is: the Tigris and Euphrates rivers."
+A: the Tigris and Euphrates rivers
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2442
+What has Brazil avoided?
+Q: What has Brazil avoided?
+A: "Brazil has avoided being eliminated in the first round of the FIFA World Cup. So the answer is: being eliminated in the first round of the FIFA World Cup."
+A: being eliminated in the first round of the FIFA World Cup
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7450
+In which year did the Medieval Muslim scholar al-Baqillani die?
+Q: In which year did the Medieval Muslim scholar al-Baqillani die?
+A: "The Medieval Muslim scholar al-Baqillani died in 1013. So the answer is: 1013."
+A: 1013
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6317
+What did law that limit smoking accomplish? 
+Q: What did law that limit smoking accomplish?
+A: "The law that limit smoking is the smoking ban. The smoking ban accomplished to limit smoking in public places. So the answer is: limit smoking in public places."
+A: limit smoking in public places
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_396
+Where were surviving children living?
+Q: Where were surviving children living?
+A: "The surviving children of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of"
+A: The surviving children of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of the family of
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7537
+What withdrew the political boundaries of West Asia?
+Q: What withdrew the political boundaries of West Asia?
+A: "The political boundaries of West Asia were withdrawn by the Sykes\u2013Picot Agreement. So the answer is: Sykes\u2013Picot Agreement."
+A: Sykes\u2013Picot Agreement
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4804
+What was Burma's greatest export during that time of English rule ?
+Q: What was Burma's greatest export during that time of English rule ?
+A: "Burma's greatest export during the time of English rule was rice. So the answer is: rice."
+A: rice
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3620
+Americans with African ancestry have always been classified as what race?
+Q: Americans with African ancestry have always been classified as what race?
+A: "Americans with African ancestry have always been classified as Black. So the answer is: Black."
+A: Black
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3828
+Who was the Roman emporer?
+Q: Who was the Roman emporer?
+A: "The Roman emperor is Claudius. So the answer is: Claudius."
+A: Claudius
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2051
+How many ministers are in the Presidential Cabinet?
+Q: How many ministers are in the Presidential Cabinet?
+A: "The Presidential Cabinet has 15 ministers. So the answer is: 15."
+A: 15
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2661
+What is the average concentration of copper in ores?
+Q: What is the average concentration of copper in ores?
+A: "The average concentration of copper in ores is 0.6%. So the answer is: 0.6%."
+A: 0.6%
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6910
+When did Kerry leave the Naval Reserve?
+Q: When did Kerry leave the Naval Reserve?
+A: "Kerry left the Naval Reserve in 1978. So the answer is: 1978."
+A: 1978
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3908
+What 1812 event turned Napoleon's attention back to France?
+Q: What 1812 event turned Napoleon's attention back to France?
+A: "The event that turned Napoleon's attention back to France in 1812 was the invasion of Russia. So the answer is: the invasion of Russia."
+A: the invasion of Russia
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6566
+In what year were the first performances of Diagheliv's Ballet Russes?
+Q: In what year were the first performances of Diagheliv's Ballet Russes?
+A: "The first performances of Diaghilev's Ballet Russes were in 1909. So the answer is: 1909."
+A: 1909
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1992
+What may be invalidated if there was an erroneous understanding of a fact or situation at the time of conclusion of a treaty?
+Q: What may be invalidated if there was an erroneous understanding of a fact or situation at the time of conclusion of a treaty?
+A: "A treaty may be invalidated if there was an erroneous understanding of a fact or situation at the time of conclusion of a treaty. So the answer is: a treaty."
+A: a treaty
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_135
+What were conscientious objectors sent to Montana to do?
+Q: What were conscientious objectors sent to Montana to do?
+A: "Conscientious objectors were sent to Montana to work in the copper mines. So the answer is: copper mines."
+A: copper mines
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6961
+Who censured Kant for his agnostic tautology?
+Q: Who censured Kant for his agnostic tautology?
+A: "Immanuel Kant was censured by Johann Gottlieb Fichte for his agnostic tautology. So the answer is: Johann Gottlieb Fichte."
+A: Johann Gottlieb Fichte
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6804
+The development of what caused people to expand areas of cultivation in the Ottoman Empire?
+Q: The development of what caused people to expand areas of cultivation in the Ottoman Empire?
+A: "The development of the horse collar caused people to expand areas of cultivation in the Ottoman Empire. So the answer is: horse collar."
+A: horse collar
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1188
+On what street did many of the buildings designed by John Foulston reside?
+Q: On what street did many of the buildings designed by John Foulston reside?
+A: "Many of the buildings designed by John Foulston reside on the street of Plymouth Hoe. So the answer is: Plymouth Hoe."
+A: Plymouth Hoe
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3061
+What two countries have not legally committed to advancing an anti-discriminaory stance towards young people?
+Q: What two countries have not legally committed to advancing an anti-discriminaory stance towards young people?
+A: "The two countries that have not legally committed to advancing an anti-discriminaory stance towards young people are the United States and Russia. So the answer is: United States and Russia."
+A: United States and Russia
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_67
+Beyonce signed a letter with who in 2015?
+Q: Beyonce signed a letter with who in 2015?
+A: "Beyonce signed a letter with 300 women in 2015. The letter was in support of the Black Lives Matter movement. So the answer is: 300 women."
+A: 300 women
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3122
+Which market in Melbourne remained strong during the Late-2000s financial crisis and resulted in historically high property prices and rent increases?
+Q: Which market in Melbourne remained strong during the Late-2000s financial crisis and resulted in historically high property prices and rent increases?
+A: "The market in Melbourne that remained strong during the Late-2000s financial crisis and resulted in historically high property prices and rent increases is the inner-city market. So the answer is: inner-city market."
+A: inner-city market
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3850
+What year did Ptolemy IV die?
+Q: What year did Ptolemy IV die?
+A: "Ptolemy IV died in 204 BC. So the answer is: 204 BC."
+A: 204 BC
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2665
+An adolescent going through a family break up turning into an adult in a stable marriage is given as an example of change in what?
+Q: An adolescent going through a family break up turning into an adult in a stable marriage is given as an example of change in what?
+A: "The example of change in Erikson's psychosocial theory is an adolescent going through a family break up turning into an adult in a stable marriage. This is an example of change in the stage of Intimacy vs. Isolation. So the answer is: Intimacy vs. Isolation."
+A: Intimacy vs. Isolation
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_88
+Which publication named Beyoncé the Artist of the Decade?
+Q: Which publication named Beyoncé the Artist of the Decade?
+A: "The publication that named Beyonc\u00e9 the Artist of the Decade is Billboard. So the answer is: Billboard."
+A: Billboard
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8333
+Where does the other 25 percent of fresh air go?
+Q: Where does the other 25 percent of fresh air go?
+A: "The other 25 percent of fresh air goes to the ocean. So the answer is: the ocean."
+A: the ocean
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4550
+What is the make up politically of florida's fastest growing area 
+Q: What is the make up politically of florida's fastest growing area
+A: "The fastest growing area in Florida is the area of Osceola County. Osceola County is a non-metropolitan county. So the answer is: non-metropolitan county."
+A: non-metropolitan county
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4722
+What was the name of Madonna's twelfth album?
+Q: What was the name of Madonna's twelfth album?
+A: "Madonna's twelfth album was Hard Candy. So the answer is: Hard Candy."
+A: Hard Candy
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5053
+Who did Mackintosh compare Burke to?
+Q: Who did Mackintosh compare Burke to?
+A: "Mackintosh compared Burke to a \"great and good man\". So the answer is: a \"great and good man\"."
+A: a \"great and good man\"
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8568
+Critics of modern separation of church and state note there was official establishment of what in several states at the time of ratification?
+Q: Critics of modern separation of church and state note there was official establishment of what in several states at the time of ratification?
+A: "Critics of modern separation of church and state note there was official establishment of Christianity in several states at the time of ratification. So the answer is: Christianity."
+A: Christianity
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_596
+Why are several anthropologists dismissed from their jobs, according to David H. Price?
+Q: Why are several anthropologists dismissed from their jobs, according to David H. Price?
+A: "David H. Price wrote the book \"Anthropological Intelligence: The Politics of National Security Advising 1950-2008\". According to the book, several anthropologists were dismissed from their jobs because they were deemed to be a security risk. So the answer is: they were deemed to be a security risk."
+A: they were deemed to be a security risk
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6285
+What group is an advanced observation of infinite field extensions and groups that is adapted for the needs of algebraic geometry?
+Q: What group is an advanced observation of infinite field extensions and groups that is adapted for the needs of algebraic geometry?
+A: "The group that is an advanced observation of infinite field extensions and groups that is adapted for the needs of algebraic geometry is the Galois group. So the answer is: Galois group."
+A: Galois group
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7404
+What was considered to be more important to some than serving the local government?
+Q: What was considered to be more important to some than serving the local government?
+A: "In the novel \"The Great Gatsby\", serving the local government was considered to be less important than wealth. So the answer is: wealth."
+A: wealth
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_159
+When were antibiotics created?
+Q: When were antibiotics created?
+A: "The first antibiotic was Penicillin. Penicillin was created by Alexander Fleming in 1928. So the answer is: 1928."
+A: 1928
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4665
+When did New Zealand achieve self-government?
+Q: When did New Zealand achieve self-government?
+A: "New Zealand achieved self-government in 1852. So the answer is: 1852."
+A: 1852
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3219
+How many corps was the UK's Anti-Aircraft Command?
+Q: How many corps was the UK's Anti-Aircraft Command?
+A: "The UK's Anti-Aircraft Command was 2 corps. So the answer is: 2."
+A: 2
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6323
+What is unique about the LaserDisc release of E.T.?
+Q: What is unique about the LaserDisc release of E.T.?
+A: "The LaserDisc release of E.T. is unique because it is the first LaserDisc to be released in the United States. So the answer is: it is the first LaserDisc to be released in the United States."
+A: it is the first LaserDisc to be released in the United States
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3753
+What year did Princess Charlotte of Wales die?
+Q: What year did Princess Charlotte of Wales die?
+A: "Princess Charlotte of Wales died in 1817. So the answer is: 1817."
+A: 1817
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1381
+In what year was Arabian Nights produced?
+Q: In what year was Arabian Nights produced?
+A: "Arabian Nights was produced in 1979. So the answer is: 1979."
+A: 1979
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8116
+In what year was the constitution of Swaziland suspended?
+Q: In what year was the constitution of Swaziland suspended?
+A: "The constitution of Swaziland was suspended in 1973. So the answer is: 1973."
+A: 1973
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5129
+What can citizens use to challenge any law passed by Parliament?
+Q: What can citizens use to challenge any law passed by Parliament?
+A: "Citizens can use the Canadian Charter of Rights and Freedoms to challenge any law passed by Parliament. So the answer is: Canadian Charter of Rights and Freedoms."
+A: Canadian Charter of Rights and Freedoms
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2698
+What is the standard for EAL6?
+Q: What is the standard for EAL6?
+A: "EAL6 is the standard for development of security functions. So the answer is: development of security functions."
+A: development of security functions
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2675
+How much was allocated?
+Q: How much was allocated?
+A: "The amount allocated is not specified in the question. So the answer is: Not specified."
+A: Not specified
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6669
+What do developers commonly do when creating software that can lead to failures?
+Q: What do developers commonly do when creating software that can lead to failures?
+A: "Developers commonly do testing when creating software that can lead to failures. So the answer is: testing."
+A: testing
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1579
+Horn Cable Television and Universal TV are examples of what?
+Q: Horn Cable Television and Universal TV are examples of what?
+A: "Horn Cable Television and Universal TV are examples of cable television. So the answer is: cable television."
+A: cable television
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8552
+What region did Isaac Backus come from?
+Q: What region did Isaac Backus come from?
+A: "Isaac Backus came from New England. So the answer is: New England."
+A: New England
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2409
+Multiprocessor and multi-core computers have multiples of what?
+Q: Multiprocessor and multi-core computers have multiples of what?
+A: "Multiprocessor and multi-core computers have multiples of CPUs. So the answer is: CPUs."
+A: CPUs
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8562
+What did both the majority and dissenting opinions reiterate?
+Q: What did both the majority and dissenting opinions reiterate?
+A: "The majority and dissenting opinions in the case of United States v. Windsor reiterate that the Defense of Marriage Act (DOMA) is unconstitutional. So the answer is: DOMA is unconstitutional."
+A: DOMA is unconstitutional
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7188
+When was 'Bridge of Spies' released?
+Q: When was 'Bridge of Spies' released?
+A: "Bridge of Spies was released on October 16, 2015. So the answer is: October 16, 2015."
+A: October 16, 2015
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7312
+What is the cross on the banners used during the First Crusade known as?
+Q: What is the cross on the banners used during the First Crusade known as?
+A: "The cross on the banners used during the First Crusade is known as the Cross of Jerusalem. So the answer is: Cross of Jerusalem."
+A: Cross of Jerusalem
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7145
+What is the total number of completed dams located on Cyprus?
+Q: What is the total number of completed dams located on Cyprus?
+A: "The total number of completed dams located on Cyprus is 2. So the answer is: 2."
+A: 2
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8451
+What is the name of the mosaic in the Basilica of Sant'Ambrogio?
+Q: What is the name of the mosaic in the Basilica of Sant'Ambrogio?
+A: "The mosaic in the Basilica of Sant'Ambrogio is the Mosaics of the Basilica of Sant'Ambrogio. The mosaic is called the \"Mosaics of the Basilica of Sant'Ambrogio\". So the answer is: Mosaics of the Basilica of Sant'Ambrogio."
+A: Mosaics of the Basilica of Sant'Ambrogio
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5291
+Where is the Avicenna Mausoleum and Museum located?
+Q: Where is the Avicenna Mausoleum and Museum located?
+A: "The Avicenna Mausoleum and Museum is located in Bukhara, Uzbekistan. So the answer is: Bukhara, Uzbekistan."
+A: Bukhara, Uzbekistan
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7902
+What role did Thailand play in the war?
+Q: What role did Thailand play in the war?
+A: "Thailand played the role of a neutral country in the Vietnam War. So the answer is: neutral country."
+A: neutral country
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1238
+What was the first object to enter space?
+Q: What was the first object to enter space?
+A: "The first object to enter space was a V-2 rocket launched by Germany. So the answer is: V-2 rocket."
+A: V-2 rocket
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6644
+What force were most commanders opposed to the Korea invasion part of?
+Q: What force were most commanders opposed to the Korea invasion part of?
+A: "The force that most commanders were opposed to the Korea invasion part of was the 1st Marine Division. So the answer is: 1st Marine Division."
+A: 1st Marine Division
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4076
+When was the new east wing built?
+Q: When was the new east wing built?
+A: "The new east wing of the National Museum of Women in the Arts was built in 2009. So the answer is: 2009."
+A: 2009
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4208
+When was Royal Shell Group Created?
+Q: When was Royal Shell Group Created?
+A: "The Royal Shell Group was created in 1907. So the answer is: 1907."
+A: 1907
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_840
+What is the Proto-Germanic word that "dog" may have come from?
+Q: What is the Proto-Germanic word that "dog" may have come from?
+A: "The Proto-Germanic word that \"dog\" may have come from is *dukniz. So the answer is: *dukniz."
+A: *dukniz
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8033
+In 2008, how much was Iran's state subsidy in its energy sector?
+Q: In 2008, how much was Iran's state subsidy in its energy sector?
+A: "In 2008, Iran's state subsidy in its energy sector was $60 billion. So the answer is: $60 billion."
+A: $60 billion
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8542
+Which major gaming company claimed copyright ad revenue rights against uploaders?
+Q: Which major gaming company claimed copyright ad revenue rights against uploaders?
+A: "The major gaming company that claimed copyright ad revenue rights against uploaders is Electronic Arts. So the answer is: Electronic Arts."
+A: Electronic Arts
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3086
+On what date was the Earth's coldest temperature recorded?
+Q: On what date was the Earth's coldest temperature recorded?
+A: "The Earth's coldest temperature was recorded on July 21, 1983. So the answer is: July 21, 1983."
+A: July 21, 1983
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2664
+What psychological concept does Weinreich state as between the past and future?
+Q: What psychological concept does Weinreich state as between the past and future?
+A: "Weinreich states that the psychological concept of the present is between the past and future. So the answer is: present."
+A: present
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7582
+Where does cancellation of any reactance seen?
+Q: Where does cancellation of any reactance seen?
+A: "Cancellation of any reactance is seen in a resonant circuit. So the answer is: a resonant circuit."
+A: a resonant circuit
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5948
+What exists within the main Unicode categories? 
+Q: What exists within the main Unicode categories?
+A: "The main Unicode categories are: Uppercase letter, Lowercase letter, Titlecase letter, Modifier letter, Other letter, Nonspacing mark, Spacing mark, Enclosing mark, Combining mark, Decimal number, Letter number, Other number, Connector punctuation, Dash punctuation, Open punctuation, Close punctuation, Initial quote punctuation, Final quote punctuation, Other punctuation, Math symbol, Currency symbol, Modifier symbol, Other symbol, Space separator, Line separator, Paragraph separator, Control character. So the"
+A: The main Unicode categories are: Uppercase letter, Lowercase letter, Titlecase letter, Modifier letter, Other letter, Nonspacing mark, Spacing mark, Enclosing mark, Combining mark, Decimal number, Letter number, Other number, Connector punctuation, Dash punctuation, Open punctuation, Close punctuation, Initial quote punctuation, Final quote punctuation, Other punctuation, Math symbol, Currency symbol, Modifier symbol, Other symbol, Space separator, Line separator, Paragraph separator, Control character. So the
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3409
+What conditions were suppressed in the 28 hour wake-sleep cycle studies ?
+Q: What conditions were suppressed in the 28 hour wake-sleep cycle studies ?
+A: "The 28 hour wake-sleep cycle studies were conducted by Nathaniel Kleitman. The conditions that were suppressed in the 28 hour wake-sleep cycle studies were REM sleep. So the answer is: REM sleep."
+A: REM sleep
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1631
+What type of clay improves the characteristics of the pulps used in papermaking?
+Q: What type of clay improves the characteristics of the pulps used in papermaking?
+A: "The type of clay that improves the characteristics of the pulps used in papermaking is kaolin. So the answer is: kaolin."
+A: kaolin
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2613
+How many men per 1000 residents were mandated to defend?
+Q: How many men per 1000 residents were mandated to defend?
+A: "The number of men per 1000 residents mandated to defend is 1. So the answer is: 1."
+A: 1
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7179
+When did the first Indiana Jones movie come out?
+Q: When did the first Indiana Jones movie come out?
+A: "The first Indiana Jones movie, Raiders of the Lost Ark, was released on June 12, 1981. So the answer is: June 12, 1981."
+A: June 12, 1981
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8357
+Who made up the Han Chinese Banners?
+Q: Who made up the Han Chinese Banners?
+A: "The Han Chinese Banners were made up of the Eight Banners. The Eight Banners were made up of the Bordered Yellow Banner, the Plain Yellow Banner, the Bordered Red Banner, the Plain Red Banner, the Bordered White Banner, the Plain White Banner, the Bordered Blue Banner, and the Plain Blue Banner. So the answer is: Eight Banners."
+A: Eight Banners
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6603
+What is said to have turned into the river Marsyas?
+Q: What is said to have turned into the river Marsyas?
+A: "The river Marsyas is said to have turned into the river Maeander. So the answer is: Maeander."
+A: Maeander
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1500
+what produces hydrogen gas?
+Q: what produces hydrogen gas?
+A: "The process that produces hydrogen gas is electrolysis. So the answer is: electrolysis."
+A: electrolysis
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_648
+What journalist gave "808s and Hearbreak" critical acclimation 4 years after its release?
+Q: What journalist gave "808s and Hearbreak" critical acclimation 4 years after its release?
+A: "The journalist who gave \"808s and Hearbreak\" critical acclimation 4 years after its release is Rob Sheffield. So the answer is: Rob Sheffield."
+A: Rob Sheffield
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3479
+What happened to Dell's revenue and share price in the post-PC market?
+Q: What happened to Dell's revenue and share price in the post-PC market?
+A: "Dell's revenue and share price declined in the post-PC market. So the answer is: declined."
+A: declined
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2702
+What is the name of the parent company that created Ashley Madison?
+Q: What is the name of the parent company that created Ashley Madison?
+A: "The parent company that created Ashley Madison is Avid Life Media. So the answer is: Avid Life Media."
+A: Avid Life Media
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_111
+What crowdfunding platform was used in the concert?
+Q: What crowdfunding platform was used in the concert?
+A: "The concert is of the band \"The National\". The National used Kickstarter to fund their concert. So the answer is: Kickstarter."
+A: Kickstarter
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2153
+How many essential genes does Saccharomyces cerevisiae have?
+Q: How many essential genes does Saccharomyces cerevisiae have?
+A: "Saccharomyces cerevisiae has 5, 382 essential genes. So the answer is: 5,382."
+A: 5,382
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8885
+In what US state did Kathmandu first establish an international relationship?
+Q: In what US state did Kathmandu first establish an international relationship?
+A: "Kathmandu first established an international relationship in the state of New York. So the answer is: New York."
+A: New York
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7581
+What is left after antenna tuning?
+Q: What is left after antenna tuning?
+A: "After antenna tuning, the impedance is matched. So the answer is: impedance is matched."
+A: impedance is matched
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6055
+What is the MLB preseason league in Arizona called?
+Q: What is the MLB preseason league in Arizona called?
+A: "The MLB preseason league in Arizona is called the Cactus League. So the answer is: Cactus League."
+A: Cactus League
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7118
+Along with Libya, Morocco, Tunisia and Algeria, who was a founding member of the Arab Maghreb Union?
+Q: Along with Libya, Morocco, Tunisia and Algeria, who was a founding member of the Arab Maghreb Union?
+A: "The founding members of the Arab Maghreb Union are Libya, Morocco, Tunisia, Algeria and Mauritania. So the answer is: Mauritania."
+A: Mauritania
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2139
+What are multiple protein coding sequences transcribed as?
+Q: What are multiple protein coding sequences transcribed as?
+A: "Multiple protein coding sequences are transcribed as messenger RNA. So the answer is: messenger RNA."
+A: messenger RNA
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_144
+In addition to the numeric size of a targeted group, what other consideration was useful to the ICTY?
+Q: In addition to the numeric size of a targeted group, what other consideration was useful to the ICTY?
+A: "In addition to the numeric size of a targeted group, the ICTY also considered the political and social impact of the targeted group. So the answer is: political and social impact."
+A: political and social impact
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5195
+Where does the football team for North Carolina State University play?
+Q: Where does the football team for North Carolina State University play?
+A: "The football team for North Carolina State University plays at Carter\u2013Finley Stadium. So the answer is: Carter\u2013Finley Stadium."
+A: Carter\u2013Finley Stadium
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1886
+What two characteristics of classical music can not be attributed to other genres?
+Q: What two characteristics of classical music can not be attributed to other genres?
+A: "The two characteristics of classical music that can not be attributed to other genres are: 1) the use of sonata form and 2) the use of counterpoint. So the answer is: sonata form and counterpoint."
+A: sonata form and counterpoint
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6155
+What happened to Nasser after the breakup of the UAR?
+Q: What happened to Nasser after the breakup of the UAR?
+A: "Nasser was the President of the United Arab Republic. After the breakup of the UAR, Nasser remained the President of Egypt. So the answer is: remained the President of Egypt."
+A: remained the President of Egypt
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8604
+Who wrote about religious freedom in the early 17th century?
+Q: Who wrote about religious freedom in the early 17th century?
+A: "Roger Williams wrote about religious freedom in the early 17th century. So the answer is: Roger Williams."
+A: Roger Williams
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4624
+Why are species can be difficult to classify because they?
+Q: Why are species can be difficult to classify because they?
+A: "Species can be difficult to classify because they are constantly evolving. So the answer is: they are constantly evolving."
+A: they are constantly evolving
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5138
+What was the unemployment rate in Switzerland in 2014?
+Q: What was the unemployment rate in Switzerland in 2014?
+A: "The unemployment rate in Switzerland in 2014 was 3.2%. So the answer is: 3.2%."
+A: 3.2%
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6501
+What is the largest consumer of insects?
+Q: What is the largest consumer of insects?
+A: "The largest consumer of insects is the praying mantis. So the answer is: praying mantis."
+A: praying mantis
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4697
+Which is the other name that Madonna is always referred as?
+Q: Which is the other name that Madonna is always referred as?
+A: "Madonna is also referred to as \"The Queen of Pop\". So the answer is: The Queen of Pop."
+A: The Queen of Pop
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4950
+Which conflict in France resulted in the establishment of permanent armies?
+Q: Which conflict in France resulted in the establishment of permanent armies?
+A: "The conflict in France that resulted in the establishment of permanent armies is the Hundred Years' War. So the answer is: Hundred Years' War."
+A: Hundred Years' War
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4827
+Which group had an inferior status under Islamic rule?
+Q: Which group had an inferior status under Islamic rule?
+A: "The group that had an inferior status under Islamic rule is the Zoroastrians. So the answer is: Zoroastrians."
+A: Zoroastrians
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5695
+When was Ben Hagkol crucified?
+Q: When was Ben Hagkol crucified?
+A: "The date of Ben Hagkol's crucifixion is not known. However, it is known that he was crucified during the reign of King Herod Agrippa I. King Herod Agrippa I reigned from 41 to 44 AD. So the answer is: 41 to 44 AD."
+A: 41 to 44 AD
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5612
+Temperatures rarely go higher than what temperature in the Appalachians?
+Q: Temperatures rarely go higher than what temperature in the Appalachians?
+A: "Temperatures rarely go higher than 80 degrees Fahrenheit in the Appalachians. So the answer is: 80."
+A: 80
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3672
+What UK organization evaluates drugs? 
+Q: What UK organization evaluates drugs?
+A: "The UK organization that evaluates drugs is the National Institute for Health and Care Excellence. So the answer is: National Institute for Health and Care Excellence."
+A: National Institute for Health and Care Excellence
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2685
+What is one target of communication?
+Q: What is one target of communication?
+A: "One target of communication is the receiver. So the answer is: receiver."
+A: receiver
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1677
+Along with romantic and sexual relationships, family and work, what do soft adult contemporary songs sometimes discuss?
+Q: Along with romantic and sexual relationships, family and work, what do soft adult contemporary songs sometimes discuss?
+A: "Soft adult contemporary songs sometimes discuss relationships, family, and work. In addition to these, they also sometimes discuss spirituality. So the answer is: spirituality."
+A: spirituality
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6102
+Of what philosophical system do the Upanishads form the basis?
+Q: Of what philosophical system do the Upanishads form the basis?
+A: "The Upanishads form the basis of Hinduism. Hinduism is a philosophical system. So the answer is: Hinduism."
+A: Hinduism
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_391
+Who spoke about the dead and missing people on November 21, 2008?
+Q: Who spoke about the dead and missing people on November 21, 2008?
+A: "The person who spoke about the dead and missing people on November 21, 2008 is Barack Obama. So the answer is: Barack Obama."
+A: Barack Obama
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3635
+What brought African Americans together?
+Q: What brought African Americans together?
+A: "The Civil Rights Movement brought African Americans together. So the answer is: The Civil Rights Movement."
+A: The Civil Rights Movement
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2306
+What do people outside of North America call the sawn boards used for building?
+Q: What do people outside of North America call the sawn boards used for building?
+A: "People outside of North America call the sawn boards used for building as \"boards\". In North America, they are called \"lumber\". So the answer is: boards."
+A: boards
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2581
+where was marshall jefferson based?
+Q: where was marshall jefferson based?
+A: "Marshall Jefferson is an American DJ and producer. Marshall Jefferson was based in Chicago. So the answer is: Chicago."
+A: Chicago
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4533
+What type of law handled IP rights before 1994 in TRIP signatories?
+Q: What type of law handled IP rights before 1994 in TRIP signatories?
+A: "Before 1994 in TRIP signatories, IP rights were handled by the Paris Convention for the Protection of Industrial Property. The Paris Convention for the Protection of Industrial Property is a type of international law. So the answer is: international law."
+A: international law
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4282
+What is the given name of a lion and tiger hybrid?
+Q: What is the given name of a lion and tiger hybrid?
+A: "The given name of a lion and tiger hybrid is a liger. So the answer is: liger."
+A: liger
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3301
+Which general opened the battle with artillery from the 25th Infantry Division?
+Q: Which general opened the battle with artillery from the 25th Infantry Division?
+A: "The general who opened the battle with artillery from the 25th Infantry Division is General Douglas MacArthur. So the answer is: General Douglas MacArthur."
+A: General Douglas MacArthur
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2805
+Who wrote The Passions, Emotions and the Meaning of Life?
+Q: Who wrote The Passions, Emotions and the Meaning of Life?
+A: "The Passions, Emotions and the Meaning of Life was written by Robert C. Solomon. So the answer is: Robert C. Solomon."
+A: Robert C. Solomon
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3486
+How many employees lost jobs when Dell closed their call center?
+Q: How many employees lost jobs when Dell closed their call center?
+A: "Dell closed their call center in 2011. The number of employees who lost jobs when Dell closed their call center is 900. So the answer is: 900."
+A: 900
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_655
+How many  of Kanye's Fatburger restaurants were actually opened?
+Q: How many  of Kanye's Fatburger restaurants were actually opened?
+A: "Kanye West opened one Fatburger restaurant. So the answer is: one."
+A: one
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7328
+What was the name of the large air raid that took place in daylight hours in Britain?
+Q: What was the name of the large air raid that took place in daylight hours in Britain?
+A: "The large air raid that took place in daylight hours in Britain is known as the Battle of Britain. So the answer is: Battle of Britain."
+A: Battle of Britain
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1518
+What was the population of Boston in 1822?
+Q: What was the population of Boston in 1822?
+A: "The population of Boston in 1822 was 43,298. So the answer is: 43,298."
+A: 43,298
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4731
+Who wrote that Madonna is opportunistic, manipulative and ruthless?
+Q: Who wrote that Madonna is opportunistic, manipulative and ruthless?
+A: "The author who wrote that Madonna is opportunistic, manipulative and ruthless is Andrew Morton. So the answer is: Andrew Morton."
+A: Andrew Morton
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3505
+Along with Stewart, what Supreme Court justice was concerned about racial disparity in death penalty enforcement?
+Q: Along with Stewart, what Supreme Court justice was concerned about racial disparity in death penalty enforcement?
+A: "Along with Stewart, Justice Harry Blackmun was concerned about racial disparity in death penalty enforcement. So the answer is: Harry Blackmun."
+A: Harry Blackmun
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5371
+What music festival does Utrecht host 
+Q: What music festival does Utrecht host
+A: "Utrecht hosts the Utrecht Festival. So the answer is: Utrecht Festival."
+A: Utrecht Festival
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4089
+Who convinced the king to lock the wine cellars?
+Q: Who convinced the king to lock the wine cellars?
+A: "The king is King Louis XIV. The person who convinced the king to lock the wine cellars is Madame de Montespan. So the answer is: Madame de Montespan."
+A: Madame de Montespan
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2301
+What should be anticipated because of the many factors that influence wood's density?
+Q: What should be anticipated because of the many factors that influence wood's density?
+A: "Wood's density is influenced by many factors such as the type of tree, the moisture content, the age of the tree, and the location where the tree was grown. Therefore, wood's density should be anticipated to vary. So the answer is: to vary."
+A: to vary
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_629
+By which ministry is authority granted for funding and managing Portugal's research system?
+Q: By which ministry is authority granted for funding and managing Portugal's research system?
+A: "Authority for funding and managing Portugal's research system is granted by the Ministry of Science, Technology and Higher Education. So the answer is: Ministry of Science, Technology and Higher Education."
+A: Ministry of Science, Technology and Higher Education
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4425
+However Christianity can be found within the city, particularly which neighborhoods?
+Q: However Christianity can be found within the city, particularly which neighborhoods?
+A: "Christianity can be found within the city of Jerusalem, particularly in the neighborhoods of the Old City. So the answer is: the Old City."
+A: the Old City
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5933
+What can this extra bit result in?
+Q: What can this extra bit result in?
+A: "The extra bit is a bit that is added to the end of a binary number to make it a multiple of 8. This extra bit can result in a number that is a multiple of 8. So the answer is: a multiple of 8."
+A: a multiple of 8
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_955
+On what date did IndyMac fail?
+Q: On what date did IndyMac fail?
+A: "IndyMac failed on July 11, 2008. So the answer is: July 11, 2008."
+A: July 11, 2008
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8471
+What proves mosaics were used in the early middle ages?
+Q: What proves mosaics were used in the early middle ages?
+A: "The mosaics in the church of San Vitale in Ravenna, Italy prove that mosaics were used in the early middle ages. So the answer is: San Vitale in Ravenna, Italy."
+A: San Vitale in Ravenna, Italy
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3810
+What's home to 57% of the nation's population?
+Q: What's home to 57% of the nation's population?
+A: "The United States has a population of 318 million. 57% of 318 million is 181.26 million. The United States has 50 states. The state with the largest population is California. California has a population of 39.5 million. 181.26 million - 39.5 million = 141.76 million. The state with the second largest population is Texas. Texas has a population of 27.8 million. 141.76 million - 27"
+A: The United States has a population of 318 million. 57% of 318 million is 181.26 million. The United States has 50 states. The state with the largest population is California. California has a population of 39.5 million. 181.26 million - 39.5 million = 141.76 million. The state with the second largest population is Texas. Texas has a population of 27.8 million. 141.76 million - 27
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5339
+What is the largest economy in Africa?
+Q: What is the largest economy in Africa?
+A: "The largest economy in Africa is South Africa. So the answer is: South Africa."
+A: South Africa
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_448
+In what year was the Woolworth Building completed?
+Q: In what year was the Woolworth Building completed?
+A: "The Woolworth Building was completed in 1913. So the answer is: 1913."
+A: 1913
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3811
+How many Israelis speak French?
+Q: How many Israelis speak French?
+A: "The number of Israelis who speak French is 1.5 million. So the answer is: 1.5 million."
+A: 1.5 million
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7490
+What eats at the plastic and aluminum found in CDs?
+Q: What eats at the plastic and aluminum found in CDs?
+A: "The organism that eats at the plastic and aluminum found in CDs is the fungus Aspergillus. So the answer is: Aspergillus."
+A: Aspergillus
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7689
+What is required for a modern DBMS to function?
+Q: What is required for a modern DBMS to function?
+A: "A modern DBMS requires a computer. So the answer is: a computer."
+A: a computer
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7725
+When had Tucson last had as much snow as 2013?
+Q: When had Tucson last had as much snow as 2013?
+A: "Tucson last had as much snow as 2013 in 1972. So the answer is: 1972."
+A: 1972
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2038
+What was the name given to the island reached by Miguel Lopez de Legazpi on January 9th of 1530?
+Q: What was the name given to the island reached by Miguel Lopez de Legazpi on January 9th of 1530?
+A: "The island reached by Miguel Lopez de Legazpi on January 9th of 1530 was named Luzon. So the answer is: Luzon."
+A: Luzon
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1866
+Countries that what have more extralegal and unofficial things going on?
+Q: Countries that what have more extralegal and unofficial things going on?
+A: "Countries that have more extralegal and unofficial things going on are countries with a high level of corruption. So the answer is: corruption."
+A: corruption
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1071
+What was forbidden in all provinces?
+Q: What was forbidden in all provinces?
+A: "In the novel \"The Name of the Rose\" by Umberto Eco, all provinces were forbidden to have books. So the answer is: books."
+A: books
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6090
+How many tribal governments are in Oklahoma?
+Q: How many tribal governments are in Oklahoma?
+A: "There are 39 tribal governments in Oklahoma. So the answer is: 39."
+A: 39
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7819
+How many divisions did the Premier League start out with at this time?
+Q: How many divisions did the Premier League start out with at this time?
+A: "The Premier League started out with 22 divisions. So the answer is: 22."
+A: 22
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8810
+How can some viruses main a persistent infection?
+Q: How can some viruses main a persistent infection?
+A: "Some viruses can main a persistent infection by evading the host's immune system. So the answer is: evading the host's immune system."
+A: evading the host's immune system
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5426
+Who was the first person to determine that the Earth is round?
+Q: Who was the first person to determine that the Earth is round?
+A: "The first person to determine that the Earth is round was Pythagoras. So the answer is: Pythagoras."
+A: Pythagoras
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4797
+What other countries were in disagreement with the United Nations decision on Burma ?
+Q: What other countries were in disagreement with the United Nations decision on Burma ?
+A: "The United Nations decision on Burma was to expel Burma from the United Nations. The countries that were in disagreement with the United Nations decision on Burma were China, India, and the Soviet Union. So the answer is: China, India, and the Soviet Union."
+A: China, India, and the Soviet Union
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6597
+Why did mathematical relations become necessary?
+Q: Why did mathematical relations become necessary?
+A: "Mathematical relations became necessary because of the need to describe the world around us. So the answer is: the need to describe the world around us."
+A: the need to describe the world around us
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8404
+What is presumed to be written upon the Cascajal Block?
+Q: What is presumed to be written upon the Cascajal Block?
+A: "The Cascajal Block is a pre-Columbian artifact. It is presumed to be written upon the Cascajal Block is a script. So the answer is: script."
+A: script
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3336
+Where did researchers suggest that Punt was located?
+Q: Where did researchers suggest that Punt was located?
+A: "Researchers suggest that Punt was located in the region of modern-day Eritrea. So the answer is: Eritrea."
+A: Eritrea
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4993
+In what year was the assertion made that the flat canvas supported Cubism?
+Q: In what year was the assertion made that the flat canvas supported Cubism?
+A: "The assertion that the flat canvas supported Cubism was made in 1907. So the answer is: 1907."
+A: 1907
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5267
+What determines what literary structure a literary author uses for expression of ideas?
+Q: What determines what literary structure a literary author uses for expression of ideas?
+A: "The literary structure an author uses for expression of ideas is determined by the author's purpose. So the answer is: purpose."
+A: purpose
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_139
+Who promoted settlement in Montana in the early 1900s
+Q: Who promoted settlement in Montana in the early 1900s
+A: "The person who promoted settlement in Montana in the early 1900s is Charles M. Russell. So the answer is: Charles M. Russell."
+A: Charles M. Russell
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1950
+In addition to its shape, what property of the English Channel affects water flow in Southampton Water?
+Q: In addition to its shape, what property of the English Channel affects water flow in Southampton Water?
+A: "The English Channel has a tidal range of 14.5 metres. This tidal range affects water flow in Southampton Water. So the answer is: tidal range."
+A: tidal range
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5816
+What are some examples of dominant party systems?
+Q: What are some examples of dominant party systems?
+A: "Dominant party systems are systems in which one party has a significant advantage over other parties. Examples of dominant party systems are the Democratic Party in the United States, the Liberal Democratic Party in Japan, and the Indian National Congress in India. So the answer is: Democratic Party, Liberal Democratic Party, Indian National Congress."
+A: Democratic Party, Liberal Democratic Party, Indian National Congress
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5102
+What does DC stand for?
+Q: What does DC stand for?
+A: "DC stands for District of Columbia. So the answer is: District of Columbia."
+A: District of Columbia
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1635
+On what date was the expiration of Foster's patent?
+Q: On what date was the expiration of Foster's patent?
+A: "The expiration of Foster's patent was on 1 January 1856. So the answer is: 1 January 1856."
+A: 1 January 1856
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4000
+What does Nuestra Senora del Sagrado Corazon mean?
+Q: What does Nuestra Senora del Sagrado Corazon mean?
+A: "Nuestra Senora del Sagrado Corazon means Our Lady of the Sacred Heart. So the answer is: Our Lady of the Sacred Heart."
+A: Our Lady of the Sacred Heart
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7002
+I-24 connects which two Tennessee cities?
+Q: I-24 connects which two Tennessee cities?
+A: "I-24 connects Nashville and Chattanooga. So the answer is: Nashville and Chattanooga."
+A: Nashville and Chattanooga
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1132
+What ends up being reduced in quality by this quest?
+Q: What ends up being reduced in quality by this quest?
+A: "The quest is the \"Quest for the Holy Grail\" from the movie Monty Python and the Holy Grail. The quality of the people is reduced in the quest. So the answer is: people."
+A: people
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8084
+where did peace talks begin between Movement For democracy in Liberia and Taylor?
+Q: where did peace talks begin between Movement For democracy in Liberia and Taylor?
+A: "The peace talks between Movement For democracy in Liberia and Taylor began in Accra. So the answer is: Accra."
+A: Accra
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8422
+What were the reaches of the Ptolemaic Kingdom?
+Q: What were the reaches of the Ptolemaic Kingdom?
+A: "The Ptolemaic Kingdom was a Hellenistic kingdom in Egypt. The reaches of the Ptolemaic Kingdom were Egypt, Cyrenaica, Cyprus, and parts of Syria and Judea. So the answer is: Egypt, Cyrenaica, Cyprus, and parts of Syria and Judea."
+A: Egypt, Cyrenaica, Cyprus, and parts of Syria and Judea
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2513
+What is a complex phenomenon in regards to migration?
+Q: What is a complex phenomenon in regards to migration?
+A: "A complex phenomenon in regards to migration is the \"brain drain\". So the answer is: brain drain."
+A: brain drain
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3126
+Which city is often referred to as Australia's garden city?
+Q: Which city is often referred to as Australia's garden city?
+A: "The city often referred to as Australia's garden city is Adelaide. So the answer is: Adelaide."
+A: Adelaide
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2708
+What month is Cyber Security Awareness Month?
+Q: What month is Cyber Security Awareness Month?
+A: "Cyber Security Awareness Month is October. So the answer is: October."
+A: October
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6598
+Who is Apollo's son?
+Q: Who is Apollo's son?
+A: "Apollo's son is Asclepius. So the answer is: Asclepius."
+A: Asclepius
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5627
+The invention of cigarettes made what popular?
+Q: The invention of cigarettes made what popular?
+A: "The invention of cigarettes made matches popular. So the answer is: matches."
+A: matches
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7846
+The Golden Boot is made of sterling silver, silver gilt and which semi-precious stone?
+Q: The Golden Boot is made of sterling silver, silver gilt and which semi-precious stone?
+A: "The Golden Boot is made of sterling silver, silver gilt and lapis lazuli. So the answer is: lapis lazuli."
+A: lapis lazuli
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2225
+Genetic engineering allows what?
+Q: Genetic engineering allows what?
+A: "Genetic engineering allows the creation of genetically modified organisms. So the answer is: genetically modified organisms."
+A: genetically modified organisms
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6002
+Which theory consist of cultured adopting new practices,ideas, and products?
+Q: Which theory consist of cultured adopting new practices,ideas, and products?
+A: "The theory that consist of cultured adopting new practices, ideas, and products is Diffusion of Innovations. So the answer is: Diffusion of Innovations."
+A: Diffusion of Innovations
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6762
+What does any living organism rely on to be able to grow and reproduce?
+Q: What does any living organism rely on to be able to grow and reproduce?
+A: "Any living organism relies on energy to be able to grow and reproduce. So the answer is: energy."
+A: energy
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5858
+What was Eton's beagle club accused of in January 2016?
+Q: What was Eton's beagle club accused of in January 2016?
+A: "Eton's beagle club was accused of being involved in the badger cull. So the answer is: badger cull."
+A: badger cull
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2658
+How many copper alloys has the EPA approved as antimicrobial materials?
+Q: How many copper alloys has the EPA approved as antimicrobial materials?
+A: "The EPA has approved 23 copper alloys as antimicrobial materials. So the answer is: 23."
+A: 23
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5790
+What medium has seen the biggest fall in sales as of late?
+Q: What medium has seen the biggest fall in sales as of late?
+A: "The medium that has seen the biggest fall in sales as of late is the newspaper. So the answer is: newspaper."
+A: newspaper
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3622
+When were the last slaves freed in New York state?
+Q: When were the last slaves freed in New York state?
+A: "The last slaves in New York state were freed in 1827. So the answer is: 1827."
+A: 1827
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1996
+What distinguishes peremptory norms from other principles of customary law?
+Q: What distinguishes peremptory norms from other principles of customary law?
+A: "Peremptory norms distinguish themselves from other principles of customary law by being \"jus cogens\". So the answer is: jus cogens."
+A: jus cogens
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8698
+What American official notably opposed the armistice?
+Q: What American official notably opposed the armistice?
+A: "The American official who notably opposed the armistice is General John J. Pershing. So the answer is: General John J. Pershing."
+A: General John J. Pershing
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7382
+What are two other relevant characteristics of a pumping system along with final pressure?
+Q: What are two other relevant characteristics of a pumping system along with final pressure?
+A: "The two other relevant characteristics of a pumping system along with final pressure are flow rate and head. So the answer is: flow rate and head."
+A: flow rate and head
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5631
+What military commander gained power after the fall of the Minamoto clan?
+Q: What military commander gained power after the fall of the Minamoto clan?
+A: "The military commander who gained power after the fall of the Minamoto clan is Ashikaga Takauji. So the answer is: Ashikaga Takauji."
+A: Ashikaga Takauji
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2912
+Who awarded the rights to publish the calendar?
+Q: Who awarded the rights to publish the calendar?
+A: "The rights to publish the calendar were awarded to the British publisher, Collins. So the answer is: Collins."
+A: Collins
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8669
+What biblical passage informs Jehovah Witnesses' refusal of blood transfusions?
+Q: What biblical passage informs Jehovah Witnesses' refusal of blood transfusions?
+A: "Jehovah Witnesses' refusal of blood transfusions is based on the biblical passage of Acts 15:28-29. So the answer is: Acts 15:28-29."
+A: Acts 15:28-29
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7837
+Which network is the main live broadcaster of Premier League in Australia?
+Q: Which network is the main live broadcaster of Premier League in Australia?
+A: "The main live broadcaster of Premier League in Australia is Optus Sport. So the answer is: Optus Sport."
+A: Optus Sport
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3083
+What latitude is defined as being Antarctica's border?
+Q: What latitude is defined as being Antarctica's border?
+A: "The latitude that is defined as being Antarctica's border is 60\u00b0S. So the answer is: 60\u00b0S."
+A: 60\u00b0S
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7053
+What favorable developments occurred for Prussia in Hanover?
+Q: What favorable developments occurred for Prussia in Hanover?
+A: "The favorable developments for Prussia in Hanover were the Hanoverian Succession and the Treaty of Paris. So the answer is: Hanoverian Succession and the Treaty of Paris."
+A: Hanoverian Succession and the Treaty of Paris
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3568
+What did Athanasius do to avoid speaking to Alexander on his deathbed?
+Q: What did Athanasius do to avoid speaking to Alexander on his deathbed?
+A: "Athanasius refused to speak to Alexander on his deathbed. So the answer is: refused to speak to Alexander on his deathbed."
+A: refused to speak to Alexander on his deathbed
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6824
+In classical physics, an inertial reference frame is one in which an object without force does what?
+Q: In classical physics, an inertial reference frame is one in which an object without force does what?
+A: "In classical physics, an inertial reference frame is one in which an object without force does not change its state of motion. So the answer is: does not change its state of motion."
+A: does not change its state of motion
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3922
+What is the Code Civil frequently referred to as now?
+Q: What is the Code Civil frequently referred to as now?
+A: "The Code Civil is frequently referred to as the Napoleonic Code. So the answer is: Napoleonic Code."
+A: Napoleonic Code
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4453
+What major interstate provides access between New Haven and New York City?
+Q: What major interstate provides access between New Haven and New York City?
+A: "The major interstate that provides access between New Haven and New York City is I-95. So the answer is: I-95."
+A: I-95
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_539
+What does thermal mass reduce the need for?
+Q: What does thermal mass reduce the need for?
+A: "Thermal mass reduces the need for heating and cooling. So the answer is: heating and cooling."
+A: heating and cooling
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_909
+What is the name of the footballer who refused to be a part of the relay?
+Q: What is the name of the footballer who refused to be a part of the relay?
+A: "The footballer who refused to be a part of the relay is John Terry. John Terry refused to be a part of the relay in the 2012 Olympics. So the answer is: John Terry."
+A: John Terry
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8322
+What dangerous metal can LEDs contain?
+Q: What dangerous metal can LEDs contain?
+A: "LEDs can contain Mercury. Mercury is a dangerous metal. So the answer is: Mercury."
+A: Mercury
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7027
+Which Canadian football rules did the ORFU adopt in 1903?
+Q: Which Canadian football rules did the ORFU adopt in 1903?
+A: "The ORFU adopted the Canadian Intercollegiate Football Union rules in 1903. So the answer is: Canadian Intercollegiate Football Union rules."
+A: Canadian Intercollegiate Football Union rules
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1919
+There is no evidence of a Slavic settlement where before c. 600 AD?
+Q: There is no evidence of a Slavic settlement where before c. 600 AD?
+A: "There is no evidence of a Slavic settlement in the area of the modern-day city of Prague before c. 600 AD. So the answer is: Prague."
+A: Prague
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2566
+What year is the latest that MP3 related patents will expire on in the United States?
+Q: What year is the latest that MP3 related patents will expire on in the United States?
+A: "MP3 related patents will expire on 2017. So the answer is: 2017."
+A: 2017
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4332
+What percent of the Mexican GDP is the metropolitan area of Mexico City responsible for?
+Q: What percent of the Mexican GDP is the metropolitan area of Mexico City responsible for?
+A: "The metropolitan area of Mexico City is responsible for 21% of the Mexican GDP. So the answer is: 21%."
+A: 21%
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4231
+What is it called when someone intentionally breaks encryption on a movie or game?
+Q: What is it called when someone intentionally breaks encryption on a movie or game?
+A: "The term for intentionally breaking encryption on a movie or game is cracking. So the answer is: cracking."
+A: cracking
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_462
+What percentage of the population identifies as Hispanic?
+Q: What percentage of the population identifies as Hispanic?
+A: "The population of the United States that identifies as Hispanic is 17.8%. So the answer is: 17.8."
+A: 17.8
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8727
+What percent of the Bronx has mixed Caucasian and Asian heritage?
+Q: What percent of the Bronx has mixed Caucasian and Asian heritage?
+A: "The Bronx has a population of 1,455,720. The number of people of mixed Caucasian and Asian heritage in the Bronx is 1,455,720 * 0.02 = 29,113. So the answer is: 2."
+A: 2
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7349
+The bombers used what out of desperation?
+Q: The bombers used what out of desperation?
+A: "The bombers used the B-29 bomber out of desperation. So the answer is: B-29."
+A: B-29
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8859
+Along with Khas, who attacked Nepal in the early Malla period?
+Q: Along with Khas, who attacked Nepal in the early Malla period?
+A: "Along with Khas, the Kiratas attacked Nepal in the early Malla period. So the answer is: Kiratas."
+A: Kiratas
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6383
+What group did Hafiz Muhammad Saeed lead?
+Q: What group did Hafiz Muhammad Saeed lead?
+A: "Hafiz Muhammad Saeed led the group Lashkar-e-Taiba. So the answer is: Lashkar-e-Taiba."
+A: Lashkar-e-Taiba
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3918
+How many soldiers did Wellington believe Napoleon's presence on the field was worth?
+Q: How many soldiers did Wellington believe Napoleon's presence on the field was worth?
+A: "Wellington believed Napoleon's presence on the field was worth 40,000 soldiers. So the answer is: 40,000."
+A: 40,000
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4793
+What agreements were made in the visit to the United States by the Burmese in the 21 century ?
+Q: What agreements were made in the visit to the United States by the Burmese in the 21 century ?
+A: "The Burmese in the 21 century visited the United States in 2011. In this visit, the United States and Burma agreed to establish diplomatic relations. So the answer is: diplomatic relations."
+A: diplomatic relations
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8032
+The Iranina Islamic Republic is based on what document?
+Q: The Iranina Islamic Republic is based on what document?
+A: "The Iranina Islamic Republic is based on the Constitution of the Islamic Republic of Iran. The Constitution of the Islamic Republic of Iran is based on the 1979 Iranian Revolution. So the answer is: 1979 Iranian Revolution."
+A: 1979 Iranian Revolution
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1649
+How many years did the AFL title sponsorship deal last?
+Q: How many years did the AFL title sponsorship deal last?
+A: "The AFL title sponsorship deal was with Telstra. The deal lasted for 10 years. So the answer is: 10."
+A: 10
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_173
+Who discovered the chemical structure of penicillin?
+Q: Who discovered the chemical structure of penicillin?
+A: "Alexander Fleming discovered the chemical structure of penicillin. So the answer is: Alexander Fleming."
+A: Alexander Fleming
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4419
+What was the cause of the sudden extinction of many of the elms in New Haven?
+Q: What was the cause of the sudden extinction of many of the elms in New Haven?
+A: "The sudden extinction of many of the elms in New Haven was caused by Dutch elm disease. So the answer is: Dutch elm disease."
+A: Dutch elm disease
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5837
+Who did Prior Diego admire more than the Holy Church?
+Q: Who did Prior Diego admire more than the Holy Church?
+A: "Prior Diego admired more than the Holy Church the Holy Roman Emperor. So the answer is: Holy Roman Emperor."
+A: Holy Roman Emperor
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5216
+What needs to be compared to the waste products from humans to determine what is absorbed in the body?
+Q: What needs to be compared to the waste products from humans to determine what is absorbed in the body?
+A: "The waste products from humans are compared to the waste products from plants to determine what is absorbed in the body. So the answer is: waste products from plants."
+A: waste products from plants
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5277
+What is one district that Ibn Sina traveled through in search of more work?
+Q: What is one district that Ibn Sina traveled through in search of more work?
+A: "Ibn Sina traveled through the district of Balkh. So the answer is: Balkh."
+A: Balkh
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_630
+By the end of 2006, what percentage of Portugal's energy production was from renewable sources?
+Q: By the end of 2006, what percentage of Portugal's energy production was from renewable sources?
+A: "By the end of 2006, 45% of Portugal's energy production was from renewable sources. So the answer is: 45%."
+A: 45%
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5281
+Who did Avicenna view as inspired philosophers?
+Q: Who did Avicenna view as inspired philosophers?
+A: "Avicenna viewed Aristotle and Plato as inspired philosophers. So the answer is: Aristotle and Plato."
+A: Aristotle and Plato
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6478
+Insects hatch from what?
+Q: Insects hatch from what?
+A: "Insects hatch from eggs. So the answer is: eggs."
+A: eggs
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1713
+When did the Hongguang Emperor leave Nanjing, having been defeated?
+Q: When did the Hongguang Emperor leave Nanjing, having been defeated?
+A: "The Hongguang Emperor left Nanjing in 1645. So the answer is: 1645."
+A: 1645
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8581
+Who did Martin Luther criticize in the 95 theses?
+Q: Who did Martin Luther criticize in the 95 theses?
+A: "Martin Luther criticized the Pope in the 95 theses. So the answer is: the Pope."
+A: the Pope
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1109
+What is a form of solid state lighting?
+Q: What is a form of solid state lighting?
+A: "A form of solid state lighting is LED. So the answer is: LED."
+A: LED
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_304
+What major retailer sold HP-branded iPod devices?
+Q: What major retailer sold HP-branded iPod devices?
+A: "The major retailer that sold HP-branded iPod devices is Best Buy. So the answer is: Best Buy."
+A: Best Buy
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1160
+Where did the BBC broadcast from following World War II?
+Q: Where did the BBC broadcast from following World War II?
+A: "The BBC broadcast from Broadcasting House in London following World War II. So the answer is: Broadcasting House."
+A: Broadcasting House
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1557
+When was the Compass-M1 satellite launced?
+Q: When was the Compass-M1 satellite launced?
+A: "The Compass-M1 satellite was launched on 21 December 2010. So the answer is: 21 December 2010."
+A: 21 December 2010
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_673
+What are Kanye's religious beliefs?
+Q: What are Kanye's religious beliefs?
+A: "Kanye West is a Christian. So the answer is: Christian."
+A: Christian
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3971
+In Hokkien dialects, the arrangent of words is important to what?
+Q: In Hokkien dialects, the arrangent of words is important to what?
+A: "In Hokkien dialects, the arrangement of words is important to the meaning. So the answer is: meaning."
+A: meaning
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6476
+What family recorded an old-time music in 1924-1926?
+Q: What family recorded an old-time music in 1924-1926?
+A: "The family that recorded an old-time music in 1924-1926 is the Ball Family. So the answer is: Ball Family."
+A: Ball Family
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_491
+How many restaurants is New York home to?
+Q: How many restaurants is New York home to?
+A: "New York is home to over 20,000 restaurants. So the answer is: over 20,000."
+A: over 20,000
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5656
+Why did Darwin avoid the topic of the origins of humans in most of his book?
+Q: Why did Darwin avoid the topic of the origins of humans in most of his book?
+A: "Darwin avoided the topic of the origins of humans in most of his book because he was afraid of the reaction of the public. So the answer is: because he was afraid of the reaction of the public."
+A: because he was afraid of the reaction of the public
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1458
+Who presides over the executive council?
+Q: Who presides over the executive council?
+A: "The executive council is presided over by the President of the United States. So the answer is: President of the United States."
+A: President of the United States
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2329
+In what neighboring country is Arabic also an official language?
+Q: In what neighboring country is Arabic also an official language?
+A: "Arabic is an official language in the country of Israel. So the answer is: Israel."
+A: Israel
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8554
+What scheme did Jefferson apparently support when it came to University students?
+Q: What scheme did Jefferson apparently support when it came to University students?
+A: "Jefferson apparently supported the scheme of the University of Virginia. So the answer is: University of Virginia."
+A: University of Virginia
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4736
+How many theaters does London's West End have?
+Q: How many theaters does London's West End have?
+A: "London's West End has 40 theaters. So the answer is: 40."
+A: 40
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_19
+What length is the course of study at the Notre Dame School of Architecture?
+Q: What length is the course of study at the Notre Dame School of Architecture?
+A: "The course of study at the Notre Dame School of Architecture is 5 years. So the answer is: 5 years."
+A: 5 years
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4637
+What was the name of DeCarlo's main character in his humorous teen series?
+Q: What was the name of DeCarlo's main character in his humorous teen series?
+A: "The name of DeCarlo's main character in his humorous teen series is Archie. So the answer is: Archie."
+A: Archie
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7485
+In 2004 how many CDs had been sold around the world?
+Q: In 2004 how many CDs had been sold around the world?
+A: "In 2004, 1.1 billion CDs had been sold around the world. So the answer is: 1.1 billion."
+A: 1.1 billion
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5389
+What role did von Neuman play in the selection of targets?
+Q: What role did von Neuman play in the selection of targets?
+A: "John von Neumann played a role in the selection of targets in the Manhattan Project. So the answer is: Manhattan Project."
+A: Manhattan Project
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4549
+Who was Claude R Kirk 
+Q: Who was Claude R Kirk
+A: "Claude R. Kirk Jr. was the first Republican Governor of Florida. So the answer is: first Republican Governor of Florida."
+A: first Republican Governor of Florida
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4748
+In which direction does the River Thames run through the City of London?
+Q: In which direction does the River Thames run through the City of London?
+A: "The River Thames runs through the City of London from west to east. So the answer is: west to east."
+A: west to east
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1002
+What do researchers think transposable elements are key factors in when considering higher eukaryotes?
+Q: What do researchers think transposable elements are key factors in when considering higher eukaryotes?
+A: "Researchers think transposable elements are key factors in the evolution of higher eukaryotes. So the answer is: evolution of higher eukaryotes."
+A: evolution of higher eukaryotes
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8858
+Who was Banasur's murderer?
+Q: Who was Banasur's murderer?
+A: "Banasur was a king in Hindu mythology. Banasur was murdered by Lord Krishna. So the answer is: Lord Krishna."
+A: Lord Krishna
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2575
+what year was house music first used as a genre?
+Q: what year was house music first used as a genre?
+A: "House music was first used as a genre in 1986. So the answer is: 1986."
+A: 1986
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8728
+Who succeeded Carrion Jr.?
+Q: Who succeeded Carrion Jr.?
+A: "Carrion Jr. was succeeded by Carrion III. So the answer is: Carrion III."
+A: Carrion III
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4824
+When did a small-scale exodus begin in many countries?
+Q: When did a small-scale exodus begin in many countries?
+A: "A small-scale exodus began in many countries in 2015. So the answer is: 2015."
+A: 2015
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4386
+Who marked the switch from classical to romantic eras in classical music?
+Q: Who marked the switch from classical to romantic eras in classical music?
+A: "The classical music era is marked by the composers such as Haydn, Mozart, and Beethoven. The romantic music era is marked by the composers such as Chopin, Liszt, and Brahms. The composers such as Beethoven and Schubert are often considered to be the bridge between the classical and romantic eras. So the answer is: Beethoven and Schubert."
+A: Beethoven and Schubert
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7374
+What year was the Toepler Pump invented?
+Q: What year was the Toepler Pump invented?
+A: "The Toepler Pump was invented in 1881. So the answer is: 1881."
+A: 1881
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6766
+Energy may be converted to what?
+Q: Energy may be converted to what?
+A: "Energy may be converted to work. So the answer is: work."
+A: work
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1567
+In what century did Saxons and Normans separate?
+Q: In what century did Saxons and Normans separate?
+A: "The Saxons and Normans separated in the 9th century. So the answer is: 9th."
+A: 9th
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8756
+What text still remained without the type of thorough review that others texts had received by the 18th century?
+Q: What text still remained without the type of thorough review that others texts had received by the 18th century?
+A: "The text that still remained without the type of thorough review that others texts had received by the 18th century is the Bible. So the answer is: the Bible."
+A: the Bible
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3379
+Who wrote Discourse on Inequality?
+Q: Who wrote Discourse on Inequality?
+A: "The book Discourse on Inequality was written by Jean-Jacques Rousseau. So the answer is: Jean-Jacques Rousseau."
+A: Jean-Jacques Rousseau
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1247
+The first woman to launch into space was on what date?
+Q: The first woman to launch into space was on what date?
+A: "The first woman to launch into space was Valentina Tereshkova. Valentina Tereshkova launched into space on June 16, 1963. So the answer is: June 16, 1963."
+A: June 16, 1963
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7217
+On what floor must restaurant customers clear their reservations?
+Q: On what floor must restaurant customers clear their reservations?
+A: "Restaurant customers must clear their reservations on the first floor. So the answer is: first floor."
+A: first floor
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1035
+What is the name of the prime ministerial position in Ireland?
+Q: What is the name of the prime ministerial position in Ireland?
+A: "The prime ministerial position in Ireland is the Taoiseach. So the answer is: Taoiseach."
+A: Taoiseach
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1735
+How many passengers did the airport service in 2013?
+Q: How many passengers did the airport service in 2013?
+A: "The airport service is the airport of the city of Ketchikan, Alaska. The airport of Ketchikan, Alaska served 1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,"
+A: The airport service is the airport of the city of Ketchikan, Alaska. The airport of Ketchikan, Alaska served 1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,  1,
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_663
+How did George W. Bush describe Kanye's controversial statement?
+Q: How did George W. Bush describe Kanye's controversial statement?
+A: "George W. Bush described Kanye West's statement as \"one of the most disgusting moments of my presidency\". So the answer is: one of the most disgusting moments of my presidency."
+A: one of the most disgusting moments of my presidency
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5569
+In what year did the division of Alsace take place?
+Q: In what year did the division of Alsace take place?
+A: "The division of Alsace took place in 1871. So the answer is: 1871."
+A: 1871
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5624
+Fishing, hunting, and birdwatching are what kind of activities that are provided in North Carolina?
+Q: Fishing, hunting, and birdwatching are what kind of activities that are provided in North Carolina?
+A: "Fishing, hunting, and birdwatching are outdoor activities that are provided in North Carolina. So the answer is: outdoor activities."
+A: outdoor activities
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7779
+What type of electron donors organotrophs use?
+Q: What type of electron donors organotrophs use?
+A: "Organotrophs use organic electron donors. So the answer is: organic."
+A: organic
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2253
+What does the MoD manage?
+Q: What does the MoD manage?
+A: "The MoD stands for Ministry of Defence. The Ministry of Defence manages the armed forces of the United Kingdom. So the answer is: the armed forces of the United Kingdom."
+A: the armed forces of the United Kingdom
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7669
+What do some people feel the IASP's system is inadequate for?
+Q: What do some people feel the IASP's system is inadequate for?
+A: "The IASP's system is inadequate for people who have chronic pain. So the answer is: chronic pain."
+A: chronic pain
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6140
+What was the dominant political party? 
+Q: What was the dominant political party?
+A: "The dominant political party in the 2014 elections in the Philippines was the Liberal Party. So the answer is: Liberal Party."
+A: Liberal Party
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6703
+Why did Palermo substancially grow in size?
+Q: Why did Palermo substancially grow in size?
+A: "Palermo substancially grew in size due to the Norman conquest of Sicily. So the answer is: Norman conquest of Sicily."
+A: Norman conquest of Sicily
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4791
+Did the military sanctions imposed by India affect the business workings of it's relations in Burma ?
+Q: Did the military sanctions imposed by India affect the business workings of it's relations in Burma ?
+A: "The military sanctions imposed by India affected the business workings of its relations in Myanmar. Myanmar is the new name of Burma. So the answer is: Myanmar."
+A: Myanmar
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6649
+What did Nobunaga mean?
+Q: What did Nobunaga mean?
+A: "Nobunaga means \"the second son\". So the answer is: the second son."
+A: the second son
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3477
+What decade did Dell switch to PSUs and boards that had differently wired connectors?
+Q: What decade did Dell switch to PSUs and boards that had differently wired connectors?
+A: "Dell switched to PSUs and boards that had differently wired connectors in the 1990s. So the answer is: 1990s."
+A: 1990s
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7764
+What prize do Armenians receive from the government if they win a gold medal?
+Q: What prize do Armenians receive from the government if they win a gold medal?
+A: "Armenians receive the title of \"Honored Master of Sports of Armenia\" if they win a gold medal. So the answer is: Honored Master of Sports of Armenia."
+A: Honored Master of Sports of Armenia
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5634
+Tendai Buddhism suggested that enlightenment was accessible to who?
+Q: Tendai Buddhism suggested that enlightenment was accessible to who?
+A: "Tendai Buddhism suggested that enlightenment was accessible to all beings. So the answer is: all beings."
+A: all beings
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4841
+What helps reduce resource usage?
+Q: What helps reduce resource usage?
+A: "Recycling helps reduce resource usage. So the answer is: recycling."
+A: recycling
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5265
+What two elements have reduced the literary nature of scientific journals?
+Q: What two elements have reduced the literary nature of scientific journals?
+A: "The two elements that have reduced the literary nature of scientific journals are the use of technical language and the use of mathematical equations. So the answer is: technical language and mathematical equations."
+A: technical language and mathematical equations
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7023
+What type of music included noise, homemade instruments, and randomly found objects?
+Q: What type of music included noise, homemade instruments, and randomly found objects?
+A: "The type of music that included noise, homemade instruments, and randomly found objects is noise music. So the answer is: noise music."
+A: noise music
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3985
+Montevideo is situated on the north shore of what?
+Q: Montevideo is situated on the north shore of what?
+A: "Montevideo is situated on the north shore of the R\u00edo de la Plata. So the answer is: R\u00edo de la Plata."
+A: R\u00edo de la Plata
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2617
+ The percept at 200 Hz is commonly referred to as?
+Q: The percept at 200 Hz is commonly referred to as?
+A: "The percept at 200 Hz is commonly referred to as a C. So the answer is: C."
+A: C
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4821
+Name one major group that Jews are often identified as belonging to.
+Q: Name one major group that Jews are often identified as belonging to.
+A: "Jews are often identified as belonging to the Semitic people. So the answer is: Semitic people."
+A: Semitic people
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3151
+What historian summarised the contemporary historical opinion of John's positive qualities?
+Q: What historian summarised the contemporary historical opinion of John's positive qualities?
+A: "The historian who summarised the contemporary historical opinion of John's positive qualities is John of Antioch. So the answer is: John of Antioch."
+A: John of Antioch
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8123
+Who was the prime minister of Swaziland in 2004?
+Q: Who was the prime minister of Swaziland in 2004?
+A: "The prime minister of Swaziland in 2004 was Themba Dlamini. So the answer is: Themba Dlamini."
+A: Themba Dlamini
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5441
+What type of mathematics aided in developing European science?
+Q: What type of mathematics aided in developing European science?
+A: "The type of mathematics that aided in developing European science is algebra. So the answer is: algebra."
+A: algebra
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4963
+What is the name of the city's airport?
+Q: What is the name of the city's airport?
+A: "The city is not specified in the question. However, the answer is: the city's airport is not specified in the question. Thus, the answer is: not specified."
+A: not specified
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8636
+What may be a risk negative tactic?
+Q: What may be a risk negative tactic?
+A: "A negative tactic may be a risk. So the answer is: risk."
+A: risk
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1012
+What did European traders exchange with Bantu people?
+Q: What did European traders exchange with Bantu people?
+A: "European traders exchanged guns with Bantu people. So the answer is: guns."
+A: guns
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7250
+What year the "second generation" of tram system began to operate in France?
+Q: What year the "second generation" of tram system began to operate in France?
+A: "The \"second generation\" of tram system began to operate in France in 1992. So the answer is: 1992."
+A: 1992
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1038
+In contemporary parliamentary governments, which official is usually in charge of asking parliament to dissolve?
+Q: In contemporary parliamentary governments, which official is usually in charge of asking parliament to dissolve?
+A: "In contemporary parliamentary governments, the official who is usually in charge of asking parliament to dissolve is the Prime Minister. So the answer is: Prime Minister."
+A: Prime Minister
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6363
+What religion believes that all theist worship the same god?
+Q: What religion believes that all theist worship the same god?
+A: "The religion that believes that all theist worship the same god is Deism. So the answer is: Deism."
+A: Deism
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5654
+What did Darwin believe were the key things needed for variation of species to form?
+Q: What did Darwin believe were the key things needed for variation of species to form?
+A: "Darwin believed that variation of species to form needed variation, mutation, genetic drift, and gene flow. So the answer is: variation, mutation, genetic drift, and gene flow."
+A: variation, mutation, genetic drift, and gene flow
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_796
+Which contestant suffered from ulcerative colitis?
+Q: Which contestant suffered from ulcerative colitis?
+A: "The contestant who suffered from ulcerative colitis is Rachel Reilly. So the answer is: Rachel Reilly."
+A: Rachel Reilly
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1436
+What is the name given to Japanese comics volumes?
+Q: What is the name given to Japanese comics volumes?
+A: "Japanese comics volumes are called manga. So the answer is: manga."
+A: manga
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7223
+Which planet is compositionally similar to Neptune? 
+Q: Which planet is compositionally similar to Neptune?
+A: "The planet that is compositionally similar to Neptune is Uranus. So the answer is: Uranus."
+A: Uranus
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3328
+How long was the coastal highway between Massawa and Asseb?
+Q: How long was the coastal highway between Massawa and Asseb?
+A: "The coastal highway between Massawa and Asseb was 1,000 km long. So the answer is: 1,000."
+A: 1,000
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8026
+When did the Safavid Empire peak?
+Q: When did the Safavid Empire peak?
+A: "The Safavid Empire peaked in the 16th century. So the answer is: 16th century."
+A: 16th century
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2849
+What was Everton's nickname when they wore black before 1901?
+Q: What was Everton's nickname when they wore black before 1901?
+A: "Everton's nickname is The Toffees. Before 1901, Everton wore black. So the answer is: The Toffees."
+A: The Toffees
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2854
+What parts of English grammar declined as a result of Old Norse influence?
+Q: What parts of English grammar declined as a result of Old Norse influence?
+A: "Old Norse influence declined the parts of English grammar such as the genitive case and the dative case. So the answer is: the genitive case and the dative case."
+A: the genitive case and the dative case
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3503
+What death penalty drug ceased to be manufactured in 2011?
+Q: What death penalty drug ceased to be manufactured in 2011?
+A: "The death penalty drug that ceased to be manufactured in 2011 is sodium thiopental. So the answer is: sodium thiopental."
+A: sodium thiopental
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4212
+How much did Shell plan to raise from the sale of its assets?
+Q: How much did Shell plan to raise from the sale of its assets?
+A: "Shell planned to raise $15 billion from the sale of its assets. So the answer is: $15 billion."
+A: $15 billion
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7069
+Who defected to the British?
+Q: Who defected to the British?
+A: "The answer to this question is unclear. However, one possible answer is Kim Philby. Kim Philby defected to the Soviet Union, but he was a British agent who defected to the Soviet Union. So the answer is: Kim Philby."
+A: Kim Philby
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7804
+What element of a laminate is designated by the cloth to resin ratio, among other things?
+Q: What element of a laminate is designated by the cloth to resin ratio, among other things?
+A: "The element of a laminate that is designated by the cloth to resin ratio, among other things is the stacking sequence. So the answer is: stacking sequence."
+A: stacking sequence
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4292
+What was the name of William Henry Pyne book from 1808?
+Q: What was the name of William Henry Pyne book from 1808?
+A: "William Henry Pyne book from 1808 was \"Microcosm; or, a Picture of the Manners, Character, etc. of the different classes of society in England, from the superior classes of lords and nobles, down to the very lowest of the common people\". So the answer is: Microcosm; or, a Picture of the Manners, Character, etc. of the different classes of society in England, from the superior classes of lords and nobles, down to"
+A: Microcosm; or, a Picture of the Manners, Character, etc. of the different classes of society in England, from the superior classes of lords and nobles, down to
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2410
+All devices that can process information can qualify being called what?
+Q: All devices that can process information can qualify being called what?
+A: "All devices that can process information can qualify being called computers. So the answer is: computers."
+A: computers
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6050
+In what year were all Tibetan Muslims declared Indiana citizens?
+Q: In what year were all Tibetan Muslims declared Indiana citizens?
+A: "There is no information about Tibetan Muslims being declared Indiana citizens. So the answer is: there is no answer."
+A: there is no answer
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1575
+What Act clears the way for a National Communications Regulator?
+Q: What Act clears the way for a National Communications Regulator?
+A: "The Act that clears the way for a National Communications Regulator is the Telecommunications Act 1997. So the answer is: Telecommunications Act 1997."
+A: Telecommunications Act 1997
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_863
+What two species have the most widespread bonding?
+Q: What two species have the most widespread bonding?
+A: "The two species that have the most widespread bonding are humans and dogs. So the answer is: humans and dogs."
+A: humans and dogs
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2598
+In which year was the body installed?
+Q: In which year was the body installed?
+A: "The body of the statue of the \"Angel of the North\" was installed in 1994. So the answer is: 1994."
+A: 1994
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3893
+Who was the Austrian commander who led the army at the fortress of Ulm?
+Q: Who was the Austrian commander who led the army at the fortress of Ulm?
+A: "The Austrian commander who led the army at the fortress of Ulm was Archduke Charles. So the answer is: Archduke Charles."
+A: Archduke Charles
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7105
+What Arab nationalist thinker was influential with the RCC?
+Q: What Arab nationalist thinker was influential with the RCC?
+A: "The Arab nationalist thinker who was influential with the RCC is Michel Aflaq. So the answer is: Michel Aflaq."
+A: Michel Aflaq
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8222
+Besides English, what is the national language of Tuvalu?
+Q: Besides English, what is the national language of Tuvalu?
+A: "The national language of Tuvalu is Tuvaluan. So the answer is: Tuvaluan."
+A: Tuvaluan
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_24
+Where did the Fighting Irish hockey team compete prior to a move to Hockey East, in terms of conference?
+Q: Where did the Fighting Irish hockey team compete prior to a move to Hockey East, in terms of conference?
+A: "The Fighting Irish hockey team competed in the Central Collegiate Hockey Association prior to a move to Hockey East. So the answer is: Central Collegiate Hockey Association."
+A: Central Collegiate Hockey Association
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3948
+How many courses do undergrads typically take each quarter?
+Q: How many courses do undergrads typically take each quarter?
+A: "Undergrads typically take 4 courses each quarter. So the answer is: 4."
+A: 4
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8309
+How does the US Air Force differ from other branches of the military?
+Q: How does the US Air Force differ from other branches of the military?
+A: "The US Air Force is the only branch of the military that is not a combat branch. So the answer is: it is not a combat branch."
+A: it is not a combat branch
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6365
+What did Sagan argue was the only was to prove the existence of God?
+Q: What did Sagan argue was the only was to prove the existence of God?
+A: "Carl Sagan argued that the only way to prove the existence of God is to prove the existence of the universe. So the answer is: the existence of the universe."
+A: the existence of the universe
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5248
+In what year did the Turks cross the Danube into Wallachia ?
+Q: In what year did the Turks cross the Danube into Wallachia ?
+A: "The Turks crossed the Danube into Wallachia in 1396. So the answer is: 1396."
+A: 1396
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1253
+ASTP stands for what?
+Q: ASTP stands for what?
+A: "ASTP stands for Apollo-Soyuz Test Project. So the answer is: Apollo-Soyuz Test Project."
+A: Apollo-Soyuz Test Project
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6080
+How many Oklahomans speak only English at home, as of 2000?
+Q: How many Oklahomans speak only English at home, as of 2000?
+A: "As of 2000, 2,  351,  111 Oklahomans speak only English at home. So the answer is: 2,351,111."
+A: 2,351,111
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3871
+Which school of medicine was based on strict observation?
+Q: Which school of medicine was based on strict observation?
+A: "The school of medicine that was based on strict observation is the school of medicine of Thomas Sydenham. So the answer is: Thomas Sydenham."
+A: Thomas Sydenham
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5838
+What European country did the Dominican Friars quickly expand to?
+Q: What European country did the Dominican Friars quickly expand to?
+A: "The Dominican Friars quickly expanded to Spain. So the answer is: Spain."
+A: Spain
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_530
+What drives the plot of the book more than the characters?
+Q: What drives the plot of the book more than the characters?
+A: "The book is \"The Brief Wondrous Life of Oscar Wao\" by Junot D\u00edaz. The plot of \"The Brief Wondrous Life of Oscar Wao\" is driven by the curse. So the answer is: the curse."
+A: the curse
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1089
+Which pope decided that being pope was equal to being a prince?
+Q: Which pope decided that being pope was equal to being a prince?
+A: "Pope Boniface VIII decided that being pope was equal to being a prince. So the answer is: Pope Boniface VIII."
+A: Pope Boniface VIII
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3094
+Who is interested in the effects of harsh environment on humans?
+Q: Who is interested in the effects of harsh environment on humans?
+A: "The scientist interested in the effects of harsh environment on humans is Dr. Robert Falcon Scott. Dr. Robert Falcon Scott was a British Royal Navy officer and explorer who led two expeditions to the Antarctic. So the answer is: Dr. Robert Falcon Scott."
+A: Dr. Robert Falcon Scott
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8294
+When did the US Air Force separate from the War Department? 
+Q: When did the US Air Force separate from the War Department?
+A: "The US Air Force separated from the War Department in 1947. So the answer is: 1947."
+A: 1947
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3492
+What does Dell aim to reduce by creating energy efficient products?
+Q: What does Dell aim to reduce by creating energy efficient products?
+A: "Dell aims to reduce carbon footprint by creating energy efficient products. So the answer is: carbon footprint."
+A: carbon footprint
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2856
+What were most escort carriers built from?
+Q: What were most escort carriers built from?
+A: "Most escort carriers were built from merchant ships. So the answer is: merchant ships."
+A: merchant ships
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4668
+How many people were in the Dominions' armies?
+Q: How many people were in the Dominions' armies?
+A: "The Dominions' armies were made up of the armies of Australia, Canada, New Zealand, and South Africa. The total number of people in these armies is 1,000,000. So the answer is: 1,000,000."
+A: 1,000,000
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3894
+How many cannons did the French capture when Vienna fell?
+Q: How many cannons did the French capture when Vienna fell?
+A: "The French captured 300 cannons when Vienna fell. So the answer is: 300."
+A: 300
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4409
+What was the nickname given to Connecticut due to the large number of arms manufacturers that arose in the state? 
+Q: What was the nickname given to Connecticut due to the large number of arms manufacturers that arose in the state?
+A: "The nickname given to Connecticut due to the large number of arms manufacturers that arose in the state is The Constitution State. However, the nickname given to Connecticut due to the large number of arms manufacturers that arose in the state is also The Gunmaker's State. So the answer is: The Gunmaker's State."
+A: The Gunmaker's State
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2927
+Lackluster sales caused Japanese retailers to take what action with the 360?
+Q: Lackluster sales caused Japanese retailers to take what action with the 360?
+A: "The 360 is a video game console. Lackluster sales caused Japanese retailers to take the action of discontinuing the 360. So the answer is: discontinuing the 360."
+A: discontinuing the 360
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2616
+A complex tone is composed of how many waves?
+Q: A complex tone is composed of how many waves?
+A: "A complex tone is composed of two or more waves. So the answer is: two or more."
+A: two or more
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2773
+To which department did the professor who passed in September 2014 belong?
+Q: To which department did the professor who passed in September 2014 belong?
+A: "The professor who passed in September 2014 is Jean-Pierre Changeux. Jean-Pierre Changeux belonged to the department of molecular and cellular biology. So the answer is: molecular and cellular biology."
+A: molecular and cellular biology
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3953
+Where is the home of the Buffet Center for International and Comparative Studies?
+Q: Where is the home of the Buffet Center for International and Comparative Studies?
+A: "The Buffet Center for International and Comparative Studies is located at Northwestern University. So the answer is: Northwestern University."
+A: Northwestern University
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_829
+How much money did American Idol generate from ads in its seventh season?
+Q: How much money did American Idol generate from ads in its seventh season?
+A: "American Idol generated $1.2 billion from ads in its seventh season. So the answer is: $1.2 billion."
+A: $1.2 billion
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5840
+What is one way that the Dominican Order differentiates itself from other religious orders?
+Q: What is one way that the Dominican Order differentiates itself from other religious orders?
+A: "The Dominican Order differentiates itself from other religious orders by its emphasis on preaching and teaching. So the answer is: preaching and teaching."
+A: preaching and teaching
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3709
+When did Claridge's company liquidate?
+Q: When did Claridge's company liquidate?
+A: "Claridge's company liquidated in 1993. So the answer is: 1993."
+A: 1993
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8631
+How many million of people passed through Greece's ports in 2010?
+Q: How many million of people passed through Greece's ports in 2010?
+A: "In 2010, 14.7 million people passed through Greece's ports. So the answer is: 14.7."
+A: 14.7
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1818
+Universal Newsreels dated from which year up to 1967 were made available through CreateSpace?
+Q: Universal Newsreels dated from which year up to 1967 were made available through CreateSpace?
+A: "Universal Newsreels dated from 1929 up to 1967 were made available through CreateSpace. So the answer is: 1929."
+A: 1929
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4095
+Which inventors patented the tungsten filament lamp?
+Q: Which inventors patented the tungsten filament lamp?
+A: "The inventors who patented the tungsten filament lamp are William David Coolidge and Owen Willans Richardson. However, the invention of the tungsten filament lamp is often attributed to the work of Irving Langmuir. So the answer is: Irving Langmuir."
+A: Irving Langmuir
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1553
+How many geostationary orbit satellites will the BeiDou-2 system have?
+Q: How many geostationary orbit satellites will the BeiDou-2 system have?
+A: "The BeiDou-2 system will have 35 geostationary orbit satellites. So the answer is: 35."
+A: 35
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_555
+What is solar energy's yearly potential?
+Q: What is solar energy's yearly potential?
+A: "The yearly potential of solar energy is 1.5 TW. So the answer is: 1.5 TW."
+A: 1.5 TW
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3225
+What was the altitude range in feet of the stratosphere gun?
+Q: What was the altitude range in feet of the stratosphere gun?
+A: "The stratosphere gun was a type of artillery gun. The altitude range of the stratosphere gun was 0 to 30,000 feet. So the answer is: 0 to 30,000."
+A: 0 to 30,000
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7436
+When was the Greece that we know today officially formed ?
+Q: When was the Greece that we know today officially formed ?
+A: "The Greece that we know today was officially formed in 1832. So the answer is: 1832."
+A: 1832
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2043
+What Japanese fleet was based in the Marshall Islands?
+Q: What Japanese fleet was based in the Marshall Islands?
+A: "The Japanese fleet that was based in the Marshall Islands was the Combined Fleet. So the answer is: Combined Fleet."
+A: Combined Fleet
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5472
+What verb form is found in Czech dictionaries?
+Q: What verb form is found in Czech dictionaries?
+A: "The verb form found in Czech dictionaries is the infinitive. So the answer is: infinitive."
+A: infinitive
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_451
+When did the United States Geological Survey released its seismic hazard analysis?
+Q: When did the United States Geological Survey released its seismic hazard analysis?
+A: "The United States Geological Survey released its seismic hazard analysis in 2008. So the answer is: 2008."
+A: 2008
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1007
+What type of misconduct have comprehensive schools been alleged of engaging in?
+Q: What type of misconduct have comprehensive schools been alleged of engaging in?
+A: "Comprehensive schools have been alleged of engaging in bullying. So the answer is: bullying."
+A: bullying
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5752
+Who claims that the Old Testament is essentially the same throughout all variations?
+Q: Who claims that the Old Testament is essentially the same throughout all variations?
+A: "The claim that the Old Testament is essentially the same throughout all variations is made by the Septuagint. So the answer is: Septuagint."
+A: Septuagint
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7738
+When was the capital of Armenia established?
+Q: When was the capital of Armenia established?
+A: "The capital of Armenia is Yerevan. Yerevan was established in 782 BC. So the answer is: 782 BC."
+A: 782 BC
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6188
+Which device uses the flow of sand to measure time?
+Q: Which device uses the flow of sand to measure time?
+A: "The device that uses the flow of sand to measure time is an hourglass. So the answer is: hourglass."
+A: hourglass
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6757
+What is a property of objects which can be transferred to other objects or converted into different forms?
+Q: What is a property of objects which can be transferred to other objects or converted into different forms?
+A: "A property of objects which can be transferred to other objects or converted into different forms is energy. So the answer is: energy."
+A: energy
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2272
+Which system was demonstrated in Washington to President Ronald Reagan?
+Q: Which system was demonstrated in Washington to President Ronald Reagan?
+A: "The system that was demonstrated in Washington to President Ronald Reagan is the Global Positioning System. So the answer is: Global Positioning System."
+A: Global Positioning System
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6971
+When was the 'education through recreation" applied to childhood?
+Q: When was the 'education through recreation" applied to childhood?
+A: "The 'education through recreation\" was applied to childhood in the 19th century. So the answer is: 19th century."
+A: 19th century
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_658
+What other artist besides Kanye West and Common was among the first to record at GOOD Music?
+Q: What other artist besides Kanye West and Common was among the first to record at GOOD Music?
+A: "The other artist besides Kanye West and Common that was among the first to record at GOOD Music is Consequence. So the answer is: Consequence."
+A: Consequence
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5827
+What did the a cappella organization founded in 1938 change its name to in 2004?
+Q: What did the a cappella organization founded in 1938 change its name to in 2004?
+A: "The a cappella organization founded in 1938 changed its name to in 2004 is the University of Michigan's a cappella group, The Michigan Mandolin Ensemble. The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to"
+A: The a cappella organization founded in 1938 changed its name to in 2004 is the University of Michigan's a cappella group, The Michigan Mandolin Ensemble. The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to The Michigan Mandolin Ensemble changed its name to
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3514
+Along with South Dakota, what state rejected a death penalty abolition bill in 2010?
+Q: Along with South Dakota, what state rejected a death penalty abolition bill in 2010?
+A: "Along with South Dakota, Oklahoma rejected a death penalty abolition bill in 2010. So the answer is: Oklahoma."
+A: Oklahoma
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2498
+Who noted that cranes traveled from Scythia to the Nile?
+Q: Who noted that cranes traveled from Scythia to the Nile?
+A: "The Greek historian Herodotus noted that cranes traveled from Scythia to the Nile. So the answer is: Herodotus."
+A: Herodotus
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7453
+What mental state is the foundation of morality as described by the Quran?
+Q: What mental state is the foundation of morality as described by the Quran?
+A: "The Quran describes the foundation of morality as described by the Quran as Taqwa. Taqwa is a state of being in a state of fear of Allah. So the answer is: Taqwa."
+A: Taqwa
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6616
+Despite an apparent lead by Bush early on, what was thought to be a concern?
+Q: Despite an apparent lead by Bush early on, what was thought to be a concern?
+A: "The concern was that the lead by Bush early on was not sustainable. So the answer is: that the lead by Bush early on was not sustainable."
+A: that the lead by Bush early on was not sustainable
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6546
+When were periods of numerous interracial relationships in the U.S.?
+Q: When were periods of numerous interracial relationships in the U.S.?
+A: "Periods of numerous interracial relationships in the U.S. were during the 1960s and 1970s. So the answer is: 1960s and 1970s."
+A: 1960s and 1970s
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4479
+What did Jeffrey R. Holland believe to be BYU's strongest asset?
+Q: What did Jeffrey R. Holland believe to be BYU's strongest asset?
+A: "Jeffrey R. Holland believed that BYU's strongest asset is its students. So the answer is: its students."
+A: its students
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8709
+What town did Eisenhower retire to after his presidency?
+Q: What town did Eisenhower retire to after his presidency?
+A: "Dwight D. Eisenhower retired to Gettysburg, Pennsylvania. So the answer is: Gettysburg."
+A: Gettysburg
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5819
+In what year did the occurrence of using different color schemes for the parties stop?
+Q: In what year did the occurrence of using different color schemes for the parties stop?
+A: "The occurrence of using different color schemes for the parties stopped in 2008. So the answer is: 2008."
+A: 2008
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6189
+What method did temples and churches use to measure time?
+Q: What method did temples and churches use to measure time?
+A: "Temples and churches used sundials to measure time. So the answer is: sundials."
+A: sundials
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_197
+Who in Chopin's family died shortly before they moved in 1827?
+Q: Who in Chopin's family died shortly before they moved in 1827?
+A: "The family of Chopin moved in 1827. Shortly before they moved, Chopin's mother died. So the answer is: mother."
+A: mother
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1655
+On what date did the business relationship between the AFL and NBC end?
+Q: On what date did the business relationship between the AFL and NBC end?
+A: "The business relationship between the AFL and NBC ended on 1966. The exact date is not specified, but it is known that the relationship ended in 1966. So the answer is: 1966."
+A: 1966
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7853
+What was the name of Hannibal's family member that wanted to join his army in battle?
+Q: What was the name of Hannibal's family member that wanted to join his army in battle?
+A: "Hannibal's family member that wanted to join his army in battle was his brother Mago. So the answer is: Mago."
+A: Mago
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5140
+According to the OECD, what is Switzerland lagging behind many EU countries in?
+Q: According to the OECD, what is Switzerland lagging behind many EU countries in?
+A: "According to the OECD, Switzerland is lagging behind many EU countries in terms of the percentage of the population with a tertiary education. So the answer is: tertiary education."
+A: tertiary education
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2888
+What is the county flower of Lancaster?
+Q: What is the county flower of Lancaster?
+A: "The county flower of Lancaster is the Bluebell. So the answer is: Bluebell."
+A: Bluebell
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7024
+What era was usually dismissed as merely an awkward phase of music?
+Q: What era was usually dismissed as merely an awkward phase of music?
+A: "The era that was usually dismissed as merely an awkward phase of music is the 1970s. So the answer is: 1970s."
+A: 1970s
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1103
+What is considered a key part of interior design?
+Q: What is considered a key part of interior design?
+A: "Interior design is considered to be a key part of architecture. So the answer is: architecture."
+A: architecture
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_229
+What year was the earliest Chopin recording created?
+Q: What year was the earliest Chopin recording created?
+A: "The earliest Chopin recording was created in 1895. So the answer is: 1895."
+A: 1895
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_971
+Almost all of the asset-backed issuance in 2009 was supported by what Federal Reserve program?
+Q: Almost all of the asset-backed issuance in 2009 was supported by what Federal Reserve program?
+A: "Almost all of the asset-backed issuance in 2009 was supported by the Federal Reserve's Term Asset-Backed Securities Loan Facility (TALF) program. So the answer is: TALF."
+A: TALF
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7254
+What voltage does SEPTA system use?
+Q: What voltage does SEPTA system use?
+A: "SEPTA system uses 600 volts DC. So the answer is: 600 volts DC."
+A: 600 volts DC
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2839
+When was the Everton club founded?
+Q: When was the Everton club founded?
+A: "The Everton club was founded in 1878. So the answer is: 1878."
+A: 1878
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3305
+On what date was the encirclement of Paris complete?
+Q: On what date was the encirclement of Paris complete?
+A: "The encirclement of Paris was complete on 25 August 1870. So the answer is: 25 August 1870."
+A: 25 August 1870
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4269
+How many teams are in the Greek Super League?
+Q: How many teams are in the Greek Super League?
+A: "The Greek Super League has 14 teams. So the answer is: 14."
+A: 14
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3233
+What feature of written text influenced the use of scripts?
+Q: What feature of written text influenced the use of scripts?
+A: "The feature of written text that influenced the use of scripts is the use of logograms. So the answer is: logograms."
+A: logograms
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7054
+What Hungarian general humiliated the Prussians?
+Q: What Hungarian general humiliated the Prussians?
+A: "The Hungarian general who humiliated the Prussians is Francis II R\u00e1k\u00f3czi. Francis II R\u00e1k\u00f3czi humiliated the Prussians in the Battle of Zenta. So the answer is: Francis II R\u00e1k\u00f3czi."
+A: Francis II R\u00e1k\u00f3czi
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2704
+Who said "industry only responds when you threaten regulation"?
+Q: Who said "industry only responds when you threaten regulation"?
+A: "The person who said \"industry only responds when you threaten regulation\" is Elizabeth Warren. So the answer is: Elizabeth Warren."
+A: Elizabeth Warren
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7777
+What are three main criterias of bacterial metabolism?
+Q: What are three main criterias of bacterial metabolism?
+A: "The three main criteria of bacterial metabolism are: catabolism, anabolism, and fermentation. So the answer is: catabolism, anabolism, and fermentation."
+A: catabolism, anabolism, and fermentation
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3967
+What is the main dialect spoken in Xiamen?
+Q: What is the main dialect spoken in Xiamen?
+A: "The main dialect spoken in Xiamen is Min Nan. So the answer is: Min Nan."
+A: Min Nan
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8596
+How many Pentecostals are there in the world?
+Q: How many Pentecostals are there in the world?
+A: "The number of Pentecostals in the world is 500 million. So the answer is: 500 million."
+A: 500 million
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2619
+It is possible and often easy to roughly discern the relative pitches of two sounds of what?
+Q: It is possible and often easy to roughly discern the relative pitches of two sounds of what?
+A: "It is possible and often easy to roughly discern the relative pitches of two sounds of music. So the answer is: music."
+A: music
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3345
+What kind of uranium is sometimes used to shield radioactive materials in containers?
+Q: What kind of uranium is sometimes used to shield radioactive materials in containers?
+A: "The kind of uranium that is sometimes used to shield radioactive materials in containers is depleted uranium. So the answer is: depleted uranium."
+A: depleted uranium
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8335
+What is organized into capillary beds in tissues?
+Q: What is organized into capillary beds in tissues?
+A: "The capillary beds in tissues are organized into capillary networks. So the answer is: capillary networks."
+A: capillary networks
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8800
+What kind of problem caused riots in June 2012?
+Q: What kind of problem caused riots in June 2012?
+A: "The kind of problem that caused riots in June 2012 was the death of Mark Duggan. Mark Duggan was shot by police in Tottenham. So the answer is: Mark Duggan."
+A: Mark Duggan
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5766
+What was the last country to phase out the 78 rpm?
+Q: What was the last country to phase out the 78 rpm?
+A: "The last country to phase out the 78 rpm was the United States. So the answer is: the United States."
+A: the United States
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2987
+When do we rely on agricultural diversity to replant the land with something new?
+Q: When do we rely on agricultural diversity to replant the land with something new?
+A: "We rely on agricultural diversity to replant the land with something new after the harvest. So the answer is: after the harvest."
+A: after the harvest
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8816
+What can wearing gowns and face masks help prevent?
+Q: What can wearing gowns and face masks help prevent?
+A: "Wearing gowns and face masks can help prevent the spread of tuberculosis. So the answer is: tuberculosis."
+A: tuberculosis
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_167
+Whhat does intestinal flora reduce?
+Q: Whhat does intestinal flora reduce?
+A: "Intestinal flora reduces the pH of the gut. So the answer is: pH of the gut."
+A: pH of the gut
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2857
+What do aircraft need to do when using shorter runway lengths?
+Q: What do aircraft need to do when using shorter runway lengths?
+A: "Aircraft need to do a short takeoff when using shorter runway lengths. So the answer is: short takeoff."
+A: short takeoff
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1442
+Mixed media and what else are becoming popular for making comics?
+Q: Mixed media and what else are becoming popular for making comics?
+A: "Mixed media and digital art are becoming popular for making comics. So the answer is: digital art."
+A: digital art
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2194
+What is another name for Tenth Avenue?
+Q: What is another name for Tenth Avenue?
+A: "Tenth Avenue is also known as 10th Avenue. So the answer is: 10th Avenue."
+A: 10th Avenue
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4576
+Paul Rodgers joined Queen in what year?
+Q: Paul Rodgers joined Queen in what year?
+A: "Paul Rodgers joined Queen in 2004. So the answer is: 2004."
+A: 2004
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3875
+What region did Napoleon invade in an effort to extend the Continental System?
+Q: What region did Napoleon invade in an effort to extend the Continental System?
+A: "Napoleon invaded Spain in an effort to extend the Continental System. So the answer is: Spain."
+A: Spain
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1481
+What two languages mentioned have have preaspirated [ʰp ʰt ʰk]?
+Q: What two languages mentioned have have preaspirated [ʰp ʰt ʰk]?
+A: "The two languages that have preaspirated [\u02b0p \u02b0t \u02b0k] are Sanskrit and Hindi. So the answer is: Sanskrit and Hindi."
+A: Sanskrit and Hindi
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3058
+At what average age did American males report their first sexual intercourse took place?
+Q: At what average age did American males report their first sexual intercourse took place?
+A: "According to the data from the National Survey of Family Growth, American males reported their first sexual intercourse took place at an average age of 16.9 years. So the answer is: 16.9."
+A: 16.9
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1780
+What year was the extension to U.S. daylight savings proposed by the DST Coalition?
+Q: What year was the extension to U.S. daylight savings proposed by the DST Coalition?
+A: "The DST Coalition proposed the extension to U.S. daylight savings in 2005. So the answer is: 2005."
+A: 2005
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2609
+The Spanish crown wanted to turn the region into what type of industry?
+Q: The Spanish crown wanted to turn the region into what type of industry?
+A: "The Spanish crown wanted to turn the region of Catalonia into an industrial region. So the answer is: industrial."
+A: industrial
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4680
+How can botany be applied to the construction industry?
+Q: How can botany be applied to the construction industry?
+A: "Botany can be applied to the construction industry by using plants to stabilize soil. This is known as phytostabilization. So the answer is: phytostabilization."
+A: phytostabilization
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8427
+What was encouraged through Infitah?
+Q: What was encouraged through Infitah?
+A: "Infitah was a policy of economic liberalization in Egypt. Infitah encouraged foreign investment. So the answer is: foreign investment."
+A: foreign investment
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6249
+What score did the PS3 Slim earn from PC World?
+Q: What score did the PS3 Slim earn from PC World?
+A: "The PS3 Slim earned a score of 80 from PC World. So the answer is: 80."
+A: 80
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7551
+Who did Imperial Japan sign a Tripartite pact with? 
+Q: Who did Imperial Japan sign a Tripartite pact with?
+A: "Imperial Japan signed a Tripartite pact with Germany and Italy. So the answer is: Germany and Italy."
+A: Germany and Italy
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2654
+Where is the Houston Air Route Traffic Control Center located?
+Q: Where is the Houston Air Route Traffic Control Center located?
+A: "The Houston Air Route Traffic Control Center is located in Houston, Texas. So the answer is: Houston, Texas."
+A: Houston, Texas
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4519
+What are two main department stores in France?
+Q: What are two main department stores in France?
+A: "The two main department stores in France are Galeries Lafayette and Le Bon March\u00e9. So the answer is: Galeries Lafayette and Le Bon March\u00e9."
+A: Galeries Lafayette and Le Bon March\u00e9
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_699
+What is another word for Dukkha?
+Q: What is another word for Dukkha?
+A: "Dukkha is another word for Suffering. So the answer is: Suffering."
+A: Suffering
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2175
+What prize did the film Mortu Nega win?
+Q: What prize did the film Mortu Nega win?
+A: "The film Mortu Nega won the Golden Leopard. So the answer is: Golden Leopard."
+A: Golden Leopard
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1644
+How much debt was the AFL reported to have as of July 20, 2009?
+Q: How much debt was the AFL reported to have as of July 20, 2009?
+A: "The AFL reported to have $2.4 billion in debt as of July 20, 2009. So the answer is: $2.4 billion."
+A: $2.4 billion
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_704
+What is in a constant flux?
+Q: What is in a constant flux?
+A: "The answer is: Everything. Everything is in a constant flux. So the answer is: Everything."
+A: Everything
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_4645
+What TV network shares a parent with Marvel?
+Q: What TV network shares a parent with Marvel?
+A: "The TV network that shares a parent with Marvel is ABC. Marvel is a subsidiary of The Walt Disney Company, which also owns ABC. So the answer is: ABC."
+A: ABC
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8791
+What is Punjab's population?
+Q: What is Punjab's population?
+A: "Punjab is a state in India. The population of Punjab is 27,743,338. So the answer is: 27,743,338."
+A: 27,743,338
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_1392
+What sort of things did Bell collect as a child?
+Q: What sort of things did Bell collect as a child?
+A: "Bell collected stamps as a child. So the answer is: stamps."
+A: stamps
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7327
+What was the name of the Channel the Luftwaffe bomb to try to gain air superiority?
+Q: What was the name of the Channel the Luftwaffe bomb to try to gain air superiority?
+A: "The Channel the Luftwaffe bomb to try to gain air superiority is the English Channel. So the answer is: English Channel."
+A: English Channel
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2820
+How much is club Barcelona worth?
+Q: How much is club Barcelona worth?
+A: "The worth of club Barcelona is 4.76 billion. So the answer is: 4.76 billion."
+A: 4.76 billion
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6044
+Who managed structural and administrative rule?
+Q: Who managed structural and administrative rule?
+A: "The person who managed structural and administrative rule is a manager. So the answer is: manager."
+A: manager
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6645
+What did Oda Nobunaga value?
+Q: What did Oda Nobunaga value?
+A: "Oda Nobunaga valued the concept of \" Bushido\". So the answer is: Bushido."
+A: Bushido
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_194
+What did Chopin create for Grand Duke Constantine?
+Q: What did Chopin create for Grand Duke Constantine?
+A: "Chopin created a piano concerto for Grand Duke Constantine. So the answer is: piano concerto."
+A: piano concerto
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_6251
+In the event that the monarch refuses to give royal assent, what can the monarch make use of?
+Q: In the event that the monarch refuses to give royal assent, what can the monarch make use of?
+A: "In the event that the monarch refuses to give royal assent, the monarch can make use of the reserve powers. So the answer is: reserve powers."
+A: reserve powers
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8705
+What were Harlan and Stewart's party affiliations?
+Q: What were Harlan and Stewart's party affiliations?
+A: "Harlan and Stewart were the U.S. Senators from Delaware. The party affiliations of the U.S. Senators from Delaware were Democratic. So the answer is: Democratic."
+A: Democratic
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7071
+What did the Quebec Act of 1774 do about language?
+Q: What did the Quebec Act of 1774 do about language?
+A: "The Quebec Act of 1774 allowed the use of both English and French in the courts of Quebec. So the answer is: allowed the use of both English and French in the courts of Quebec."
+A: allowed the use of both English and French in the courts of Quebec
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3525
+How much were the vouchers worth that Nintendo sent out?
+Q: How much were the vouchers worth that Nintendo sent out?
+A: "Nintendo sent out vouchers worth $10. So the answer is: $10."
+A: $10
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_7338
+How many members did the WVS have at the end of 1941?
+Q: How many members did the WVS have at the end of 1941?
+A: "The WVS had 1,000,000 members at the end of 1941. So the answer is: 1,000,000."
+A: 1,000,000
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8769
+Oxygen from what kind of fossil were used to date the Hirnantian faunal stage?
+Q: Oxygen from what kind of fossil were used to date the Hirnantian faunal stage?
+A: "The Hirnantian faunal stage was dated using oxygen from the fossils of the trilobite species Asaphus kowalewski. So the answer is: Asaphus kowalewski."
+A: Asaphus kowalewski
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_5266
+How did the writer refer to this psychological state experienced as a youth?
+Q: How did the writer refer to this psychological state experienced as a youth?
+A: "The writer who referred to this psychological state experienced as a youth is J.D. Salinger. The psychological state experienced as a youth is referred to as the \"Phenomenon of Adolescence\". However, J.D. Salinger referred to this psychological state as the \"Phenomenon of Adolescence\" in the context of the character Holden Caulfield in \"The Catcher in the Rye\". However, the psychological state experienced as a youth is more commonly referred to as the \"Ad"
+A: The writer who referred to this psychological state experienced as a youth is J.D. Salinger. The psychological state experienced as a youth is referred to as the \"Phenomenon of Adolescence\". However, J.D. Salinger referred to this psychological state as the \"Phenomenon of Adolescence\" in the context of the character Holden Caulfield in \"The Catcher in the Rye\". However, the psychological state experienced as a youth is more commonly referred to as the \"Ad
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_3217
+What does SPAAG stand for?
+Q: What does SPAAG stand for?
+A: "SPAAG stands for Self-Propelled Anti-Aircraft Gun. So the answer is: Self-Propelled Anti-Aircraft Gun."
+A: Self-Propelled Anti-Aircraft Gun
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_2075
+What could the king do to nobles injured or taken during war?
+Q: What could the king do to nobles injured or taken during war?
+A: "The king could grant them a \"Wardship\". So the answer is: Wardship."
+A: Wardship
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8426
+In what year did Egypt and Syria Form a sovereign union?
+Q: In what year did Egypt and Syria Form a sovereign union?
+A: "Egypt and Syria formed a sovereign union in 1958. So the answer is: 1958."
+A: 1958
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_8773
+The mountains forming to the southwest of the Appalachians in the Carboniferous are known as what?
+Q: The mountains forming to the southwest of the Appalachians in the Carboniferous are known as what?
+A: "The mountains forming to the southwest of the Appalachians in the Carboniferous are known as the Ouachita Mountains. So the answer is: Ouachita Mountains."
+A: Ouachita Mountains
+Q: [EOQ]
+S: 0.0
+
+single_squad_dev_371
+How long did the earthquake last?
+Q: How long did the earthquake last?
+A: "The earthquake lasted for 30 seconds. So the answer is: 30 seconds."
+A: 30 seconds
+Q: [EOQ]
+S: 0.0

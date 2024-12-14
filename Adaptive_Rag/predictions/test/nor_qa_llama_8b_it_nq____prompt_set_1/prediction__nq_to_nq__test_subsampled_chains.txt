@@ -1,0 +1,4000 @@
+
+single_nq_dev_6396
+who was president when france gave us the statue of liberty
+Q: who was president when france gave us the statue of liberty
+A: "The statue of liberty was given to the United States by France in 1886. Grover Cleveland was the president of the United States in 1886. So the answer is: Grover Cleveland."
+A: Grover Cleveland
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2238
+who wrote the song paint me a birmingham
+Q: who wrote the song paint me a birmingham
+A: "The song \"Paint Me a Birmingham\" was written by John Prine. So the answer is: John Prine."
+A: John Prine
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5964
+when did mandela write long walk to freedom
+Q: when did mandela write long walk to freedom
+A: "Nelson Mandela wrote Long Walk to Freedom in 1994. So the answer is: 1994."
+A: 1994
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5833
+when did the movie love and basketball come out
+Q: when did the movie love and basketball come out
+A: "The movie Love and Basketball was released in 2000. So the answer is: 2000."
+A: 2000
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6242
+who came up with the process of natural selection
+Q: who came up with the process of natural selection
+A: "The process of natural selection was first described by Charles Darwin. So the answer is: Charles Darwin."
+A: Charles Darwin
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4716
+when was advance australia fair declared the national anthem
+Q: when was advance australia fair declared the national anthem
+A: "Advance Australia Fair was declared the national anthem of Australia on 19 April 1984. So the answer is: 19 April 1984."
+A: 19 April 1984
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2282
+who presides over the joint session of the indian parliament
+Q: who presides over the joint session of the indian parliament
+A: "The Speaker of the Lok Sabha presides over the joint session of the Indian parliament. So the answer is: Speaker of the Lok Sabha."
+A: Speaker of the Lok Sabha
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1183
+when was the statue of liberty placed on ellis island
+Q: when was the statue of liberty placed on ellis island
+A: "The statue of liberty was placed on Bedloe's Island, not Ellis Island. The statue of liberty was placed on Bedloe's Island on June 17, 1885. So the answer is: June 17, 1885."
+A: June 17, 1885
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6269
+naa peru surya nile india movie release date
+Q: naa peru surya nile india movie release date
+A: "The movie \"Naa Peru Surya Nila Prathija\" was released on 27 April 2018. So the answer is: 27 April 2018."
+A: 27 April 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2295
+who wrote love and war by tamar braxton
+Q: who wrote love and war by tamar braxton
+A: "The song \"Love and War\" is by Tamar Braxton. The song \"Love and War\" was written by Tamar Braxton, Darhyl Camper, Jr., and Coleridge \"Troy\" Taylor. So the answer is: Tamar Braxton, Darhyl Camper, Jr., and Coleridge \"Troy\" Taylor."
+A: Tamar Braxton, Darhyl Camper, Jr., and Coleridge \"Troy\" Taylor
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_274
+who did the virginia plan give more power to
+Q: who did the virginia plan give more power to
+A: "The Virginia Plan gave more power to the federal government. So the answer is: the federal government."
+A: the federal government
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1723
+who won the first brickyard 400 in 1994
+Q: who won the first brickyard 400 in 1994
+A: "The winner of the first Brickyard 400 in 1994 was Jeff Gordon. So the answer is: Jeff Gordon."
+A: Jeff Gordon
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3720
+who wrote the world is waiting for the sunrise
+Q: who wrote the world is waiting for the sunrise
+A: "The song \"The World Is Waiting for the Sunrise\" was written by Ernest Seitz and Gene Lockhart. So the answer is: Ernest Seitz and Gene Lockhart."
+A: Ernest Seitz and Gene Lockhart
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3718
+where did the monarchs live before buckingham palace
+Q: where did the monarchs live before buckingham palace
+A: "The monarchs lived in St. James's Palace before Buckingham Palace. So the answer is: St. James's Palace."
+A: St. James's Palace
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_875
+where must all laws dealing with money originate why
+Q: where must all laws dealing with money originate why
+A: "All laws dealing with money must originate in the House of Representatives. So the answer is: House of Representatives."
+A: House of Representatives
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_110
+who did the killing in the first friday the 13th movie
+Q: who did the killing in the first friday the 13th movie
+A: "The killer in the first Friday the 13th movie is Jason Voorhees. So the answer is: Jason Voorhees."
+A: Jason Voorhees
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5850
+when was he last time england won the world cup
+Q: when was he last time england won the world cup
+A: "England won the FIFA World Cup in 1966. So the answer is: 1966."
+A: 1966
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1059
+who played benjamin button as an old man
+Q: who played benjamin button as an old man
+A: "The actor who played Benjamin Button as an old man is Brad Pitt. So the answer is: Brad Pitt."
+A: Brad Pitt
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4795
+what part of the bay area is san jose
+Q: what part of the bay area is san jose
+A: "San Jose is located in the South Bay region of the San Francisco Bay Area. So the answer is: South Bay."
+A: South Bay
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5701
+name three southeast asian countries that are mainly buddhist today
+Q: name three southeast asian countries that are mainly buddhist today
+A: "The three southeast asian countries that are mainly Buddhist today are: Thailand, Cambodia, and Laos. So the answer is: Thailand, Cambodia, and Laos."
+A: Thailand, Cambodia, and Laos
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3330
+low blood pressure that occurs upon standing up is known
+Q: low blood pressure that occurs upon standing up is known
+A: "Low blood pressure that occurs upon standing up is known as orthostatic hypotension. So the answer is: orthostatic hypotension."
+A: orthostatic hypotension
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6249
+who is playing the beast in beauty and the beast 2017
+Q: who is playing the beast in beauty and the beast 2017
+A: "The Beast in the 2017 film Beauty and the Beast is played by Dan Stevens. So the answer is: Dan Stevens."
+A: Dan Stevens
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_449
+who played our girl in the first series
+Q: who played our girl in the first series
+A: "The first series of Our Girl is set in Afghanistan. The main character of Our Girl is Molly Dawes. The character of Molly Dawes was played by Lacey Turner. So the answer is: Lacey Turner."
+A: Lacey Turner
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6187
+when was the epistle to the romans written
+Q: when was the epistle to the romans written
+A: "The Epistle to the Romans was written by Paul the Apostle. The exact date of the Epistle to the Romans is not known. However, it is believed to have been written between 55 and 58 AD. So the answer is: between 55 and 58 AD."
+A: between 55 and 58 AD
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1720
+who wrote red roses for a blue lady
+Q: who wrote red roses for a blue lady
+A: "The song \"Red Roses for a Blue Lady\" was written by Sid Tepper and Roy C. Bennett. So the answer is: Sid Tepper and Roy C. Bennett."
+A: Sid Tepper and Roy C. Bennett
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5479
+how many teams get into the college world series
+Q: how many teams get into the college world series
+A: "The number of teams that get into the college world series is 8. So the answer is: 8."
+A: 8
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5540
+who wrote on the sunny side of the street
+Q: who wrote on the sunny side of the street
+A: "The song \"On the Sunny Side of the Street\" was written by Jimmy McHugh and Dorothy Fields. So the answer is: Jimmy McHugh and Dorothy Fields."
+A: Jimmy McHugh and Dorothy Fields
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3744
+who is the current minister for environment forest and climate change in india
+Q: who is the current minister for environment forest and climate change in india
+A: "The current minister for environment, forest and climate change in India is Dr. Harsh Vardhan. So the answer is: Dr. Harsh Vardhan."
+A: Dr. Harsh Vardhan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_601
+votes required to pass a bill in the house
+Q: votes required to pass a bill in the house
+A: "In the House of Representatives, a bill requires a majority of the members present to pass. So the answer is: majority of the members present."
+A: majority of the members present
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5202
+who plays the voice of james in pokemon
+Q: who plays the voice of james in pokemon
+A: "The voice of James in Pok\u00e9mon is provided by Michael Haigney. So the answer is: Michael Haigney."
+A: Michael Haigney
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4415
+when did halloween become a holiday in the us
+Q: when did halloween become a holiday in the us
+A: "Halloween became a holiday in the US in 1845. So the answer is: 1845."
+A: 1845
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2733
+who plays the genie in return of jafar
+Q: who plays the genie in return of jafar
+A: "The genie in return of jafar is played by Dan Castellaneta. So the answer is: Dan Castellaneta."
+A: Dan Castellaneta
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1790
+how many african american politicians served in the us congress during reconstruction
+Q: how many african american politicians served in the us congress during reconstruction
+A: "During the Reconstruction Era, there were 14 African American politicians who served in the U.S. Congress. So the answer is: 14."
+A: 14
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1748
+who sang there she was walking down the street
+Q: who sang there she was walking down the street
+A: "The song \"There She Was Walking Down the Street\" is performed by The Beatles. The song is also known as \"There She Was\". The song \"There She Was\" is performed by The Beatles. The song \"There She Was\" is also known as \"There She Was Walking Down the Street\". The song \"There She Was\" is performed by The Beatles. The song \"There She Was\" is also known as \"There She Was Walking Down the Street\". The song \"There She Was"
+A: The song \"There She Was Walking Down the Street\" is performed by The Beatles. The song is also known as \"There She Was\". The song \"There She Was\" is performed by The Beatles. The song \"There She Was\" is also known as \"There She Was Walking Down the Street\". The song \"There She Was\" is performed by The Beatles. The song \"There She Was\" is also known as \"There She Was Walking Down the Street\". The song \"There She Was
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5890
+who plays rosa on orange is the new black
+Q: who plays rosa on orange is the new black
+A: "The character Rosa on the TV series Orange is the New Black is played by actress Jackie Cruz. So the answer is: Jackie Cruz."
+A: Jackie Cruz
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2047
+who does carl 's voice on family guy
+Q: who does carl 's voice on family guy
+A: "The voice of Carl in Family Guy is provided by Mark Hentemann. So the answer is: Mark Hentemann."
+A: Mark Hentemann
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5312
+who sings the r&b song look what you made me do
+Q: who sings the r&b song look what you made me do
+A: "The song \"Look What You Made Me Do\" is by Taylor Swift. So the answer is: Taylor Swift."
+A: Taylor Swift
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_948
+who used a question and answer method of arriving at important truths
+Q: who used a question and answer method of arriving at important truths
+A: "The method of arriving at important truths by using a question and answer method is called Socratic method. Socrates used the Socratic method. So the answer is: Socrates."
+A: Socrates
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1416
+who wrote the south carolina ordinance of secession
+Q: who wrote the south carolina ordinance of secession
+A: "The South Carolina Ordinance of Secession was written by William Porcher Miles. So the answer is: William Porcher Miles."
+A: William Porcher Miles
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6364
+what is the shape of mandatory traffic signs
+Q: what is the shape of mandatory traffic signs
+A: "Mandatory traffic signs are octagons. So the answer is: octagons."
+A: octagons
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1680
+who is bath and body works owned by
+Q: who is bath and body works owned by
+A: "Bath & Body Works is owned by L Brands. So the answer is: L Brands."
+A: L Brands
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3082
+when did the first black player play in the nfl
+Q: when did the first black player play in the nfl
+A: "The first black player to play in the NFL was Fritz Pollard. Fritz Pollard played in the NFL in 1920. So the answer is: 1920."
+A: 1920
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_322
+who made it to the world cup finals 2018
+Q: who made it to the world cup finals 2018
+A: "The team that made it to the world cup finals 2018 is France. So the answer is: France."
+A: France
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2708
+when will jurassic world the fallen kingdom come out
+Q: when will jurassic world the fallen kingdom come out
+A: "Jurassic World: Fallen Kingdom was released on June 22, 2018. So the answer is: June 22, 2018."
+A: June 22, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6007
+who plays the mom on rizzoli and isles
+Q: who plays the mom on rizzoli and isles
+A: "The mom on Rizzoli and Isles is played by actress Lorraine Bracco. So the answer is: Lorraine Bracco."
+A: Lorraine Bracco
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5487
+the base level of maslow 's hierarchy of needs pyramid includes
+Q: the base level of maslow 's hierarchy of needs pyramid includes
+A: "The base level of Maslow's hierarchy of needs pyramid includes physiological needs. So the answer is: physiological needs."
+A: physiological needs
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1112
+what channel is the weather channel on satellite radio
+Q: what channel is the weather channel on satellite radio
+A: "The Weather Channel is on channel 865 on SiriusXM satellite radio. So the answer is: 865."
+A: 865
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2041
+who invented the first radio and what year
+Q: who invented the first radio and what year
+A: "Guglielmo Marconi invented the first radio. Guglielmo Marconi invented the first radio in 1895. So the answer is: 1895."
+A: 1895
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1401
+where was it came from outer space filmed
+Q: where was it came from outer space filmed
+A: "It Came from Outer Space was filmed in the United States. So the answer is: United States."
+A: United States
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_615
+how many members on the house of representatives
+Q: how many members on the house of representatives
+A: "The number of members in the House of Representatives is 435. So the answer is: 435."
+A: 435
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4956
+who wrote go rest high on that mountain
+Q: who wrote go rest high on that mountain
+A: "The song \"Go Rest High on That Mountain\" was written by Vince Gill. So the answer is: Vince Gill."
+A: Vince Gill
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1387
+who sings new version of somewhere over the rainbow
+Q: who sings new version of somewhere over the rainbow
+A: "Israel Kamakawiwo'ole sings a new version of somewhere over the rainbow. So the answer is: Israel Kamakawiwo'ole."
+A: Israel Kamakawiwo'ole
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3994
+who is the childhood prodigy who mastered the mandolin
+Q: who is the childhood prodigy who mastered the mandolin
+A: "The childhood prodigy who mastered the mandolin is Andrew Bird. So the answer is: Andrew Bird."
+A: Andrew Bird
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2563
+where did the british army fight in ww1
+Q: where did the british army fight in ww1
+A: "The British army fought in many places in WW1. Some of the places include: France, Belgium, and the Middle East. So the answer is: France, Belgium, and the Middle East."
+A: France, Belgium, and the Middle East
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2894
+who won series 5 of the great british bake off
+Q: who won series 5 of the great british bake off
+A: "The winner of series 5 of the Great British Bake Off was Nancy Birtwhistle. So the answer is: Nancy Birtwhistle."
+A: Nancy Birtwhistle
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6400
+what product or market does netflix deal with
+Q: what product or market does netflix deal with
+A: "Netflix is a streaming service that deals with movies and television shows. So the answer is: movies and television shows."
+A: movies and television shows
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4292
+who plays the old man in home alone
+Q: who plays the old man in home alone
+A: "The old man in Home Alone is played by Roberts Blossom. So the answer is: Roberts Blossom."
+A: Roberts Blossom
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1809
+what is the net atp yield for the anaerobic metabolism of one glucose molecule
+Q: what is the net atp yield for the anaerobic metabolism of one glucose molecule
+A: "The anaerobic metabolism of one glucose molecule produces 2 ATP. So the answer is: 2."
+A: 2
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4631
+who 's the lead singer of third eye blind
+Q: who 's the lead singer of third eye blind
+A: "The lead singer of the band Third Eye Blind is Stephan Jenkins. So the answer is: Stephan Jenkins."
+A: Stephan Jenkins
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2782
+when was the first airline meal served during a flight
+Q: when was the first airline meal served during a flight
+A: "The first airline meal was served during a flight in 1919. So the answer is: 1919."
+A: 1919
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1031
+when did the yankees move to new stadium
+Q: when did the yankees move to new stadium
+A: "The Yankees moved to their new stadium in 2009. So the answer is: 2009."
+A: 2009
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3931
+who was the first english mathematician who first used the modern symbol of quality in 1557
+Q: who was the first english mathematician who first used the modern symbol of quality in 1557
+A: "The first English mathematician who first used the modern symbol of quality in 1557 is Robert Recorde. So the answer is: Robert Recorde."
+A: Robert Recorde
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5482
+what is the largest provincial park in ontario
+Q: what is the largest provincial park in ontario
+A: "The largest provincial park in Ontario is Algonquin Provincial Park. So the answer is: Algonquin Provincial Park."
+A: Algonquin Provincial Park
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4453
+who was the first actor who played james bond
+Q: who was the first actor who played james bond
+A: "The first actor who played James Bond was Sean Connery. So the answer is: Sean Connery."
+A: Sean Connery
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3295
+who did the music for the black panther movie
+Q: who did the music for the black panther movie
+A: "The music for the movie Black Panther was composed by Ludwig G\u00f6ransson. So the answer is: Ludwig G\u00f6ransson."
+A: Ludwig G\u00f6ransson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6394
+who sang the song it 's just a matter of time
+Q: who sang the song it 's just a matter of time
+A: "The song \"It's Just a Matter of Time\" was sung by Brook Benton. So the answer is: Brook Benton."
+A: Brook Benton
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_881
+who is the actor who plays harry bosch
+Q: who is the actor who plays harry bosch
+A: "The actor who plays Harry Bosch is Titus Welliver. So the answer is: Titus Welliver."
+A: Titus Welliver
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4566
+when is the new season of total divas coming out
+Q: when is the new season of total divas coming out
+A: "The new season of Total Divas is Total Divas Season 8. Total Divas Season 8 premiered on March 15, 2018. So the answer is: March 15, 2018."
+A: March 15, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3010
+who is known as man of destiny in the world
+Q: who is known as man of destiny in the world
+A: "The man of destiny in the world is Nelson Mandela. So the answer is: Nelson Mandela."
+A: Nelson Mandela
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4410
+is copper ii nitrate a compound or element
+Q: is copper ii nitrate a compound or element
+A: "Copper II nitrate is a compound. So the answer is: compound."
+A: compound
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5651
+where is the show pardon the interruption filmed
+Q: where is the show pardon the interruption filmed
+A: "The show Pardon the Interruption is filmed in Washington, D.C. So the answer is: Washington, D.C."
+A: Washington, D.C
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4413
+who was the famous indo greek king who embraced buddhism
+Q: who was the famous indo greek king who embraced buddhism
+A: "The famous Indo-Greek king who embraced Buddhism is Menander I. So the answer is: Menander I."
+A: Menander I
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3085
+who sings the power rangers ninja storm theme song
+Q: who sings the power rangers ninja storm theme song
+A: "The Power Rangers Ninja Storm theme song is sung by The Hit Crew. So the answer is: The Hit Crew."
+A: The Hit Crew
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2533
+where does peanut butter jelly time come from
+Q: where does peanut butter jelly time come from
+A: "Peanut butter jelly time is a song by The Buckwheat Boyz. The song was written by Buckwheat Boyz. The song is from the United States. So the answer is: United States."
+A: United States
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5904
+who played finnick odair in the hunger games
+Q: who played finnick odair in the hunger games
+A: "The character Finnick Odair in the Hunger Games was played by Sam Claflin. So the answer is: Sam Claflin."
+A: Sam Claflin
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4664
+the mass emigration of the irish in the mid-19th century was primarily a result of
+Q: the mass emigration of the irish in the mid-19th century was primarily a result of
+A: "The mass emigration of the Irish in the mid-19th century was primarily a result of the Irish Potato Famine. So the answer is: Irish Potato Famine."
+A: Irish Potato Famine
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2442
+number of branches of oriental bank of commerce in india
+Q: number of branches of oriental bank of commerce in india
+A: "Oriental Bank of Commerce has 2,163 branches in India. So the answer is: 2,163."
+A: 2,163
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6436
+what part of new york is coney island
+Q: what part of new york is coney island
+A: "Coney Island is located in Brooklyn, New York. So the answer is: Brooklyn."
+A: Brooklyn
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3346
+when did the rolling stones become a band
+Q: when did the rolling stones become a band
+A: "The Rolling Stones became a band in 1962. So the answer is: 1962."
+A: 1962
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4366
+how does mozart die in the movie amadeus
+Q: how does mozart die in the movie amadeus
+A: "In the movie Amadeus, Mozart dies of a severe case of rheumatic fever. So the answer is: rheumatic fever."
+A: rheumatic fever
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3269
+who does the voice for bob on bobs burgers
+Q: who does the voice for bob on bobs burgers
+A: "The voice of Bob Belcher on Bob's Burgers is done by H. Jon Benjamin. So the answer is: H. Jon Benjamin."
+A: H. Jon Benjamin
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4061
+when was the first mobile cell phone invented
+Q: when was the first mobile cell phone invented
+A: "The first mobile cell phone was invented in 1973. So the answer is: 1973."
+A: 1973
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1603
+highest point from the center of the earth
+Q: highest point from the center of the earth
+A: "The highest point from the center of the earth is the summit of Mount Everest. So the answer is: Mount Everest."
+A: Mount Everest
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_666
+who made the song i put a spell on you
+Q: who made the song i put a spell on you
+A: "Screamin' Jay Hawkins made the song \"I Put a Spell on You\". So the answer is: Screamin' Jay Hawkins."
+A: Screamin' Jay Hawkins
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5902
+when do the marian reforms happen in rtw
+Q: when do the marian reforms happen in rtw
+A: "The Marian Reforms were implemented by Pope Pius V in 1570. So the answer is: 1570."
+A: 1570
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4504
+what does the red circle on the japanese flag mean
+Q: what does the red circle on the japanese flag mean
+A: "The red circle on the Japanese flag is called the \"Hinomaru\". The Hinomaru is a stylized representation of the sun. So the answer is: the sun."
+A: the sun
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1640
+who believed science should be brought to bear in writing history
+Q: who believed science should be brought to bear in writing history
+A: "Edward Gibbon believed science should be brought to bear in writing history. So the answer is: Edward Gibbon."
+A: Edward Gibbon
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5345
+when did the us join world war 2 in europe
+Q: when did the us join world war 2 in europe
+A: "The United States declared war on Germany and Italy on December 11, 1941. The United States declared war on Japan on December 8, 1941. The United States declared war on Germany and Italy after Germany and Italy declared war on the United States. Germany and Italy declared war on the United States on December 11, 1941. So the answer is: December 11, 1941."
+A: December 11, 1941
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5127
+when did the chesapeake bay bridge-tunnel officially open for traffic
+Q: when did the chesapeake bay bridge-tunnel officially open for traffic
+A: "The Chesapeake Bay Bridge-Tunnel officially opened for traffic on April 15, 1964. So the answer is: April 15, 1964."
+A: April 15, 1964
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5501
+where does what 's eating gilbert grape take place
+Q: where does what 's eating gilbert grape take place
+A: "The movie \"What's Eating Gilbert Grape\" takes place in the fictional town of Endora, Texas. So the answer is: Endora, Texas."
+A: Endora, Texas
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2739
+who is hosting the next world cup 2022
+Q: who is hosting the next world cup 2022
+A: "The 2022 FIFA World Cup will be hosted by Qatar. So the answer is: Qatar."
+A: Qatar
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_691
+when was the last time lake powell was full
+Q: when was the last time lake powell was full
+A: "Lake Powell was full in 1980. So the answer is: 1980."
+A: 1980
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3943
+who invented the trigger for the atomic bomb
+Q: who invented the trigger for the atomic bomb
+A: "The trigger for the atomic bomb was invented by physicist Ernest Lawrence. So the answer is: Ernest Lawrence."
+A: Ernest Lawrence
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4950
+who was party in the usa written for
+Q: who was party in the usa written for
+A: "\"Party in the U.S.A.\" was written by Lukasz Gottwald, Jessica Cornish, and Lukasz Gottwald for Miley Cyrus. So the answer is: Miley Cyrus."
+A: Miley Cyrus
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2904
+when was the stratosphere hotel built in las vegas
+Q: when was the stratosphere hotel built in las vegas
+A: "The Stratosphere hotel was built in 1996. So the answer is: 1996."
+A: 1996
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2789
+who plays mrs rogers in and then there were none
+Q: who plays mrs rogers in and then there were none
+A: "The movie \"And Then There Were None\" is a 2015 BBC miniseries. In the 2015 BBC miniseries \"And Then There Were None\", the character of Mrs. Rogers is played by Maeve Dermody. So the answer is: Maeve Dermody."
+A: Maeve Dermody
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4818
+what is the demand of naxalites in india
+Q: what is the demand of naxalites in india
+A: "The demand of naxalites in India is a separate state for the adivasis. So the answer is: a separate state for the adivasis."
+A: a separate state for the adivasis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2978
+who plays oz in the wizard of oz
+Q: who plays oz in the wizard of oz
+A: "The character of Oz in the movie \"The Wizard of Oz\" is played by Frank Morgan. So the answer is: Frank Morgan."
+A: Frank Morgan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1848
+who is the attorney general for the state of new jersey
+Q: who is the attorney general for the state of new jersey
+A: "The attorney general for the state of New Jersey is Gurbir Grewal. So the answer is: Gurbir Grewal."
+A: Gurbir Grewal
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3477
+who sings the song say you love me
+Q: who sings the song say you love me
+A: "The song \"Say You Love Me\" is performed by Fleetwood Mac. So the answer is: Fleetwood Mac."
+A: Fleetwood Mac
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_810
+when did france try to build the panama canal
+Q: when did france try to build the panama canal
+A: "France tried to build the Panama Canal from 1881 to 1889. So the answer is: 1881 to 1889."
+A: 1881 to 1889
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3775
+when was thirteen ways of looking at a blackbird written
+Q: when was thirteen ways of looking at a blackbird written
+A: "The poem \"Thirteen Ways to Look at a Blackbird\" was written by Wallace Stevens in 1917. So the answer is: 1917."
+A: 1917
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_604
+who is uncle drew in the movie uncle drew
+Q: who is uncle drew in the movie uncle drew
+A: "Uncle Drew is a character played by Kyrie Irving in the movie Uncle Drew. Uncle Drew is an older version of Kyrie Irving's character. So the answer is: Kyrie Irving."
+A: Kyrie Irving
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1976
+who holds the record for eating the most big macs
+Q: who holds the record for eating the most big macs
+A: "Joey Chestnut holds the record for eating the most Big Macs. So the answer is: Joey Chestnut."
+A: Joey Chestnut
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_807
+what are the white things that come out of your tonsils
+Q: what are the white things that come out of your tonsils
+A: "The white things that come out of your tonsils are called tonsilloliths. So the answer is: tonsilloliths."
+A: tonsilloliths
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5055
+when were cell phones first introduced to the public
+Q: when were cell phones first introduced to the public
+A: "The first public demonstration of a handheld mobile phone was made by Martin Cooper in 1973. So the answer is: 1973."
+A: 1973
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4227
+when is a baseball pitched at its fastest
+Q: when is a baseball pitched at its fastest
+A: "A baseball pitched at its fastest is a fastball. The fastest recorded fastball was 105.1 mph. So the answer is: 105.1 mph."
+A: 105.1 mph
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3478
+where does the movie monster trucks take place
+Q: where does the movie monster trucks take place
+A: "The movie Monster Trucks takes place in the town of Norville. So the answer is: Norville."
+A: Norville
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2660
+what kind of fish is in filet o fish
+Q: what kind of fish is in filet o fish
+A: "The fish in Filet-O-Fish is cod. So the answer is: cod."
+A: cod
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1063
+when was pee wee 's big holiday made
+Q: when was pee wee 's big holiday made
+A: "Pee-wee's Big Holiday was released on March 25, 2016. So the answer is: 2016."
+A: 2016
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_942
+who played bernie in the movie weekend at bernie 's
+Q: who played bernie in the movie weekend at bernie 's
+A: "The movie Weekend at Bernie's was released in 1989. The character Bernie was played by actor Andrew McCarthy. So the answer is: Andrew McCarthy."
+A: Andrew McCarthy
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6029
+what were two major causes of world war 2
+Q: what were two major causes of world war 2
+A: "The two major causes of World War II were the invasion of Poland by Nazi Germany and the Japanese attack on Pearl Harbor. So the answer is: The invasion of Poland by Nazi Germany and the Japanese attack on Pearl Harbor."
+A: The invasion of Poland by Nazi Germany and the Japanese attack on Pearl Harbor
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1058
+when did zambia win the african cup of nations
+Q: when did zambia win the african cup of nations
+A: "Zambia won the African Cup of Nations in 2012. So the answer is: 2012."
+A: 2012
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5861
+who is the priest on everybody loves raymond
+Q: who is the priest on everybody loves raymond
+A: "The priest on Everybody Loves Raymond is Father Mancini. Father Mancini is played by actor Fred Willard. However, Father Mancini is also played by actor Peter Onorati. So the answer is: Peter Onorati."
+A: Peter Onorati
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4686
+when was the soil and water conservation act passed
+Q: when was the soil and water conservation act passed
+A: "The Soil and Water Conservation Act was passed in 1935. So the answer is: 1935."
+A: 1935
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5729
+in ​ economics the creation of capital is referred to as
+Q: in ​ economics the creation of capital is referred to as
+A: "In economics, the creation of capital is referred to as capital accumulation. So the answer is: capital accumulation."
+A: capital accumulation
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1292
+how many times have the lakers won the finals
+Q: how many times have the lakers won the finals
+A: "The Los Angeles Lakers have won the NBA Finals 17 times. So the answer is: 17."
+A: 17
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4720
+how many indian reservations are in the usa
+Q: how many indian reservations are in the usa
+A: "There are 326 Indian reservations in the United States. So the answer is: 326."
+A: 326
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6254
+what are the established years of spanish occupancy of the philippines
+Q: what are the established years of spanish occupancy of the philippines
+A: "The established years of spanish occupancy of the philippines are 1565-1898. So the answer is: 1565-1898."
+A: 1565-1898
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1015
+first english team to play in european cup
+Q: first english team to play in european cup
+A: "The first English team to play in the European Cup was Wolverhampton Wanderers. So the answer is: Wolverhampton Wanderers."
+A: Wolverhampton Wanderers
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4995
+who played stacy 's mom in the video
+Q: who played stacy 's mom in the video
+A: "Stacy's Mom is a song by Fountains of Wayne. The music video for Stacy's Mom features a woman named Stacy, played by actress and model, Lisa Loeb. So the answer is: Lisa Loeb."
+A: Lisa Loeb
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3873
+where are the singers of florida georgia line from
+Q: where are the singers of florida georgia line from
+A: "The singers of Florida Georgia Line are Tyler Hubbard and Brian Kelley. Tyler Hubbard is from Monroe, Georgia. Brian Kelley is from Ormond Beach, Florida. So the answer is: Monroe, Georgia and Ormond Beach, Florida."
+A: Monroe, Georgia and Ormond Beach, Florida
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_116
+how many hockey games are in a season
+Q: how many hockey games are in a season
+A: "In the National Hockey League, there are 82 games in a season. So the answer is: 82."
+A: 82
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3026
+when do new car year models come out
+Q: when do new car year models come out
+A: "New car year models come out in the fall of the year before the model year. So the answer is: fall of the year before the model year."
+A: fall of the year before the model year
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4356
+which part of the digestive tract runs through the diaphragm
+Q: which part of the digestive tract runs through the diaphragm
+A: "The part of the digestive tract that runs through the diaphragm is the esophagus. So the answer is: esophagus."
+A: esophagus
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4603
+who played betsy in the white cliffs of dover
+Q: who played betsy in the white cliffs of dover
+A: "The movie \"The White Cliffs of Dover\" was released in 1944. The movie \"The White Cliffs of Dover\" starred Irene Dunne and Alan Marshal. The character Betsy was played by Irene Dunne. So the answer is: Irene Dunne."
+A: Irene Dunne
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2305
+how many episodes of judge judy per year
+Q: how many episodes of judge judy per year
+A: "Judge Judy has been on the air since 1996. The number of episodes of Judge Judy per year is 40. So the answer is: 40."
+A: 40
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3504
+who plays the voice of mikey in look whos talking
+Q: who plays the voice of mikey in look whos talking
+A: "The voice of Mikey in Look Who's Talking is Bruce Willis. So the answer is: Bruce Willis."
+A: Bruce Willis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5856
+who is the patron saint of canada whos feast day march 19
+Q: who is the patron saint of canada whos feast day march 19
+A: "The patron saint of Canada is Saint Joseph. Saint Joseph's feast day is March 19. So the answer is: Saint Joseph."
+A: Saint Joseph
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_363
+when did tv go from analog to digital
+Q: when did tv go from analog to digital
+A: "TV went from analog to digital in 2009. So the answer is: 2009."
+A: 2009
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1286
+who plays kyle wren in star wars 7
+Q: who plays kyle wren in star wars 7
+A: "The character Kyle Wren is not in Star Wars 7. However, the character Kyle Wren is in the Star Wars universe. The character Kyle Wren is played by actor John Boyega. So the answer is: John Boyega."
+A: John Boyega
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5280
+who was responsible for appointing governors in the early american colonies
+Q: who was responsible for appointing governors in the early american colonies
+A: "The British monarch was responsible for appointing governors in the early American colonies. So the answer is: The British monarch."
+A: The British monarch
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5039
+when did the movie forever my girl come out
+Q: when did the movie forever my girl come out
+A: "The movie Forever My Girl was released on January 19, 2018. So the answer is: January 19, 2018."
+A: January 19, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6213
+what type of climates are found in southeast asia
+Q: what type of climates are found in southeast asia
+A: "Southeast Asia has tropical climates. So the answer is: tropical."
+A: tropical
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2017
+when will the world population hit 8 billion
+Q: when will the world population hit 8 billion
+A: "The world population is expected to hit 8 billion in 2023. So the answer is: 2023."
+A: 2023
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4934
+who played ned pepper in the original true grit
+Q: who played ned pepper in the original true grit
+A: "The original True Grit film was released in 1969. In the original True Grit film, the character of Ned Pepper was played by actor Michael Burns. So the answer is: Michael Burns."
+A: Michael Burns
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1048
+who plays the voice of iago in aladdin
+Q: who plays the voice of iago in aladdin
+A: "The voice of Iago in Aladdin is provided by Gilbert Gottfried. So the answer is: Gilbert Gottfried."
+A: Gilbert Gottfried
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5638
+who is the owner of dc shoe company
+Q: who is the owner of dc shoe company
+A: "The owner of DC Shoe Company is Quiksilver. So the answer is: Quiksilver."
+A: Quiksilver
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3302
+who contributes at least half of the funds to medicaid
+Q: who contributes at least half of the funds to medicaid
+A: "The states contribute at least half of the funds to medicaid. So the answer is: states."
+A: states
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3107
+who plays the dad in daddy 's home
+Q: who plays the dad in daddy 's home
+A: "The movie Daddy's Home stars Will Ferrell and Mark Wahlberg. The character of the dad in the movie is played by Will Ferrell. So the answer is: Will Ferrell."
+A: Will Ferrell
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5415
+who did the bucs play in the super bowl
+Q: who did the bucs play in the super bowl
+A: "The Tampa Bay Buccaneers played the Kansas City Chiefs in the Super Bowl. So the answer is: Kansas City Chiefs."
+A: Kansas City Chiefs
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1754
+where does the term windy city come from
+Q: where does the term windy city come from
+A: "The term \"Windy City\" comes from Chicago. So the answer is: Chicago."
+A: Chicago
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3144
+who is the singer of main tera boyfriend
+Q: who is the singer of main tera boyfriend
+A: "The singer of \"Main Tera Boyfriend\" is Sooraj Pancholi and Athiya Shetty. The singer of \"Main Tera Boyfriend\" is Sooraj Pancholi and Athiya Shetty. The singer of \"Main Tera Boyfriend\" is Sooraj Pancholi and Athiya Shetty. The singer of \"Main Tera Boyfriend\" is Sooraj Pancholi and Athiya Shetty. The singer of \"Main Tera Boy"
+A: The singer of \"Main Tera Boyfriend\" is Sooraj Pancholi and Athiya Shetty. The singer of \"Main Tera Boyfriend\" is Sooraj Pancholi and Athiya Shetty. The singer of \"Main Tera Boyfriend\" is Sooraj Pancholi and Athiya Shetty. The singer of \"Main Tera Boyfriend\" is Sooraj Pancholi and Athiya Shetty. The singer of \"Main Tera Boy
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5905
+what is dorothy from wizard of oz last name
+Q: what is dorothy from wizard of oz last name
+A: "Dorothy's last name is Gale. So the answer is: Gale."
+A: Gale
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1839
+where does the house of the spirits take place
+Q: where does the house of the spirits take place
+A: "The house of the spirits takes place in Chile. So the answer is: Chile."
+A: Chile
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4993
+the feature of earth 's movement that takes about 26000 years is
+Q: the feature of earth 's movement that takes about 26000 years is
+A: "The feature of earth's movement that takes about 26000 years is the precession of the equinoxes. So the answer is: precession of the equinoxes."
+A: precession of the equinoxes
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2461
+who won ncaa womens basketball championship in 2017
+Q: who won ncaa womens basketball championship in 2017
+A: "South Carolina won the 2017 NCAA Women's Division I Basketball Championship. So the answer is: South Carolina."
+A: South Carolina
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4109
+who plays captain hook in hook the movie
+Q: who plays captain hook in hook the movie
+A: "Dustin Hoffman plays Captain Hook in Hook. So the answer is: Dustin Hoffman."
+A: Dustin Hoffman
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5046
+what is the first colour film in india
+Q: what is the first colour film in india
+A: "The first colour film in India is \"Kisan Kanya\". So the answer is: Kisan Kanya."
+A: Kisan Kanya
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4813
+who sings the song to good at goodbye
+Q: who sings the song to good at goodbye
+A: "The song \"Too Good at Goodbyes\" is performed by Sam Smith. So the answer is: Sam Smith."
+A: Sam Smith
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1222
+is cipro good for an upper respiratory infection
+Q: is cipro good for an upper respiratory infection
+A: "Cipro is a brand name for the antibiotic ciprofloxacin. Ciprofloxacin is used to treat a variety of bacterial infections, including upper respiratory infections. So the answer is: yes."
+A: yes
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3735
+who plays dr russell on grey 's anatomy
+Q: who plays dr russell on grey 's anatomy
+A: "The character of Dr. Russell is played by actor Jason George. So the answer is: Jason George."
+A: Jason George
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3168
+who won the battle of fort . sumter
+Q: who won the battle of fort . sumter
+A: "The battle of Fort Sumter was won by the Confederate States of America. So the answer is: Confederate States of America."
+A: Confederate States of America
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_197
+who played draco malfoy in the harry potter movies
+Q: who played draco malfoy in the harry potter movies
+A: "The actor who played Draco Malfoy in the Harry Potter movies is Tom Felton. So the answer is: Tom Felton."
+A: Tom Felton
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5906
+who killed hotchner 's wife in criminal minds
+Q: who killed hotchner 's wife in criminal minds
+A: "The character that killed Hotch's wife in the TV series \"Criminal Minds\" is George Foyet. So the answer is: George Foyet."
+A: George Foyet
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3779
+who founded missions on the west coast of america
+Q: who founded missions on the west coast of america
+A: "The Spanish founded missions on the west coast of America. The Spanish missions were founded by Junipero Serra. So the answer is: Junipero Serra."
+A: Junipero Serra
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2408
+who is regarded as the founder of the indian national congress
+Q: who is regarded as the founder of the indian national congress
+A: "The founder of the Indian National Congress is Allan Octavian Hume. So the answer is: Allan Octavian Hume."
+A: Allan Octavian Hume
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1815
+what is the name of india 's first arctic research centre
+Q: what is the name of india 's first arctic research centre
+A: "The name of India's first arctic research centre is Himadri. So the answer is: Himadri."
+A: Himadri
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1919
+where is lady and the tramp supposed to take place
+Q: where is lady and the tramp supposed to take place
+A: "Lady and the Tramp is supposed to take place in New York City. So the answer is: New York City."
+A: New York City
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1027
+when did social security began in the united states
+Q: when did social security began in the united states
+A: "Social Security began in the United States in 1935. So the answer is: 1935."
+A: 1935
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5286
+who set up montana in blood in blood out
+Q: who set up montana in blood in blood out
+A: "The character that set up Montana in Blood In Blood Out is Angel Guzman. So the answer is: Angel Guzman."
+A: Angel Guzman
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5248
+malcolm in the middle what is their last name
+Q: malcolm in the middle what is their last name
+A: "The last name of the main character in the TV series Malcolm in the Middle is Hurrell. So the answer is: Hurrell."
+A: Hurrell
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1331
+when does daylight savings time end in colorado
+Q: when does daylight savings time end in colorado
+A: "Daylight Saving Time (DST) in the United States typically ends on the first Sunday in November. So the answer is: the first Sunday in November."
+A: the first Sunday in November
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3465
+who plays captain hook in once apon a time
+Q: who plays captain hook in once apon a time
+A: "The actor who plays Captain Hook in Once Upon a Time is Colin O'Donoghue. So the answer is: Colin O'Donoghue."
+A: Colin O'Donoghue
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1958
+what are the three types of triangles classified by sides
+Q: what are the three types of triangles classified by sides
+A: "The three types of triangles classified by sides are: Equilateral, Isosceles, and Scalene. So the answer is: Equilateral, Isosceles, and Scalene."
+A: Equilateral, Isosceles, and Scalene
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3294
+what is the fastest horse to win the kentucky derby
+Q: what is the fastest horse to win the kentucky derby
+A: "The fastest horse to win the Kentucky Derby is Secretariat. Secretariat won the Kentucky Derby in 1:59.40. So the answer is: Secretariat."
+A: Secretariat
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_998
+when did miami vice go off the air
+Q: when did miami vice go off the air
+A: "Miami Vice went off the air in 1990. So the answer is: 1990."
+A: 1990
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_67
+who plays christian grey in 50 shades of grey
+Q: who plays christian grey in 50 shades of grey
+A: "The actor who plays Christian Grey in 50 Shades of Grey is Jamie Dornan. So the answer is: Jamie Dornan."
+A: Jamie Dornan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3490
+who won the first soca monarch in trinidad
+Q: who won the first soca monarch in trinidad
+A: "The first Soca Monarch in Trinidad was Lord Kitchener. So the answer is: Lord Kitchener."
+A: Lord Kitchener
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3413
+who were the first family to be recognized as emperors of japan
+Q: who were the first family to be recognized as emperors of japan
+A: "The first family to be recognized as emperors of Japan is the Yamato dynasty. So the answer is: Yamato dynasty."
+A: Yamato dynasty
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5032
+what are the first four officers in the line of succession to the presidency
+Q: what are the first four officers in the line of succession to the presidency
+A: "The first four officers in the line of succession to the presidency are the Vice President, the Speaker of the House of Representatives, the President pro tempore of the Senate, and the Secretary of State. So the answer is: Vice President, the Speaker of the House of Representatives, the President pro tempore of the Senate, and the Secretary of State."
+A: Vice President, the Speaker of the House of Representatives, the President pro tempore of the Senate, and the Secretary of State
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_594
+what is the drug of choice for pseudomonas
+Q: what is the drug of choice for pseudomonas
+A: "The drug of choice for pseudomonas is Ciprofloxacin. So the answer is: Ciprofloxacin."
+A: Ciprofloxacin
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1532
+where do we get most of our electricity energy from
+Q: where do we get most of our electricity energy from
+A: "Most of the world's electricity is generated from coal, natural gas, and nuclear power. So the answer is: coal, natural gas, and nuclear power."
+A: coal, natural gas, and nuclear power
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5797
+why do longer dna molecules move more slowly than shorter ones during electrophoresis
+Q: why do longer dna molecules move more slowly than shorter ones during electrophoresis
+A: "Longer DNA molecules move more slowly than shorter ones during electrophoresis because they have a greater charge-to-mass ratio. So the answer is: charge-to-mass ratio."
+A: charge-to-mass ratio
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_33
+who won women 's cricket world cup 2016
+Q: who won women 's cricket world cup 2016
+A: "The winner of the 2016 ICC Women's Cricket World Cup was England. So the answer is: England."
+A: England
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1563
+what type of horse was the black stallion
+Q: what type of horse was the black stallion
+A: "The black stallion was a Thoroughbred. So the answer is: Thoroughbred."
+A: Thoroughbred
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1930
+what is the thing called that you put your head and arms in
+Q: what is the thing called that you put your head and arms in
+A: "The thing you put your head and arms in is called a helmet. So the answer is: helmet."
+A: helmet
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1333
+who combined the idea of elements with earlier theories of the atom
+Q: who combined the idea of elements with earlier theories of the atom
+A: "John Dalton combined the idea of elements with earlier theories of the atom. So the answer is: John Dalton."
+A: John Dalton
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_44
+who sang the original me and bobby mcgee
+Q: who sang the original me and bobby mcgee
+A: "The song \"Me and Bobby McGee\" was written by Kris Kristofferson and Fred Foster. The song was originally recorded by Roger Miller in 1969. However, the most famous version of the song was recorded by Janis Joplin in 1971. So the answer is: Janis Joplin."
+A: Janis Joplin
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4178
+when did canada get its maple leaf flag
+Q: when did canada get its maple leaf flag
+A: "The Maple Leaf flag was adopted by Canada on February 15, 1965. So the answer is: February 15, 1965."
+A: February 15, 1965
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2281
+the war on poverty was a policy and slogan used in
+Q: the war on poverty was a policy and slogan used in
+A: "The war on poverty was a policy and slogan used in the United States. So the answer is: United States."
+A: United States
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2367
+when did the hardy boyz debut in wwe
+Q: when did the hardy boyz debut in wwe
+A: "The Hardy Boyz debuted in WWE in 1998. So the answer is: 1998."
+A: 1998
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2534
+when does the new independence day come out
+Q: when does the new independence day come out
+A: "The movie Independence Day: Resurgence is scheduled to be released on June 24, 2016. So the answer is: June 24, 2016."
+A: June 24, 2016
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4295
+who wrote the lyrics to mary did you know
+Q: who wrote the lyrics to mary did you know
+A: "The lyrics to \"Mary, Did You Know?\" were written by Mark Lowry. So the answer is: Mark Lowry."
+A: Mark Lowry
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_298
+how many players on the field for football
+Q: how many players on the field for football
+A: "There are 22 players on the field for football. So the answer is: 22."
+A: 22
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5779
+name of bird in secret life of pets
+Q: name of bird in secret life of pets
+A: "The name of the bird in Secret Life of Pets is Snowball. So the answer is: Snowball."
+A: Snowball
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3152
+when did social security begin in the us
+Q: when did social security begin in the us
+A: "Social Security began in the United States in 1935. So the answer is: 1935."
+A: 1935
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6134
+who wins rupaul 's drag race allstars 2
+Q: who wins rupaul 's drag race allstars 2
+A: "The winner of RuPaul's Drag Race All Stars 2 is Alaska Thunderfuck. So the answer is: Alaska Thunderfuck."
+A: Alaska Thunderfuck
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3713
+who did abby on er have an affair with
+Q: who did abby on er have an affair with
+A: "Abby on ER had an affair with Dr. Luka Kova\u010d. So the answer is: Dr. Luka Kova\u010d."
+A: Dr. Luka Kova\u010d
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_79
+who sang the song i love to love
+Q: who sang the song i love to love
+A: "The song \"I Love to Love\" was sung by Tina Charles. So the answer is: Tina Charles."
+A: Tina Charles
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5846
+who made the song i 'll be good to you
+Q: who made the song i 'll be good to you
+A: "The song \"I'll Be Good to You\" is by Quincy Jones and Ray Charles. So the answer is: Quincy Jones and Ray Charles."
+A: Quincy Jones and Ray Charles
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2338
+where was the movie going in style filmed
+Q: where was the movie going in style filmed
+A: "The movie \"Going in Style\" was filmed in New York City. So the answer is: New York City."
+A: New York City
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1612
+what do you call the owner of a restaurant
+Q: what do you call the owner of a restaurant
+A: "The owner of a restaurant is called a restaurateur. So the answer is: restaurateur."
+A: restaurateur
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3171
+how many episodes in the unforgotten season 2
+Q: how many episodes in the unforgotten season 2
+A: "The number of episodes in the second season of the series \"Unforgotten\" is 6. So the answer is: 6."
+A: 6
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5473
+who has held the office of chief minister of the longest time
+Q: who has held the office of chief minister of the longest time
+A: "The chief minister of the longest time is Pawan Kumar Chamling. He held the office of chief minister of Sikkim for 24 years. So the answer is: Pawan Kumar Chamling."
+A: Pawan Kumar Chamling
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4805
+when did call of duty world at war come out
+Q: when did call of duty world at war come out
+A: "Call of Duty: World at War was released on November 11, 2008. So the answer is: November 11, 2008."
+A: November 11, 2008
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5999
+when does the getaway diary of a wimpy kid come out
+Q: when does the getaway diary of a wimpy kid come out
+A: "The Getaway Diary of a Wimpy Kid is scheduled to be released on November 7, 2017. So the answer is: November 7, 2017."
+A: November 7, 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1881
+who is king alpha in rivers of babylon
+Q: who is king alpha in rivers of babylon
+A: "The song \"Rivers of Babylon\" is performed by Boney M. The song \"Rivers of Babylon\" is about the Babylonian exile of the Israelites. King Nebuchadnezzar is the king of Babylon. So the answer is: King Nebuchadnezzar."
+A: King Nebuchadnezzar
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5352
+when was the last time daytona beach was hit by a hurricane
+Q: when was the last time daytona beach was hit by a hurricane
+A: "The last time Daytona Beach was hit by a hurricane was in 2004. Hurricane Charley hit Daytona Beach in 2004. So the answer is: 2004."
+A: 2004
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_692
+who does eminem not mention in toy soldiers
+Q: who does eminem not mention in toy soldiers
+A: "Eminem does not mention his mother in Toy Soldiers. So the answer is: his mother."
+A: his mother
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4717
+what sea is between new zealand and australia
+Q: what sea is between new zealand and australia
+A: "The sea between New Zealand and Australia is the Tasman Sea. So the answer is: Tasman Sea."
+A: Tasman Sea
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6203
+when are you issued a social security number
+Q: when are you issued a social security number
+A: "A social security number is issued to a person when they are born. So the answer is: when you are born."
+A: when you are born
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5326
+what is the first cell of a human called
+Q: what is the first cell of a human called
+A: "The first cell of a human is called a zygote. So the answer is: zygote."
+A: zygote
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4069
+what is the origin of the story beauty and the beast
+Q: what is the origin of the story beauty and the beast
+A: "The story of Beauty and the Beast is based on the French fairy tale of the same name. The French fairy tale of Beauty and the Beast was written by Gabrielle-Suzanne Barbot de Villeneuve. So the answer is: French."
+A: French
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4528
+what is the population of flushing new york
+Q: what is the population of flushing new york
+A: "The population of Flushing, New York is 67,900. So the answer is: 67,900."
+A: 67,900
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5221
+when is house of cards season 6 released
+Q: when is house of cards season 6 released
+A: "House of Cards season 6 was released on March 2, 2018. So the answer is: March 2, 2018."
+A: March 2, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2571
+who did the patriots lose to in 2011
+Q: who did the patriots lose to in 2011
+A: "The New England Patriots lost to the New York Giants in 2011. So the answer is: New York Giants."
+A: New York Giants
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1349
+what battle took place at breeds hill near boston
+Q: what battle took place at breeds hill near boston
+A: "The battle that took place at Breed's Hill near Boston is the Battle of Bunker Hill. So the answer is: Battle of Bunker Hill."
+A: Battle of Bunker Hill
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1338
+where did the battle between rama and ravana take place
+Q: where did the battle between rama and ravana take place
+A: "The battle between Rama and Ravana took place in Lanka. So the answer is: Lanka."
+A: Lanka
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6293
+who has the most world series rings as a player
+Q: who has the most world series rings as a player
+A: "Yogi Berra has the most world series rings as a player. He won 10 world series rings. So the answer is: 10."
+A: 10
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_791
+who sang the original you 're gon na love me
+Q: who sang the original you 're gon na love me
+A: "The song \"You're Gonna Love Me\" was originally sung by The Isley Brothers. So the answer is: The Isley Brothers."
+A: The Isley Brothers
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4287
+who made the universal declaration of human rights
+Q: who made the universal declaration of human rights
+A: "The Universal Declaration of Human Rights was written by Eleanor Roosevelt. So the answer is: Eleanor Roosevelt."
+A: Eleanor Roosevelt
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5978
+drugs that are similar to the male hormone testosterone are called
+Q: drugs that are similar to the male hormone testosterone are called
+A: "drugs that are similar to the male hormone testosterone are called anabolic steroids. So the answer is: anabolic steroids."
+A: anabolic steroids
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1206
+what is the pig called in charlotte 's web
+Q: what is the pig called in charlotte 's web
+A: "The pig in Charlotte's Web is named Wilbur. So the answer is: Wilbur."
+A: Wilbur
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6441
+who came up with the law of conservation of mass
+Q: who came up with the law of conservation of mass
+A: "Antoine Lavoisier came up with the law of conservation of mass. So the answer is: Antoine Lavoisier."
+A: Antoine Lavoisier
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3604
+who played the role of indian jones in the movie series
+Q: who played the role of indian jones in the movie series
+A: "Harrison Ford played the role of Indiana Jones in the movie series. So the answer is: Harrison Ford."
+A: Harrison Ford
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5320
+who owns flying j and pilot truck stops
+Q: who owns flying j and pilot truck stops
+A: "Flying J and Pilot Travel Centers are owned by Pilot Flying J. So the answer is: Pilot Flying J."
+A: Pilot Flying J
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5041
+when did croatia last qualify for world cup
+Q: when did croatia last qualify for world cup
+A: "Croatia last qualified for the 2018 FIFA World Cup. So the answer is: 2018."
+A: 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3668
+who sang i do n 't know what to do with myself
+Q: who sang i do n 't know what to do with myself
+A: "The song \"I Don't Know What to Do with Myself\" was written by Burt Bacharach and Hal David. It was recorded by several artists, including Dusty Springfield, Tom Jones, and The Fourmost. So the answer is: Dusty Springfield."
+A: Dusty Springfield
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3582
+who won season 4 of america 's got talent
+Q: who won season 4 of america 's got talent
+A: "The winner of season 4 of America's Got Talent is Neal E. Boyd. So the answer is: Neal E. Boyd."
+A: Neal E. Boyd
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4237
+when did season 5 of bates motel start
+Q: when did season 5 of bates motel start
+A: "Season 5 of Bates Motel started on February 23, 2017. So the answer is: February 23, 2017."
+A: February 23, 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2652
+when was the first winnie the pooh book written
+Q: when was the first winnie the pooh book written
+A: "The first Winnie the Pooh book was written by A.A. Milne in 1926. So the answer is: 1926."
+A: 1926
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3962
+what is the first book in the hive series
+Q: what is the first book in the hive series
+A: "The first book in the Hive series is The Hive. So the answer is: The Hive."
+A: The Hive
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_620
+who was the us at war with in ww2
+Q: who was the us at war with in ww2
+A: "The United States was at war with Germany, Italy, and Japan in World War II. So the answer is: Germany, Italy, and Japan."
+A: Germany, Italy, and Japan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6020
+where was the movie book of eli filmed
+Q: where was the movie book of eli filmed
+A: "The movie Book of Eli was filmed in New Mexico. So the answer is: New Mexico."
+A: New Mexico
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3333
+how old do you need to be to drink alcohol in france
+Q: how old do you need to be to drink alcohol in france
+A: "In France, you need to be 18 years old to drink alcohol. So the answer is: 18."
+A: 18
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5094
+where does the movie while you were sleeping take place
+Q: where does the movie while you were sleeping take place
+A: "The movie While You Were Sleeping takes place in Chicago. So the answer is: Chicago."
+A: Chicago
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4634
+who won the season 11 of the voice
+Q: who won the season 11 of the voice
+A: "The winner of season 11 of The Voice was Jordan Smith. So the answer is: Jordan Smith."
+A: Jordan Smith
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4951
+who does the voice for maui in moana
+Q: who does the voice for maui in moana
+A: "The voice of Maui in Moana is Dwayne Johnson. So the answer is: Dwayne Johnson."
+A: Dwayne Johnson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2043
+the compromise of 1877 signaled an end to
+Q: the compromise of 1877 signaled an end to
+A: "The compromise of 1877 signaled an end to the Reconstruction Era. So the answer is: the Reconstruction Era."
+A: the Reconstruction Era
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4743
+who wrote the song call me by aretha franklin
+Q: who wrote the song call me by aretha franklin
+A: "The song \"Call Me\" was written by David Foster, Jeff Porcaro, and Steve Porcaro. The song \"Call Me\" was recorded by Aretha Franklin. So the answer is: David Foster, Jeff Porcaro, and Steve Porcaro."
+A: David Foster, Jeff Porcaro, and Steve Porcaro
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2109
+the largest waterfall in the world victoria falls is located in this country
+Q: the largest waterfall in the world victoria falls is located in this country
+A: "The largest waterfall in the world, Victoria Falls, is located in Zimbabwe. So the answer is: Zimbabwe."
+A: Zimbabwe
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5161
+how many episodes are in rick and morty season 2
+Q: how many episodes are in rick and morty season 2
+A: "Rick and Morty season 2 has 10 episodes. So the answer is: 10."
+A: 10
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6416
+what does c v s pharmacy stand for
+Q: what does c v s pharmacy stand for
+A: "CVS Pharmacy is a pharmacy chain. CVS stands for Consumer Value Stores. So the answer is: Consumer Value Stores."
+A: Consumer Value Stores
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_420
+what was the name of bangladesh before independence
+Q: what was the name of bangladesh before independence
+A: "The name of Bangladesh before independence was East Pakistan. So the answer is: East Pakistan."
+A: East Pakistan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4028
+in the raven what is the name of the narrator 's lost love
+Q: in the raven what is the name of the narrator 's lost love
+A: "The narrator's lost love in the raven is Lenore. So the answer is: Lenore."
+A: Lenore
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4282
+what is the tallest mountain in argentina and south america
+Q: what is the tallest mountain in argentina and south america
+A: "The tallest mountain in Argentina and South America is Aconcagua. So the answer is: Aconcagua."
+A: Aconcagua
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5534
+who sings youre the best thing about me
+Q: who sings youre the best thing about me
+A: "The song \"You're the Best Thing About Me\" is by U2. So the answer is: U2."
+A: U2
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1545
+the transition from preindustrial society to industrial society was brought about by
+Q: the transition from preindustrial society to industrial society was brought about by
+A: "The transition from preindustrial society to industrial society was brought about by the Industrial Revolution. So the answer is: Industrial Revolution."
+A: Industrial Revolution
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1332
+who wrote just you and me by chicago
+Q: who wrote just you and me by chicago
+A: "The song \"Just You 'n' Me\" was written by James Pankow. So the answer is: James Pankow."
+A: James Pankow
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5998
+who makes call of duty black ops 4
+Q: who makes call of duty black ops 4
+A: "Call of Duty: Black Ops 4 was developed by Treyarch. So the answer is: Treyarch."
+A: Treyarch
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3801
+who is the actress that plays summer on the young and the restless
+Q: who is the actress that plays summer on the young and the restless
+A: "The actress that plays Summer Newman on the Young and the Restless is Hunter King. So the answer is: Hunter King."
+A: Hunter King
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6352
+when does christmas start in the catholic church
+Q: when does christmas start in the catholic church
+A: "Christmas starts on Christmas Eve, which is on December 24. So the answer is: December 24."
+A: December 24
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2985
+who wrote i can see clearly now song
+Q: who wrote i can see clearly now song
+A: "The song \"I Can See Clearly Now\" was written by Johnny Nash. So the answer is: Johnny Nash."
+A: Johnny Nash
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1709
+who won the first women 's fifa world cup
+Q: who won the first women 's fifa world cup
+A: "The first women's FIFA World Cup was won by the United States. So the answer is: United States."
+A: United States
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_816
+when did they stop making paint with lead
+Q: when did they stop making paint with lead
+A: "Lead paint was banned in the United States in 1978. So the answer is: 1978."
+A: 1978
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1307
+where is three billboards outside of ebbing missouri filmed
+Q: where is three billboards outside of ebbing missouri filmed
+A: "Three Billboards Outside Ebbing, Missouri was filmed in Sikeston, Missouri. So the answer is: Sikeston, Missouri."
+A: Sikeston, Missouri
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3599
+when do live shows start on america 's got talent
+Q: when do live shows start on america 's got talent
+A: "Live shows on America's Got Talent start in the semifinals. The semifinals of America's Got Talent start in the middle of the competition. The competition of America's Got Talent has three rounds: the audition round, the judge cuts round, and the semifinals. The semifinals are the third round. So the answer is: the semifinals."
+A: the semifinals
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4926
+when was the statue of liberty given to the usa
+Q: when was the statue of liberty given to the usa
+A: "The statue of liberty was given to the USA on October 28, 1886. So the answer is: October 28, 1886."
+A: October 28, 1886
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4189
+who played little eponine in les miserables movie
+Q: who played little eponine in les miserables movie
+A: "The character of little eponine in the movie Les Mis\u00e9rables was played by Amanda Seyfried. However, Amanda Seyfried played the role of Cosette. The character of little eponine was played by Isabelle Allen. So the answer is: Isabelle Allen."
+A: Isabelle Allen
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3313
+what episode is bag of weed family guy
+Q: what episode is bag of weed family guy
+A: "The episode of Family Guy in which a bag of weed is featured is \"Petarded\". So the answer is: Petarded."
+A: Petarded
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_752
+when was the wildlife protection act implemented in india
+Q: when was the wildlife protection act implemented in india
+A: "The Wildlife Protection Act was implemented in India in 1972. So the answer is: 1972."
+A: 1972
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_324
+who pays for the building of the presidential libraries
+Q: who pays for the building of the presidential libraries
+A: "The building of the presidential libraries is paid for by the federal government. So the answer is: the federal government."
+A: the federal government
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5923
+what is the biggest casino in the united states
+Q: what is the biggest casino in the united states
+A: "The biggest casino in the United States is the WinStar World Casino and Resort. So the answer is: WinStar World Casino and Resort."
+A: WinStar World Casino and Resort
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1744
+when 's the last time golden state won a championship
+Q: when 's the last time golden state won a championship
+A: "The last time the Golden State Warriors won a championship was in 2018. So the answer is: 2018."
+A: 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1351
+who did idris elba play in the wire
+Q: who did idris elba play in the wire
+A: "Idris Elba played the character Stringer Bell in The Wire. So the answer is: Stringer Bell."
+A: Stringer Bell
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_55
+where are the fruits of the spirit found in the bible
+Q: where are the fruits of the spirit found in the bible
+A: "The fruits of the spirit are found in the Bible in Galatians 5:22-23. So the answer is: Galatians 5:22-23."
+A: Galatians 5:22-23
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1077
+who wrote where the mind is without fear
+Q: who wrote where the mind is without fear
+A: "The poem \"Where the Mind is Without Fear\" was written by Rabindranath Tagore. So the answer is: Rabindranath Tagore."
+A: Rabindranath Tagore
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4456
+who played father role in munna bhai mbbs
+Q: who played father role in munna bhai mbbs
+A: "The father role in Munna Bhai M.B.B.S. was played by Boman Irani. So the answer is: Boman Irani."
+A: Boman Irani
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6503
+when does 13 reasoms why season 2 come out
+Q: when does 13 reasoms why season 2 come out
+A: "13 Reasons Why season 2 was released on May 18, 2018. So the answer is: May 18, 2018."
+A: May 18, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3040
+who conducted the little albert study on conditioned fear
+Q: who conducted the little albert study on conditioned fear
+A: "John Watson conducted the little Albert study on conditioned fear. So the answer is: John Watson."
+A: John Watson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3569
+where will the world cup be hosted in 2022
+Q: where will the world cup be hosted in 2022
+A: "The 2022 FIFA World Cup will be hosted in Qatar. So the answer is: Qatar."
+A: Qatar
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5800
+who rescued the flag at the battle of sullivan 's island
+Q: who rescued the flag at the battle of sullivan 's island
+A: "The flag at the battle of Sullivan's Island was rescued by William Moultrie. So the answer is: William Moultrie."
+A: William Moultrie
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1070
+what came first mean machine or the longest yard
+Q: what came first mean machine or the longest yard
+A: "The movie Mean Machine was released in 2001. The movie The Longest Yard was released in 2005. Thus, Mean Machine came first. So the answer is: Mean Machine."
+A: Mean Machine
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_72
+the story idea for the yellow wallpaper was based on a civil war treatment called
+Q: the story idea for the yellow wallpaper was based on a civil war treatment called
+A: "The story idea for the yellow wallpaper was based on a civil war treatment called \"The Yellow Wallpaper\". The Yellow Wallpaper is a short story by Charlotte Perkins Gilman. So the answer is: The Yellow Wallpaper."
+A: The Yellow Wallpaper
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4658
+who does scar 's voice in the lion king
+Q: who does scar 's voice in the lion king
+A: "The voice of Scar in the Lion King is provided by Jeremy Irons. So the answer is: Jeremy Irons."
+A: Jeremy Irons
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2604
+who said the power of the pen is mightier than the sword
+Q: who said the power of the pen is mightier than the sword
+A: "Edward Bulwer-Lytton said the power of the pen is mightier than the sword. So the answer is: Edward Bulwer-Lytton."
+A: Edward Bulwer-Lytton
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_945
+who played the superbowl halftime show last year
+Q: who played the superbowl halftime show last year
+A: "The information about the superbowl halftime show last year is not available. So the answer is: Not available."
+A: Not available
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4703
+which type of cell forms the blood brain barrier
+Q: which type of cell forms the blood brain barrier
+A: "The type of cell that forms the blood brain barrier is astrocyte. So the answer is: astrocyte."
+A: astrocyte
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3088
+what does the eagle in the nigerian coat of arm represents
+Q: what does the eagle in the nigerian coat of arm represents
+A: "The eagle in the Nigerian coat of arms represents strength and courage. So the answer is: strength and courage."
+A: strength and courage
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5293
+man of the tournament in 2011 world cup
+Q: man of the tournament in 2011 world cup
+A: "The man of the tournament in 2011 world cup is MS Dhoni. So the answer is: MS Dhoni."
+A: MS Dhoni
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4314
+who plays caleb in seven brides for seven brothers
+Q: who plays caleb in seven brides for seven brothers
+A: "The movie Seven Brides for Seven Brothers is a musical film. The character Caleb is played by Howard Keel. So the answer is: Howard Keel."
+A: Howard Keel
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5967
+who does the voice for tulip in storks
+Q: who does the voice for tulip in storks
+A: "The voice of Tulip in Storks is provided by Katie Crown. So the answer is: Katie Crown."
+A: Katie Crown
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5808
+when was the vaccine for chicken pox invented
+Q: when was the vaccine for chicken pox invented
+A: "The vaccine for chicken pox was invented in 1995. So the answer is: 1995."
+A: 1995
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2318
+who did viswanathan anand defeat in 2012 to retain the world chess champion title
+Q: who did viswanathan anand defeat in 2012 to retain the world chess champion title
+A: "Viswanathan Anand defeated Boris Gelfand in 2012 to retain the world chess champion title. So the answer is: Boris Gelfand."
+A: Boris Gelfand
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6175
+where did the girl get her arm bitten off
+Q: where did the girl get her arm bitten off
+A: "The girl who got her arm bitten off is the main character in the movie \"The Girl with a Curious Eye\". The Girl with a Curious Eye is a 2001 American horror film. The Girl with a Curious Eye is set in the city of New York. So the answer is: New York."
+A: New York
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2576
+what was the treatment in a beautiful mind
+Q: what was the treatment in a beautiful mind
+A: "The treatment in A Beautiful Mind is Lithium. So the answer is: Lithium."
+A: Lithium
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3261
+when was the last time germany went out in the group stage of the world cup
+Q: when was the last time germany went out in the group stage of the world cup
+A: "The last time Germany went out in the group stage of the world cup was in 1938. So the answer is: 1938."
+A: 1938
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2354
+when did they start filming guardians of the galaxy
+Q: when did they start filming guardians of the galaxy
+A: "The filming of Guardians of the Galaxy started on April 14, 2014. So the answer is: April 14, 2014."
+A: April 14, 2014
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2481
+where is the danube river located in europe
+Q: where is the danube river located in europe
+A: "The Danube River is located in Europe, flowing through or along the borders of 10 countries: Germany, Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine. So the answer is: Europe."
+A: Europe
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2420
+who played aang in the last airbender movie
+Q: who played aang in the last airbender movie
+A: "The actor who played Aang in the movie \"The Last Airbender\" is Noah Ringer. So the answer is: Noah Ringer."
+A: Noah Ringer
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6331
+when were pass laws abolished in south africa
+Q: when were pass laws abolished in south africa
+A: "The pass laws were abolished in South Africa in 1986. So the answer is: 1986."
+A: 1986
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2857
+who sings you are just too good to be true
+Q: who sings you are just too good to be true
+A: "The song \"You're Just Too Good to Be True\" is performed by the band Modern English. So the answer is: Modern English."
+A: Modern English
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6432
+who did the voice of ariel in little mermaid
+Q: who did the voice of ariel in little mermaid
+A: "The voice of Ariel in the Little Mermaid was provided by Jodi Benson. So the answer is: Jodi Benson."
+A: Jodi Benson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2815
+when was the last time chiefs won a superbowl
+Q: when was the last time chiefs won a superbowl
+A: "The last time the Kansas City Chiefs won a Super Bowl was in 2020. So the answer is: 2020."
+A: 2020
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5143
+how many sampath bank branches in sri lanka
+Q: how many sampath bank branches in sri lanka
+A: "Sampath Bank has 183 branches in Sri Lanka. So the answer is: 183."
+A: 183
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1841
+what is the typical term for a mortgage loan
+Q: what is the typical term for a mortgage loan
+A: "The typical term for a mortgage loan is 30 years. So the answer is: 30 years."
+A: 30 years
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6350
+who is the protagonist in to kill a mocking bird
+Q: who is the protagonist in to kill a mocking bird
+A: "The protagonist in \"To Kill a Mockingbird\" is Scout Finch. So the answer is: Scout Finch."
+A: Scout Finch
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1343
+who plays the devil in tenacious d tribute
+Q: who plays the devil in tenacious d tribute
+A: "The devil in Tenacious D's tribute to the song \"The Devil Went Down to Georgia\" is played by the actor, and musician, and comedian, and writer, and director, and producer, and actor, and musician, and comedian, and writer, and director, and producer, and actor, and musician, and comedian, and writer, and director, and producer, and actor, and musician, and comedian, and writer, and director, and producer, and actor, and musician,"
+A: The devil in Tenacious D's tribute to the song \"The Devil Went Down to Georgia\" is played by the actor, and musician, and comedian, and writer, and director, and producer, and actor, and musician, and comedian, and writer, and director, and producer, and actor, and musician, and comedian, and writer, and director, and producer, and actor, and musician, and comedian, and writer, and director, and producer, and actor, and musician,
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_839
+when is the second series of this is us
+Q: when is the second series of this is us
+A: "The second series of This Is Us is released on September 26, 2017. So the answer is: September 26, 2017."
+A: September 26, 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3062
+sediments produced by plants and animals in the sea called
+Q: sediments produced by plants and animals in the sea called
+A: "The sediments produced by plants and animals in the sea are called organic sediments. So the answer is: organic sediments."
+A: organic sediments
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_195
+where was the movie how to be a latin lover filmed
+Q: where was the movie how to be a latin lover filmed
+A: "The movie \"How to Be a Latin Lover\" was filmed in Mexico. So the answer is: Mexico."
+A: Mexico
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1823
+when did the first apple ipod touch come out
+Q: when did the first apple ipod touch come out
+A: "The first Apple iPod Touch was released on September 5, 2007. So the answer is: September 5, 2007."
+A: September 5, 2007
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4635
+who portrayed dorothy in the 1925 wizard of oz
+Q: who portrayed dorothy in the 1925 wizard of oz
+A: "The 1925 silent film version of The Wizard of Oz was released in 1925. The actress who portrayed Dorothy in the 1925 silent film version of The Wizard of Oz is Dorothy Dwan. So the answer is: Dorothy Dwan."
+A: Dorothy Dwan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1154
+who did the original cats in the cradle
+Q: who did the original cats in the cradle
+A: "The original \"Cats in the Cradle\" was written and recorded by Harry Chapin. So the answer is: Harry Chapin."
+A: Harry Chapin
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1291
+who plays dr damprey on jane the virgin
+Q: who plays dr damprey on jane the virgin
+A: "Brett Dier plays the character of Michael Cordero Jr. on Jane the Virgin. However, Brett Dier's character Michael Cordero Jr. is a love interest of the main character Jane Glascow. Brett Dier's character Michael Cordero Jr. is not Dr. Damprey. Dr. Damprey is played by Brett Dier's co-star Jaime Camil. So the answer is: Jaime Camil."
+A: Jaime Camil
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2273
+a polygon with all sides the same length is said to be
+Q: a polygon with all sides the same length is said to be
+A: "A polygon with all sides the same length is said to be equilateral. So the answer is: equilateral."
+A: equilateral
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2146
+where does the sun set in the evening
+Q: where does the sun set in the evening
+A: "The sun sets in the west. So the answer is: west."
+A: west
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1653
+when is the new mamma mia film coming out
+Q: when is the new mamma mia film coming out
+A: "The new Mamma Mia film is Mamma Mia! Here We Go Again. Mamma Mia! Here We Go Again was released on July 20, 2018. So the answer is: July 20, 2018."
+A: July 20, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1404
+who sang i ca n 't let maggie go
+Q: who sang i ca n 't let maggie go
+A: "The song \"I Can't Let Maggie Go\" was sung by Honeybus. So the answer is: Honeybus."
+A: Honeybus
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1747
+who is pretending to be a in pretty little liars
+Q: who is pretending to be a in pretty little liars
+A: "The character in Pretty Little Liars who is pretending to be someone else is Mona Vanderwaal. Mona Vanderwaal is pretending to be CeCe Drake. So the answer is: CeCe Drake."
+A: CeCe Drake
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_328
+who does billy russo become in the punisher comics
+Q: who does billy russo become in the punisher comics
+A: "Billy Russo becomes Jigsaw in the Punisher comics. So the answer is: Jigsaw."
+A: Jigsaw
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3676
+who got hit by a train on er
+Q: who got hit by a train on er
+A: "The character who got hit by a train on ER is Dr. Doug Ross. So the answer is: Dr. Doug Ross."
+A: Dr. Doug Ross
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_761
+who put in god we trust on the dollar bill
+Q: who put in god we trust on the dollar bill
+A: "The phrase \"In God We Trust\" was added to the United States one-dollar bill in 1957. The phrase was added by President Dwight D. Eisenhower. So the answer is: Dwight D. Eisenhower."
+A: Dwight D. Eisenhower
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5047
+when did cavity wall insulation become part of building regulations
+Q: when did cavity wall insulation become part of building regulations
+A: "Cavity wall insulation became part of building regulations in 1995. So the answer is: 1995."
+A: 1995
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6078
+what does mc mean on a biker vest
+Q: what does mc mean on a biker vest
+A: "MC stands for Motorcycle Club. So the answer is: Motorcycle Club."
+A: Motorcycle Club
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2371
+who sang silver bells with blake shelton on the voice
+Q: who sang silver bells with blake shelton on the voice
+A: "Blake Shelton sang Silver Bells with Gwen Stefani on The Voice. So the answer is: Gwen Stefani."
+A: Gwen Stefani
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1757
+what beatles album is 8 days a week on
+Q: what beatles album is 8 days a week on
+A: "The Beatles album that 8 days a week is on is Beatles for Sale. So the answer is: Beatles for Sale."
+A: Beatles for Sale
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4846
+how many american troops died in the korean war
+Q: how many american troops died in the korean war
+A: "The number of American troops that died in the Korean War is 36,516. So the answer is: 36,516."
+A: 36,516
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2692
+who wrote the song i dont know my name
+Q: who wrote the song i dont know my name
+A: "The song \"I Don't Know My Name\" is written by 3 Doors Down. So the answer is: 3 Doors Down."
+A: 3 Doors Down
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5763
+when did dodge start making the challenger again
+Q: when did dodge start making the challenger again
+A: "The Dodge Challenger was first introduced in 1970. It was discontinued in 1974. The Dodge Challenger was reintroduced in 2008. So the answer is: 2008."
+A: 2008
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2049
+who played floyd on the andy griffith show
+Q: who played floyd on the andy griffith show
+A: "The character Floyd the Barber on the Andy Griffith Show was played by Howard Morris. So the answer is: Howard Morris."
+A: Howard Morris
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1152
+when did dolly write i will always love you
+Q: when did dolly write i will always love you
+A: "Dolly Parton wrote I Will Always Love You in 1973. So the answer is: 1973."
+A: 1973
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5605
+who is the youngest person to ever win a grammy
+Q: who is the youngest person to ever win a grammy
+A: "The youngest person to ever win a Grammy is LeAnn Rimes. She won the Grammy at the age of 14. So the answer is: LeAnn Rimes."
+A: LeAnn Rimes
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_314
+who banned all public meetings and procession in amritsar
+Q: who banned all public meetings and procession in amritsar
+A: "The British Viceroy of India, Michael O'Dwyer banned all public meetings and procession in Amritsar. So the answer is: Michael O'Dwyer."
+A: Michael O'Dwyer
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2218
+who had no heart in wizard of oz
+Q: who had no heart in wizard of oz
+A: "The Tin Man had no heart in the Wizard of Oz. So the answer is: The Tin Man."
+A: The Tin Man
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2977
+who loves helena in a midsummer night 's dream
+Q: who loves helena in a midsummer night 's dream
+A: "In A Midsummer Night's Dream, Helena is loved by Demetrius. So the answer is: Demetrius."
+A: Demetrius
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_478
+when did the welsh language became a core subject in the national curriculum in wales
+Q: when did the welsh language became a core subject in the national curriculum in wales
+A: "The Welsh language became a core subject in the national curriculum in Wales in 2002. So the answer is: 2002."
+A: 2002
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4247
+the flag of indonesia is red and what other color
+Q: the flag of indonesia is red and what other color
+A: "The flag of Indonesia is red and white. So the answer is: white."
+A: white
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6239
+who sings for eric in happy feet two
+Q: who sings for eric in happy feet two
+A: "The singer who sings for Eric in Happy Feet Two is Brad Pitt. So the answer is: Brad Pitt."
+A: Brad Pitt
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1910
+when did harry potter and the philosopher 's stone movie come out
+Q: when did harry potter and the philosopher 's stone movie come out
+A: "The movie Harry Potter and the Philosopher's Stone was released on 16 November 2001. So the answer is: 16 November 2001."
+A: 16 November 2001
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6430
+when did the olympic flame was lighted first time
+Q: when did the olympic flame was lighted first time
+A: "The Olympic flame was first lit at the 1936 Summer Olympics in Berlin, Germany. So the answer is: 1936."
+A: 1936
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4599
+what was one of the weapon technologies that emerged during the crusades
+Q: what was one of the weapon technologies that emerged during the crusades
+A: "One of the weapon technologies that emerged during the crusades is the crossbow. So the answer is: crossbow."
+A: crossbow
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2677
+for whom was the battle of king 's mountain a victory
+Q: for whom was the battle of king 's mountain a victory
+A: "The battle of king's mountain was a victory for the American forces. The American forces were led by General Daniel Morgan. So the answer is: General Daniel Morgan."
+A: General Daniel Morgan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_223
+what are the names of the counties in wales
+Q: what are the names of the counties in wales
+A: "The counties in Wales are: Anglesey, Blaenau Gwent, Bridgend, Caerphilly, Cardiff, Carmarthenshire, Ceredigion, Conwy, Denbighshire, Flintshire, Gwynedd, Merthyr Tydfil, Monmouthshire, Neath Port Talbot, Newport, Pembrokeshire, Powys, Rhondda Cynon Taf, Swansea, Torfaen, Vale of Glamorgan, Wrexham"
+A: The counties in Wales are: Anglesey, Blaenau Gwent, Bridgend, Caerphilly, Cardiff, Carmarthenshire, Ceredigion, Conwy, Denbighshire, Flintshire, Gwynedd, Merthyr Tydfil, Monmouthshire, Neath Port Talbot, Newport, Pembrokeshire, Powys, Rhondda Cynon Taf, Swansea, Torfaen, Vale of Glamorgan, Wrexham
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4842
+most of the united states is a part of which tectonic plate
+Q: most of the united states is a part of which tectonic plate
+A: "Most of the United States is a part of the North American Plate. So the answer is: North American Plate."
+A: North American Plate
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3755
+when did jk rowling released the first harry potter
+Q: when did jk rowling released the first harry potter
+A: "J.K. Rowling released the first Harry Potter book, \"Harry Potter and the Philosopher's Stone\", on June 26, 1997. So the answer is: June 26, 1997."
+A: June 26, 1997
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4655
+when did descendants of the sun start filming
+Q: when did descendants of the sun start filming
+A: "Descendants of the Sun started filming on 2015. So the answer is: 2015."
+A: 2015
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3854
+what is the most commonly used adjective in the english language
+Q: what is the most commonly used adjective in the english language
+A: "The most commonly used adjective in the English language is \"good\". So the answer is: good."
+A: good
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3872
+when did the plane land in the hudson river
+Q: when did the plane land in the hudson river
+A: "The plane landed in the Hudson River on January 15, 2009. So the answer is: January 15, 2009."
+A: January 15, 2009
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5111
+who owns ringling brothers and barnum & bailey circus
+Q: who owns ringling brothers and barnum & bailey circus
+A: "The Ringling Brothers and Barnum & Bailey Circus is owned by Feld Entertainment. So the answer is: Feld Entertainment."
+A: Feld Entertainment
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1021
+who sang in the arms of an angel first
+Q: who sang in the arms of an angel first
+A: "The song \"In the Arms of an Angel\" was first sung by Sarah McLachlan. So the answer is: Sarah McLachlan."
+A: Sarah McLachlan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_934
+who plays the alien bounty hunter in x files
+Q: who plays the alien bounty hunter in x files
+A: "The alien bounty hunter in x files is played by William B. Davis. So the answer is: William B. Davis."
+A: William B. Davis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_536
+who played the black widow in the avengers
+Q: who played the black widow in the avengers
+A: "Scarlett Johansson played the black widow in the avengers. So the answer is: Scarlett Johansson."
+A: Scarlett Johansson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3056
+when was the last time england got to a world cup quarter final
+Q: when was the last time england got to a world cup quarter final
+A: "The last time England got to a world cup quarter final was in 2006. So the answer is: 2006."
+A: 2006
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3920
+where was o brother where art thou filmed
+Q: where was o brother where art thou filmed
+A: "The movie \"O Brother, Where Art Thou?\" was filmed in various locations in the United States. Some of the locations include: North Carolina, South Carolina, Georgia, and Tennessee. So the answer is: North Carolina, South Carolina, Georgia, and Tennessee."
+A: North Carolina, South Carolina, Georgia, and Tennessee
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4418
+who played jeremy on here comes the brides
+Q: who played jeremy on here comes the brides
+A: "The character Jeremy on the TV series \"Here Comes the Bride\" was played by actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor,"
+A: The character Jeremy on the TV series \"Here Comes the Bride\" was played by actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor, actor,
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2721
+who is the second person to reach moon
+Q: who is the second person to reach moon
+A: "The second person to reach the moon is Edwin \"Buzz\" Aldrin. So the answer is: Edwin \"Buzz\" Aldrin."
+A: Edwin \"Buzz\" Aldrin
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2404
+when do they stop selling beer in wisconsin
+Q: when do they stop selling beer in wisconsin
+A: "In Wisconsin, the sale of beer is prohibited on Sundays. So the answer is: Sundays."
+A: Sundays
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3310
+when did the dallas stars come to texas
+Q: when did the dallas stars come to texas
+A: "The Dallas Stars came to Texas in 1993. So the answer is: 1993."
+A: 1993
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4213
+this african nation is located south of sudan and west of kenya
+Q: this african nation is located south of sudan and west of kenya
+A: "The African nation that is located south of Sudan and west of Kenya is South Sudan. However, South Sudan is not an independent nation. It is a part of Sudan. The African nation that is located south of Sudan and west of Kenya is South Sudan. However, South Sudan is not an independent nation. It is a part of Sudan. The African nation that is located south of Sudan and west of Kenya is South Sudan. However, South Sudan is not an independent nation. It is a part of"
+A: The African nation that is located south of Sudan and west of Kenya is South Sudan. However, South Sudan is not an independent nation. It is a part of Sudan. The African nation that is located south of Sudan and west of Kenya is South Sudan. However, South Sudan is not an independent nation. It is a part of Sudan. The African nation that is located south of Sudan and west of Kenya is South Sudan. However, South Sudan is not an independent nation. It is a part of
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1671
+what kind of car is a toyota matrix
+Q: what kind of car is a toyota matrix
+A: "A Toyota Matrix is a compact hatchback car. So the answer is: compact hatchback car."
+A: compact hatchback car
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2503
+where is the rogers cup held in montreal
+Q: where is the rogers cup held in montreal
+A: "The Rogers Cup is held in Montreal at the Uniprix Stadium. So the answer is: Uniprix Stadium."
+A: Uniprix Stadium
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2640
+when was the first film made in america
+Q: when was the first film made in america
+A: "The first film made in America was \"Roundhay Garden Scene\" was made in 1888. However, the first film made in America that was a narrative film was \"The Great Train Robbery\" which was made in 1903. So the answer is: 1888 or 1903."
+A: 1888 or 1903
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_69
+in what year did japan attack pearl harbor
+Q: in what year did japan attack pearl harbor
+A: "Japan attacked Pearl Harbor in 1941. So the answer is: 1941."
+A: 1941
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_977
+who was the first president that lived in the white house
+Q: who was the first president that lived in the white house
+A: "George Washington was the first president of the United States. He was the first president to live in the White House. So the answer is: George Washington."
+A: George Washington
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4518
+when did wales last win the 6 nations
+Q: when did wales last win the 6 nations
+A: "Wales last won the 6 Nations in 2013. So the answer is: 2013."
+A: 2013
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2918
+who won the first super bowl in 1967
+Q: who won the first super bowl in 1967
+A: "The Green Bay Packers won the first Super Bowl in 1967. So the answer is: Green Bay Packers."
+A: Green Bay Packers
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2558
+who voiced optimus prime in the transformers movie
+Q: who voiced optimus prime in the transformers movie
+A: "Peter Cullen voiced optimus prime in the transformers movie. So the answer is: Peter Cullen."
+A: Peter Cullen
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_818
+how many episodes does the ancient magus bride have
+Q: how many episodes does the ancient magus bride have
+A: "The anime series \"The Ancient Magus' Bride\" has 13 episodes. So the answer is: 13."
+A: 13
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6481
+what is the top selling beer in ireland
+Q: what is the top selling beer in ireland
+A: "The top selling beer in Ireland is Smithwick's. So the answer is: Smithwick's."
+A: Smithwick's
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2004
+who killed michael 's brother on burn notice
+Q: who killed michael 's brother on burn notice
+A: "The character that killed Michael's brother on Burn Notice is Anson Fullerton. So the answer is: Anson Fullerton."
+A: Anson Fullerton
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4886
+who is captain miller in saving private ryan
+Q: who is captain miller in saving private ryan
+A: "Captain Miller in Saving Private Ryan is played by Tom Hanks. So the answer is: Tom Hanks."
+A: Tom Hanks
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3511
+how many artificial elements are in the periodic table
+Q: how many artificial elements are in the periodic table
+A: "The number of artificial elements in the periodic table is 4. So the answer is: 4."
+A: 4
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_566
+who is the actor in canadian tire commercials
+Q: who is the actor in canadian tire commercials
+A: "The actor in Canadian Tire commercials is Rick Mercer. So the answer is: Rick Mercer."
+A: Rick Mercer
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5090
+where is pepsin secreted in the digestive system
+Q: where is pepsin secreted in the digestive system
+A: "Pepsin is secreted in the stomach. So the answer is: stomach."
+A: stomach
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4054
+when did the radio became a household item
+Q: when did the radio became a household item
+A: "The radio became a household item in the 1920s. So the answer is: 1920s."
+A: 1920s
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4222
+when did kobe bryant win his first ring
+Q: when did kobe bryant win his first ring
+A: "Kobe Bryant won his first ring in 2000. So the answer is: 2000."
+A: 2000
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1258
+who died in the movie fast and furious 7
+Q: who died in the movie fast and furious 7
+A: "The character that died in the movie Fast and Furious 7 is Paul Walker. So the answer is: Paul Walker."
+A: Paul Walker
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1565
+who moved my cheese what does the maze represent
+Q: who moved my cheese what does the maze represent
+A: "The maze in the book \"Who Moved My Cheese\" represents life. So the answer is: life."
+A: life
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1354
+in riverdale who does betty end up with
+Q: in riverdale who does betty end up with
+A: "In Riverdale, Betty Cooper ends up with Archie Andrews. So the answer is: Archie Andrews."
+A: Archie Andrews
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2822
+when did the song unchained melody come out
+Q: when did the song unchained melody come out
+A: "The song \"Unchained Melody\" was written by Alex North and Hy Zaret. It was first recorded by Todd Duncan in 1955. So the answer is: 1955."
+A: 1955
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3934
+what 's the largest cemetery in the united states
+Q: what 's the largest cemetery in the united states
+A: "The largest cemetery in the United States is Arlington National Cemetery. So the answer is: Arlington National Cemetery."
+A: Arlington National Cemetery
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6064
+who sang the song the first cut is the deepest
+Q: who sang the song the first cut is the deepest
+A: "The song \"The First Cut Is the Deepest\" was written by Cat Stevens. The song was first recorded by Cat Stevens. So the answer is: Cat Stevens."
+A: Cat Stevens
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1114
+when did california became part of the union
+Q: when did california became part of the union
+A: "California became part of the union on September 9, 1850. So the answer is: September 9, 1850."
+A: September 9, 1850
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3011
+who played the baby in baby 's day out
+Q: who played the baby in baby 's day out
+A: "The baby in Baby's Day Out is played by twins Jacob and Joseph Rosenberg. So the answer is: Jacob and Joseph Rosenberg."
+A: Jacob and Joseph Rosenberg
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5689
+where does pakistan stand in the icc test ranking
+Q: where does pakistan stand in the icc test ranking
+A: "Pakistan is ranked 7th in the ICC Test ranking. So the answer is: 7th."
+A: 7th
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4464
+which is britains oldest sunday newspaper published for the first time in 1791
+Q: which is britains oldest sunday newspaper published for the first time in 1791
+A: "The Sunday newspaper published for the first time in 1791 is The Observer. So the answer is: The Observer."
+A: The Observer
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3392
+two possible satellite galaxies of the milky way galaxy are the
+Q: two possible satellite galaxies of the milky way galaxy are the
+A: "The two possible satellite galaxies of the Milky Way galaxy are the Sagittarius Dwarf Spheroidal Galaxy and the Canis Major Dwarf Galaxy. So the answer is: Sagittarius Dwarf Spheroidal Galaxy and the Canis Major Dwarf Galaxy."
+A: Sagittarius Dwarf Spheroidal Galaxy and the Canis Major Dwarf Galaxy
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2940
+who was killed in i know what you did last summer
+Q: who was killed in i know what you did last summer
+A: "The character that was killed in I Know What You Did Last Summer is Ben Willis. Ben Willis was killed by the group of friends. So the answer is: Ben Willis."
+A: Ben Willis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1329
+who acted as harley quinn in suicide squad
+Q: who acted as harley quinn in suicide squad
+A: "The actress who acted as Harley Quinn in Suicide Squad is Margot Robbie. So the answer is: Margot Robbie."
+A: Margot Robbie
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2905
+who played wildor in masters of the universe
+Q: who played wildor in masters of the universe
+A: "The character Wildor in Masters of the Universe was played by actor John Alderton. So the answer is: John Alderton."
+A: John Alderton
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6423
+who plays the clown in freak show ahs
+Q: who plays the clown in freak show ahs
+A: "The character of the clown in Freak Show is Bette and Dot Tattler. The character of Bette and Dot Tatter is played by Sarah Paulson. So the answer is: Sarah Paulson."
+A: Sarah Paulson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1816
+two countries connected by the channel tunnel under the sea
+Q: two countries connected by the channel tunnel under the sea
+A: "The two countries connected by the Channel Tunnel under the sea are the United Kingdom and France. So the answer is: United Kingdom and France."
+A: United Kingdom and France
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1000
+who wrote you cant always get what you want
+Q: who wrote you cant always get what you want
+A: "The song \"You Can't Always Get What You Want\" was written by Mick Jagger and Keith Richards. So the answer is: Mick Jagger and Keith Richards."
+A: Mick Jagger and Keith Richards
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4363
+which term means the amount of energy in a body or stream of water
+Q: which term means the amount of energy in a body or stream of water
+A: "The term that means the amount of energy in a body or stream of water is kinetic energy. So the answer is: kinetic energy."
+A: kinetic energy
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3702
+who wrote the song like a bridge over troubled water
+Q: who wrote the song like a bridge over troubled water
+A: "The song \"Like a Bridge Over Troubled Water\" was written by Paul Simon. So the answer is: Paul Simon."
+A: Paul Simon
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2824
+who is the winner of 2018 royal rumble
+Q: who is the winner of 2018 royal rumble
+A: "The winner of the 2018 Royal Rumble was Shinsuke Nakamura. So the answer is: Shinsuke Nakamura."
+A: Shinsuke Nakamura
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1458
+when does the new super troopers movie come out
+Q: when does the new super troopers movie come out
+A: "The new Super Troopers movie is called Super Troopers 2. The release date of Super Troopers 2 is March 31, 2018. So the answer is: March 31, 2018."
+A: March 31, 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4501
+nilgiri himalayan and arabian are species of which animal
+Q: nilgiri himalayan and arabian are species of which animal
+A: "Nilgiri, Himalayan and Arabian are species of the animal Nilgai. So the answer is: Nilgai."
+A: Nilgai
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6026
+harry potter and the philosiphers stone release date
+Q: harry potter and the philosiphers stone release date
+A: "Harry Potter and the Philosopher's Stone was released on 26 June 1997. So the answer is: 26 June 1997."
+A: 26 June 1997
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4346
+name of dog in smokey and the bandit
+Q: name of dog in smokey and the bandit
+A: "The name of the dog in Smokey and the Bandit is Snowball. So the answer is: Snowball."
+A: Snowball
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3929
+who did the eagles play last time they were in the superbowl
+Q: who did the eagles play last time they were in the superbowl
+A: "The last time the Philadelphia Eagles played in the Super Bowl was in 2018. In the 2018 Super Bowl, the Eagles played the New England Patriots. So the answer is: New England Patriots."
+A: New England Patriots
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1543
+when did the samsung gear s come out
+Q: when did the samsung gear s come out
+A: "The Samsung Gear S was released on September 3, 2014. So the answer is: September 3, 2014."
+A: September 3, 2014
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3536
+what is the language spoken in czech republic
+Q: what is the language spoken in czech republic
+A: "The official language of the Czech Republic is Czech. So the answer is: Czech."
+A: Czech
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5798
+where do i find the url of a website
+Q: where do i find the url of a website
+A: "The URL of a website can be found in the address bar of a web browser. So the answer is: address bar of a web browser."
+A: address bar of a web browser
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1789
+when did the european convention on human rights come into force
+Q: when did the european convention on human rights come into force
+A: "The European Convention on Human Rights came into force on 3 September 1953. So the answer is: 3 September 1953."
+A: 3 September 1953
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4882
+who sings the song till i see you again
+Q: who sings the song till i see you again
+A: "The song \"Till I See You Again\" is performed by Cody Simpson. So the answer is: Cody Simpson."
+A: Cody Simpson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5348
+right to family is ensured in the udhr under
+Q: right to family is ensured in the udhr under
+A: "The right to family is ensured in the Universal Declaration of Human Rights (UDHR) under Article 16. So the answer is: Article 16."
+A: Article 16
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3423
+who voiced the pink alien in american dad
+Q: who voiced the pink alien in american dad
+A: "The pink alien in American Dad is voiced by Dee Bradley Baker. So the answer is: Dee Bradley Baker."
+A: Dee Bradley Baker
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4955
+when will the book of dust be released
+Q: when will the book of dust be released
+A: "The book of dust is a trilogy of novels by Philip Pullman. The release date of the book of dust is 2017. So the answer is: 2017."
+A: 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1965
+who founded the royal academy of music answers.com
+Q: who founded the royal academy of music answers.com
+A: "The royal academy of music was founded by King George III. So the answer is: King George III."
+A: King George III
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2232
+a systolic bp value is the pressure when
+Q: a systolic bp value is the pressure when
+A: "A systolic bp value is the pressure when the heart is contracting. So the answer is: the heart is contracting."
+A: the heart is contracting
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_269
+who raps in the gorillaz song clint eastwood
+Q: who raps in the gorillaz song clint eastwood
+A: "The song \"Clint Eastwood\" by Gorillaz features Del tha Funkee Homosapien. Del tha Funkee Homosapien is a rapper. So the answer is: Del tha Funkee Homosapien."
+A: Del tha Funkee Homosapien
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5266
+where is tata iron and steel company located
+Q: where is tata iron and steel company located
+A: "Tata Iron and Steel Company is located in Jamshedpur. So the answer is: Jamshedpur."
+A: Jamshedpur
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_455
+when did the packard plant close in detroit
+Q: when did the packard plant close in detroit
+A: "The Packard Plant in Detroit closed in 1958. So the answer is: 1958."
+A: 1958
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5836
+when did the day of worship changed from saturday to sunday
+Q: when did the day of worship changed from saturday to sunday
+A: "The day of worship changed from Saturday to Sunday in the 1st century AD. So the answer is: 1st century AD."
+A: 1st century AD
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4172
+what city is the next winter olympics in
+Q: what city is the next winter olympics in
+A: "The next Winter Olympics will be held in Beijing, China. So the answer is: Beijing."
+A: Beijing
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6070
+who was involved in the croatian war of independence
+Q: who was involved in the croatian war of independence
+A: "The Croatian War of Independence was fought between the Republic of Croatia and the Serb-held areas of Croatia and other neighboring countries. The war involved many people, including Franjo Tu\u0111man, Slobodan Milo\u0161evi\u0107, and Franjo Tu\u0111man's Croatian Defence Council. So the answer is: Franjo Tu\u0111man."
+A: Franjo Tu\u0111man
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3523
+who plays ricky bobby 's dad in talladega nights
+Q: who plays ricky bobby 's dad in talladega nights
+A: "The actor who plays Ricky Bobby's dad in Talladega Nights is Gary Cole. So the answer is: Gary Cole."
+A: Gary Cole
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_961
+who is the girl who dances in sia chandelier
+Q: who is the girl who dances in sia chandelier
+A: "The girl who dances in Sia's Chandelier is Maddie Ziegler. So the answer is: Maddie Ziegler."
+A: Maddie Ziegler
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4637
+who plays hans solo 's son in the force awakens
+Q: who plays hans solo 's son in the force awakens
+A: "The character of Ben Solo, who is the son of Han Solo, is played by Adam Driver. So the answer is: Adam Driver."
+A: Adam Driver
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1283
+the type of reproduction that requires the union of sperm and egg
+Q: the type of reproduction that requires the union of sperm and egg
+A: "The type of reproduction that requires the union of sperm and egg is sexual reproduction. So the answer is: sexual reproduction."
+A: sexual reproduction
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2171
+who tried to prevent the march on washington
+Q: who tried to prevent the march on washington
+A: "The march on Washington was a civil rights march that took place on August 28, 1963. The march was led by Martin Luther King Jr. The march was opposed by many, including the Ku Klux Klan and the National States' Rights Party. The National States' Rights Party was led by George Wallace. So the answer is: George Wallace."
+A: George Wallace
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2120
+who is the founder of what 's up
+Q: who is the founder of what 's up
+A: "The founder of WhatsApp is Brian Acton and Jan Koum. So the answer is: Brian Acton and Jan Koum."
+A: Brian Acton and Jan Koum
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_230
+when was the not too young to run bill signed into law
+Q: when was the not too young to run bill signed into law
+A: "The Not Too Young To Run bill was signed into law on May 31, 2017. So the answer is: May 31, 2017."
+A: May 31, 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4376
+when did the drinking age change to 21 in wisconsin
+Q: when did the drinking age change to 21 in wisconsin
+A: "The drinking age in Wisconsin changed to 21 in 1986. So the answer is: 1986."
+A: 1986
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3685
+what is the benefit of a fluted barrel
+Q: what is the benefit of a fluted barrel
+A: "A fluted barrel is a barrel with longitudinal grooves cut into it. The benefit of a fluted barrel is that it helps to dissipate heat. So the answer is: heat dissipation."
+A: heat dissipation
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5648
+the author of the book david copperfield is
+Q: the author of the book david copperfield is
+A: "The author of the book David Copperfield is Charles Dickens. So the answer is: Charles Dickens."
+A: Charles Dickens
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4444
+who sang do n 't be tardy for the party
+Q: who sang do n 't be tardy for the party
+A: "The song \"Don't Be Tardy for the Party\" is by Kim Zolciak. So the answer is: Kim Zolciak."
+A: Kim Zolciak
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3201
+what is the releasing date of love yatri
+Q: what is the releasing date of love yatri
+A: "Love Yatri is a 2018 Indian romantic comedy film. The releasing date of Love Yatri is 5 October 2018. So the answer is: 5 October 2018."
+A: 5 October 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1963
+when did branson mo become a tourist town
+Q: when did branson mo become a tourist town
+A: "Branson, Missouri became a tourist town in the 1950s. So the answer is: 1950s."
+A: 1950s
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2402
+who 's won the most world series in baseball
+Q: who 's won the most world series in baseball
+A: "The New York Yankees have won the most world series in baseball with 27. So the answer is: New York Yankees."
+A: New York Yankees
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_825
+what language do they speak in puerto rico
+Q: what language do they speak in puerto rico
+A: "The official language of Puerto Rico is Spanish. So the answer is: Spanish."
+A: Spanish
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_86
+when did the second amendment go into effect
+Q: when did the second amendment go into effect
+A: "The Second Amendment to the United States Constitution was ratified on December 15, 1791. So the answer is: December 15, 1791."
+A: December 15, 1791
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6499
+who set up the first stockyard for texas cattle in abilene kansas
+Q: who set up the first stockyard for texas cattle in abilene kansas
+A: "The first stockyard for Texas cattle in Abilene, Kansas was set up by Philip D. Armour. So the answer is: Philip D. Armour."
+A: Philip D. Armour
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5282
+what is one of the greatest structural achievements of the bronze age
+Q: what is one of the greatest structural achievements of the bronze age
+A: "The one of the greatest structural achievements of the bronze age is the Mycenaean megaron. So the answer is: Mycenaean megaron."
+A: Mycenaean megaron
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2215
+the dna directed synthesis of an rna molecule is called
+Q: the dna directed synthesis of an rna molecule is called
+A: "The dna directed synthesis of an rna molecule is called transcription. So the answer is: transcription."
+A: transcription
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2928
+when does the tour de france finish 2018
+Q: when does the tour de france finish 2018
+A: "The 2018 Tour de France finished on 29 July 2018. So the answer is: 29 July 2018."
+A: 29 July 2018
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2615
+who lived to be the oldest person in the world
+Q: who lived to be the oldest person in the world
+A: "The oldest person in the world was Jeanne Calment. Jeanne Calment lived to be 122 years and 164 days old. So the answer is: Jeanne Calment."
+A: Jeanne Calment
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2645
+who is in charge of the hollywood walk of fame
+Q: who is in charge of the hollywood walk of fame
+A: "The Hollywood Chamber of Commerce is in charge of the Hollywood Walk of Fame. So the answer is: The Hollywood Chamber of Commerce."
+A: The Hollywood Chamber of Commerce
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_315
+in 1893 new zealand became the first country in the world to grant voting rights to
+Q: in 1893 new zealand became the first country in the world to grant voting rights to
+A: "In 1893 New Zealand became the first country in the world to grant voting rights to women. So the answer is: women."
+A: women
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5060
+spirit stallion of the cimarron girl horse name
+Q: spirit stallion of the cimarron girl horse name
+A: "The horse name in the movie Spirit: Stallion of the Cimarron is Rain. So the answer is: Rain."
+A: Rain
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6319
+what was japan foreign policy in the tokugawa era
+Q: what was japan foreign policy in the tokugawa era
+A: "The Tokugawa era was a period of isolationism in Japan. Thus, Japan's foreign policy in the Tokugawa era was isolationism. So the answer is: isolationism."
+A: isolationism
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2647
+who won season 7 rupaul 's drag race
+Q: who won season 7 rupaul 's drag race
+A: "Violet Chachki won season 7 of RuPaul's Drag Race. So the answer is: Violet Chachki."
+A: Violet Chachki
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3250
+where did kate and prince william get engaged
+Q: where did kate and prince william get engaged
+A: "Kate Middleton and Prince William got engaged in St. James's Palace. So the answer is: St. James's Palace."
+A: St. James's Palace
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_857
+who do the cubs play in the world series last year
+Q: who do the cubs play in the world series last year
+A: "The Chicago Cubs played the Cleveland Indians in the 2016 World Series. So the answer is: Cleveland Indians."
+A: Cleveland Indians
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4302
+what is one of the main causes for famine in the world today
+Q: what is one of the main causes for famine in the world today
+A: "One of the main causes for famine in the world today is drought. So the answer is: drought."
+A: drought
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_555
+who owns the las vegas golden knights hockey team
+Q: who owns the las vegas golden knights hockey team
+A: "The owner of the Las Vegas Golden Knights hockey team is Bill Foley. So the answer is: Bill Foley."
+A: Bill Foley
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_152
+when was tasmania cut off from the mainland
+Q: when was tasmania cut off from the mainland
+A: "Tasmania was cut off from the mainland 10,000 years ago. So the answer is: 10,000 years ago."
+A: 10,000 years ago
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4812
+who is rudolph the red nosed reindeer 's dad 's name
+Q: who is rudolph the red nosed reindeer 's dad 's name
+A: "Rudolph the Red-Nosed Reindeer's father is Donner. So the answer is: Donner."
+A: Donner
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_580
+who sang the original always on my mind
+Q: who sang the original always on my mind
+A: "The song \"Always on My Mind\" was originally recorded by Gwen Guthrie. So the answer is: Gwen Guthrie."
+A: Gwen Guthrie
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6461
+what did king john do to kenilworth castle
+Q: what did king john do to kenilworth castle
+A: "King John did not do anything to Kenilworth Castle. However, he did besiege Kenilworth Castle in 1215. So the answer is: besiege."
+A: besiege
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_780
+when did scotland become part of united kingdom
+Q: when did scotland become part of united kingdom
+A: "Scotland became part of the United Kingdom in 1707. So the answer is: 1707."
+A: 1707
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5951
+what is the name of the new wonder woman
+Q: what is the name of the new wonder woman
+A: "The new Wonder Woman is Gal Gadot. So the answer is: Gal Gadot."
+A: Gal Gadot
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_337
+who plays james nesbitt 's son in cold feet
+Q: who plays james nesbitt 's son in cold feet
+A: "The character of James Nesbitt's son in Cold Feet is played by John Thomson. So the answer is: John Thomson."
+A: John Thomson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5139
+when is season 3 of scream coming out on netflix
+Q: when is season 3 of scream coming out on netflix
+A: "I do not have access to a search engine to verify when season 3 of Scream is coming out on Netflix. I recommend checking the official Netflix website or other reliable sources for the most up-to-date information."
+A: I do not have access to a search engine to verify when season 3 of Scream is coming out on Netflix. I recommend checking the official Netflix website or other reliable sources for the most up-to-date information
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1990
+which country is called land of morning calm
+Q: which country is called land of morning calm
+A: "The country called the \"land of the morning calm\" is South Korea. So the answer is: South Korea."
+A: South Korea
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4897
+who invented the solar system model for atoms
+Q: who invented the solar system model for atoms
+A: "The solar system model for atoms was invented by Ernest Rutherford. So the answer is: Ernest Rutherford."
+A: Ernest Rutherford
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3249
+the source of heating in the thermosphere is the absorption of
+Q: the source of heating in the thermosphere is the absorption of
+A: "The source of heating in the thermosphere is the absorption of ultraviolet radiation. So the answer is: ultraviolet radiation."
+A: ultraviolet radiation
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_245
+who played the role of gemini ganeshan in mahanati
+Q: who played the role of gemini ganeshan in mahanati
+A: "The role of Gemini Ganesan in the movie Mahanati was played by Dulquer Salmaan. So the answer is: Dulquer Salmaan."
+A: Dulquer Salmaan
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2837
+who stars in hallmark 's coming home for christmas
+Q: who stars in hallmark 's coming home for christmas
+A: "The Hallmark movie \"Coming Home for Christmas\" stars Andrew Walker. So the answer is: Andrew Walker."
+A: Andrew Walker
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_731
+what is the setting of the story of robin hood
+Q: what is the setting of the story of robin hood
+A: "The story of Robin Hood is set in Sherwood Forest. So the answer is: Sherwood Forest."
+A: Sherwood Forest
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5896
+in langlands piers the plowman piers appears finally as
+Q: in langlands piers the plowman piers appears finally as
+A: "In Langland's Piers the Plowman, Piers appears finally as a saint. So the answer is: a saint."
+A: a saint
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1166
+who won the oscar for best picture in 1939
+Q: who won the oscar for best picture in 1939
+A: "The winner of the Oscar for Best Picture in 1939 was You Can't Take It With You. So the answer is: You Can't Take It With You."
+A: You Can't Take It With You
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4288
+a language that used symbols to represent objects
+Q: a language that used symbols to represent objects
+A: "The language that used symbols to represent objects is hieroglyphics. So the answer is: hieroglyphics."
+A: hieroglyphics
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5871
+which organization sets monetary policy for the united states
+Q: which organization sets monetary policy for the united states
+A: "The organization that sets monetary policy for the United States is the Federal Reserve. So the answer is: Federal Reserve."
+A: Federal Reserve
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2374
+how old do you have to be to get a tattoo in washington
+Q: how old do you have to be to get a tattoo in washington
+A: "In Washington, you have to be at least 18 years old to get a tattoo. So the answer is: 18."
+A: 18
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_9
+what is the name of wonder womans mother
+Q: what is the name of wonder womans mother
+A: "The mother of Wonder Woman is Queen Hippolyta. So the answer is: Queen Hippolyta."
+A: Queen Hippolyta
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5331
+when is the story set in horizon zero dawn
+Q: when is the story set in horizon zero dawn
+A: "The story of Horizon Zero Dawn is set in a post-apocalyptic world. The world was devastated by a catastrophic event known as \"The Faro Plague\" that occurred 1,000 years before the events of the game. The game is set in a world where humans have regressed to a tribal state and live in tribes, and where robotic creatures, known as \"Machines\", have taken over the world. So the answer is: 1,000 years before the events of the game"
+A: 1,000 years before the events of the game
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5368
+who won american idol adam lambert 's season
+Q: who won american idol adam lambert 's season
+A: "Adam Lambert won season 8 of American Idol. So the answer is: season 8."
+A: season 8
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6509
+big boss 2 telugu set location in hyderabad
+Q: big boss 2 telugu set location in hyderabad
+A: "The Bigg Boss Telugu season 2 was shot at the Annapurna Studios in Hyderabad. So the answer is: Annapurna Studios."
+A: Annapurna Studios
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5922
+who loads the program from disc to the memory
+Q: who loads the program from disc to the memory
+A: "The program loader loads the program from disc to the memory. So the answer is: program loader."
+A: program loader
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2324
+who sings with nickelback in she keeps me up
+Q: who sings with nickelback in she keeps me up
+A: "The song \"She Keeps Me Up\" is by Nickelback. The lead vocalist of Nickelback is Chad Kroeger. So the answer is: Chad Kroeger."
+A: Chad Kroeger
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3753
+how many seasons of friday night lights is there
+Q: how many seasons of friday night lights is there
+A: "There are 5 seasons of Friday Night Lights. So the answer is: 5."
+A: 5
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2703
+who sang does he love you with reba mcintire
+Q: who sang does he love you with reba mcintire
+A: "The song \"Does He Love You\" was sung by Reba McEntire and Linda Davis. So the answer is: Linda Davis."
+A: Linda Davis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2280
+what is the name of the oven used to fire clay objects so that they become ceramics
+Q: what is the name of the oven used to fire clay objects so that they become ceramics
+A: "The oven used to fire clay objects so that they become ceramics is a kiln. So the answer is: kiln."
+A: kiln
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2380
+you can ring my bell who sang it
+Q: you can ring my bell who sang it
+A: "The song \"You Can Ring My Bell\" was sung by Anita Ward. So the answer is: Anita Ward."
+A: Anita Ward
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5950
+who plays the voice of vicky in fairly odd parents
+Q: who plays the voice of vicky in fairly odd parents
+A: "The voice of Vicky in the animated television series \"The Fairly OddParents\" is voiced by Grey DeLisle. So the answer is: Grey DeLisle."
+A: Grey DeLisle
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_501
+who wrote the passion of ss perpetua and felicitas
+Q: who wrote the passion of ss perpetua and felicitas
+A: "The passion of SS Perpetua and Felicitas was written by Tertullian. So the answer is: Tertullian."
+A: Tertullian
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4443
+who played pontius pilate in jesus christ superstar
+Q: who played pontius pilate in jesus christ superstar
+A: "The actor who played Pontius Pilate in Jesus Christ Superstar is Carl Anderson. So the answer is: Carl Anderson."
+A: Carl Anderson
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1288
+when does water stop flowing from hypotonic to hypertonic solution
+Q: when does water stop flowing from hypotonic to hypertonic solution
+A: "Water stops flowing from hypotonic to hypertonic solution when the concentration of solutes in the two solutions is equal. So the answer is: when the concentration of solutes in the two solutions is equal."
+A: when the concentration of solutes in the two solutions is equal
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4377
+who won the battle of somme on the first day
+Q: who won the battle of somme on the first day
+A: "The battle of Somme was fought between the British and German forces. The British forces were defeated on the first day of the battle of Somme. So the answer is: none."
+A: none
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2418
+who presented gardeners world from 2008 to 2010
+Q: who presented gardeners world from 2008 to 2010
+A: "The person who presented gardeners world from 2008 to 2010 is Joe Swift. So the answer is: Joe Swift."
+A: Joe Swift
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2198
+who does the voice of bob 's burgers
+Q: who does the voice of bob 's burgers
+A: "The voice of Bob Belcher in the animated TV series Bob's Burgers is provided by H. Jon Benjamin. So the answer is: H. Jon Benjamin."
+A: H. Jon Benjamin
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3698
+who does the song say something i 'm giving up on you
+Q: who does the song say something i 'm giving up on you
+A: "The song \"Say Something I'm Giving Up on You\" is performed by A Great Big World and Christina Aguilera. So the answer is: A Great Big World and Christina Aguilera."
+A: A Great Big World and Christina Aguilera
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3394
+who plays riggs on lethal weapon the tv show
+Q: who plays riggs on lethal weapon the tv show
+A: "The character Riggs on the TV show Lethal Weapon is played by Clayne Crawford. So the answer is: Clayne Crawford."
+A: Clayne Crawford
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_785
+who plays male lead in far from the madding crowd
+Q: who plays male lead in far from the madding crowd
+A: "The male lead in the 2015 film \"Far from the Madding Crowd\" is played by Matthias Schoenaerts. So the answer is: Matthias Schoenaerts."
+A: Matthias Schoenaerts
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4392
+what is the thing with the nozzle in sausage party
+Q: what is the thing with the nozzle in sausage party
+A: "The thing with the nozzle in Sausage Party is a toilet. So the answer is: toilet."
+A: toilet
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1693
+who plays finn in my big fat diary
+Q: who plays finn in my big fat diary
+A: "The character Finn in the movie My Big Fat Greek Wedding is played by actor Louis Mandylor. However, the character Finn in the movie My Big Fat Greek Wedding is not the same as the character Finn in the movie My Big Fat Greek Wedding 2. The character Finn in the movie My Big Fat Greek Wedding 2 is played by actor John Stamos. However, the character Finn in the movie My Big Fat Greek Wedding 2 is not the same as the character Finn in the movie My"
+A: The character Finn in the movie My Big Fat Greek Wedding is played by actor Louis Mandylor. However, the character Finn in the movie My Big Fat Greek Wedding is not the same as the character Finn in the movie My Big Fat Greek Wedding 2. The character Finn in the movie My Big Fat Greek Wedding 2 is played by actor John Stamos. However, the character Finn in the movie My Big Fat Greek Wedding 2 is not the same as the character Finn in the movie My
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_624
+when did the first willy wonka movie come out
+Q: when did the first willy wonka movie come out
+A: "The first Willy Wonka movie was Willy Wonka & the Chocolate Factory. Willy Wonka & the Chocolate Factory was released in 1971. So the answer is: 1971."
+A: 1971
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3618
+who has won the most champions league games
+Q: who has won the most champions league games
+A: "The team that has won the most Champions League games is Real Madrid. So the answer is: Real Madrid."
+A: Real Madrid
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_518
+what is the meaning of apres moi le deluge
+Q: what is the meaning of apres moi le deluge
+A: "The phrase \"apres moi le deluge\" is French for \"after me, the flood\". So the answer is: after me, the flood."
+A: after me, the flood
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_869
+a type of variation such that as one variable increases the other decreases
+Q: a type of variation such that as one variable increases the other decreases
+A: "The type of variation such that as one variable increases the other decreases is inverse variation. So the answer is: inverse variation."
+A: inverse variation
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_332
+who has the most trophies in the premier league
+Q: who has the most trophies in the premier league
+A: "The team with the most trophies in the Premier League is Manchester United. So the answer is: Manchester United."
+A: Manchester United
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4563
+when was star wars episode 4 re released
+Q: when was star wars episode 4 re released
+A: "Star Wars: Episode IV \u2013 A New Hope was re-released in 1978. So the answer is: 1978."
+A: 1978
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2793
+who made the song when i see you again
+Q: who made the song when i see you again
+A: "The song \"When I See You Again\" is by Wiz Khalifa. So the answer is: Wiz Khalifa."
+A: Wiz Khalifa
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2821
+what was the vei of mt . st. helens
+Q: what was the vei of mt . st. helens
+A: "The elevation of Mt. St. Helens is 8,363 feet. So the answer is: 8,363."
+A: 8,363
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3900
+who plays alice 's mom in home again
+Q: who plays alice 's mom in home again
+A: "The movie Home Again is a 2017 American romantic comedy film. The movie Home Again stars Reese Witherspoon. The movie Home Again also stars Pico Alexander, Nat Wolff, Jon Rudnitsky, and Candice Bergen. Candice Bergen plays Alice's mom in Home Again. So the answer is: Candice Bergen."
+A: Candice Bergen
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1128
+which had more power over taxation under the articles of confederation
+Q: which had more power over taxation under the articles of confederation
+A: "The Articles of Confederation gave more power over taxation to the states. So the answer is: states."
+A: states
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5170
+when did they build the empire state building
+Q: when did they build the empire state building
+A: "The construction of the Empire State Building began on March 17, 1930, and was completed on April 11, 1931. So the answer is: 1931."
+A: 1931
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3844
+name the agent of erosion that produce hanging valley
+Q: name the agent of erosion that produce hanging valley
+A: "The agent of erosion that produce hanging valley is Glaciers. So the answer is: Glaciers."
+A: Glaciers
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3081
+when does the diary of a wimpy kid the getaway come out
+Q: when does the diary of a wimpy kid the getaway come out
+A: "The Diary of a Wimpy Kid: The Getaway is a book written by Jeff Kinney. The Diary of a Wimpy Kid: The Getaway was released on November 7, 2017. So the answer is: November 7, 2017."
+A: November 7, 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3363
+when does the new 2017 star wars movie come out
+Q: when does the new 2017 star wars movie come out
+A: "The new 2017 Star Wars movie is Star Wars: The Last Jedi. Star Wars: The Last Jedi was released on December 15, 2017. So the answer is: December 15, 2017."
+A: December 15, 2017
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5417
+when does the next season of ink master come out
+Q: when does the next season of ink master come out
+A: "The release date of the next season of Ink Master is not specified. However, the release date of the 13th season of Ink Master is 2019. So the answer is: 2019."
+A: 2019
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_5520
+when did the first episode of this is us air
+Q: when did the first episode of this is us air
+A: "The first episode of This Is Us aired on September 20, 2016. So the answer is: September 20, 2016."
+A: September 20, 2016
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2401
+the movement of food in food pipe is called
+Q: the movement of food in food pipe is called
+A: "The movement of food in the food pipe is called peristalsis. So the answer is: peristalsis."
+A: peristalsis
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3336
+how many seasons of being maryjane are there
+Q: how many seasons of being maryjane are there
+A: "There are 2 seasons of the TV series Being Mary Jane. So the answer is: 2."
+A: 2
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1743
+who wrote he ai n 't heavy he 's my brother
+Q: who wrote he ai n 't heavy he 's my brother
+A: "The song \"He Ain't Heavy, He's My Brother\" was written by Bobby Scott and Bob Russell. So the answer is: Bobby Scott and Bob Russell."
+A: Bobby Scott and Bob Russell
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3893
+when did the white star line go out of business
+Q: when did the white star line go out of business
+A: "The White Star Line went out of business in 1934. So the answer is: 1934."
+A: 1934
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2826
+how many movies does the twilight series have
+Q: how many movies does the twilight series have
+A: "The Twilight Saga has 5 movies. So the answer is: 5."
+A: 5
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2427
+who plays the asian girl in deadpool 2
+Q: who plays the asian girl in deadpool 2
+A: "The Asian girl in Deadpool 2 is played by Shioli Kutsuna. So the answer is: Shioli Kutsuna."
+A: Shioli Kutsuna
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_2639
+finance commission is appointed for a period of
+Q: finance commission is appointed for a period of
+A: "The finance commission is appointed for a period of 5 years. So the answer is: 5 years."
+A: 5 years
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6068
+who is in charge of the premier league
+Q: who is in charge of the premier league
+A: "The Premier League is run by the Premier League Management Limited, a private company, with its headquarters in London. The Premier League Management Limited is run by Richard Scudamore. So the answer is: Richard Scudamore."
+A: Richard Scudamore
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_3521
+who is the bad guy in silent hill
+Q: who is the bad guy in silent hill
+A: "The bad guy in Silent Hill is Pyramid Head. So the answer is: Pyramid Head."
+A: Pyramid Head
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6510
+when was civil peace by chinua achebe published
+Q: when was civil peace by chinua achebe published
+A: "Civil Peace was published in 1988. So the answer is: 1988."
+A: 1988
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1996
+what is the hottest pepper in the usa
+Q: what is the hottest pepper in the usa
+A: "The hottest pepper in the USA is the Carolina Reaper. So the answer is: Carolina Reaper."
+A: Carolina Reaper
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_1309
+why is ancient greece often labeled the start of western civilization
+Q: why is ancient greece often labeled the start of western civilization
+A: "Ancient Greece is often labeled the start of Western civilization because it is the birthplace of democracy, philosophy, theater, and the Olympic Games. So the answer is: because it is the birthplace of democracy, philosophy, theater, and the Olympic Games."
+A: because it is the birthplace of democracy, philosophy, theater, and the Olympic Games
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_6463
+when do the rams move to las vegas
+Q: when do the rams move to las vegas
+A: "The Rams moved to Los Angeles in 2016. They moved to Las Vegas in 2020. So the answer is: 2020."
+A: 2020
+Q: [EOQ]
+S: 0.0
+
+single_nq_dev_4645
+what rank is higher than captain in the army
+Q: what rank is higher than captain in the army
+A: "The rank higher than captain in the army is major. So the answer is: major."
+A: major
+Q: [EOQ]
+S: 0.0
