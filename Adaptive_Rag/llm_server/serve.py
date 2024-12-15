@@ -1,8 +1,8 @@
 import os
 from fuzzywuzzy import fuzz
 # from vllm import LLM
-os.environ['TRANSFORMERS_CACHE'] = os.path.dirname(os.getcwd()) + '/cache' # '/data/soyeong/cache'
-os.environ["HF_TOKEN"] = "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"
+os.environ['TRANSFORMERS_CACHE'] = os.path.dirname(os.getcwd()) + '/cache'
+os.environ["HF_TOKEN"] = "<hf_token>"
 import time
 from functools import lru_cache
 
@@ -64,18 +64,18 @@ def get_model_and_tokenizer():
         
     elif model_shortname == "llama-8b-it":
 
-        access_token = os.environ.get("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")
-        hf_token = "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"
+        access_token = os.environ.get("<hf_token>")
+        hf_token = "<hf_token>"
         
         tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.1-8B-Instruct",
-                                                  cache_dir="/home/jovyan/shares/SR003.nfs2/.cache/models/transformers/",
+                                                  cache_dir="/home/user/.cache/models/transformers/",
                                                   token=access_token)
         tokenizer.pad_token = tokenizer.eos_token
         EOS_TOKEN = tokenizer.eos_token
         # #loading the model using AutoModelForCausalLM
         model = AutoModelForCausalLM.from_pretrained(
             "meta-llama/Llama-3.1-8B-Instruct",
-            cache_dir="/home/jovyan/shares/SR003.nfs2/.cache/models/transformers/",
+            cache_dir="/home/user/.cache/models/transformers/",
             token=access_token,
             device_map="auto", 
             # load_in_8bit=True,
