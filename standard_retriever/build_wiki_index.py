@@ -1,7 +1,3 @@
-# This script is modified from https://github.com/oneal2000/DRAGIN/blob/main/prep_elastic.py
-# Original code is available under the repository DRAGIN by oneal2000.
-# Modifications were made by Weijian QI.
-
 from typing import List, Tuple, Union, Dict
 import argparse
 import glob
