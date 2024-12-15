@@ -2,7 +2,7 @@
     "model_name_or_path": "meta-llama/Llama-3.1-8B-Instruct",
     "method": "fix-sentence-retrieval",
     "dataset": "2wikimultihopqa",
-    "data_path": "VityaVitalich/adaptive_rag_musique",
+    "data_path": "adaptive_rag_musique_path",
     "fewshot": 6,
     "sample": 1000,
     "shuffle": false,

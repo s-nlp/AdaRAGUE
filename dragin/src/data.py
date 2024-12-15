@@ -21,8 +21,8 @@ nlp = spacy.load("en_core_web_sm")
 class BaseDataset:
     tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.1-8B-Instruct",      
         padding_side='left',                 
-        cache_dir="/workspace-SR003.nfs2/.cache/",
-        token="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",)
+        cache_dir=".cache/",
+        token="<hf_token>",)
     
     @classmethod
     def get_all_alias(cls, ground_truth_id: str) -> List[str]:
@@ -300,8 +300,6 @@ class WikiMultiHopQA(BaseDataset):
             shots.append(shot)
             
         return shots
-    
-    #examplars = new_style_fewshot("VityaVitalich/adaptive_rag_2wikimultihopqa", fewshot=6)
 
     
     demo_input_template = test_input_template = lambda self, ques: f'Question: {ques}\nAnswer:'
