@@ -1,16 +1,36 @@
 # This is repository for AdaRAG experiments
 
-It contains all code to reproduce [article](link) and use needed method for your purposes. Repo has a following structure
+This repository contains all code to reproduce `article` and use needed method for your purposes. Repo has a following structure:
+
 ```plain
-standard_retriver/
+data/ # all train and test dataset
+├── adaptive_rag_2wikimultihopqa/
+   ├── train.csv # train set
+   └── test.csv  # test set
+├── adaptive_rag_hotpotqa/
+   ├── train.csv # train set
+   └── test.csv  # test set
+├── adaptive_rag_musique/
+   ├── train.csv # train set
+   └── test.csv  # test set
+├── adaptive_rag_natural_questions/
+   ├── train.csv # train set
+   └── test.csv  # test set
+├── adaptive_rag_squad/
+   ├── train.csv # train set
+   └── test.csv  # test set
+├── adaptive_rag_trivia_qa/
+   ├── train.csv # train set
+   └── test.csv  # test set
+
+standard_retriver/ # unified retriever for all methods
 ├── README.md # all info about running retriever
 ├── build_wiki_index.py # python script to build and run elastic search
 └── run.sh # bash script to run retriever
 
-Method/
+Method/ # all posible method like `SeaKR`, `rowen` etc.
 ├── requirements.txt or pyproject.toml # with all needed requirements for method
-├── README.md # with all info about how to run current method
-└── requirements.txt or pyproject.toml/
+└── README.md # with all info about how to run current method
 ```
 
 To use any method and reproduce the results you need:
@@ -25,20 +45,7 @@ You can use your own retriever.
 
 # Dataset
 
-We used general datasets for evaluation with 500 sample from every dataset. It's available in huggingface by this [link](https://huggingface.co/collections/VityaVitalich/adaptive-rag-673339ce276512085b5899e7)
-
-You can load it directly with code:
-
-```python
-from datasets import load_dataset
-ds_nq = load_dataset("VityaVitalich/adaptive_rag_natural_questions")
-ds_sq = load_dataset("VityaVitalich/adaptive_rag_squad")
-ds_tq = load_dataset("VityaVitalich/adaptive_rag_trivia_qa")
-ds_hp = load_dataset("VityaVitalich/adaptive_rag_hotpotqa")
-ds_wiki = load_dataset("VityaVitalich/adaptive_rag_2wikimultihopqa")
-ds_musique = load_dataset("VityaVitalich/adaptive_rag_musique")
-```
-
+We used standard datasets (Natural Questions, HotpotQA, 2wikimultihopqa, Squad, Trivia_Q, Musique) for evaluation with 500 sample from every [dataset](./data/)
 
 # Methods
 
