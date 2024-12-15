@@ -1,5 +1,0 @@
-{"pred_answer": "The capital of France is Paris", "gt_answers": ["Paris", "The capital of France is Paris"]}
-{"pred_answer": "Paris is in France", "gt_answers": ["Paris", "France"]}
-{"pred_answer": "The Eiffel Tower is located in Paris", "gt_answers": ["Eiffel Tower is in Paris", "Paris"]}
-{"pred_answer": "Mount Everest is the highest mountain", "gt_answers": ["Mount Everest", "Everest is the highest mountain"]}
-{"pred_answer": "Python is a programming language", "gt_answers": ["Python language", "programming language", "Python is a programming language"]}
