@@ -1,7 +1,7 @@
 dataset_name: 2wiki
 retriever_port: 9200
 n_shot: 10
-model_name_or_path: VityaVitalich/Llama3.1-8b-instruct
+model_name_or_path: <model_name_or_path>
 served_model_name: llama3-7b-Instruct
 selected_intermediate_layer: 15
 eigen_alpha: 0.001

@@ -1,5 +1,3 @@
-# evaluator.py
-
 import string
 import re
 import numpy as np
