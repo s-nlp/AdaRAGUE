@@ -43,13 +43,13 @@ All info about how to run a retriever is available in [README.md](./standard_ret
 
 You can use your own retriever.
 
-# Dataset
+# Datasets
 
 We used standard datasets (Natural Questions, HotpotQA, 2wikimultihopqa, Squad, Trivia_Q, Musique) for evaluation with 500 sample from every [dataset](./data/)
 
 # Methods
 
-## Adaptive RAG
+## Adaptive RAG and IRCoT
 
 All code with our evaluator and dependencpy installation is available in Adaptive RAG folder. We slightly changed the original Adaptive repository. For running experiments with `Adaptive` and `IRCoT` use a code from [README.md](./Adaptive_Rag/README.md)
 
