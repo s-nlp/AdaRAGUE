@@ -12,7 +12,7 @@ model2api = {
     'chatgpt': 'gpt-3.5-turbo-0301',
     'gpt4': 'gpt-4-1106-preview',
     'llama2': 'meta-llama/Llama-2-7b-chat-hf',
-    'llama3': 'VityaVitalich/Llama3.1-8b-instruct'
+    'llama3': 'meta-llama/Llama-3.1-8B-Instruct'
 }
 
 def get_llm_result(prompt, chat, sample, deal_type, response_sample, model='chatgpt'):

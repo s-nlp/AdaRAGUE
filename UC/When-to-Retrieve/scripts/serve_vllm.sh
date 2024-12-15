@@ -1,5 +1,5 @@
-CUDA_VISIBLE_DEVICES=2 vllm serve VityaVitalich/Llama3.1-8b-instruct \
-	--download-dir /home/data/v.moskvoretskii/cache \
+CUDA_VISIBLE_DEVICES=2 vllm serve meta-llama/Llama-3.1-8B-Instruct \
+	--download-dir /home/data/use/cache \
 	--dtype "auto" \
 	--port 8888
 	#--trust-remote-code true
