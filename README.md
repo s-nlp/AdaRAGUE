@@ -51,7 +51,7 @@ We used standard datasets (Natural Questions, HotpotQA, 2wikimultihopqa, Squad, 
 
 ## Adaptive RAG
 
-Installatuin guide and all code guideline is available in [README.md](./Adaptive_Rag/README.md)
+All code with our evaluator and dependencpy installation is available in Adaptive RAG folder. We slightly changed the original Adaptive repository. For running experiments with `Adaptive` and `IRCoT` use a code from [README.md](./Adaptive_Rag/README.md)
 
 ## FLARE and DRAGIN
 
