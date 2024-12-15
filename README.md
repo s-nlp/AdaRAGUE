@@ -1,6 +1,6 @@
 # This is repository for AdaRAG experiments
 
-This repository contains all code to reproduce `article` and use needed method for your purposes. Repo has a following structure:
+This repository contains all code to reproduce `AdaRAG` results and use needed method for your purposes. Repo has a following structure:
 
 ```plain
 data/ # all train and test dataset
