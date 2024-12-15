@@ -4,7 +4,7 @@ import subprocess
 import argparse
 import os
 
-access_token = os.environ.get("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")
+access_token = os.environ.get("<hf_token>")
 
 from lib import (
     get_retriever_address,
