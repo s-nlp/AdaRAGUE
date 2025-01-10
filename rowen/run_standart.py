@@ -45,12 +45,12 @@ class DatasetName(Enum):
     @classmethod
     def get_full_path(cls, name):
         mapping = {
-            cls.NATURAL_QUESTIONS.value: 'adaptive_rag_natural_questions_path',
-            cls.TRIVIA_QA.value: 'adaptive_rag_trivia_qa_path',
-            cls.SQUAD.value: 'adaptive_rag_squad_path',
-            cls.WIKI_MULTIHOP_QA.value: 'adaptive_rag_2wikimultihopqa_path',
-            cls.HOTPOT_QA.value: 'adaptive_rag_hotpotqa_path',
-            cls.MUSIQUE.value: 'adaptive_rag_musique_path',
+            cls.NATURAL_QUESTIONS.value: 'VityaVitalich/adaptive_rag_natural_questions',
+            cls.TRIVIA_QA.value: 'VityaVitalich/adaptive_rag_trivia_qa',
+            cls.SQUAD.value: 'VityaVitalich/adaptive_rag_squad',
+            cls.WIKI_MULTIHOP_QA.value: 'VityaVitalich/adaptive_rag_2wikimultihopqa',
+            cls.HOTPOT_QA.value: 'VityaVitalich/adaptive_rag_hotpotqa',
+            cls.MUSIQUE.value: 'VityaVitalich/adaptive_rag_musique',
         }
         return mapping.get(name, name)
     

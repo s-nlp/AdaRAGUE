@@ -22,11 +22,28 @@ import traceback
 # openai.api_key = "YOUR OPENAI KEY"  # put your openai api key here
 # MODEL = "gpt-3.5-turbo"
 # BACKEND = 'openai'
-MODEL = "meta-llama/Llama-3.1-8B-Instruct"
-BACKEND = "vllm" #"openai"
-TEMPERATURE = 0.0
+MAIN_MODEL_NAME = os.environ.get('MAIN_MODEL_NAME', "meta-llama/Llama-3.1-8B-Instruct")
+MAIN_MODEL_BACKEND = os.environ.get('MAIN_MODEL_BACKEND', "vllm") #"openai"
+QWEN_BASE_URL = os.environ.get('QWEN_BASE_URL', "http://localhost:8000/v1")
+MAIN_MODEL_BASE_URL = os.environ.get('MAIN_MODEL_BASE_URL', "http://localhost:8001/v1")
 PROXY_URI = os.environ.get('PROXY_URI')
+TEMPERATURE = float(os.environ.get('TEMPERATURE', 0.0))
 
+def check_environ_args():
+    if MAIN_MODEL_NAME is None:
+        raise ValueError("MAIN_MODEL_NAME environment variable is not set")
+    if MAIN_MODEL_BACKEND and MAIN_MODEL_BACKEND.lower() not in ['vllm', 'openai']:
+        raise ValueError('MAIN_MODEL_BACKEND environment variable invalid; Allowed only vllm or openai')
+    if QWEN_BASE_URL is None or not re.match(r'^https?://', QWEN_BASE_URL):
+        raise ValueError("QWEN_BASE_URL environment variable is not set or is invalid")
+    if MAIN_MODEL_BASE_URL is None or not re.match(r'^https?://', MAIN_MODEL_BASE_URL):
+        raise ValueError("MAIN_MODEL_BASE_URL environment variable is not set or is invalid")
+    if PROXY_URI and not re.match(r'^(https?|socks5)://', PROXY_URI):
+        raise ValueError("PROXY_URI environment variable is invalid")
+    if MAIN_MODEL_NAME and 'llama' in MAIN_MODEL_NAME.lower() and MAIN_MODEL_BACKEND is None:
+        raise ValueError(f"MAIN_MODEL_NAME is {MAIN_MODEL_NAME} is not OpenAI but MAIN_MODEL_BACKEND for vllm not provided")
+
+check_environ_args()
 
 class Sqlite3CacheProvider(object):
     CREATE_TABLE = """
@@ -123,12 +140,12 @@ class LLMClientSingleton:
 
     @classmethod
     def get_main_llm_client(cls):
-        if BACKEND.lower() == 'vllm':
+        if MAIN_MODEL_BACKEND.lower() == 'vllm':
             return cls.get_local_llm_client()
-        elif BACKEND.lower() == 'openai':
+        elif MAIN_MODEL_BACKEND.lower() == 'openai':
             return cls.get_openai_llm_client()
         else:
-            raise ValueError(f"Invalid backend: {BACKEND}")
+            raise ValueError(f"Invalid backend: {MAIN_MODEL_BACKEND}, can be vllm or openai only")
 
     
     @classmethod
@@ -173,7 +190,7 @@ class LLMClientSingleton:
                 decorator_fn = cache_decorator(cache_provider)
                 
                 client = OpenAI(
-                    base_url="http://localhost:8000/v1",
+                    base_url=QWEN_BASE_URL,
                     api_key="EMPTY",
                 )
                 client.chat.completions.create = decorator_fn(client.chat.completions.create)
@@ -195,7 +212,7 @@ class LLMClientSingleton:
                 decorator_fn = cache_decorator(cache_provider)
                 
                 client = OpenAI(
-                    base_url="http://localhost:8001/v1",
+                    base_url=MAIN_MODEL_BASE_URL,
                     api_key="EMPTY",
                 )
                 client.chat.completions.create = decorator_fn(client.chat.completions.create)
@@ -211,7 +228,7 @@ def remove_prefix(text: str) -> str:
     return result
 
 
-def single_run(messages, retry=3, model=MODEL, n=1, temperature=TEMPERATURE):
+def single_run(messages, retry=3, model=MAIN_MODEL_NAME, n=1, temperature=TEMPERATURE):
     for _ in range(retry):
         try:
             client = LLMClientSingleton.get_main_llm_client()
@@ -274,7 +291,7 @@ def single_qwen_run(messages, model_name):
 #     return await asyncio.gather(*responses)
 
 
-async def run_api(messages, model=MODEL, retry=3, temperature=TEMPERATURE):
+async def run_api(messages, model=MAIN_MODEL_NAME, retry=3, temperature=TEMPERATURE):
     # Make api calls asynchronously
     async def single_run(message, model, retry=3, temperature=TEMPERATURE):
         for _ in range(retry):
