@@ -16,6 +16,41 @@ cd vllm_uncertainty
 pip install -e .
 ```
 
+If there any problem with building `vllm_uncertainty`:
+### Error - `Failed to detect a default CUDA architecture`.
+* check `nvcc --version`
+    if not: `conda install -c nvidia cudatoolkit=11.7`
+
+* Double-check that when you run `which nvcc` and `which ptxas`, they both point to the correct (and same) installation. If use conda:
+    `which nvcc` -> `......../miniconda3/envs/seakr/bin/nvcc`
+    `which ptxas` -> `......./miniconda3/envs/seakr/bin/ptxas`
+    if not: 
+    ```bash
+    export PATH="$CONDA_PREFIX/bin:$PATH"
+    export LD_LIBRARY_PATH="$CONDA_PREFIX/lib:$LD_LIBRARY_PATH"
+    ```
+
+* Double check that `pxtas` and `nvcc` has one version.
+    `nvcc -V`:
+    ```bash
+    nvcc: NVIDIA (R) Cuda compiler driver
+    Copyright (c) 2005-2024 NVIDIA Corporation
+    Built on Thu_Mar_28_02:18:24_PDT_2024
+    Cuda compilation tools, release 12.4, V12.4.131
+    Build cuda_12.4.r12.4/compiler.34097967_0```
+
+    `pxtas --version`:
+    ```bash
+    ptxas: NVIDIA (R) Ptx optimizing assembler
+    Copyright (c) 2005-2024 NVIDIA Corporation
+    Built on Thu_Mar_28_02:14:54_PDT_2024
+    Cuda compilation tools, release 12.4, V12.4.131
+    Build cuda_12.4.r12.4/compiler.34097967_0
+    ```
+
+* check gcc version `gcc --version`
+    if not `conda install conda-forge::gcc`
+
 ## Run SeaKR on Multihop QA
 
 For multihop QA datasets Baseline, we use the same files as [dragin](https://github.com/oneal2000/DRAGIN) and [SeaKR](https://github.com/THU-KEG/SeaKR). You can download and unzip it into the `data/multihop_data` folder. SeaKR paper provides a packed multihop data files here: [multihop_data.zip](https://drive.google.com/file/d/1xDqaPa8Kpnb95l7nHpwKWsBQUP9Ck7cn/view?usp=sharing).
