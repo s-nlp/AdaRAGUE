@@ -1,6 +1,15 @@
-# This is repository for AdaRAG experiments
+# AdaRAG Uncertanity Estimation
+<p align="center">
+   <img alt="GitHub License" src="https://img.shields.io/github/license/s-nlp/AdaRAGUE">
+   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/s-nlp/AdaRAGUE">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/s-nlp/AdaRAGUE">
+</p>
 
-This repository contains all code to reproduce `AdaRAG` results and use needed method for your purposes. Repo has a following structure:
+<p align="center">
+📃 <a href="https://arxiv.org/abs/2501.12835" target="_self">Paper</a> • 🤗 <a href="/data/" target="_self">Dataset</a>  
+</p>
+
+This repository contains all code to reproduce [Adaptive Retrieval without Self-Knowledge? Bringing Uncertainty Back Home](https://arxiv.org/abs/2501.12835) results and use needed method for your purposes. Repo has a following structure:
 
 ```plain
 data/ # all train and test dataset
