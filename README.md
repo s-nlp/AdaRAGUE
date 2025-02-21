@@ -60,20 +60,32 @@ We used standard datasets (Natural Questions, HotpotQA, 2wikimultihopqa, Squad, 
 
 ## Adaptive RAG and IRCoT
 
-All code with our evaluator and dependencpy installation is available in Adaptive RAG folder. We slightly changed the original Adaptive repository. For running experiments with `Adaptive` and `IRCoT` use a code from [README.md](./Adaptive_Rag/README.md)
+All code, including our evaluator and dependency installation, is available in the `Adaptive RAG` folder. We made slight modifications to the original Adaptive repository. To run experiments with `Adaptive` and `IRCoT`, refer to the instructions in [README.md](./Adaptive_Rag/README.md).
 
 ## FLARE and DRAGIN
 
-All code with our evaluator and dependencpy installation is available in `DRAGIN` folder. We copied the original DRAGIN repository. For running experiments with FLARE and DRAGIN use a code from DRAGIN [README.md](./dragin/README.md)
+All code, including our evaluator and dependency installation, is available in the `DRAGIN` folder. We copied the original DRAGIN repository. To run experiments with FLARE and DRAGIN, follow the instructions in the DRAGIN [README.md](./dragin/README.md).
 
 ## Rowen
 
-Install all required dependences from `rowen/pyproject.toml` and use `run.sh` to reproduce results. More details in [Rowen README.md](./rowen/README.md)
+Install all required dependencies from `rowen/pyproject.toml` and use `run.sh` to reproduce results. More details can be found in the [Rowen README.md](./rowen/README.md).
 
 ## SeaKR
 
-All code with our evaluator and dependencpy installation is available in `SeaKR` folder. We copied the original SeaKR repository and made some in `vllm_uncertainty`. For running experiments use a code from [SeaKR README.md](./SeaKR/README.md)
+All code, including our evaluator and dependency installation, is available in the `SeaKR` folder. We copied the original SeaKR repository and made some modifications in `vllm_uncertainty`. To run experiments, follow the instructions in the [SeaKR README.md](./SeaKR/README.md).
 
 ## Uncertainty Estimation Methods
 
-Install all required dependences from `UC/requirements.txt` and use scripts from `bin/*.sh` to reproduce results. More details in [UC README.md](./UC/README.md)
+Install all required dependencies from `UC/requirements.txt` and use the scripts from `bin/*.sh` to reproduce results. More details can be found in the [UC README.md](./UC/README.md).
+
+# Citation
+If you use this code or refer to ideas from our paper, please cite:
+
+```bibtex
+@article{moskvoretskii2025adaptive,
+  title={Adaptive Retrieval Without Self-Knowledge? Bringing Uncertainty Back Home},
+  author={Moskvoretskii, Viktor and Lysyuk, Maria and Salnikov, Mikhail and Ivanov, Nikolay and Pletenev, Sergey and Galimzianova, Daria and Krayko, Nikita and Konovalov, Vasily and Nikishina, Irina and Panchenko, Alexander},
+  journal={arXiv preprint arXiv:2501.12835},
+  year={2025}
+}
+```
